@@ -5,13 +5,39 @@
     <van-cell-group inset style="margin: 12px" title="审核管理">
       <van-cell title="待审核成员" icon="user-o" is-link to="/committee/members/pending">
         <template #value>
-          <van-badge :content="pendingCount" v-if="pendingCount > 0">
+          <van-badge :content="pendingCounts.members" v-if="pendingCounts.members > 0">
             <span></span>
           </van-badge>
         </template>
       </van-cell>
-      <van-cell title="待审核故事" icon="comment-o" is-link />
-      <van-cell title="待审核照片" icon="photo-o" is-link />
+      <van-cell title="待审核故事" icon="comment-o" is-link to="/committee/stories">
+        <template #value>
+          <van-badge :content="pendingCounts.stories" v-if="pendingCounts.stories > 0">
+            <span></span>
+          </van-badge>
+        </template>
+      </van-cell>
+      <van-cell title="待审核照片" icon="photo-o" is-link to="/committee/photos">
+        <template #value>
+          <van-badge :content="pendingCounts.photos" v-if="pendingCounts.photos > 0">
+            <span></span>
+          </van-badge>
+        </template>
+      </van-cell>
+      <van-cell title="待审核大事记" icon="clock-o" is-link to="/committee/events">
+        <template #value>
+          <van-badge :content="pendingCounts.events" v-if="pendingCounts.events > 0">
+            <span></span>
+          </van-badge>
+        </template>
+      </van-cell>
+      <van-cell title="待审核赞助" icon="gold-coin-o" is-link to="/committee/sponsors">
+        <template #value>
+          <van-badge :content="pendingCounts.sponsors" v-if="pendingCounts.sponsors > 0">
+            <span></span>
+          </van-badge>
+        </template>
+      </van-cell>
     </van-cell-group>
     
     <van-cell-group inset style="margin: 12px" title="内容管理">
@@ -35,11 +61,18 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, reactive, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 
 const router = useRouter()
-const pendingCount = ref(3)
+
+const pendingCounts = reactive({
+  members: 3,
+  stories: 2,
+  photos: 1,
+  events: 2,
+  sponsors: 1
+})
 
 function back() {
   router.back()

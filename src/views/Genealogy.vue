@@ -2,9 +2,54 @@
   <div class="genealogy">
     <van-nav-bar :title="familyName" left-arrow @click-left="back">
       <template #right>
+        <van-icon name="search" size="20" @click="showSearch = true" style="margin-right: 12px" />
         <van-icon name="wap-nav" size="20" @click="showMenu = true" />
       </template>
     </van-nav-bar>
+    
+    <!-- 搜索弹窗 -->
+    <van-popup v-model:show="showSearch" position="top" style="height: 100%">
+      <van-search v-model="searchKeyword" placeholder="搜索成员、故事、大事记..." show-action @search="onSearch" @cancel="showSearch = false">
+        <template #action>
+          <div @click="showSearch = false">取消</div>
+        </template>
+      </van-search>
+      
+      <div class="search-result" v-if="searchKeyword">
+        <van-tabs v-model:active="searchTab">
+          <van-tab title="成员">
+            <van-cell-group inset>
+              <van-cell v-for="member in searchResults.members" :key="member.id" :title="member.name" :label="member.generation" is-link @click="goMember(member.id)">
+                <template #icon>
+                  <van-icon name="user-o" size="20" style="margin-right: 8px" />
+                </template>
+              </van-cell>
+              <van-empty v-if="searchResults.members.length === 0" description="未找到成员" />
+            </van-cell-group>
+          </van-tab>
+          <van-tab title="故事">
+            <van-cell-group inset>
+              <van-cell v-for="story in searchResults.stories" :key="story.id" :title="story.title" :label="story.author" is-link @click="goStory(story.id)">
+                <template #icon>
+                  <van-icon name="comment-o" size="20" style="margin-right: 8px" />
+                </template>
+              </van-cell>
+              <van-empty v-if="searchResults.stories.length === 0" description="未找到故事" />
+            </van-cell-group>
+          </van-tab>
+          <van-tab title="大事记">
+            <van-cell-group inset>
+              <van-cell v-for="event in searchResults.events" :key="event.id" :title="event.title" :label="event.date" is-link @click="goEvent(event.id)">
+                <template #icon>
+                  <van-icon name="clock-o" size="20" style="margin-right: 8px" />
+                </template>
+              </van-cell>
+              <van-empty v-if="searchResults.events.length === 0" description="未找到大事记" />
+            </van-cell-group>
+          </van-tab>
+        </van-tabs>
+      </div>
+    </van-popup>
     
     <div class="cover">
       <div class="cover-inner">

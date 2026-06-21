@@ -38,7 +38,10 @@ const routes = [
   { path: '/committee', component: () => import('./views/Committee.vue') },
   { path: '/committee/members', component: () => import('./views/CommitteeMembers.vue') },
   { path: '/committee/members/pending', component: () => import('./views/CommitteePending.vue') },
-  { path: '/export', component: () => import('./views/ExportCenter.vue') }
+  { path: '/committee/stories', component: () => import('./views/CommitteeStories.vue') },
+  { path: '/committee/photos', component: () => import('./views/CommitteePhotos.vue') },
+  { path: '/committee/events', component: () => import('./views/CommitteeEvents.vue') },
+  { path: '/committee/sponsors', component: () => import('./views/CommitteeSponsors.vue') }
 ]
 
 const router = createRouter({

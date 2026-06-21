@@ -1,120 +1,144 @@
 <template>
   <div class="reader">
-    <van-nav-bar :title="title" left-arrow @click-left="back">
-      <template #right>
-        <van-icon name="bars" size="20" @click="showToolbar = !showToolbar" />
-      </template>
-    </van-nav-bar>
+    <van-nav-bar :title="title" left-arrow @click-left="back" fixed />
     
-    <div class="reader-content" ref="readerRef">
+    <div class="reader-content">
       <!-- PDF -->
-      <canvas v-if="type === 'pdf'" ref="pdfCanvas" class="pdf-canvas" />
+      <vue-office-pdf
+        v-if="fileType === 'pdf'"
+        :src="fileUrl"
+        style="height: 100%"
+        @rendered="onRendered"
+        @error="onError"
+      />
+      
+      <!-- DOCX -->
+      <vue-office-docx
+        v-else-if="fileType === 'docx'"
+        :src="fileUrl"
+        style="height: 100%"
+        @rendered="onRendered"
+        @error="onError"
+      />
+      
+      <!-- XLSX / XLS -->
+      <vue-office-excel
+        v-else-if="['xlsx', 'xls'].includes(fileType)"
+        :src="fileUrl"
+        style="height: 100%"
+        @rendered="onRendered"
+        @error="onError"
+      />
+      
+      <!-- PPTX -->
+      <vue-office-pptx
+        v-else-if="fileType === 'pptx'"
+        :src="fileUrl"
+        style="height: 100%"
+        @rendered="onRendered"
+        @error="onError"
+      />
+      
+      <!-- EPUB / MOBI / 其他 - 用vue-book-reader -->
+      <VueReader
+        v-else-if="['epub', 'mobi', 'azw3', 'fb2', 'cbz'].includes(fileType)"
+        :url="fileUrl"
+        :title="title"
+        @tocChanged="onTocChanged"
+      >
+        <template #loadingView>
+          <div class="loading-center">
+            <van-loading size="24px">加载中...</van-loading>
+          </div>
+        </template>
+        <template #errorView>
+          <div class="error-center">
+            <van-icon name="warning-o" size="48" />
+            <p>加载失败</p>
+            <van-button size="small" @click="back">返回</van-button>
+          </div>
+        </template>
+      </VueReader>
       
       <!-- 图片 -->
-      <img v-else-if="['jpg', 'jpeg', 'png'].includes(type)" :src="fileUrl" class="image-view" />
+      <div v-else-if="['jpg', 'jpeg', 'png', 'gif', 'webp'].includes(fileType)" class="image-viewer">
+        <van-image :src="fileUrl" fit="contain" width="100%" height="100%">
+          <template v-slot:loading>
+            <van-loading size="24px">加载中...</van-loading>
+          </template>
+          <template v-slot:error>
+            <div class="error-center">
+              <van-icon name="warning-o" size="48" />
+              <p>加载失败</p>
+            </div>
+          </template>
+        </van-image>
+      </div>
       
-      <!-- 其他 -->
-      <van-empty v-else description="不支持此格式" />
+      <!-- 不支持的格式 -->
+      <div v-else class="error-center">
+        <van-icon name="info-o" size="48" />
+        <p>暂不支持此格式</p>
+        <p class="format-info">{{ fileType?.toUpperCase() }}</p>
+        <van-button size="small" @click="back">返回</van-button>
+      </div>
     </div>
     
-    <!-- 工具栏 -->
-    <van-popup v-model:show="showToolbar" position="bottom" round>
-      <van-cell-group inset>
-        <van-cell title="页码" v-if="type === 'pdf'" :value="`${currentPage} / ${totalPages}`" />
-        <van-cell v-if="type === 'pdf'">
-          <template #title>页面</template>
-          <van-slider v-model="currentPage" :min="1" :max="totalPages" @change="renderPdfPage" />
-        </van-cell>
-        <van-cell v-if="['jpg', 'jpeg', 'png'].includes(type)">
-          <template #title>缩放</template>
-          <van-slider v-model="zoomLevel" :min="50" :max="200" />
-        </van-cell>
-      </van-cell-group>
-    </van-popup>
-    
-    <!-- 翻页按钮 -->
-    <van-action-bar v-if="type === 'pdf'">
-      <van-action-bar-button text="上一页" @click="prevPage" :disabled="currentPage <= 1" />
-      <van-action-bar-button type="primary" text="下一页" @click="nextPage" :disabled="currentPage >= totalPages" />
-    </van-action-bar>
+    <!-- 加载提示 -->
+    <van-loading v-if="loading" class="loading-overlay" size="24px">加载中...</van-loading>
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { showToast } from 'vant'
-import * as pdfjsLib from 'pdfjs-dist'
 
-pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://unpkg.com/pdfjs-dist@4.4.168/build/pdf.worker.min.mjs'
+// vue-office 组件
+import VueOfficePdf from '@vue-office/pdf'
+import VueOfficeDocx from '@vue-office/docx'
+import VueOfficeExcel from '@vue-office/excel'
+import VueOfficePptx from '@vue-office/pptx'
+
+// 样式
+import '@vue-office/docx/lib/index.css'
+import '@vue-office/excel/lib/index.css'
+
+// vue-book-reader
+import { VueReader } from 'vue-book-reader'
 
 const route = useRoute()
 const router = useRouter()
 
-const title = route.query.title || '阅读'
+const title = decodeURIComponent(route.query.title || '阅读')
 const fileUrl = route.query.url
-const type = route.query.type
+const fileType = route.query.type?.toLowerCase()
 
-const showToolbar = ref(false)
-const readerRef = ref(null)
-const pdfCanvas = ref(null)
-const pdfDoc = ref(null)
-const currentPage = ref(1)
-const totalPages = ref(0)
-const zoomLevel = ref(100)
+const loading = ref(true)
 
 function back() {
   router.back()
 }
 
-async function loadPdf() {
-  if (!fileUrl) return
-  
-  try {
-    pdfDoc.value = await pdfjsLib.getDocument(fileUrl).promise
-    totalPages.value = pdfDoc.value.numPages
-    await renderPdfPage(1)
-  } catch (e) {
-    showToast('加载PDF失败')
-    console.error(e)
-  }
+function onRendered() {
+  loading.value = false
+  console.log('渲染完成')
 }
 
-async function renderPdfPage(page) {
-  if (!pdfDoc.value || !pdfCanvas.value) return
-  
-  const pageNum = typeof page === 'number' ? page : currentPage.value
-  const pageObj = await pdfDoc.value.getPage(pageNum)
-  const viewport = pageObj.getViewport({ scale: 1.5 })
-  
-  const canvas = pdfCanvas.value
-  const context = canvas.getContext('2d')
-  canvas.width = viewport.width
-  canvas.height = viewport.height
-  
-  await pageObj.render({
-    canvasContext: context,
-    viewport: viewport
-  }).promise
+function onError(e) {
+  loading.value = false
+  showToast('加载失败')
+  console.error('渲染错误:', e)
 }
 
-async function prevPage() {
-  if (currentPage.value > 1) {
-    currentPage.value--
-    await renderPdfPage(currentPage.value)
-  }
-}
-
-async function nextPage() {
-  if (currentPage.value < totalPages.value) {
-    currentPage.value++
-    await renderPdfPage(currentPage.value)
-  }
+function onTocChanged(toc) {
+  console.log('目录:', toc)
 }
 
 onMounted(() => {
-  if (type === 'pdf') {
-    loadPdf()
+  if (!fileUrl) {
+    showToast('文件地址无效')
+    loading.value = false
   }
 })
 </script>
@@ -122,21 +146,53 @@ onMounted(() => {
 <style scoped>
 .reader {
   height: 100vh;
-  background: #f7f8fa;
-}
-.reader-content {
-  height: calc(100vh - 46px - 50px);
-  overflow: auto;
   display: flex;
+  flex-direction: column;
+  background: #f5f5f5;
+}
+
+.reader-content {
+  flex: 1;
+  overflow: auto;
+  margin-top: 46px;
+  height: calc(100vh - 46px);
+}
+
+.image-viewer {
+  display: flex;
+  align-items: center;
   justify-content: center;
-  align-items: flex-start;
-  padding: 16px;
+  height: 100%;
+  background: #000;
 }
-.pdf-canvas {
-  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+
+.loading-center,
+.error-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 12px;
+  color: #999;
 }
-.image-view {
-  max-width: 100%;
+
+.format-info {
+  font-size: 14px;
+  color: #666;
+  padding: 4px 12px;
+  background: #eee;
   border-radius: 4px;
+}
+
+.loading-overlay {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 8px;
+  color: #fff;
 }
 </style>

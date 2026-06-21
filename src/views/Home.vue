@@ -10,6 +10,15 @@
         @load="loadData"
       >
         <van-cell-group inset style="margin: 12px">
+          <!-- 创建家谱入口 -->
+          <van-cell title="创建家谱" label="新建一个家族家谱" is-link @click="showCreate = true">
+            <template #icon>
+              <div class="create-icon">
+                <van-icon name="plus" size="20" color="#667eea" />
+              </div>
+            </template>
+          </van-cell>
+          
           <van-cell
             v-for="family in families"
             :key="family.id"
@@ -19,7 +28,7 @@
             @click="goFamily(family.id)"
           >
             <template #icon>
-              <van-icon name="cluster" size="20" style="margin-right: 8px" />
+              <van-icon name="cluster" size="20" style="margin-right: 8px; color: #667eea" />
             </template>
             <template #value>
               <van-tag type="primary">{{ family.member_count || 0 }}人</van-tag>
@@ -27,11 +36,9 @@
           </van-cell>
         </van-cell-group>
         
-        <van-empty v-if="!loading && families.length === 0" description="暂无家族" />
+        <van-empty v-if="!loading && families.length === 0" description="暂无家族，点击上方创建" />
       </van-list>
     </van-pull-refresh>
-    
-    <van-floating-bubble icon="plus" @click="showCreate = true" />
     
     <van-popup v-model:show="showCreate" position="bottom" round style="height: 60%">
       <van-cell-group inset style="margin: 16px">
@@ -47,7 +54,8 @@
     
     <van-tabbar v-model="activeTab">
       <van-tabbar-item icon="home-o">首页</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">图书</van-tabbar-item>
+      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
+      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
       <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
     </van-tabbar>
   </div>
@@ -110,5 +118,15 @@ async function createFamily() {
 <style scoped>
 .home {
   padding-bottom: 50px;
+}
+.create-icon {
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
 }
 </style>

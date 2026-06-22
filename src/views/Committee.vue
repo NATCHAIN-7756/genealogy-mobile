@@ -1,6 +1,6 @@
 <template>
   <div class="committee">
-    <van-nav-bar title="组委会" left-arrow @click-left="back" />
+    <van-nav-bar title="族委会" left-arrow @click-left="back" />
     
     <van-grid :column-num="3" :gutter="12" style="padding: 12px">
       <van-grid-item icon="friends-o" text="成员管理" to="/committee/members" />

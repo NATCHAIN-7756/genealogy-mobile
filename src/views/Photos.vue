@@ -14,7 +14,7 @@
     </van-tabs>
     
     <van-grid :column-num="2" :gutter="12" style="padding: 12px">
-      <van-grid-item v-for="photo in photos" :key="photo.id" @click="goPhoto(photo)">
+      <van-grid-item v-for="photo in photos" :key="photo.id" @click="previewPhoto(photo)">
         <van-image :src="photo.url" fit="cover" width="100%" height="150" radius="8" />
         <div class="photo-title">{{ photo.title }}</div>
       </van-grid-item>
@@ -27,11 +27,22 @@
         <van-cell title="上传照片" />
         <van-field v-model="newPhoto.title" label="标题" placeholder="照片说明" />
         <van-field v-model="newPhoto.url" label="图片URL" placeholder="请输入图片地址" />
+        <van-cell title="分类">
+          <template #value>
+            <van-radio-group v-model="newPhoto.category" direction="horizontal">
+              <van-radio name="全家福">全家福</van-radio>
+              <van-radio name="老照片">老照片</van-radio>
+              <van-radio name="活动">活动</van-radio>
+            </van-radio-group>
+          </template>
+        </van-cell>
         <div style="padding: 16px">
           <van-button type="primary" block @click="uploadPhoto">上传</van-button>
         </div>
       </van-cell-group>
     </van-popup>
+    
+    <van-image-preview v-model:show="showPreview" :images="previewImages" :start-position="previewIndex" />
     
     <van-tabbar v-model="activeTabbar">
       <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
@@ -54,23 +65,35 @@ const familyId = route.params.id
 const activeTab = ref(0)
 const activeTabbar = ref(1)
 const showUpload = ref(false)
+const showPreview = ref(false)
+const previewIndex = ref(0)
 const photos = ref([])
-const newPhoto = ref({ title: '', url: '' })
+const newPhoto = ref({ title: '', url: '', category: '全家福' })
 
 const token = localStorage.getItem('token')
 
 function back() { router.back() }
-function goPhoto(photo) { router.push(`/family/${familyId}/album/${photo.id}`) }
+
+function previewPhoto(photo) {
+  previewIndex.value = photos.value.findIndex(p => p.id === photo.id)
+  showPreview.value = true
+}
+
+const previewImages = ref([])
 
 async function loadPhotos() {
   try {
-    // 照片接口暂未实现，使用模拟数据
-    photos.value = [
-      { id: 1, title: '1980年全家福', url: 'https://via.placeholder.com/300x200?text=全家福' },
-      { id: 2, title: '爷爷年轻照', url: 'https://via.placeholder.com/300x200?text=爷爷' },
-      { id: 3, title: '家族聚会', url: 'https://via.placeholder.com/300x200?text=聚会' }
-    ]
+    const categories = ['全部', '全家福', '老照片', '活动']
+    const category = categories[activeTab.value]
+    
+    const res = await axios.get(`http://45.207.215.95/api/photos/family/${familyId}`, {
+      params: { category },
+      headers: { Authorization: `Bearer ${token}` }
+    })
+    photos.value = res.data
+    previewImages.value = photos.value.map(p => p.url)
   } catch (e) {
+    console.error('加载失败:', e)
     showToast('加载失败')
   }
 }
@@ -80,13 +103,21 @@ async function uploadPhoto() {
     showToast('请输入图片地址')
     return
   }
-  showToast('上传成功')
-  showUpload.value = false
-  photos.value.unshift({ id: Date.now(), title: newPhoto.value.title || '新照片', url: newPhoto.value.url })
-  newPhoto.value = { title: '', url: '' }
+  try {
+    await axios.post(`http://45.207.215.95/api/photos/family/${familyId}`, newPhoto.value, {
+      headers: { Authorization: `Bearer ${token}` }
+    })
+    showToast('上传成功')
+    showUpload.value = false
+    newPhoto.value = { title: '', url: '', category: '全家福' }
+    loadPhotos()
+  } catch (e) {
+    console.error('上传失败:', e)
+    showToast('上传失败')
+  }
 }
 
-onMounted(() => { loadPhotos() })
+onMounted(() => loadPhotos())
 </script>
 
 <style scoped>

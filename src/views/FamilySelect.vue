@@ -35,7 +35,7 @@
 import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { showToast } from 'vant'
-import { familyApi } from '../api'
+import axios from 'axios'
 
 const router = useRouter()
 const activeTabbar = ref(1)
@@ -43,28 +43,27 @@ const families = ref([])
 
 async function loadFamilies() {
   try {
-    const res = await familyApi.list()
+    const token = localStorage.getItem('token')
+    const res = await axios.get('http://45.207.215.95/api/families', {
+      headers: { Authorization: `Bearer ${token}` }
+    })
     families.value = res.data
-    // 如果只有一个家族，直接跳转
     if (res.data.length === 1) {
-      router.replace()
+      router.replace(`/family/${res.data[0].id}`)
     }
   } catch (e) {
+    console.error('加载失败:', e)
     showToast('加载失败')
   }
 }
 
 function goFamily(family) {
-  router.push()
+  router.push(`/family/${family.id}`)
 }
 
-onMounted(() => {
-  loadFamilies()
-})
+onMounted(() => loadFamilies())
 </script>
 
 <style scoped>
-.family-select {
-  padding-bottom: 50px;
-}
+.family-select { padding-bottom: 50px; }
 </style>

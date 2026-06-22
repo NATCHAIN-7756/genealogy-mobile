@@ -1,55 +1,40 @@
 <template>
   <div class="family-detail">
-    <van-nav-bar :title="familyInfo.name" left-arrow @click-left="back">
-      <template #right>
-        <van-icon name="edit" size="20" @click="editFamily" />
-      </template>
-    </van-nav-bar>
+    <van-nav-bar title="家庭详情" left-arrow @click-left="back" />
     
-    <!-- 家庭信息卡片 -->
-    <van-cell-group inset style="margin: 12px" title="家庭信息">
-      <van-cell title="户主" :value="familyInfo.head_name" />
-      <van-cell title="世代" :value="`第${familyInfo.generation || '?'}代`" />
-      <van-cell title="现居地" :value="familyInfo.address || '未设置'" />
-      <van-cell title="家庭成员" :value="`${familyInfo.member_count || 0}人`" />
-      <van-cell title="联系方式" :value="familyInfo.phone || '未设置'" />
-    </van-cell-group>
-    
-    <!-- 成员列表 -->
-    <van-cell-group inset style="margin: 12px" title="成员列表">
-      <van-cell 
-        v-for="member in members"
-        :key="member.id"
-        is-link
-        @click="goMemberCard(member)"
-      >
+    <van-cell-group inset style="margin: 12px" v-if="family">
+      <van-cell center>
+        <template #icon>
+          <van-icon name="home-o" size="24" style="margin-right: 12px; color: #1989fa" />
+        </template>
         <template #title>
-          <div class="member-name">
-            {{ member.name }}
-            <van-tag v-if="member.relation" size="small" type="primary">{{ member.relation }}</van-tag>
-          </div>
+          <div class="family-name">{{ family.name }}</div>
         </template>
         <template #label>
-          <div class="member-info">
-            <span v-if="member.gender">{{ member.gender }}</span>
-            <span v-if="member.age">{{ member.age }}岁</span>
-            <span v-if="member.occupation">{{ member.occupation }}</span>
-          </div>
+          <div class="family-info">第{{ family.generation }}代 · {{ family.member_count || 0 }}人</div>
         </template>
+      </van-cell>
+      
+      <van-cell title="地址" :value="family.address || '未设置'" icon="location-o" />
+      <van-cell title="电话" :value="family.phone || '未设置'" icon="phone-o" />
+    </van-cell-group>
+    
+    <van-cell-group inset style="margin: 12px" title="家庭成员">
+      <van-cell v-for="member in members" :key="member.id" is-link @click="goMember(member)">
         <template #icon>
-          <van-image 
-            round 
-            width="40" 
-            height="40" 
-            style="margin-right: 12px; background: #e8f3ff; display: flex; align-items: center; justify-content: center;"
-          >
-            <span style="font-size: 16px; color: #1989fa">{{ member.name?.charAt(0) }}</span>
-          </van-image>
+          <van-icon name="user-o" size="20" style="margin-right: 8px" />
+        </template>
+        <template #title>
+          <span>{{ member.name }}</span>
+          <van-tag v-if="member.is_head" type="primary" size="small">户主</van-tag>
+        </template>
+        <template #label>
+          <span>{{ member.relation || '成员' }} · {{ member.birth_date || '' }}</span>
         </template>
       </van-cell>
     </van-cell-group>
     
-    <van-empty v-if="members.length === 0" description="暂无成员" />
+    <van-empty v-if="!family" description="家庭不存在" />
     
     <van-tabbar v-model="activeTabbar">
       <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
@@ -64,78 +49,48 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
+import axios from 'axios'
 
 const router = useRouter()
 const route = useRoute()
 const familyId = route.params.id
 const householdId = route.params.householdId
 const activeTabbar = ref(1)
-
-const familyInfo = ref({
-  name: '加载中...',
-  head_name: '',
-  generation: null,
-  address: '',
-  member_count: 0,
-  phone: ''
-})
-
+const family = ref(null)
 const members = ref([])
 
-function back() {
-  router.back()
-}
+const token = localStorage.getItem('token')
 
-function editFamily() {
-  showToast('编辑功能开发中')
-}
+function back() { router.back() }
+function goMember(member) { router.push(`/member/${member.id}`) }
 
-function goMemberCard(member) {
-  router.push(`/family/${familyId}/member/${member.id}/card`)
-}
-
-async function loadFamilyDetail() {
-  // 模拟数据（后续对接API）
-  familyInfo.value = {
-    name: '张三家庭',
-    head_name: '张三',
-    generation: 15,
-    address: '北京市朝阳区',
-    member_count: 4,
-    phone: '138****1234'
+async function loadFamily() {
+  try {
+    const res = await axios.get(`http://45.207.215.95/api/members/family/${familyId}`, {
+      headers: { Authorization: `Bearer ${token}` }
+    })
+    members.value = res.data
+    if (res.data.length > 0) {
+      const head = res.data.find(m => m.is_head) || res.data[0]
+      family.value = {
+        name: head.name + '家庭',
+        generation: head.generation,
+        member_count: res.data.length,
+        address: head.address || '',
+        phone: head.phone || ''
+      }
+    }
+  } catch (e) {
+    console.error('加载失败:', e)
+    showToast('加载失败')
   }
-  
-  members.value = [
-    { id: 1, name: '张三', gender: '男', age: 45, relation: '户主', occupation: '工程师' },
-    { id: 2, name: '李四', gender: '女', age: 43, relation: '配偶', occupation: '教师' },
-    { id: 3, name: '张小明', gender: '男', age: 18, relation: '子', occupation: '学生' },
-    { id: 4, name: '张小红', gender: '女', age: 15, relation: '女', occupation: '学生' }
-  ]
 }
 
-onMounted(() => {
-  loadFamilyDetail()
-})
+onMounted(() => { loadFamily() })
 </script>
 
 <style scoped>
-.family-detail {
-  padding-bottom: 50px;
-  background: #f5f5f5;
-  min-height: 100vh;
-}
-
-.member-name {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.member-info {
-  display: flex;
-  gap: 12px;
-  margin-top: 4px;
-  font-size: 12px;
-  color: #999;
-}
+.family-detail { padding-bottom: 50px; background: #f5f5f5; min-height: 100vh; }
+.family-name { font-size: 18px; font-weight: 500; }
+.family-info { font-size: 12px; color: #999; margin-top: 4px; }
 </style>

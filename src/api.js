@@ -7,6 +7,36 @@ const api = axios.create({
   timeout: 10000
 })
 
+// ==================== 认证模块 ====================
+export const authApi = {
+  login: (phone, password) => api.post('/auth/login', { phone, password }),
+  getMe: () => api.get('/auth/me'),
+  logout: () => { localStorage.removeItem('token'); localStorage.removeItem('user'); }
+}
+
+// 请求拦截器 - 自动携带token
+api.interceptors.request.use(config => {
+  const token = localStorage.getItem('token')
+  if (token) config.headers.Authorization = 'Bearer ' + token
+  return config
+})
+
+// 响应拦截器 - 处理401错误自动跳转登录
+api.interceptors.response.use(
+  response => response,
+  error => {
+    if (error.response && error.response.status === 401) {
+      localStorage.removeItem('token')
+      localStorage.removeItem('user')
+      // 如果不在登录页，跳转到登录页
+      if (!window.location.pathname.includes('/login')) {
+        window.location.href = '/m/login'
+      }
+    }
+    return Promise.reject(error)
+  }
+)
+
 export const familyApi = {
   list: () => api.get('/families'),
   get: (id) => api.get(`/families/${id}`),

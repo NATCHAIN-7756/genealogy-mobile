@@ -1,9 +1,10 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
-  { path: '/', component: () => import('./views/Home.vue') },
-  { path: '/family', component: () => import('./views/FamilySelect.vue') },
-  { path: '/family/:id', component: () => import('./views/Genealogy.vue') },
+  { path: '/login', name: 'Login', component: () => import('./views/Login.vue') },
+  { path: '/', name: 'Home', component: () => import('./views/Home.vue') },
+  { path: '/family', name: 'Family', component: () => import('./views/FamilySelect.vue') },
+  { path: '/family/:id', name: 'Genealogy', component: () => import('./views/Genealogy.vue') },
   { path: '/family/:id/preface', component: () => import('./views/Preface.vue') },
   { path: '/family/:id/legend', component: () => import('./views/Legend.vue') },
   { path: '/family/:id/overview', component: () => import('./views/Overview.vue') },
@@ -29,7 +30,7 @@ const routes = [
   { path: '/tree/:id', component: () => import('./views/Tree.vue') },
   { path: '/books', component: () => import('./views/Books.vue') },
   { path: '/books/:id', component: () => import('./views/BookReader.vue') },
-  { path: '/profile', component: () => import('./views/Profile.vue') },
+  { path: '/profile', name: 'Profile', component: () => import('./views/Profile.vue') },
   { path: '/infocard', component: () => import('./views/InfoCard.vue') },
   { path: '/my-submissions', component: () => import('./views/MySubmissions.vue') },
   { path: '/my-submissions/:chapterId/new', component: () => import('./views/SubmissionEdit.vue') },

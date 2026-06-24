@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511132100",
+      "name": "沙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/沙坪镇"
+    },
+    {
+      "code": "511132101",
+      "name": "大堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/大堡镇"
+    },
+    {
+      "code": "511132102",
+      "name": "毛坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/毛坪镇"
+    },
+    {
+      "code": "511132103",
+      "name": "五渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/五渡镇"
+    },
+    {
+      "code": "511132104",
+      "name": "新林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/新林镇"
+    },
+    {
+      "code": "511132105",
+      "name": "黑竹沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/黑竹沟镇"
+    },
+    {
+      "code": "511132106",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/红旗镇"
+    },
+    {
+      "code": "511132201",
+      "name": "宜坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/宜坪乡"
+    },
+    {
+      "code": "511132206",
+      "name": "杨河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/杨河乡"
+    },
+    {
+      "code": "511132208",
+      "name": "新场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/新场乡"
+    },
+    {
+      "code": "511132209",
+      "name": "平等乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/平等乡"
+    },
+    {
+      "code": "511132211",
+      "name": "金岩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/金岩乡"
+    },
+    {
+      "code": "511132212",
+      "name": "勒乌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511132",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨边彝族自治县/勒乌乡"
+    }
+  ]
+}

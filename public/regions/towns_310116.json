@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "310116001",
+      "name": "石化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/石化街道"
+    },
+    {
+      "code": "310116101",
+      "name": "朱泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/朱泾镇"
+    },
+    {
+      "code": "310116102",
+      "name": "枫泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/枫泾镇"
+    },
+    {
+      "code": "310116103",
+      "name": "张堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/张堰镇"
+    },
+    {
+      "code": "310116104",
+      "name": "亭林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/亭林镇"
+    },
+    {
+      "code": "310116105",
+      "name": "吕巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/吕巷镇"
+    },
+    {
+      "code": "310116107",
+      "name": "廊下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/廊下镇"
+    },
+    {
+      "code": "310116109",
+      "name": "金山卫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/金山卫镇"
+    },
+    {
+      "code": "310116112",
+      "name": "漕泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/漕泾镇"
+    },
+    {
+      "code": "310116113",
+      "name": "山阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310116",
+      "year": 0,
+      "name_path": "上海市/金山区/山阳镇"
+    }
+  ]
+}

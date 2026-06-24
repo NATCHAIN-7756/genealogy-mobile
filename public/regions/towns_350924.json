@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "350924100",
+      "name": "鳌阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/鳌阳镇"
+    },
+    {
+      "code": "350924101",
+      "name": "斜滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/斜滩镇"
+    },
+    {
+      "code": "350924102",
+      "name": "南阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/南阳镇"
+    },
+    {
+      "code": "350924103",
+      "name": "武曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/武曲镇"
+    },
+    {
+      "code": "350924104",
+      "name": "犀溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/犀溪镇"
+    },
+    {
+      "code": "350924105",
+      "name": "平溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/平溪镇"
+    },
+    {
+      "code": "350924106",
+      "name": "凤阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/凤阳镇"
+    },
+    {
+      "code": "350924107",
+      "name": "清源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/清源镇"
+    },
+    {
+      "code": "350924200",
+      "name": "大安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/大安乡"
+    },
+    {
+      "code": "350924201",
+      "name": "坑底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/坑底乡"
+    },
+    {
+      "code": "350924203",
+      "name": "竹管垅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/竹管垅乡"
+    },
+    {
+      "code": "350924205",
+      "name": "芹洋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/芹洋乡"
+    },
+    {
+      "code": "350924206",
+      "name": "托溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/托溪乡"
+    },
+    {
+      "code": "350924209",
+      "name": "下党乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350924",
+      "year": 0,
+      "name_path": "福建省/宁德市/寿宁县/下党乡"
+    }
+  ]
+}

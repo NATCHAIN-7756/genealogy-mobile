@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511802001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/东城街道"
+    },
+    {
+      "code": "511802002",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/西城街道"
+    },
+    {
+      "code": "511802003",
+      "name": "河北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/河北街道"
+    },
+    {
+      "code": "511802004",
+      "name": "青江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/青江街道"
+    },
+    {
+      "code": "511802005",
+      "name": "大兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/大兴街道"
+    },
+    {
+      "code": "511802101",
+      "name": "草坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/草坝镇"
+    },
+    {
+      "code": "511802107",
+      "name": "上里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/上里镇"
+    },
+    {
+      "code": "511802109",
+      "name": "晏场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/晏场镇"
+    },
+    {
+      "code": "511802110",
+      "name": "多营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/多营镇"
+    },
+    {
+      "code": "511802111",
+      "name": "碧峰峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/碧峰峡镇"
+    },
+    {
+      "code": "511802112",
+      "name": "望鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/望鱼镇"
+    },
+    {
+      "code": "511802113",
+      "name": "周公山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/周公山镇"
+    },
+    {
+      "code": "511802114",
+      "name": "八步镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511802",
+      "year": 0,
+      "name_path": "四川省/雅安市/雨城区/八步镇"
+    }
+  ]
+}

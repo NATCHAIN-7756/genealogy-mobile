@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "532525100",
+      "name": "异龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/异龙镇"
+    },
+    {
+      "code": "532525101",
+      "name": "宝秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/宝秀镇"
+    },
+    {
+      "code": "532525102",
+      "name": "坝心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/坝心镇"
+    },
+    {
+      "code": "532525103",
+      "name": "龙朋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/龙朋镇"
+    },
+    {
+      "code": "532525106",
+      "name": "龙武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/龙武镇"
+    },
+    {
+      "code": "532525107",
+      "name": "哨冲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/哨冲镇"
+    },
+    {
+      "code": "532525108",
+      "name": "牛街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/牛街镇"
+    },
+    {
+      "code": "532525200",
+      "name": "新城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/新城乡"
+    },
+    {
+      "code": "532525202",
+      "name": "大桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532525",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/石屏县/大桥乡"
+    }
+  ]
+}

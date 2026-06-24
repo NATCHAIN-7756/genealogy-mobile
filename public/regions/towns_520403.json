@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "520403001",
+      "name": "鼓楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/鼓楼街道"
+    },
+    {
+      "code": "520403002",
+      "name": "安平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/安平街道"
+    },
+    {
+      "code": "520403100",
+      "name": "白云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/白云镇"
+    },
+    {
+      "code": "520403101",
+      "name": "天龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/天龙镇"
+    },
+    {
+      "code": "520403102",
+      "name": "夏云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/夏云镇"
+    },
+    {
+      "code": "520403103",
+      "name": "乐平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/乐平镇"
+    },
+    {
+      "code": "520403104",
+      "name": "齐伯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/齐伯镇"
+    },
+    {
+      "code": "520403105",
+      "name": "高峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/高峰镇"
+    },
+    {
+      "code": "520403106",
+      "name": "马场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/马场镇"
+    },
+    {
+      "code": "520403200",
+      "name": "十字回族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/十字回族苗族乡"
+    },
+    {
+      "code": "520403201",
+      "name": "羊昌布依族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520403",
+      "year": 0,
+      "name_path": "贵州省/安顺市/平坝区/羊昌布依族苗族乡"
+    }
+  ]
+}

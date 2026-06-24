@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "320803001",
+      "name": "淮城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/淮城街道"
+    },
+    {
+      "code": "320803002",
+      "name": "河下街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/河下街道"
+    },
+    {
+      "code": "320803004",
+      "name": "山阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/山阳街道"
+    },
+    {
+      "code": "320803101",
+      "name": "平桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/平桥镇"
+    },
+    {
+      "code": "320803103",
+      "name": "朱桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/朱桥镇"
+    },
+    {
+      "code": "320803105",
+      "name": "施河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/施河镇"
+    },
+    {
+      "code": "320803106",
+      "name": "车桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/车桥镇"
+    },
+    {
+      "code": "320803108",
+      "name": "流均镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/流均镇"
+    },
+    {
+      "code": "320803109",
+      "name": "苏嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/苏嘴镇"
+    },
+    {
+      "code": "320803110",
+      "name": "钦工镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/钦工镇"
+    },
+    {
+      "code": "320803111",
+      "name": "顺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/顺河镇"
+    },
+    {
+      "code": "320803113",
+      "name": "博里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/博里镇"
+    },
+    {
+      "code": "320803116",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/复兴镇"
+    },
+    {
+      "code": "320803120",
+      "name": "范集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/范集镇"
+    },
+    {
+      "code": "320803121",
+      "name": "漕运镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/漕运镇"
+    },
+    {
+      "code": "320803122",
+      "name": "石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320803",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮安区/石塘镇"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130608100",
+      "name": "清苑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/清苑镇"
+    },
+    {
+      "code": "130608101",
+      "name": "冉庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/冉庄镇"
+    },
+    {
+      "code": "130608102",
+      "name": "阳城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/阳城镇"
+    },
+    {
+      "code": "130608103",
+      "name": "魏村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/魏村镇"
+    },
+    {
+      "code": "130608104",
+      "name": "温仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/温仁镇"
+    },
+    {
+      "code": "130608105",
+      "name": "张登镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/张登镇"
+    },
+    {
+      "code": "130608106",
+      "name": "大庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/大庄镇"
+    },
+    {
+      "code": "130608107",
+      "name": "臧村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/臧村镇"
+    },
+    {
+      "code": "130608108",
+      "name": "望亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/望亭镇"
+    },
+    {
+      "code": "130608109",
+      "name": "东闾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/东闾镇"
+    },
+    {
+      "code": "130608110",
+      "name": "白团镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/白团镇"
+    },
+    {
+      "code": "130608111",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/石桥镇"
+    },
+    {
+      "code": "130608112",
+      "name": "何桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/何桥镇"
+    },
+    {
+      "code": "130608201",
+      "name": "北店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/北店乡"
+    },
+    {
+      "code": "130608203",
+      "name": "李庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/李庄乡"
+    },
+    {
+      "code": "130608204",
+      "name": "北王力乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/北王力乡"
+    },
+    {
+      "code": "130608207",
+      "name": "孙村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/孙村乡"
+    },
+    {
+      "code": "130608208",
+      "name": "阎庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130608",
+      "year": 0,
+      "name_path": "河北省/保定市/清苑区/阎庄乡"
+    }
+  ]
+}

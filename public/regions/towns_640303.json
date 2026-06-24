@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "640303001",
+      "name": "新民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640303",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/红寺堡区/新民街道"
+    },
+    {
+      "code": "640303100",
+      "name": "红寺堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640303",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/红寺堡区/红寺堡镇"
+    },
+    {
+      "code": "640303101",
+      "name": "太阳山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640303",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/红寺堡区/太阳山镇"
+    },
+    {
+      "code": "640303200",
+      "name": "大河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640303",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/红寺堡区/大河乡"
+    },
+    {
+      "code": "640303201",
+      "name": "新庄集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640303",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/红寺堡区/新庄集乡"
+    },
+    {
+      "code": "640303202",
+      "name": "柳泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640303",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/红寺堡区/柳泉乡"
+    }
+  ]
+}

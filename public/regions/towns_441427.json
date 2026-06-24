@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "441427100",
+      "name": "蕉城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/蕉城镇"
+    },
+    {
+      "code": "441427102",
+      "name": "长潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/长潭镇"
+    },
+    {
+      "code": "441427103",
+      "name": "三圳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/三圳镇"
+    },
+    {
+      "code": "441427104",
+      "name": "新铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/新铺镇"
+    },
+    {
+      "code": "441427106",
+      "name": "文福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/文福镇"
+    },
+    {
+      "code": "441427107",
+      "name": "广福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/广福镇"
+    },
+    {
+      "code": "441427108",
+      "name": "蓝坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/蓝坊镇"
+    },
+    {
+      "code": "441427110",
+      "name": "南磜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441427",
+      "year": 0,
+      "name_path": "广东省/梅州市/蕉岭县/南磜镇"
+    }
+  ]
+}

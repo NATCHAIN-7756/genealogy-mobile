@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "632701",
+      "name": "玉树市",
+      "level": 3,
+      "type": null,
+      "parent_code": "632700",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州/玉树市"
+    },
+    {
+      "code": "632722",
+      "name": "杂多县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632700",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州/杂多县"
+    },
+    {
+      "code": "632723",
+      "name": "称多县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632700",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州/称多县"
+    },
+    {
+      "code": "632724",
+      "name": "治多县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632700",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州/治多县"
+    },
+    {
+      "code": "632725",
+      "name": "囊谦县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632700",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州/囊谦县"
+    },
+    {
+      "code": "632726",
+      "name": "曲麻莱县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632700",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州/曲麻莱县"
+    }
+  ]
+}

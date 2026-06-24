@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610527001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/城关街道"
+    },
+    {
+      "code": "610527102",
+      "name": "尧禾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/尧禾镇"
+    },
+    {
+      "code": "610527103",
+      "name": "杜康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/杜康镇"
+    },
+    {
+      "code": "610527104",
+      "name": "西固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/西固镇"
+    },
+    {
+      "code": "610527106",
+      "name": "林皋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/林皋镇"
+    },
+    {
+      "code": "610527107",
+      "name": "史官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/史官镇"
+    },
+    {
+      "code": "610527108",
+      "name": "北塬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/北塬镇"
+    },
+    {
+      "code": "610527110",
+      "name": "雷牙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610527",
+      "year": 0,
+      "name_path": "陕西省/渭南市/白水县/雷牙镇"
+    }
+  ]
+}

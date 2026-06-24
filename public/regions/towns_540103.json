@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "540103001",
+      "name": "东嘎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/东嘎街道"
+    },
+    {
+      "code": "540103002",
+      "name": "乃琼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/乃琼街道"
+    },
+    {
+      "code": "540103003",
+      "name": "羊达街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/羊达街道"
+    },
+    {
+      "code": "540103004",
+      "name": "柳梧街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/柳梧街道"
+    },
+    {
+      "code": "540103006",
+      "name": "热玛岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/热玛岗街道"
+    },
+    {
+      "code": "540103007",
+      "name": "加玛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/加玛街道"
+    },
+    {
+      "code": "540103102",
+      "name": "古荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/古荣镇"
+    },
+    {
+      "code": "540103103",
+      "name": "马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/马镇"
+    },
+    {
+      "code": "540103104",
+      "name": "德庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540103",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/堆龙德庆区/德庆镇"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "220122001",
+      "name": "兴农街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/兴农街道"
+    },
+    {
+      "code": "220122002",
+      "name": "宝塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/宝塔街道"
+    },
+    {
+      "code": "220122003",
+      "name": "和谐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/和谐街道"
+    },
+    {
+      "code": "220122004",
+      "name": "黄龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/黄龙街道"
+    },
+    {
+      "code": "220122100",
+      "name": "农安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/农安镇"
+    },
+    {
+      "code": "220122101",
+      "name": "伏龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/伏龙泉镇"
+    },
+    {
+      "code": "220122102",
+      "name": "哈拉海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/哈拉海镇"
+    },
+    {
+      "code": "220122103",
+      "name": "靠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/靠山镇"
+    },
+    {
+      "code": "220122105",
+      "name": "开安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/开安镇"
+    },
+    {
+      "code": "220122106",
+      "name": "烧锅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/烧锅镇"
+    },
+    {
+      "code": "220122107",
+      "name": "高家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/高家店镇"
+    },
+    {
+      "code": "220122109",
+      "name": "华家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/华家镇"
+    },
+    {
+      "code": "220122111",
+      "name": "三盛玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/三盛玉镇"
+    },
+    {
+      "code": "220122112",
+      "name": "巴吉垒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/巴吉垒镇"
+    },
+    {
+      "code": "220122113",
+      "name": "三岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/三岗镇"
+    },
+    {
+      "code": "220122201",
+      "name": "前岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/前岗乡"
+    },
+    {
+      "code": "220122202",
+      "name": "龙王乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/龙王乡"
+    },
+    {
+      "code": "220122204",
+      "name": "万顺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/万顺乡"
+    },
+    {
+      "code": "220122205",
+      "name": "杨树林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/杨树林乡"
+    },
+    {
+      "code": "220122207",
+      "name": "永安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/永安乡"
+    },
+    {
+      "code": "220122208",
+      "name": "青山口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/青山口乡"
+    },
+    {
+      "code": "220122209",
+      "name": "黄鱼圈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/黄鱼圈乡"
+    },
+    {
+      "code": "220122210",
+      "name": "新农乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/新农乡"
+    },
+    {
+      "code": "220122211",
+      "name": "万金塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/万金塔乡"
+    },
+    {
+      "code": "220122212",
+      "name": "小城子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220122",
+      "year": 0,
+      "name_path": "吉林省/长春市/农安县/小城子乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "511827100",
+      "name": "穆坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/穆坪镇"
+    },
+    {
+      "code": "511827101",
+      "name": "灵关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/灵关镇"
+    },
+    {
+      "code": "511827102",
+      "name": "陇东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/陇东镇"
+    },
+    {
+      "code": "511827202",
+      "name": "硗碛藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/硗碛藏族乡"
+    },
+    {
+      "code": "511827205",
+      "name": "五龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/五龙乡"
+    },
+    {
+      "code": "511827207",
+      "name": "大溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/大溪乡"
+    },
+    {
+      "code": "511827208",
+      "name": "蜂桶寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511827",
+      "year": 0,
+      "name_path": "四川省/雅安市/宝兴县/蜂桶寨乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "340405001",
+      "name": "新庄孜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340405",
+      "year": 0,
+      "name_path": "安徽省/淮南市/八公山区/新庄孜街道"
+    },
+    {
+      "code": "340405002",
+      "name": "土坝孜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340405",
+      "year": 0,
+      "name_path": "安徽省/淮南市/八公山区/土坝孜街道"
+    },
+    {
+      "code": "340405003",
+      "name": "毕家岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340405",
+      "year": 0,
+      "name_path": "安徽省/淮南市/八公山区/毕家岗街道"
+    },
+    {
+      "code": "340405100",
+      "name": "山王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340405",
+      "year": 0,
+      "name_path": "安徽省/淮南市/八公山区/山王镇"
+    },
+    {
+      "code": "340405101",
+      "name": "八公山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340405",
+      "year": 0,
+      "name_path": "安徽省/淮南市/八公山区/八公山镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "130529100",
+      "name": "巨鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/巨鹿镇"
+    },
+    {
+      "code": "130529101",
+      "name": "王虎寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/王虎寨镇"
+    },
+    {
+      "code": "130529102",
+      "name": "西郭城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/西郭城镇"
+    },
+    {
+      "code": "130529103",
+      "name": "官亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/官亭镇"
+    },
+    {
+      "code": "130529104",
+      "name": "阎疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/阎疃镇"
+    },
+    {
+      "code": "130529105",
+      "name": "小吕寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/小吕寨镇"
+    },
+    {
+      "code": "130529106",
+      "name": "苏家营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/苏家营镇"
+    },
+    {
+      "code": "130529107",
+      "name": "观寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/观寨镇"
+    },
+    {
+      "code": "130529200",
+      "name": "堤村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/堤村乡"
+    },
+    {
+      "code": "130529201",
+      "name": "张王疃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130529",
+      "year": 0,
+      "name_path": "河北省/邢台市/巨鹿县/张王疃乡"
+    }
+  ]
+}

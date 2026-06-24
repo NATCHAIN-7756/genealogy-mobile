@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "532323100",
+      "name": "共和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/共和镇"
+    },
+    {
+      "code": "532323101",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/新桥镇"
+    },
+    {
+      "code": "532323102",
+      "name": "江坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/江坡镇"
+    },
+    {
+      "code": "532323103",
+      "name": "凤屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/凤屯镇"
+    },
+    {
+      "code": "532323201",
+      "name": "蟠猫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/蟠猫乡"
+    },
+    {
+      "code": "532323202",
+      "name": "戌街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/戌街乡"
+    },
+    {
+      "code": "532323203",
+      "name": "安乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532323",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/牟定县/安乐乡"
+    }
+  ]
+}

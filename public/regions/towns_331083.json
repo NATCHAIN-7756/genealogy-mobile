@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "331083001",
+      "name": "玉城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/玉城街道"
+    },
+    {
+      "code": "331083002",
+      "name": "坎门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/坎门街道"
+    },
+    {
+      "code": "331083003",
+      "name": "大麦屿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/大麦屿街道"
+    },
+    {
+      "code": "331083100",
+      "name": "清港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/清港镇"
+    },
+    {
+      "code": "331083101",
+      "name": "楚门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/楚门镇"
+    },
+    {
+      "code": "331083102",
+      "name": "干江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/干江镇"
+    },
+    {
+      "code": "331083103",
+      "name": "沙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/沙门镇"
+    },
+    {
+      "code": "331083104",
+      "name": "芦浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/芦浦镇"
+    },
+    {
+      "code": "331083105",
+      "name": "龙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/龙溪镇"
+    },
+    {
+      "code": "331083200",
+      "name": "鸡山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/鸡山乡"
+    },
+    {
+      "code": "331083201",
+      "name": "海山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331083",
+      "year": 0,
+      "name_path": "浙江省/台州市/玉环市/海山乡"
+    }
+  ]
+}

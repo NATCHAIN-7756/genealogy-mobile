@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "361102",
+      "name": "信州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/信州区"
+    },
+    {
+      "code": "361103",
+      "name": "广丰区",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/广丰区"
+    },
+    {
+      "code": "361104",
+      "name": "广信区",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/广信区"
+    },
+    {
+      "code": "361123",
+      "name": "玉山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/玉山县"
+    },
+    {
+      "code": "361124",
+      "name": "铅山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/铅山县"
+    },
+    {
+      "code": "361125",
+      "name": "横峰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/横峰县"
+    },
+    {
+      "code": "361126",
+      "name": "弋阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/弋阳县"
+    },
+    {
+      "code": "361127",
+      "name": "余干县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/余干县"
+    },
+    {
+      "code": "361128",
+      "name": "鄱阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/鄱阳县"
+    },
+    {
+      "code": "361129",
+      "name": "万年县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/万年县"
+    },
+    {
+      "code": "361130",
+      "name": "婺源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/婺源县"
+    },
+    {
+      "code": "361181",
+      "name": "德兴市",
+      "level": 3,
+      "type": null,
+      "parent_code": "361100",
+      "year": 0,
+      "name_path": "全国/江西省/上饶市/德兴市"
+    }
+  ]
+}

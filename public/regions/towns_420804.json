@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "420804001",
+      "name": "掇刀石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420804",
+      "year": 0,
+      "name_path": "湖北省/荆门市/掇刀区/掇刀石街道"
+    },
+    {
+      "code": "420804002",
+      "name": "白庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420804",
+      "year": 0,
+      "name_path": "湖北省/荆门市/掇刀区/白庙街道"
+    },
+    {
+      "code": "420804003",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420804",
+      "year": 0,
+      "name_path": "湖北省/荆门市/掇刀区/兴隆街道"
+    },
+    {
+      "code": "420804004",
+      "name": "双喜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420804",
+      "year": 0,
+      "name_path": "湖北省/荆门市/掇刀区/双喜街道"
+    },
+    {
+      "code": "420804100",
+      "name": "团林铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420804",
+      "year": 0,
+      "name_path": "湖北省/荆门市/掇刀区/团林铺镇"
+    },
+    {
+      "code": "420804101",
+      "name": "麻城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420804",
+      "year": 0,
+      "name_path": "湖北省/荆门市/掇刀区/麻城镇"
+    }
+  ]
+}

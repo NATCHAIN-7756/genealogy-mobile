@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "440904001",
+      "name": "南海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/南海街道"
+    },
+    {
+      "code": "440904002",
+      "name": "高地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/高地街道"
+    },
+    {
+      "code": "440904003",
+      "name": "水东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/水东街道"
+    },
+    {
+      "code": "440904004",
+      "name": "电海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/电海街道"
+    },
+    {
+      "code": "440904005",
+      "name": "陈村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/陈村街道"
+    },
+    {
+      "code": "440904101",
+      "name": "坡心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/坡心镇"
+    },
+    {
+      "code": "440904102",
+      "name": "小良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/小良镇"
+    },
+    {
+      "code": "440904103",
+      "name": "沙院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/沙院镇"
+    },
+    {
+      "code": "440904104",
+      "name": "马踏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/马踏镇"
+    },
+    {
+      "code": "440904105",
+      "name": "岭门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/岭门镇"
+    },
+    {
+      "code": "440904106",
+      "name": "树仔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/树仔镇"
+    },
+    {
+      "code": "440904107",
+      "name": "麻岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/麻岗镇"
+    },
+    {
+      "code": "440904108",
+      "name": "旦场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/旦场镇"
+    },
+    {
+      "code": "440904109",
+      "name": "林头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/林头镇"
+    },
+    {
+      "code": "440904110",
+      "name": "霞洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/霞洞镇"
+    },
+    {
+      "code": "440904111",
+      "name": "观珠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/观珠镇"
+    },
+    {
+      "code": "440904112",
+      "name": "沙琅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/沙琅镇"
+    },
+    {
+      "code": "440904113",
+      "name": "黄岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/黄岭镇"
+    },
+    {
+      "code": "440904114",
+      "name": "望夫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/望夫镇"
+    },
+    {
+      "code": "440904115",
+      "name": "罗坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/罗坑镇"
+    },
+    {
+      "code": "440904116",
+      "name": "那霍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/那霍镇"
+    },
+    {
+      "code": "440904118",
+      "name": "电城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/电城镇"
+    },
+    {
+      "code": "440904119",
+      "name": "博贺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/博贺镇"
+    },
+    {
+      "code": "440904120",
+      "name": "七迳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440904",
+      "year": 0,
+      "name_path": "广东省/茂名市/电白区/七迳镇"
+    }
+  ]
+}

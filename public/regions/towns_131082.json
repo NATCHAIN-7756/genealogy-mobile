@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "131082001",
+      "name": "鼎盛东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/鼎盛东街道"
+    },
+    {
+      "code": "131082002",
+      "name": "泃阳西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/泃阳西街道"
+    },
+    {
+      "code": "131082004",
+      "name": "行宫东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/行宫东街道"
+    },
+    {
+      "code": "131082005",
+      "name": "迎宾北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/迎宾北路街道"
+    },
+    {
+      "code": "131082006",
+      "name": "燕顺路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/燕顺路街道"
+    },
+    {
+      "code": "131082007",
+      "name": "康城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/康城街道"
+    },
+    {
+      "code": "131082100",
+      "name": "泃阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/泃阳镇"
+    },
+    {
+      "code": "131082101",
+      "name": "李旗庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/李旗庄镇"
+    },
+    {
+      "code": "131082102",
+      "name": "杨庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/杨庄镇"
+    },
+    {
+      "code": "131082103",
+      "name": "皇庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/皇庄镇"
+    },
+    {
+      "code": "131082104",
+      "name": "新集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/新集镇"
+    },
+    {
+      "code": "131082105",
+      "name": "段甲岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/段甲岭镇"
+    },
+    {
+      "code": "131082106",
+      "name": "黄土庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/黄土庄镇"
+    },
+    {
+      "code": "131082107",
+      "name": "高楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/高楼镇"
+    },
+    {
+      "code": "131082108",
+      "name": "齐心庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/齐心庄镇"
+    },
+    {
+      "code": "131082109",
+      "name": "燕郊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131082",
+      "year": 0,
+      "name_path": "河北省/廊坊市/三河市/燕郊镇"
+    }
+  ]
+}

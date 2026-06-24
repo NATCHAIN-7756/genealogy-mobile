@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "320115001",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/东山街道"
+    },
+    {
+      "code": "320115004",
+      "name": "禄口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/禄口街道"
+    },
+    {
+      "code": "320115005",
+      "name": "淳化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/淳化街道"
+    },
+    {
+      "code": "320115006",
+      "name": "麒麟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/麒麟街道"
+    },
+    {
+      "code": "320115007",
+      "name": "横溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/横溪街道"
+    },
+    {
+      "code": "320115008",
+      "name": "江宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/江宁街道"
+    },
+    {
+      "code": "320115009",
+      "name": "谷里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/谷里街道"
+    },
+    {
+      "code": "320115010",
+      "name": "汤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/汤山街道"
+    },
+    {
+      "code": "320115011",
+      "name": "秣陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/秣陵街道"
+    },
+    {
+      "code": "320115012",
+      "name": "湖熟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320115",
+      "year": 0,
+      "name_path": "江苏省/南京市/江宁区/湖熟街道"
+    }
+  ]
+}

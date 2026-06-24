@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "code": "511621001",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/九龙街道"
+    },
+    {
+      "code": "511621002",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/朝阳街道"
+    },
+    {
+      "code": "511621101",
+      "name": "花园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/花园镇"
+    },
+    {
+      "code": "511621102",
+      "name": "坪滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/坪滩镇"
+    },
+    {
+      "code": "511621103",
+      "name": "龙孔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/龙孔镇"
+    },
+    {
+      "code": "511621104",
+      "name": "镇裕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/镇裕镇"
+    },
+    {
+      "code": "511621105",
+      "name": "白庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/白庙镇"
+    },
+    {
+      "code": "511621106",
+      "name": "酉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/酉溪镇"
+    },
+    {
+      "code": "511621107",
+      "name": "同兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/同兴镇"
+    },
+    {
+      "code": "511621108",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/兴隆镇"
+    },
+    {
+      "code": "511621109",
+      "name": "秦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/秦溪镇"
+    },
+    {
+      "code": "511621110",
+      "name": "顾县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/顾县镇"
+    },
+    {
+      "code": "511621111",
+      "name": "苟角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/苟角镇"
+    },
+    {
+      "code": "511621112",
+      "name": "天平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/天平镇"
+    },
+    {
+      "code": "511621113",
+      "name": "石垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/石垭镇"
+    },
+    {
+      "code": "511621114",
+      "name": "乔家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/乔家镇"
+    },
+    {
+      "code": "511621115",
+      "name": "罗渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/罗渡镇"
+    },
+    {
+      "code": "511621116",
+      "name": "裕民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/裕民镇"
+    },
+    {
+      "code": "511621117",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/中和镇"
+    },
+    {
+      "code": "511621118",
+      "name": "新场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/新场镇"
+    },
+    {
+      "code": "511621119",
+      "name": "普安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/普安镇"
+    },
+    {
+      "code": "511621121",
+      "name": "临溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/临溪镇"
+    },
+    {
+      "code": "511621122",
+      "name": "西板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/西板镇"
+    },
+    {
+      "code": "511621123",
+      "name": "齐福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/齐福镇"
+    },
+    {
+      "code": "511621124",
+      "name": "伏龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/伏龙镇"
+    },
+    {
+      "code": "511621212",
+      "name": "黄龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/黄龙乡"
+    },
+    {
+      "code": "511621216",
+      "name": "鱼峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511621",
+      "year": 0,
+      "name_path": "四川省/广安市/岳池县/鱼峰乡"
+    }
+  ]
+}

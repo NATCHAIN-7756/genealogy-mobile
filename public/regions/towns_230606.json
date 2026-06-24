@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "230606007",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/和平街道"
+    },
+    {
+      "code": "230606008",
+      "name": "庆葡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/庆葡街道"
+    },
+    {
+      "code": "230606009",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/新华街道"
+    },
+    {
+      "code": "230606010",
+      "name": "高平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/高平街道"
+    },
+    {
+      "code": "230606011",
+      "name": "林源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/林源街道"
+    },
+    {
+      "code": "230606012",
+      "name": "和苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/和苑街道"
+    },
+    {
+      "code": "230606013",
+      "name": "同福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/同福街道"
+    },
+    {
+      "code": "230606100",
+      "name": "大同镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/大同镇"
+    },
+    {
+      "code": "230606101",
+      "name": "高台子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/高台子镇"
+    },
+    {
+      "code": "230606102",
+      "name": "太阳升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/太阳升镇"
+    },
+    {
+      "code": "230606103",
+      "name": "林源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/林源镇"
+    },
+    {
+      "code": "230606200",
+      "name": "祝三乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/祝三乡"
+    },
+    {
+      "code": "230606203",
+      "name": "老山头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/老山头乡"
+    },
+    {
+      "code": "230606205",
+      "name": "八井子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/八井子乡"
+    },
+    {
+      "code": "230606206",
+      "name": "双榆树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230606",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/大同区/双榆树乡"
+    }
+  ]
+}

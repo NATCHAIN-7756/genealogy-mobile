@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "540630101",
+      "name": "措折罗玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/措折罗玛镇"
+    },
+    {
+      "code": "540630200",
+      "name": "协德乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/协德乡"
+    },
+    {
+      "code": "540630201",
+      "name": "雅曲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/雅曲乡"
+    },
+    {
+      "code": "540630202",
+      "name": "嘎措乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/嘎措乡"
+    },
+    {
+      "code": "540630203",
+      "name": "措折强玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/措折强玛乡"
+    },
+    {
+      "code": "540630204",
+      "name": "多玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/多玛乡"
+    },
+    {
+      "code": "540630205",
+      "name": "巴岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540630",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/双湖县/巴岭乡"
+    }
+  ]
+}

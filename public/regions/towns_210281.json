@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "210281001",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/新华街道"
+    },
+    {
+      "code": "210281002",
+      "name": "文兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/文兰街道"
+    },
+    {
+      "code": "210281003",
+      "name": "岭东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/岭东街道"
+    },
+    {
+      "code": "210281004",
+      "name": "共济街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/共济街道"
+    },
+    {
+      "code": "210281005",
+      "name": "铁东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/铁东街道"
+    },
+    {
+      "code": "210281006",
+      "name": "祝华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/祝华街道"
+    },
+    {
+      "code": "210281007",
+      "name": "岗店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/岗店街道"
+    },
+    {
+      "code": "210281008",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/九龙街道"
+    },
+    {
+      "code": "210281009",
+      "name": "太阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/太阳街道"
+    },
+    {
+      "code": "210281010",
+      "name": "长兴岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/长兴岛街道"
+    },
+    {
+      "code": "210281011",
+      "name": "交流岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/交流岛街道"
+    },
+    {
+      "code": "210281101",
+      "name": "复州城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/复州城镇"
+    },
+    {
+      "code": "210281103",
+      "name": "松树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/松树镇"
+    },
+    {
+      "code": "210281105",
+      "name": "得利寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/得利寺镇"
+    },
+    {
+      "code": "210281106",
+      "name": "万家岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/万家岭镇"
+    },
+    {
+      "code": "210281107",
+      "name": "许屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/许屯镇"
+    },
+    {
+      "code": "210281108",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/永宁镇"
+    },
+    {
+      "code": "210281109",
+      "name": "谢屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/谢屯镇"
+    },
+    {
+      "code": "210281112",
+      "name": "老虎屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/老虎屯镇"
+    },
+    {
+      "code": "210281113",
+      "name": "红沿河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/红沿河镇"
+    },
+    {
+      "code": "210281115",
+      "name": "李官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/李官镇"
+    },
+    {
+      "code": "210281116",
+      "name": "仙浴湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/仙浴湾镇"
+    },
+    {
+      "code": "210281117",
+      "name": "瓦窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/瓦窝镇"
+    },
+    {
+      "code": "210281118",
+      "name": "元台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/元台镇"
+    },
+    {
+      "code": "210281201",
+      "name": "赵屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/赵屯乡"
+    },
+    {
+      "code": "210281203",
+      "name": "土城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/土城乡"
+    },
+    {
+      "code": "210281204",
+      "name": "阎店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/阎店乡"
+    },
+    {
+      "code": "210281205",
+      "name": "西杨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/西杨乡"
+    },
+    {
+      "code": "210281206",
+      "name": "驼山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/驼山乡"
+    },
+    {
+      "code": "210281208",
+      "name": "三台满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/三台满族乡"
+    },
+    {
+      "code": "210281210",
+      "name": "泡崖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/泡崖乡"
+    },
+    {
+      "code": "210281212",
+      "name": "杨家满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210281",
+      "year": 0,
+      "name_path": "辽宁省/大连市/瓦房店市/杨家满族乡"
+    }
+  ]
+}

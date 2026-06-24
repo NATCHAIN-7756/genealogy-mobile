@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "659011100",
+      "name": "二道湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659011",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/新星市/二道湖镇"
+    },
+    {
+      "code": "659011101",
+      "name": "骆驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659011",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/新星市/骆驿镇"
+    },
+    {
+      "code": "659011102",
+      "name": "黄田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659011",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/新星市/黄田镇"
+    }
+  ]
+}

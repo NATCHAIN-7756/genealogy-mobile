@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "330921100",
+      "name": "高亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/高亭镇"
+    },
+    {
+      "code": "330921101",
+      "name": "东沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/东沙镇"
+    },
+    {
+      "code": "330921102",
+      "name": "岱东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/岱东镇"
+    },
+    {
+      "code": "330921103",
+      "name": "岱西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/岱西镇"
+    },
+    {
+      "code": "330921105",
+      "name": "长涂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/长涂镇"
+    },
+    {
+      "code": "330921106",
+      "name": "衢山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/衢山镇"
+    },
+    {
+      "code": "330921200",
+      "name": "秀山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330921",
+      "year": 0,
+      "name_path": "浙江省/舟山市/岱山县/秀山乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150124100",
+      "name": "喇嘛湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/喇嘛湾镇"
+    },
+    {
+      "code": "150124101",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/城关镇"
+    },
+    {
+      "code": "150124102",
+      "name": "宏河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/宏河镇"
+    },
+    {
+      "code": "150124103",
+      "name": "老牛湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/老牛湾镇"
+    },
+    {
+      "code": "150124201",
+      "name": "窑沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/窑沟乡"
+    },
+    {
+      "code": "150124203",
+      "name": "北堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/北堡乡"
+    },
+    {
+      "code": "150124208",
+      "name": "韭菜庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/韭菜庄乡"
+    },
+    {
+      "code": "150124209",
+      "name": "五良太乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150124",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/清水河县/五良太乡"
+    }
+  ]
+}

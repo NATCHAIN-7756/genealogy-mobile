@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "632324100",
+      "name": "优干宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632324",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/河南蒙古族自治县/优干宁镇"
+    },
+    {
+      "code": "632324101",
+      "name": "宁木特镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632324",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/河南蒙古族自治县/宁木特镇"
+    },
+    {
+      "code": "632324202",
+      "name": "赛尔龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632324",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/河南蒙古族自治县/赛尔龙乡"
+    },
+    {
+      "code": "632324203",
+      "name": "柯生乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632324",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/河南蒙古族自治县/柯生乡"
+    },
+    {
+      "code": "632324204",
+      "name": "多松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632324",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/河南蒙古族自治县/多松乡"
+    },
+    {
+      "code": "632324205",
+      "name": "托叶玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632324",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/河南蒙古族自治县/托叶玛乡"
+    }
+  ]
+}

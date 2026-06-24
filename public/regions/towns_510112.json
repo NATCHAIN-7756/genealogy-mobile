@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "510112001",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/龙泉街道"
+    },
+    {
+      "code": "510112002",
+      "name": "大面街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/大面街道"
+    },
+    {
+      "code": "510112003",
+      "name": "同安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/同安街道"
+    },
+    {
+      "code": "510112004",
+      "name": "十陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/十陵街道"
+    },
+    {
+      "code": "510112005",
+      "name": "西河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/西河街道"
+    },
+    {
+      "code": "510112006",
+      "name": "柏合街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/柏合街道"
+    },
+    {
+      "code": "510112007",
+      "name": "东安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/东安街道"
+    },
+    {
+      "code": "510112102",
+      "name": "洛带镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/洛带镇"
+    },
+    {
+      "code": "510112108",
+      "name": "洪安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/洪安镇"
+    },
+    {
+      "code": "510112115",
+      "name": "山泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510112",
+      "year": 0,
+      "name_path": "四川省/成都市/龙泉驿区/山泉镇"
+    }
+  ]
+}

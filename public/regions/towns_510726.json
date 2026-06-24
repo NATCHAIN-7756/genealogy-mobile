@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "510726100",
+      "name": "曲山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/曲山镇"
+    },
+    {
+      "code": "510726101",
+      "name": "擂鼓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/擂鼓镇"
+    },
+    {
+      "code": "510726104",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/永安镇"
+    },
+    {
+      "code": "510726105",
+      "name": "永昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/永昌镇"
+    },
+    {
+      "code": "510726106",
+      "name": "禹里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/禹里镇"
+    },
+    {
+      "code": "510726107",
+      "name": "桂溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/桂溪镇"
+    },
+    {
+      "code": "510726108",
+      "name": "小坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/小坝镇"
+    },
+    {
+      "code": "510726109",
+      "name": "陈家坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/陈家坝镇"
+    },
+    {
+      "code": "510726110",
+      "name": "通泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/通泉镇"
+    },
+    {
+      "code": "510726206",
+      "name": "漩坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/漩坪乡"
+    },
+    {
+      "code": "510726207",
+      "name": "白坭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/白坭乡"
+    },
+    {
+      "code": "510726209",
+      "name": "桃龙藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/桃龙藏族乡"
+    },
+    {
+      "code": "510726210",
+      "name": "片口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/片口乡"
+    },
+    {
+      "code": "510726211",
+      "name": "开坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/开坪乡"
+    },
+    {
+      "code": "510726212",
+      "name": "坝底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/坝底乡"
+    },
+    {
+      "code": "510726214",
+      "name": "马槽乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/马槽乡"
+    },
+    {
+      "code": "510726215",
+      "name": "白什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/白什乡"
+    },
+    {
+      "code": "510726216",
+      "name": "青片乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/青片乡"
+    },
+    {
+      "code": "510726217",
+      "name": "都贯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510726",
+      "year": 0,
+      "name_path": "四川省/绵阳市/北川羌族自治县/都贯乡"
+    }
+  ]
+}

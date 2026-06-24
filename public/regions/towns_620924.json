@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "620924100",
+      "name": "红柳湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620924",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/阿克塞哈萨克族自治县/红柳湾镇"
+    },
+    {
+      "code": "620924205",
+      "name": "阿克旗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620924",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/阿克塞哈萨克族自治县/阿克旗乡"
+    },
+    {
+      "code": "620924206",
+      "name": "阿勒腾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620924",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/阿克塞哈萨克族自治县/阿勒腾乡"
+    },
+    {
+      "code": "620924207",
+      "name": "阿伊纳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620924",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/阿克塞哈萨克族自治县/阿伊纳乡"
+    }
+  ]
+}

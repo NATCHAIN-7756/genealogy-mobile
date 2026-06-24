@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "420702100",
+      "name": "太和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420702",
+      "year": 0,
+      "name_path": "湖北省/鄂州市/梁子湖区/太和镇"
+    },
+    {
+      "code": "420702101",
+      "name": "东沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420702",
+      "year": 0,
+      "name_path": "湖北省/鄂州市/梁子湖区/东沟镇"
+    },
+    {
+      "code": "420702102",
+      "name": "梁子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420702",
+      "year": 0,
+      "name_path": "湖北省/鄂州市/梁子湖区/梁子镇"
+    },
+    {
+      "code": "420702103",
+      "name": "涂家垴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420702",
+      "year": 0,
+      "name_path": "湖北省/鄂州市/梁子湖区/涂家垴镇"
+    },
+    {
+      "code": "420702104",
+      "name": "沼山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420702",
+      "year": 0,
+      "name_path": "湖北省/鄂州市/梁子湖区/沼山镇"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "510115001",
+      "name": "柳城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/柳城街道"
+    },
+    {
+      "code": "510115002",
+      "name": "公平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/公平街道"
+    },
+    {
+      "code": "510115003",
+      "name": "天府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/天府街道"
+    },
+    {
+      "code": "510115004",
+      "name": "涌泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/涌泉街道"
+    },
+    {
+      "code": "510115005",
+      "name": "金马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/金马街道"
+    },
+    {
+      "code": "510115006",
+      "name": "永宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/永宁街道"
+    },
+    {
+      "code": "510115101",
+      "name": "和盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/和盛镇"
+    },
+    {
+      "code": "510115106",
+      "name": "万春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/万春镇"
+    },
+    {
+      "code": "510115110",
+      "name": "寿安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510115",
+      "year": 0,
+      "name_path": "四川省/成都市/温江区/寿安镇"
+    }
+  ]
+}

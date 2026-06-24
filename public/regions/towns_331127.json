@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "331127001",
+      "name": "鹤溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/鹤溪街道"
+    },
+    {
+      "code": "331127002",
+      "name": "红星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/红星街道"
+    },
+    {
+      "code": "331127101",
+      "name": "渤海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/渤海镇"
+    },
+    {
+      "code": "331127102",
+      "name": "东坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/东坑镇"
+    },
+    {
+      "code": "331127103",
+      "name": "英川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/英川镇"
+    },
+    {
+      "code": "331127104",
+      "name": "沙湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/沙湾镇"
+    },
+    {
+      "code": "331127201",
+      "name": "大均乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/大均乡"
+    },
+    {
+      "code": "331127202",
+      "name": "澄照乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/澄照乡"
+    },
+    {
+      "code": "331127203",
+      "name": "梅岐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/梅岐乡"
+    },
+    {
+      "code": "331127205",
+      "name": "郑坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/郑坑乡"
+    },
+    {
+      "code": "331127206",
+      "name": "九龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/九龙乡"
+    },
+    {
+      "code": "331127208",
+      "name": "大漈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/大漈乡"
+    },
+    {
+      "code": "331127209",
+      "name": "景南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/景南乡"
+    },
+    {
+      "code": "331127210",
+      "name": "雁溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/雁溪乡"
+    },
+    {
+      "code": "331127212",
+      "name": "鸬鹚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/鸬鹚乡"
+    },
+    {
+      "code": "331127213",
+      "name": "梧桐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/梧桐乡"
+    },
+    {
+      "code": "331127214",
+      "name": "标溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/标溪乡"
+    },
+    {
+      "code": "331127215",
+      "name": "毛垟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/毛垟乡"
+    },
+    {
+      "code": "331127216",
+      "name": "秋炉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/秋炉乡"
+    },
+    {
+      "code": "331127217",
+      "name": "大地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/大地乡"
+    },
+    {
+      "code": "331127218",
+      "name": "家地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331127",
+      "year": 0,
+      "name_path": "浙江省/丽水市/景宁畲族自治县/家地乡"
+    }
+  ]
+}

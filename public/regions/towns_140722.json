@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140722100",
+      "name": "辽阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/辽阳镇"
+    },
+    {
+      "code": "140722101",
+      "name": "桐峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/桐峪镇"
+    },
+    {
+      "code": "140722102",
+      "name": "麻田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/麻田镇"
+    },
+    {
+      "code": "140722103",
+      "name": "芹泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/芹泉镇"
+    },
+    {
+      "code": "140722104",
+      "name": "拐儿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/拐儿镇"
+    },
+    {
+      "code": "140722200",
+      "name": "石匣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/石匣乡"
+    },
+    {
+      "code": "140722202",
+      "name": "羊角乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/羊角乡"
+    },
+    {
+      "code": "140722203",
+      "name": "寒王乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140722",
+      "year": 0,
+      "name_path": "山西省/晋中市/左权县/寒王乡"
+    }
+  ]
+}

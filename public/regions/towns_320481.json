@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "320481001",
+      "name": "昆仑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/昆仑街道"
+    },
+    {
+      "code": "320481002",
+      "name": "溧城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/溧城街道"
+    },
+    {
+      "code": "320481003",
+      "name": "古县街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/古县街道"
+    },
+    {
+      "code": "320481101",
+      "name": "埭头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/埭头镇"
+    },
+    {
+      "code": "320481102",
+      "name": "上黄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/上黄镇"
+    },
+    {
+      "code": "320481103",
+      "name": "戴埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/戴埠镇"
+    },
+    {
+      "code": "320481106",
+      "name": "天目湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/天目湖镇"
+    },
+    {
+      "code": "320481107",
+      "name": "别桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/别桥镇"
+    },
+    {
+      "code": "320481109",
+      "name": "上兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/上兴镇"
+    },
+    {
+      "code": "320481111",
+      "name": "竹箦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/竹箦镇"
+    },
+    {
+      "code": "320481114",
+      "name": "南渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/南渡镇"
+    },
+    {
+      "code": "320481116",
+      "name": "社渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320481",
+      "year": 0,
+      "name_path": "江苏省/常州市/溧阳市/社渚镇"
+    }
+  ]
+}

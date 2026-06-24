@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "440703002",
+      "name": "白沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440703",
+      "year": 0,
+      "name_path": "广东省/江门市/蓬江区/白沙街道"
+    },
+    {
+      "code": "440703005",
+      "name": "潮连街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440703",
+      "year": 0,
+      "name_path": "广东省/江门市/蓬江区/潮连街道"
+    },
+    {
+      "code": "440703006",
+      "name": "环市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440703",
+      "year": 0,
+      "name_path": "广东省/江门市/蓬江区/环市街道"
+    },
+    {
+      "code": "440703101",
+      "name": "荷塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440703",
+      "year": 0,
+      "name_path": "广东省/江门市/蓬江区/荷塘镇"
+    },
+    {
+      "code": "440703102",
+      "name": "杜阮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440703",
+      "year": 0,
+      "name_path": "广东省/江门市/蓬江区/杜阮镇"
+    },
+    {
+      "code": "440703103",
+      "name": "棠下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440703",
+      "year": 0,
+      "name_path": "广东省/江门市/蓬江区/棠下镇"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "630203001",
+      "name": "平安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/平安街道"
+    },
+    {
+      "code": "630203002",
+      "name": "小峡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/小峡街道"
+    },
+    {
+      "code": "630203102",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/三合镇"
+    },
+    {
+      "code": "630203200",
+      "name": "洪水泉回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/洪水泉回族乡"
+    },
+    {
+      "code": "630203201",
+      "name": "石灰窑回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/石灰窑回族乡"
+    },
+    {
+      "code": "630203202",
+      "name": "古城回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/古城回族乡"
+    },
+    {
+      "code": "630203203",
+      "name": "沙沟回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/沙沟回族乡"
+    },
+    {
+      "code": "630203204",
+      "name": "巴藏沟回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630203",
+      "year": 0,
+      "name_path": "青海省/海东市/平安区/巴藏沟回族乡"
+    }
+  ]
+}

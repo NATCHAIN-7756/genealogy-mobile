@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "650107001",
+      "name": "乌拉泊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/乌拉泊街道"
+    },
+    {
+      "code": "650107002",
+      "name": "艾维尔沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/艾维尔沟街道"
+    },
+    {
+      "code": "650107003",
+      "name": "盐湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/盐湖街道"
+    },
+    {
+      "code": "650107004",
+      "name": "柴窝堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/柴窝堡街道"
+    },
+    {
+      "code": "650107100",
+      "name": "达坂城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/达坂城镇"
+    },
+    {
+      "code": "650107200",
+      "name": "东沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/东沟乡"
+    },
+    {
+      "code": "650107201",
+      "name": "西沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/西沟乡"
+    },
+    {
+      "code": "650107202",
+      "name": "阿克苏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650107",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/达坂城区/阿克苏乡"
+    }
+  ]
+}

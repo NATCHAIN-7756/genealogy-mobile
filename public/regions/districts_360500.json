@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "360502",
+      "name": "渝水区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360500",
+      "year": 0,
+      "name_path": "全国/江西省/新余市/渝水区"
+    },
+    {
+      "code": "360521",
+      "name": "分宜县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360500",
+      "year": 0,
+      "name_path": "全国/江西省/新余市/分宜县"
+    }
+  ]
+}

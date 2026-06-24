@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "130303001",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/南关街道"
+    },
+    {
+      "code": "130303002",
+      "name": "东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/东街街道"
+    },
+    {
+      "code": "130303003",
+      "name": "西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/西街街道"
+    },
+    {
+      "code": "130303004",
+      "name": "路南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/路南街道"
+    },
+    {
+      "code": "130303005",
+      "name": "船厂路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/船厂路街道"
+    },
+    {
+      "code": "130303100",
+      "name": "第一关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/第一关镇"
+    },
+    {
+      "code": "130303101",
+      "name": "石河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/石河镇"
+    },
+    {
+      "code": "130303102",
+      "name": "孟姜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/孟姜镇"
+    },
+    {
+      "code": "130303200",
+      "name": "渤海乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130303",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/山海关区/渤海乡"
+    }
+  ]
+}

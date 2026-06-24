@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "350823100",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/临江镇"
+    },
+    {
+      "code": "350823101",
+      "name": "临城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/临城镇"
+    },
+    {
+      "code": "350823102",
+      "name": "中都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/中都镇"
+    },
+    {
+      "code": "350823103",
+      "name": "蓝溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/蓝溪镇"
+    },
+    {
+      "code": "350823104",
+      "name": "稔田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/稔田镇"
+    },
+    {
+      "code": "350823105",
+      "name": "白砂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/白砂镇"
+    },
+    {
+      "code": "350823106",
+      "name": "古田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/古田镇"
+    },
+    {
+      "code": "350823107",
+      "name": "才溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/才溪镇"
+    },
+    {
+      "code": "350823108",
+      "name": "南阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/南阳镇"
+    },
+    {
+      "code": "350823109",
+      "name": "蛟洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/蛟洋镇"
+    },
+    {
+      "code": "350823110",
+      "name": "旧县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/旧县镇"
+    },
+    {
+      "code": "350823111",
+      "name": "溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/溪口镇"
+    },
+    {
+      "code": "350823112",
+      "name": "湖洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/湖洋镇"
+    },
+    {
+      "code": "350823113",
+      "name": "太拔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/太拔镇"
+    },
+    {
+      "code": "350823114",
+      "name": "通贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/通贤镇"
+    },
+    {
+      "code": "350823115",
+      "name": "下都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/下都镇"
+    },
+    {
+      "code": "350823116",
+      "name": "茶地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/茶地镇"
+    },
+    {
+      "code": "350823202",
+      "name": "庐丰畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/庐丰畲族乡"
+    },
+    {
+      "code": "350823206",
+      "name": "泮境乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/泮境乡"
+    },
+    {
+      "code": "350823211",
+      "name": "官庄畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/官庄畲族乡"
+    },
+    {
+      "code": "350823212",
+      "name": "珊瑚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350823",
+      "year": 0,
+      "name_path": "福建省/龙岩市/上杭县/珊瑚乡"
+    }
+  ]
+}

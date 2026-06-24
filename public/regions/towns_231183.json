@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "231183100",
+      "name": "嫩江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/嫩江镇"
+    },
+    {
+      "code": "231183101",
+      "name": "伊拉哈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/伊拉哈镇"
+    },
+    {
+      "code": "231183102",
+      "name": "双山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/双山镇"
+    },
+    {
+      "code": "231183103",
+      "name": "多宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/多宝山镇"
+    },
+    {
+      "code": "231183104",
+      "name": "海江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/海江镇"
+    },
+    {
+      "code": "231183105",
+      "name": "前进镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/前进镇"
+    },
+    {
+      "code": "231183106",
+      "name": "长福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/长福镇"
+    },
+    {
+      "code": "231183107",
+      "name": "科洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/科洛镇"
+    },
+    {
+      "code": "231183108",
+      "name": "霍龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/霍龙门镇"
+    },
+    {
+      "code": "231183202",
+      "name": "临江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/临江乡"
+    },
+    {
+      "code": "231183206",
+      "name": "联兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/联兴乡"
+    },
+    {
+      "code": "231183207",
+      "name": "白云乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/白云乡"
+    },
+    {
+      "code": "231183208",
+      "name": "塔溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/塔溪乡"
+    },
+    {
+      "code": "231183211",
+      "name": "长江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231183",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/嫩江市/长江乡"
+    }
+  ]
+}

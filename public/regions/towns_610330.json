@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "610330100",
+      "name": "双石铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/双石铺镇"
+    },
+    {
+      "code": "610330101",
+      "name": "凤州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/凤州镇"
+    },
+    {
+      "code": "610330102",
+      "name": "黄牛铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/黄牛铺镇"
+    },
+    {
+      "code": "610330103",
+      "name": "红花铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/红花铺镇"
+    },
+    {
+      "code": "610330104",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/河口镇"
+    },
+    {
+      "code": "610330105",
+      "name": "唐藏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/唐藏镇"
+    },
+    {
+      "code": "610330106",
+      "name": "平木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/平木镇"
+    },
+    {
+      "code": "610330107",
+      "name": "坪坎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/坪坎镇"
+    },
+    {
+      "code": "610330111",
+      "name": "留凤关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610330",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤县/留凤关镇"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "430682001",
+      "name": "长安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/长安街道"
+    },
+    {
+      "code": "430682003",
+      "name": "桃矿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/桃矿街道"
+    },
+    {
+      "code": "430682004",
+      "name": "五里牌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/五里牌街道"
+    },
+    {
+      "code": "430682006",
+      "name": "云湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/云湖街道"
+    },
+    {
+      "code": "430682101",
+      "name": "忠防镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/忠防镇"
+    },
+    {
+      "code": "430682103",
+      "name": "聂市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/聂市镇"
+    },
+    {
+      "code": "430682105",
+      "name": "江南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/江南镇"
+    },
+    {
+      "code": "430682106",
+      "name": "羊楼司镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/羊楼司镇"
+    },
+    {
+      "code": "430682107",
+      "name": "桃林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/桃林镇"
+    },
+    {
+      "code": "430682108",
+      "name": "长塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/长塘镇"
+    },
+    {
+      "code": "430682109",
+      "name": "白羊田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/白羊田镇"
+    },
+    {
+      "code": "430682110",
+      "name": "詹桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/詹桥镇"
+    },
+    {
+      "code": "430682113",
+      "name": "黄盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/黄盖镇"
+    },
+    {
+      "code": "430682114",
+      "name": "坦渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430682",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/临湘市/坦渡镇"
+    }
+  ]
+}

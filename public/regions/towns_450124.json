@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "450124100",
+      "name": "白山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/白山镇"
+    },
+    {
+      "code": "450124101",
+      "name": "百龙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/百龙滩镇"
+    },
+    {
+      "code": "450124102",
+      "name": "林圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/林圩镇"
+    },
+    {
+      "code": "450124103",
+      "name": "古零镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/古零镇"
+    },
+    {
+      "code": "450124104",
+      "name": "金钗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/金钗镇"
+    },
+    {
+      "code": "450124105",
+      "name": "周鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/周鹿镇"
+    },
+    {
+      "code": "450124106",
+      "name": "永州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/永州镇"
+    },
+    {
+      "code": "450124200",
+      "name": "乔利乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/乔利乡"
+    },
+    {
+      "code": "450124201",
+      "name": "加方乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/加方乡"
+    },
+    {
+      "code": "450124202",
+      "name": "古寨瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/古寨瑶族乡"
+    },
+    {
+      "code": "450124203",
+      "name": "里当瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450124",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/马山县/里当瑶族乡"
+    }
+  ]
+}

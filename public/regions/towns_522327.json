@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "522327001",
+      "name": "者楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/者楼街道"
+    },
+    {
+      "code": "522327002",
+      "name": "纳福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/纳福街道"
+    },
+    {
+      "code": "522327003",
+      "name": "高洛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/高洛街道"
+    },
+    {
+      "code": "522327103",
+      "name": "丫他镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/丫他镇"
+    },
+    {
+      "code": "522327104",
+      "name": "巧马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/巧马镇"
+    },
+    {
+      "code": "522327105",
+      "name": "秧坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/秧坝镇"
+    },
+    {
+      "code": "522327107",
+      "name": "岩架镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/岩架镇"
+    },
+    {
+      "code": "522327108",
+      "name": "八渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/八渡镇"
+    },
+    {
+      "code": "522327109",
+      "name": "双江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/双江镇"
+    },
+    {
+      "code": "522327110",
+      "name": "坡妹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/坡妹镇"
+    },
+    {
+      "code": "522327111",
+      "name": "冗渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/冗渡镇"
+    },
+    {
+      "code": "522327112",
+      "name": "弼佑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/弼佑镇"
+    },
+    {
+      "code": "522327204",
+      "name": "百口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522327",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/册亨县/百口乡"
+    }
+  ]
+}

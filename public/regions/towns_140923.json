@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "140923100",
+      "name": "上馆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/上馆镇"
+    },
+    {
+      "code": "140923101",
+      "name": "阳明堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/阳明堡镇"
+    },
+    {
+      "code": "140923102",
+      "name": "峨口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/峨口镇"
+    },
+    {
+      "code": "140923103",
+      "name": "聂营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/聂营镇"
+    },
+    {
+      "code": "140923104",
+      "name": "枣林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/枣林镇"
+    },
+    {
+      "code": "140923106",
+      "name": "雁门关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/雁门关镇"
+    },
+    {
+      "code": "140923107",
+      "name": "峪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/峪口镇"
+    },
+    {
+      "code": "140923200",
+      "name": "新高乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/新高乡"
+    },
+    {
+      "code": "140923202",
+      "name": "上磨坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140923",
+      "year": 0,
+      "name_path": "山西省/忻州市/代县/上磨坊乡"
+    }
+  ]
+}

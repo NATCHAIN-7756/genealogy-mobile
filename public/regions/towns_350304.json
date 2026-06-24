@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "350304001",
+      "name": "镇海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350304",
+      "year": 0,
+      "name_path": "福建省/莆田市/荔城区/镇海街道"
+    },
+    {
+      "code": "350304002",
+      "name": "拱辰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350304",
+      "year": 0,
+      "name_path": "福建省/莆田市/荔城区/拱辰街道"
+    },
+    {
+      "code": "350304100",
+      "name": "西天尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350304",
+      "year": 0,
+      "name_path": "福建省/莆田市/荔城区/西天尾镇"
+    },
+    {
+      "code": "350304101",
+      "name": "黄石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350304",
+      "year": 0,
+      "name_path": "福建省/莆田市/荔城区/黄石镇"
+    },
+    {
+      "code": "350304102",
+      "name": "新度镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350304",
+      "year": 0,
+      "name_path": "福建省/莆田市/荔城区/新度镇"
+    },
+    {
+      "code": "350304103",
+      "name": "北高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350304",
+      "year": 0,
+      "name_path": "福建省/莆田市/荔城区/北高镇"
+    }
+  ]
+}

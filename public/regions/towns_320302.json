@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "320302001",
+      "name": "丰财街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/丰财街道"
+    },
+    {
+      "code": "320302002",
+      "name": "环城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/环城街道"
+    },
+    {
+      "code": "320302003",
+      "name": "黄楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/黄楼街道"
+    },
+    {
+      "code": "320302004",
+      "name": "牌楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/牌楼街道"
+    },
+    {
+      "code": "320302008",
+      "name": "琵琶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/琵琶街道"
+    },
+    {
+      "code": "320302011",
+      "name": "铜沛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/铜沛街道"
+    },
+    {
+      "code": "320302012",
+      "name": "九里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/九里街道"
+    },
+    {
+      "code": "320302013",
+      "name": "金山桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/金山桥街道"
+    },
+    {
+      "code": "320302014",
+      "name": "东环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/东环街道"
+    },
+    {
+      "code": "320302015",
+      "name": "拾屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320302",
+      "year": 0,
+      "name_path": "江苏省/徐州市/鼓楼区/拾屯街道"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "140502",
+      "name": "城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140500",
+      "year": 0,
+      "name_path": "全国/山西省/晋城市/城区"
+    },
+    {
+      "code": "140521",
+      "name": "沁水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140500",
+      "year": 0,
+      "name_path": "全国/山西省/晋城市/沁水县"
+    },
+    {
+      "code": "140522",
+      "name": "阳城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140500",
+      "year": 0,
+      "name_path": "全国/山西省/晋城市/阳城县"
+    },
+    {
+      "code": "140524",
+      "name": "陵川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140500",
+      "year": 0,
+      "name_path": "全国/山西省/晋城市/陵川县"
+    },
+    {
+      "code": "140525",
+      "name": "泽州县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140500",
+      "year": 0,
+      "name_path": "全国/山西省/晋城市/泽州县"
+    },
+    {
+      "code": "140581",
+      "name": "高平市",
+      "level": 3,
+      "type": null,
+      "parent_code": "140500",
+      "year": 0,
+      "name_path": "全国/山西省/晋城市/高平市"
+    }
+  ]
+}

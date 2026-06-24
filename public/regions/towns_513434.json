@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "513434100",
+      "name": "越城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/越城镇"
+    },
+    {
+      "code": "513434101",
+      "name": "中所镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/中所镇"
+    },
+    {
+      "code": "513434102",
+      "name": "新民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/新民镇"
+    },
+    {
+      "code": "513434103",
+      "name": "乃托镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/乃托镇"
+    },
+    {
+      "code": "513434104",
+      "name": "普雄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/普雄镇"
+    },
+    {
+      "code": "513434105",
+      "name": "大瑞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/大瑞镇"
+    },
+    {
+      "code": "513434106",
+      "name": "竹阿觉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/竹阿觉镇"
+    },
+    {
+      "code": "513434107",
+      "name": "书古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/书古镇"
+    },
+    {
+      "code": "513434108",
+      "name": "依洛地坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/依洛地坝镇"
+    },
+    {
+      "code": "513434109",
+      "name": "南箐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/南箐镇"
+    },
+    {
+      "code": "513434110",
+      "name": "贡莫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/贡莫镇"
+    },
+    {
+      "code": "513434111",
+      "name": "梅花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/梅花镇"
+    },
+    {
+      "code": "513434112",
+      "name": "尔觉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/尔觉镇"
+    },
+    {
+      "code": "513434113",
+      "name": "拉普镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/拉普镇"
+    },
+    {
+      "code": "513434114",
+      "name": "马拖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/马拖镇"
+    },
+    {
+      "code": "513434115",
+      "name": "大花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/大花镇"
+    },
+    {
+      "code": "513434116",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/板桥镇"
+    },
+    {
+      "code": "513434211",
+      "name": "保安藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/保安藏族乡"
+    },
+    {
+      "code": "513434235",
+      "name": "拉吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/拉吉乡"
+    },
+    {
+      "code": "513434236",
+      "name": "申果庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513434",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/越西县/申果庄乡"
+    }
+  ]
+}

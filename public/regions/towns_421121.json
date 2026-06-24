@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "421121100",
+      "name": "团风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/团风镇"
+    },
+    {
+      "code": "421121101",
+      "name": "淋山河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/淋山河镇"
+    },
+    {
+      "code": "421121102",
+      "name": "方高坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/方高坪镇"
+    },
+    {
+      "code": "421121103",
+      "name": "回龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/回龙山镇"
+    },
+    {
+      "code": "421121104",
+      "name": "马曹庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/马曹庙镇"
+    },
+    {
+      "code": "421121105",
+      "name": "上巴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/上巴河镇"
+    },
+    {
+      "code": "421121106",
+      "name": "总路咀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/总路咀镇"
+    },
+    {
+      "code": "421121107",
+      "name": "但店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/但店镇"
+    },
+    {
+      "code": "421121200",
+      "name": "贾庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/贾庙乡"
+    },
+    {
+      "code": "421121201",
+      "name": "杜皮乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421121",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/团风县/杜皮乡"
+    }
+  ]
+}

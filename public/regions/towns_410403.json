@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "410403001",
+      "name": "东安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/东安路街道"
+    },
+    {
+      "code": "410403002",
+      "name": "优越路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/优越路街道"
+    },
+    {
+      "code": "410403003",
+      "name": "五一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/五一路街道"
+    },
+    {
+      "code": "410403004",
+      "name": "建设路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/建设路街道"
+    },
+    {
+      "code": "410403005",
+      "name": "东环路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/东环路街道"
+    },
+    {
+      "code": "410403006",
+      "name": "东工人镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/东工人镇街道"
+    },
+    {
+      "code": "410403007",
+      "name": "光华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/光华路街道"
+    },
+    {
+      "code": "410403008",
+      "name": "鸿鹰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/鸿鹰街道"
+    },
+    {
+      "code": "410403009",
+      "name": "皇台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/皇台街道"
+    },
+    {
+      "code": "410403010",
+      "name": "北环路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/北环路街道"
+    },
+    {
+      "code": "410403011",
+      "name": "东高皇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/东高皇街道"
+    },
+    {
+      "code": "410403012",
+      "name": "蒲城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/蒲城街道"
+    },
+    {
+      "code": "410403013",
+      "name": "申楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410403",
+      "year": 0,
+      "name_path": "河南省/平顶山市/卫东区/申楼街道"
+    }
+  ]
+}

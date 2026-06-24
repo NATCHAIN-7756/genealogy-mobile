@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "350211001",
+      "name": "集美街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350211",
+      "year": 0,
+      "name_path": "福建省/厦门市/集美区/集美街道"
+    },
+    {
+      "code": "350211002",
+      "name": "侨英街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350211",
+      "year": 0,
+      "name_path": "福建省/厦门市/集美区/侨英街道"
+    },
+    {
+      "code": "350211003",
+      "name": "杏林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350211",
+      "year": 0,
+      "name_path": "福建省/厦门市/集美区/杏林街道"
+    },
+    {
+      "code": "350211004",
+      "name": "杏滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350211",
+      "year": 0,
+      "name_path": "福建省/厦门市/集美区/杏滨街道"
+    },
+    {
+      "code": "350211102",
+      "name": "灌口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350211",
+      "year": 0,
+      "name_path": "福建省/厦门市/集美区/灌口镇"
+    },
+    {
+      "code": "350211103",
+      "name": "后溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350211",
+      "year": 0,
+      "name_path": "福建省/厦门市/集美区/后溪镇"
+    }
+  ]
+}

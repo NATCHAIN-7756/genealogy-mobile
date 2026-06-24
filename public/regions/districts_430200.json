@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "430202",
+      "name": "荷塘区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/荷塘区"
+    },
+    {
+      "code": "430203",
+      "name": "芦淞区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/芦淞区"
+    },
+    {
+      "code": "430204",
+      "name": "石峰区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/石峰区"
+    },
+    {
+      "code": "430211",
+      "name": "天元区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/天元区"
+    },
+    {
+      "code": "430212",
+      "name": "渌口区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/渌口区"
+    },
+    {
+      "code": "430223",
+      "name": "攸县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/攸县"
+    },
+    {
+      "code": "430224",
+      "name": "茶陵县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/茶陵县"
+    },
+    {
+      "code": "430225",
+      "name": "炎陵县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/炎陵县"
+    },
+    {
+      "code": "430281",
+      "name": "醴陵市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430200",
+      "year": 0,
+      "name_path": "全国/湖南省/株洲市/醴陵市"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "533401",
+      "name": "香格里拉市",
+      "level": 3,
+      "type": null,
+      "parent_code": "533400",
+      "year": 0,
+      "name_path": "全国/云南省/迪庆藏族自治州/香格里拉市"
+    },
+    {
+      "code": "533422",
+      "name": "德钦县",
+      "level": 3,
+      "type": null,
+      "parent_code": "533400",
+      "year": 0,
+      "name_path": "全国/云南省/迪庆藏族自治州/德钦县"
+    },
+    {
+      "code": "533423",
+      "name": "维西傈僳族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "533400",
+      "year": 0,
+      "name_path": "全国/云南省/迪庆藏族自治州/维西傈僳族自治县"
+    }
+  ]
+}

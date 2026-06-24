@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "350526100",
+      "name": "浔中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/浔中镇"
+    },
+    {
+      "code": "350526101",
+      "name": "龙浔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/龙浔镇"
+    },
+    {
+      "code": "350526102",
+      "name": "三班镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/三班镇"
+    },
+    {
+      "code": "350526103",
+      "name": "龙门滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/龙门滩镇"
+    },
+    {
+      "code": "350526104",
+      "name": "雷峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/雷峰镇"
+    },
+    {
+      "code": "350526105",
+      "name": "南埕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/南埕镇"
+    },
+    {
+      "code": "350526106",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/水口镇"
+    },
+    {
+      "code": "350526107",
+      "name": "赤水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/赤水镇"
+    },
+    {
+      "code": "350526108",
+      "name": "上涌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/上涌镇"
+    },
+    {
+      "code": "350526109",
+      "name": "葛坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/葛坑镇"
+    },
+    {
+      "code": "350526110",
+      "name": "盖德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/盖德镇"
+    },
+    {
+      "code": "350526111",
+      "name": "美湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/美湖镇"
+    },
+    {
+      "code": "350526200",
+      "name": "杨梅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/杨梅乡"
+    },
+    {
+      "code": "350526202",
+      "name": "汤头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/汤头乡"
+    },
+    {
+      "code": "350526204",
+      "name": "桂阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/桂阳乡"
+    },
+    {
+      "code": "350526206",
+      "name": "国宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/国宝乡"
+    },
+    {
+      "code": "350526208",
+      "name": "大铭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/大铭乡"
+    },
+    {
+      "code": "350526209",
+      "name": "春美乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350526",
+      "year": 0,
+      "name_path": "福建省/泉州市/德化县/春美乡"
+    }
+  ]
+}

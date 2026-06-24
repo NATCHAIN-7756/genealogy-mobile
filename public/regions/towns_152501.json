@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "152501001",
+      "name": "乌兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152501",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/二连浩特市/乌兰街道"
+    },
+    {
+      "code": "152501002",
+      "name": "锡林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152501",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/二连浩特市/锡林街道"
+    },
+    {
+      "code": "152501003",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152501",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/二连浩特市/东城街道"
+    },
+    {
+      "code": "152501200",
+      "name": "格日勒敖都苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152501",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/二连浩特市/格日勒敖都苏木"
+    }
+  ]
+}

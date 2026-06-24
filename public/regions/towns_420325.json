@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "420325100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/城关镇"
+    },
+    {
+      "code": "420325101",
+      "name": "军店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/军店镇"
+    },
+    {
+      "code": "420325102",
+      "name": "化龙堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/化龙堰镇"
+    },
+    {
+      "code": "420325103",
+      "name": "土城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/土城镇"
+    },
+    {
+      "code": "420325104",
+      "name": "大木厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/大木厂镇"
+    },
+    {
+      "code": "420325105",
+      "name": "青峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/青峰镇"
+    },
+    {
+      "code": "420325106",
+      "name": "门古寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/门古寺镇"
+    },
+    {
+      "code": "420325107",
+      "name": "白鹤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/白鹤镇"
+    },
+    {
+      "code": "420325108",
+      "name": "野人谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/野人谷镇"
+    },
+    {
+      "code": "420325109",
+      "name": "红塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/红塔镇"
+    },
+    {
+      "code": "420325110",
+      "name": "窑淮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/窑淮镇"
+    },
+    {
+      "code": "420325111",
+      "name": "尹吉甫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/尹吉甫镇"
+    },
+    {
+      "code": "420325203",
+      "name": "姚坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/姚坪乡"
+    },
+    {
+      "code": "420325205",
+      "name": "沙河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/沙河乡"
+    },
+    {
+      "code": "420325206",
+      "name": "万峪河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/万峪河乡"
+    },
+    {
+      "code": "420325208",
+      "name": "上龛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/上龛乡"
+    },
+    {
+      "code": "420325209",
+      "name": "中坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/中坝乡"
+    },
+    {
+      "code": "420325210",
+      "name": "九道乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/九道乡"
+    },
+    {
+      "code": "420325211",
+      "name": "回龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/回龙乡"
+    },
+    {
+      "code": "420325212",
+      "name": "五台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420325",
+      "year": 0,
+      "name_path": "湖北省/十堰市/房县/五台乡"
+    }
+  ]
+}

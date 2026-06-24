@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "650203001",
+      "name": "天山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/天山路街道"
+    },
+    {
+      "code": "650203002",
+      "name": "胜利路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/胜利路街道"
+    },
+    {
+      "code": "650203003",
+      "name": "昆仑路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/昆仑路街道"
+    },
+    {
+      "code": "650203004",
+      "name": "银河路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/银河路街道"
+    },
+    {
+      "code": "650203006",
+      "name": "五五新镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/五五新镇街道"
+    },
+    {
+      "code": "650203007",
+      "name": "迎宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/迎宾街道"
+    },
+    {
+      "code": "650203008",
+      "name": "古海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/古海街道"
+    },
+    {
+      "code": "650203200",
+      "name": "小拐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/克拉玛依市/克拉玛依区/小拐乡"
+    }
+  ]
+}

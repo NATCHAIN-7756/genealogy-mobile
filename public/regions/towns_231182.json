@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "231182001",
+      "name": "青山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/青山街道"
+    },
+    {
+      "code": "231182101",
+      "name": "龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/龙镇"
+    },
+    {
+      "code": "231182102",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/和平镇"
+    },
+    {
+      "code": "231182103",
+      "name": "五大连池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/五大连池镇"
+    },
+    {
+      "code": "231182104",
+      "name": "双泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/双泉镇"
+    },
+    {
+      "code": "231182105",
+      "name": "新发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/新发镇"
+    },
+    {
+      "code": "231182106",
+      "name": "团结镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/团结镇"
+    },
+    {
+      "code": "231182107",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/兴隆镇"
+    },
+    {
+      "code": "231182108",
+      "name": "朝阳山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/朝阳山镇"
+    },
+    {
+      "code": "231182203",
+      "name": "建设乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/建设乡"
+    },
+    {
+      "code": "231182205",
+      "name": "太平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/太平乡"
+    },
+    {
+      "code": "231182208",
+      "name": "兴安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231182",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/五大连池市/兴安乡"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "340882100",
+      "name": "梅城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/梅城镇"
+    },
+    {
+      "code": "340882101",
+      "name": "王河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/王河镇"
+    },
+    {
+      "code": "340882102",
+      "name": "源潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/源潭镇"
+    },
+    {
+      "code": "340882103",
+      "name": "余井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/余井镇"
+    },
+    {
+      "code": "340882105",
+      "name": "黄泥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/黄泥镇"
+    },
+    {
+      "code": "340882106",
+      "name": "槎水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/槎水镇"
+    },
+    {
+      "code": "340882107",
+      "name": "官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/官庄镇"
+    },
+    {
+      "code": "340882108",
+      "name": "水吼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/水吼镇"
+    },
+    {
+      "code": "340882109",
+      "name": "黄柏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/黄柏镇"
+    },
+    {
+      "code": "340882110",
+      "name": "黄铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/黄铺镇"
+    },
+    {
+      "code": "340882111",
+      "name": "天柱山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/天柱山镇"
+    },
+    {
+      "code": "340882200",
+      "name": "油坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/油坝乡"
+    },
+    {
+      "code": "340882202",
+      "name": "痘姆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/痘姆乡"
+    },
+    {
+      "code": "340882204",
+      "name": "塔畈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/塔畈乡"
+    },
+    {
+      "code": "340882209",
+      "name": "五庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/五庙乡"
+    },
+    {
+      "code": "340882215",
+      "name": "龙潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340882",
+      "year": 0,
+      "name_path": "安徽省/安庆市/潜山市/龙潭乡"
+    }
+  ]
+}

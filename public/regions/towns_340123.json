@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "340123100",
+      "name": "上派镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/上派镇"
+    },
+    {
+      "code": "340123101",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/三河镇"
+    },
+    {
+      "code": "340123102",
+      "name": "桃花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/桃花镇"
+    },
+    {
+      "code": "340123103",
+      "name": "花岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/花岗镇"
+    },
+    {
+      "code": "340123105",
+      "name": "官亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/官亭镇"
+    },
+    {
+      "code": "340123107",
+      "name": "山南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/山南镇"
+    },
+    {
+      "code": "340123108",
+      "name": "丰乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/丰乐镇"
+    },
+    {
+      "code": "340123110",
+      "name": "紫蓬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/紫蓬镇"
+    },
+    {
+      "code": "340123111",
+      "name": "高店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/高店镇"
+    },
+    {
+      "code": "340123112",
+      "name": "严店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/严店镇"
+    },
+    {
+      "code": "340123203",
+      "name": "铭传乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/铭传乡"
+    },
+    {
+      "code": "340123207",
+      "name": "柿树岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340123",
+      "year": 0,
+      "name_path": "安徽省/合肥市/肥西县/柿树岗乡"
+    }
+  ]
+}

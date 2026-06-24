@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "410702001",
+      "name": "西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/西街街道"
+    },
+    {
+      "code": "410702002",
+      "name": "东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/东街街道"
+    },
+    {
+      "code": "410702003",
+      "name": "渠东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/渠东街道"
+    },
+    {
+      "code": "410702007",
+      "name": "文化街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/文化街街道"
+    },
+    {
+      "code": "410702009",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/向阳街道"
+    },
+    {
+      "code": "410702010",
+      "name": "振中街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/振中街街道"
+    },
+    {
+      "code": "410702011",
+      "name": "纬七路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/纬七路街道"
+    },
+    {
+      "code": "410702100",
+      "name": "洪门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/洪门镇"
+    },
+    {
+      "code": "410702101",
+      "name": "小店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/小店镇"
+    },
+    {
+      "code": "410702102",
+      "name": "关堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410702",
+      "year": 0,
+      "name_path": "河南省/新乡市/红旗区/关堤镇"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "360602",
+      "name": "月湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360600",
+      "year": 0,
+      "name_path": "全国/江西省/鹰潭市/月湖区"
+    },
+    {
+      "code": "360603",
+      "name": "余江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360600",
+      "year": 0,
+      "name_path": "全国/江西省/鹰潭市/余江区"
+    },
+    {
+      "code": "360681",
+      "name": "贵溪市",
+      "level": 3,
+      "type": null,
+      "parent_code": "360600",
+      "year": 0,
+      "name_path": "全国/江西省/鹰潭市/贵溪市"
+    }
+  ]
+}

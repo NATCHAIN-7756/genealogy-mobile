@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "232701100",
+      "name": "西林吉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232701",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/漠河市/西林吉镇"
+    },
+    {
+      "code": "232701101",
+      "name": "图强镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232701",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/漠河市/图强镇"
+    },
+    {
+      "code": "232701102",
+      "name": "阿木尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232701",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/漠河市/阿木尔镇"
+    },
+    {
+      "code": "232701103",
+      "name": "兴安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232701",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/漠河市/兴安镇"
+    },
+    {
+      "code": "232701104",
+      "name": "北极镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232701",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/漠河市/北极镇"
+    },
+    {
+      "code": "232701105",
+      "name": "古莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232701",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/漠河市/古莲镇"
+    }
+  ]
+}

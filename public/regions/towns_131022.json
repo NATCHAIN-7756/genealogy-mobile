@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "131022100",
+      "name": "固安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/固安镇"
+    },
+    {
+      "code": "131022101",
+      "name": "宫村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/宫村镇"
+    },
+    {
+      "code": "131022102",
+      "name": "柳泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/柳泉镇"
+    },
+    {
+      "code": "131022103",
+      "name": "牛驼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/牛驼镇"
+    },
+    {
+      "code": "131022104",
+      "name": "马庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/马庄镇"
+    },
+    {
+      "code": "131022105",
+      "name": "东湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/东湾镇"
+    },
+    {
+      "code": "131022106",
+      "name": "渠沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/渠沟镇"
+    },
+    {
+      "code": "131022201",
+      "name": "彭村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/彭村乡"
+    },
+    {
+      "code": "131022203",
+      "name": "礼让店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131022",
+      "year": 0,
+      "name_path": "河北省/廊坊市/固安县/礼让店乡"
+    }
+  ]
+}

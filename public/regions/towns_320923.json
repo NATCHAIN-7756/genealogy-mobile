@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "320923001",
+      "name": "阜城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/阜城街道"
+    },
+    {
+      "code": "320923002",
+      "name": "金沙湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/金沙湖街道"
+    },
+    {
+      "code": "320923003",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/花园街道"
+    },
+    {
+      "code": "320923004",
+      "name": "吴滩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/吴滩街道"
+    },
+    {
+      "code": "320923101",
+      "name": "沟墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/沟墩镇"
+    },
+    {
+      "code": "320923104",
+      "name": "陈良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/陈良镇"
+    },
+    {
+      "code": "320923106",
+      "name": "三灶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/三灶镇"
+    },
+    {
+      "code": "320923107",
+      "name": "郭墅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/郭墅镇"
+    },
+    {
+      "code": "320923108",
+      "name": "新沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/新沟镇"
+    },
+    {
+      "code": "320923109",
+      "name": "陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/陈集镇"
+    },
+    {
+      "code": "320923110",
+      "name": "羊寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/羊寨镇"
+    },
+    {
+      "code": "320923111",
+      "name": "芦蒲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/芦蒲镇"
+    },
+    {
+      "code": "320923113",
+      "name": "板湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/板湖镇"
+    },
+    {
+      "code": "320923114",
+      "name": "东沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/东沟镇"
+    },
+    {
+      "code": "320923115",
+      "name": "益林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/益林镇"
+    },
+    {
+      "code": "320923118",
+      "name": "古河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/古河镇"
+    },
+    {
+      "code": "320923119",
+      "name": "罗桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320923",
+      "year": 0,
+      "name_path": "江苏省/盐城市/阜宁县/罗桥镇"
+    }
+  ]
+}

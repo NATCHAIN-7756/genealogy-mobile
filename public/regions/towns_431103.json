@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "431103001",
+      "name": "梅湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/梅湾街道"
+    },
+    {
+      "code": "431103002",
+      "name": "菱角山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/菱角山街道"
+    },
+    {
+      "code": "431103003",
+      "name": "肖家园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/肖家园街道"
+    },
+    {
+      "code": "431103004",
+      "name": "杨家桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/杨家桥街道"
+    },
+    {
+      "code": "431103005",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/凤凰街道"
+    },
+    {
+      "code": "431103006",
+      "name": "梧桐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/梧桐街道"
+    },
+    {
+      "code": "431103007",
+      "name": "珊瑚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/珊瑚街道"
+    },
+    {
+      "code": "431103008",
+      "name": "曲河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/曲河街道"
+    },
+    {
+      "code": "431103009",
+      "name": "岚角山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/岚角山街道"
+    },
+    {
+      "code": "431103010",
+      "name": "仁湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/仁湾街道"
+    },
+    {
+      "code": "431103101",
+      "name": "花桥街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/花桥街镇"
+    },
+    {
+      "code": "431103102",
+      "name": "普利桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/普利桥镇"
+    },
+    {
+      "code": "431103103",
+      "name": "牛角坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/牛角坝镇"
+    },
+    {
+      "code": "431103104",
+      "name": "高溪市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/高溪市镇"
+    },
+    {
+      "code": "431103105",
+      "name": "黄阳司镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/黄阳司镇"
+    },
+    {
+      "code": "431103106",
+      "name": "上岭桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/上岭桥镇"
+    },
+    {
+      "code": "431103108",
+      "name": "伊塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/伊塘镇"
+    },
+    {
+      "code": "431103110",
+      "name": "蔡市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/蔡市镇"
+    },
+    {
+      "code": "431103201",
+      "name": "杨村甸乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431103",
+      "year": 0,
+      "name_path": "湖南省/永州市/冷水滩区/杨村甸乡"
+    }
+  ]
+}

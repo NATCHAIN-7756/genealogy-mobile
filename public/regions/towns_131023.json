@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "131023100",
+      "name": "永清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/永清镇"
+    },
+    {
+      "code": "131023101",
+      "name": "韩村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/韩村镇"
+    },
+    {
+      "code": "131023102",
+      "name": "后奕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/后奕镇"
+    },
+    {
+      "code": "131023103",
+      "name": "别古庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/别古庄镇"
+    },
+    {
+      "code": "131023104",
+      "name": "里澜城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/里澜城镇"
+    },
+    {
+      "code": "131023105",
+      "name": "刘街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/刘街镇"
+    },
+    {
+      "code": "131023106",
+      "name": "曹家务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/曹家务镇"
+    },
+    {
+      "code": "131023200",
+      "name": "管家务回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/管家务回族乡"
+    },
+    {
+      "code": "131023202",
+      "name": "龙虎庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/龙虎庄乡"
+    },
+    {
+      "code": "131023204",
+      "name": "三圣口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131023",
+      "year": 0,
+      "name_path": "河北省/廊坊市/永清县/三圣口乡"
+    }
+  ]
+}

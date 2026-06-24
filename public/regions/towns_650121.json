@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "650121100",
+      "name": "水西沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/乌鲁木齐县/水西沟镇"
+    },
+    {
+      "code": "650121102",
+      "name": "板房沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/乌鲁木齐县/板房沟镇"
+    },
+    {
+      "code": "650121207",
+      "name": "萨尔达坂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/乌鲁木齐县/萨尔达坂乡"
+    },
+    {
+      "code": "650121208",
+      "name": "甘沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/乌鲁木齐县/甘沟乡"
+    },
+    {
+      "code": "650121213",
+      "name": "托里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/乌鲁木齐县/托里乡"
+    }
+  ]
+}

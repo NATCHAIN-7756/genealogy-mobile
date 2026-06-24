@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "451002",
+      "name": "右江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/右江区"
+    },
+    {
+      "code": "451003",
+      "name": "田阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/田阳区"
+    },
+    {
+      "code": "451022",
+      "name": "田东县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/田东县"
+    },
+    {
+      "code": "451024",
+      "name": "德保县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/德保县"
+    },
+    {
+      "code": "451026",
+      "name": "那坡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/那坡县"
+    },
+    {
+      "code": "451027",
+      "name": "凌云县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/凌云县"
+    },
+    {
+      "code": "451028",
+      "name": "乐业县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/乐业县"
+    },
+    {
+      "code": "451029",
+      "name": "田林县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/田林县"
+    },
+    {
+      "code": "451030",
+      "name": "西林县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/西林县"
+    },
+    {
+      "code": "451031",
+      "name": "隆林各族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/隆林各族自治县"
+    },
+    {
+      "code": "451081",
+      "name": "靖西市",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/靖西市"
+    },
+    {
+      "code": "451082",
+      "name": "平果市",
+      "level": 3,
+      "type": null,
+      "parent_code": "451000",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/百色市/平果市"
+    }
+  ]
+}

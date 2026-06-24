@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "440403001",
+      "name": "白藤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440403",
+      "year": 0,
+      "name_path": "广东省/珠海市/斗门区/白藤街道"
+    },
+    {
+      "code": "440403102",
+      "name": "莲洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440403",
+      "year": 0,
+      "name_path": "广东省/珠海市/斗门区/莲洲镇"
+    },
+    {
+      "code": "440403103",
+      "name": "斗门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440403",
+      "year": 0,
+      "name_path": "广东省/珠海市/斗门区/斗门镇"
+    },
+    {
+      "code": "440403105",
+      "name": "乾务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440403",
+      "year": 0,
+      "name_path": "广东省/珠海市/斗门区/乾务镇"
+    },
+    {
+      "code": "440403106",
+      "name": "白蕉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440403",
+      "year": 0,
+      "name_path": "广东省/珠海市/斗门区/白蕉镇"
+    },
+    {
+      "code": "440403107",
+      "name": "井岸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440403",
+      "year": 0,
+      "name_path": "广东省/珠海市/斗门区/井岸镇"
+    }
+  ]
+}

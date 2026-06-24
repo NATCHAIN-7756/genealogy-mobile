@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "150522101",
+      "name": "金宝屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/金宝屯镇"
+    },
+    {
+      "code": "150522102",
+      "name": "吉尔嘎朗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/吉尔嘎朗镇"
+    },
+    {
+      "code": "150522103",
+      "name": "双胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/双胜镇"
+    },
+    {
+      "code": "150522107",
+      "name": "阿古拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/阿古拉镇"
+    },
+    {
+      "code": "150522109",
+      "name": "朝鲁吐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/朝鲁吐镇"
+    },
+    {
+      "code": "150522110",
+      "name": "海鲁吐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/海鲁吐镇"
+    },
+    {
+      "code": "150522111",
+      "name": "甘旗卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/甘旗卡镇"
+    },
+    {
+      "code": "150522112",
+      "name": "常胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/常胜镇"
+    },
+    {
+      "code": "150522113",
+      "name": "查日苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/查日苏镇"
+    },
+    {
+      "code": "150522136",
+      "name": "努古斯台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/努古斯台镇"
+    },
+    {
+      "code": "150522208",
+      "name": "阿都沁苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/阿都沁苏木"
+    },
+    {
+      "code": "150522209",
+      "name": "茂道吐苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/茂道吐苏木"
+    },
+    {
+      "code": "150522210",
+      "name": "巴胡塔苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/巴胡塔苏木"
+    },
+    {
+      "code": "150522211",
+      "name": "散都苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/散都苏木"
+    },
+    {
+      "code": "150522212",
+      "name": "巴彦毛都苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150522",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/科尔沁左翼后旗/巴彦毛都苏木"
+    }
+  ]
+}

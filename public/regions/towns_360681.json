@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "360681001",
+      "name": "雄石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/雄石街道"
+    },
+    {
+      "code": "360681002",
+      "name": "东门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/东门街道"
+    },
+    {
+      "code": "360681003",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/花园街道"
+    },
+    {
+      "code": "360681004",
+      "name": "江北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/江北街道"
+    },
+    {
+      "code": "360681103",
+      "name": "塘湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/塘湾镇"
+    },
+    {
+      "code": "360681104",
+      "name": "泗沥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/泗沥镇"
+    },
+    {
+      "code": "360681105",
+      "name": "河潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/河潭镇"
+    },
+    {
+      "code": "360681106",
+      "name": "志光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/志光镇"
+    },
+    {
+      "code": "360681107",
+      "name": "鸿塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/鸿塘镇"
+    },
+    {
+      "code": "360681108",
+      "name": "冷水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/冷水镇"
+    },
+    {
+      "code": "360681109",
+      "name": "文坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/文坊镇"
+    },
+    {
+      "code": "360681110",
+      "name": "金屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/金屯镇"
+    },
+    {
+      "code": "360681111",
+      "name": "流口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/流口镇"
+    },
+    {
+      "code": "360681112",
+      "name": "罗河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/罗河镇"
+    },
+    {
+      "code": "360681113",
+      "name": "周坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/周坊镇"
+    },
+    {
+      "code": "360681114",
+      "name": "滨江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/滨江镇"
+    },
+    {
+      "code": "360681115",
+      "name": "天禄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/天禄镇"
+    },
+    {
+      "code": "360681116",
+      "name": "雷溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/雷溪镇"
+    },
+    {
+      "code": "360681117",
+      "name": "上清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/上清镇"
+    },
+    {
+      "code": "360681118",
+      "name": "龙虎山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/龙虎山镇"
+    },
+    {
+      "code": "360681201",
+      "name": "白田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/白田乡"
+    },
+    {
+      "code": "360681206",
+      "name": "耳口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/耳口乡"
+    },
+    {
+      "code": "360681208",
+      "name": "樟坪畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/樟坪畲族乡"
+    },
+    {
+      "code": "360681210",
+      "name": "彭湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360681",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/贵溪市/彭湾乡"
+    }
+  ]
+}

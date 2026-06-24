@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "350703001",
+      "name": "潭城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/潭城街道"
+    },
+    {
+      "code": "350703002",
+      "name": "童游街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/童游街道"
+    },
+    {
+      "code": "350703003",
+      "name": "宝山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/宝山街道"
+    },
+    {
+      "code": "350703004",
+      "name": "崇阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/崇阳街道"
+    },
+    {
+      "code": "350703005",
+      "name": "崇泰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/崇泰街道"
+    },
+    {
+      "code": "350703100",
+      "name": "将口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/将口镇"
+    },
+    {
+      "code": "350703101",
+      "name": "徐市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/徐市镇"
+    },
+    {
+      "code": "350703102",
+      "name": "莒口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/莒口镇"
+    },
+    {
+      "code": "350703103",
+      "name": "麻沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/麻沙镇"
+    },
+    {
+      "code": "350703104",
+      "name": "黄坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/黄坑镇"
+    },
+    {
+      "code": "350703105",
+      "name": "水吉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/水吉镇"
+    },
+    {
+      "code": "350703106",
+      "name": "漳墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/漳墩镇"
+    },
+    {
+      "code": "350703107",
+      "name": "小湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/小湖镇"
+    },
+    {
+      "code": "350703200",
+      "name": "崇雒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/崇雒乡"
+    },
+    {
+      "code": "350703201",
+      "name": "书坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/书坊乡"
+    },
+    {
+      "code": "350703202",
+      "name": "回龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350703",
+      "year": 0,
+      "name_path": "福建省/南平市/建阳区/回龙乡"
+    }
+  ]
+}

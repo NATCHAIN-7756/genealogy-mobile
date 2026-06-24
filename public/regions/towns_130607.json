@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130607100",
+      "name": "满城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/满城镇"
+    },
+    {
+      "code": "130607101",
+      "name": "大册营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/大册营镇"
+    },
+    {
+      "code": "130607102",
+      "name": "神星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/神星镇"
+    },
+    {
+      "code": "130607103",
+      "name": "南韩村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/南韩村镇"
+    },
+    {
+      "code": "130607104",
+      "name": "方顺桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/方顺桥镇"
+    },
+    {
+      "code": "130607105",
+      "name": "于家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/于家庄镇"
+    },
+    {
+      "code": "130607106",
+      "name": "石井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/石井镇"
+    },
+    {
+      "code": "130607203",
+      "name": "要庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/要庄乡"
+    },
+    {
+      "code": "130607204",
+      "name": "白龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/白龙乡"
+    },
+    {
+      "code": "130607206",
+      "name": "坨南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/坨南乡"
+    },
+    {
+      "code": "130607207",
+      "name": "刘家台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/刘家台乡"
+    },
+    {
+      "code": "130607208",
+      "name": "贤台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130607",
+      "year": 0,
+      "name_path": "河北省/保定市/满城区/贤台乡"
+    }
+  ]
+}

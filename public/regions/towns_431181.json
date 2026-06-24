@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "431181001",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/龙山街道"
+    },
+    {
+      "code": "431181002",
+      "name": "长虹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/长虹街道"
+    },
+    {
+      "code": "431181003",
+      "name": "浯溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/浯溪街道"
+    },
+    {
+      "code": "431181101",
+      "name": "观音滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/观音滩镇"
+    },
+    {
+      "code": "431181102",
+      "name": "茅竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/茅竹镇"
+    },
+    {
+      "code": "431181103",
+      "name": "三口塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/三口塘镇"
+    },
+    {
+      "code": "431181104",
+      "name": "大忠桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/大忠桥镇"
+    },
+    {
+      "code": "431181105",
+      "name": "肖家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/肖家镇"
+    },
+    {
+      "code": "431181106",
+      "name": "八宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/八宝镇"
+    },
+    {
+      "code": "431181107",
+      "name": "白水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/白水镇"
+    },
+    {
+      "code": "431181108",
+      "name": "进宝塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/进宝塘镇"
+    },
+    {
+      "code": "431181109",
+      "name": "黄泥塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/黄泥塘镇"
+    },
+    {
+      "code": "431181110",
+      "name": "羊角塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/羊角塘镇"
+    },
+    {
+      "code": "431181111",
+      "name": "梅溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/梅溪镇"
+    },
+    {
+      "code": "431181112",
+      "name": "潘市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/潘市镇"
+    },
+    {
+      "code": "431181113",
+      "name": "七里桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/七里桥镇"
+    },
+    {
+      "code": "431181114",
+      "name": "下马渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/下马渡镇"
+    },
+    {
+      "code": "431181115",
+      "name": "黎家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/黎家坪镇"
+    },
+    {
+      "code": "431181116",
+      "name": "文富市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/文富市镇"
+    },
+    {
+      "code": "431181117",
+      "name": "大村甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/大村甸镇"
+    },
+    {
+      "code": "431181118",
+      "name": "文明铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/文明铺镇"
+    },
+    {
+      "code": "431181119",
+      "name": "龚家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/龚家坪镇"
+    },
+    {
+      "code": "431181120",
+      "name": "金洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/金洞镇"
+    },
+    {
+      "code": "431181201",
+      "name": "凤凰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/凤凰乡"
+    },
+    {
+      "code": "431181202",
+      "name": "石鼓源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/石鼓源乡"
+    },
+    {
+      "code": "431181203",
+      "name": "晒北滩瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431181",
+      "year": 0,
+      "name_path": "湖南省/永州市/祁阳市/晒北滩瑶族乡"
+    }
+  ]
+}

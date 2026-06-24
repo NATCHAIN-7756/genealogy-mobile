@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "131182100",
+      "name": "唐奉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/唐奉镇"
+    },
+    {
+      "code": "131182101",
+      "name": "深州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/深州镇"
+    },
+    {
+      "code": "131182102",
+      "name": "辰时镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/辰时镇"
+    },
+    {
+      "code": "131182103",
+      "name": "榆科镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/榆科镇"
+    },
+    {
+      "code": "131182104",
+      "name": "魏家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/魏家桥镇"
+    },
+    {
+      "code": "131182105",
+      "name": "大堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/大堤镇"
+    },
+    {
+      "code": "131182106",
+      "name": "前磨头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/前磨头镇"
+    },
+    {
+      "code": "131182107",
+      "name": "王家井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/王家井镇"
+    },
+    {
+      "code": "131182108",
+      "name": "护驾迟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/护驾迟镇"
+    },
+    {
+      "code": "131182109",
+      "name": "大屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/大屯镇"
+    },
+    {
+      "code": "131182110",
+      "name": "高古庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/高古庄镇"
+    },
+    {
+      "code": "131182111",
+      "name": "北溪村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/北溪村镇"
+    },
+    {
+      "code": "131182112",
+      "name": "大冯营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/大冯营镇"
+    },
+    {
+      "code": "131182113",
+      "name": "穆村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/穆村镇"
+    },
+    {
+      "code": "131182200",
+      "name": "兵曹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/兵曹乡"
+    },
+    {
+      "code": "131182202",
+      "name": "东安庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/东安庄乡"
+    },
+    {
+      "code": "131182206",
+      "name": "乔家屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131182",
+      "year": 0,
+      "name_path": "河北省/衡水市/深州市/乔家屯乡"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130623100",
+      "name": "涞水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/涞水镇"
+    },
+    {
+      "code": "130623101",
+      "name": "永阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/永阳镇"
+    },
+    {
+      "code": "130623102",
+      "name": "义安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/义安镇"
+    },
+    {
+      "code": "130623103",
+      "name": "石亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/石亭镇"
+    },
+    {
+      "code": "130623104",
+      "name": "赵各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/赵各庄镇"
+    },
+    {
+      "code": "130623105",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/九龙镇"
+    },
+    {
+      "code": "130623106",
+      "name": "三坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/三坡镇"
+    },
+    {
+      "code": "130623107",
+      "name": "一渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/一渡镇"
+    },
+    {
+      "code": "130623108",
+      "name": "娄村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/娄村镇"
+    },
+    {
+      "code": "130623109",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/王村镇"
+    },
+    {
+      "code": "130623110",
+      "name": "明义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/明义镇"
+    },
+    {
+      "code": "130623111",
+      "name": "东文山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/东文山镇"
+    },
+    {
+      "code": "130623205",
+      "name": "其中口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/其中口乡"
+    },
+    {
+      "code": "130623206",
+      "name": "龙门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/龙门乡"
+    },
+    {
+      "code": "130623207",
+      "name": "胡家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130623",
+      "year": 0,
+      "name_path": "河北省/保定市/涞水县/胡家庄乡"
+    }
+  ]
+}

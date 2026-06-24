@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "430726001",
+      "name": "楚江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/楚江街道"
+    },
+    {
+      "code": "430726002",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/永兴街道"
+    },
+    {
+      "code": "430726003",
+      "name": "宝峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/宝峰街道"
+    },
+    {
+      "code": "430726004",
+      "name": "二都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/二都街道"
+    },
+    {
+      "code": "430726101",
+      "name": "蒙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/蒙泉镇"
+    },
+    {
+      "code": "430726102",
+      "name": "夹山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/夹山镇"
+    },
+    {
+      "code": "430726103",
+      "name": "易家渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/易家渡镇"
+    },
+    {
+      "code": "430726104",
+      "name": "新关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/新关镇"
+    },
+    {
+      "code": "430726105",
+      "name": "皂市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/皂市镇"
+    },
+    {
+      "code": "430726106",
+      "name": "维新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/维新镇"
+    },
+    {
+      "code": "430726107",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/太平镇"
+    },
+    {
+      "code": "430726108",
+      "name": "磨市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/磨市镇"
+    },
+    {
+      "code": "430726109",
+      "name": "壶瓶山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/壶瓶山镇"
+    },
+    {
+      "code": "430726110",
+      "name": "南北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/南北镇"
+    },
+    {
+      "code": "430726111",
+      "name": "白云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/白云镇"
+    },
+    {
+      "code": "430726112",
+      "name": "子良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/子良镇"
+    },
+    {
+      "code": "430726113",
+      "name": "新铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/新铺镇"
+    },
+    {
+      "code": "430726203",
+      "name": "三圣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/三圣乡"
+    },
+    {
+      "code": "430726205",
+      "name": "所街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/所街乡"
+    },
+    {
+      "code": "430726206",
+      "name": "雁池乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/雁池乡"
+    },
+    {
+      "code": "430726207",
+      "name": "罗坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430726",
+      "year": 0,
+      "name_path": "湖南省/常德市/石门县/罗坪乡"
+    }
+  ]
+}

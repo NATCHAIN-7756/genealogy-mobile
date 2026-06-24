@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "331125001",
+      "name": "元和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/元和街道"
+    },
+    {
+      "code": "331125002",
+      "name": "凤凰山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/凤凰山街道"
+    },
+    {
+      "code": "331125003",
+      "name": "白龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/白龙山街道"
+    },
+    {
+      "code": "331125004",
+      "name": "浮云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/浮云街道"
+    },
+    {
+      "code": "331125101",
+      "name": "石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/石塘镇"
+    },
+    {
+      "code": "331125102",
+      "name": "紧水滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/紧水滩镇"
+    },
+    {
+      "code": "331125103",
+      "name": "崇头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/崇头镇"
+    },
+    {
+      "code": "331125201",
+      "name": "雾溪畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/雾溪畲族乡"
+    },
+    {
+      "code": "331125202",
+      "name": "安溪畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/安溪畲族乡"
+    },
+    {
+      "code": "331125206",
+      "name": "赤石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331125",
+      "year": 0,
+      "name_path": "浙江省/丽水市/云和县/赤石乡"
+    }
+  ]
+}

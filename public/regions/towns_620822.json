@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "620822100",
+      "name": "中台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/中台镇"
+    },
+    {
+      "code": "620822101",
+      "name": "什字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/什字镇"
+    },
+    {
+      "code": "620822102",
+      "name": "朝那镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/朝那镇"
+    },
+    {
+      "code": "620822103",
+      "name": "邵寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/邵寨镇"
+    },
+    {
+      "code": "620822104",
+      "name": "独店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/独店镇"
+    },
+    {
+      "code": "620822105",
+      "name": "西屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/西屯镇"
+    },
+    {
+      "code": "620822106",
+      "name": "上良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/上良镇"
+    },
+    {
+      "code": "620822107",
+      "name": "百里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/百里镇"
+    },
+    {
+      "code": "620822108",
+      "name": "蒲窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/蒲窝镇"
+    },
+    {
+      "code": "620822206",
+      "name": "新开乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/新开乡"
+    },
+    {
+      "code": "620822207",
+      "name": "梁原乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/梁原乡"
+    },
+    {
+      "code": "620822208",
+      "name": "龙门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/龙门乡"
+    },
+    {
+      "code": "620822210",
+      "name": "星火乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620822",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/灵台县/星火乡"
+    }
+  ]
+}

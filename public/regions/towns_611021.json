@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "611021001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/城关街道"
+    },
+    {
+      "code": "611021002",
+      "name": "四皓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/四皓街道"
+    },
+    {
+      "code": "611021101",
+      "name": "景村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/景村镇"
+    },
+    {
+      "code": "611021102",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/古城镇"
+    },
+    {
+      "code": "611021103",
+      "name": "三要镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/三要镇"
+    },
+    {
+      "code": "611021104",
+      "name": "灵口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/灵口镇"
+    },
+    {
+      "code": "611021106",
+      "name": "寺耳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/寺耳镇"
+    },
+    {
+      "code": "611021107",
+      "name": "巡检镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/巡检镇"
+    },
+    {
+      "code": "611021108",
+      "name": "石坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/石坡镇"
+    },
+    {
+      "code": "611021109",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/石门镇"
+    },
+    {
+      "code": "611021110",
+      "name": "麻坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/麻坪镇"
+    },
+    {
+      "code": "611021111",
+      "name": "洛源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/洛源镇"
+    },
+    {
+      "code": "611021112",
+      "name": "保安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/保安镇"
+    },
+    {
+      "code": "611021114",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/永丰镇"
+    },
+    {
+      "code": "611021115",
+      "name": "高耀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/高耀镇"
+    },
+    {
+      "code": "611021116",
+      "name": "柏峪寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611021",
+      "year": 0,
+      "name_path": "陕西省/商洛市/洛南县/柏峪寺镇"
+    }
+  ]
+}

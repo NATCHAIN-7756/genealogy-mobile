@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "411421001",
+      "name": "绿洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/绿洲街道"
+    },
+    {
+      "code": "411421002",
+      "name": "南华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/南华街道"
+    },
+    {
+      "code": "411421101",
+      "name": "人和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/人和镇"
+    },
+    {
+      "code": "411421102",
+      "name": "龙塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/龙塘镇"
+    },
+    {
+      "code": "411421103",
+      "name": "北关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/北关镇"
+    },
+    {
+      "code": "411421104",
+      "name": "程庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/程庄镇"
+    },
+    {
+      "code": "411421105",
+      "name": "孙六镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/孙六镇"
+    },
+    {
+      "code": "411421106",
+      "name": "王庄寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/王庄寨镇"
+    },
+    {
+      "code": "411421107",
+      "name": "白云寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/白云寺镇"
+    },
+    {
+      "code": "411421108",
+      "name": "庄子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/庄子镇"
+    },
+    {
+      "code": "411421109",
+      "name": "王桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/王桥镇"
+    },
+    {
+      "code": "411421110",
+      "name": "双塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/双塔镇"
+    },
+    {
+      "code": "411421111",
+      "name": "野岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/野岗镇"
+    },
+    {
+      "code": "411421112",
+      "name": "老颜集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/老颜集镇"
+    },
+    {
+      "code": "411421113",
+      "name": "林七镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/林七镇"
+    },
+    {
+      "code": "411421114",
+      "name": "褚庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/褚庙镇"
+    },
+    {
+      "code": "411421200",
+      "name": "伯党回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/伯党回族乡"
+    },
+    {
+      "code": "411421201",
+      "name": "花园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/花园乡"
+    },
+    {
+      "code": "411421207",
+      "name": "胡集回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411421",
+      "year": 0,
+      "name_path": "河南省/商丘市/民权县/胡集回族乡"
+    }
+  ]
+}

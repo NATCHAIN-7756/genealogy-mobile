@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "430103002",
+      "name": "坡子街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/坡子街街道"
+    },
+    {
+      "code": "430103004",
+      "name": "城南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/城南路街道"
+    },
+    {
+      "code": "430103005",
+      "name": "裕南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/裕南街街道"
+    },
+    {
+      "code": "430103006",
+      "name": "金盆岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/金盆岭街道"
+    },
+    {
+      "code": "430103007",
+      "name": "新开铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/新开铺街道"
+    },
+    {
+      "code": "430103008",
+      "name": "青园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/青园街道"
+    },
+    {
+      "code": "430103009",
+      "name": "桂花坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/桂花坪街道"
+    },
+    {
+      "code": "430103010",
+      "name": "先锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/先锋街道"
+    },
+    {
+      "code": "430103011",
+      "name": "赤岭路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/赤岭路街道"
+    },
+    {
+      "code": "430103012",
+      "name": "文源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/文源街道"
+    },
+    {
+      "code": "430103013",
+      "name": "黑石铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/黑石铺街道"
+    },
+    {
+      "code": "430103014",
+      "name": "大托铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/大托铺街道"
+    },
+    {
+      "code": "430103015",
+      "name": "暮云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/暮云街道"
+    },
+    {
+      "code": "430103016",
+      "name": "南托街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430103",
+      "year": 0,
+      "name_path": "湖南省/长沙市/天心区/南托街道"
+    }
+  ]
+}

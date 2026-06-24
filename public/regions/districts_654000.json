@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "654002",
+      "name": "伊宁市",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/伊宁市"
+    },
+    {
+      "code": "654003",
+      "name": "奎屯市",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/奎屯市"
+    },
+    {
+      "code": "654004",
+      "name": "霍尔果斯市",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/霍尔果斯市"
+    },
+    {
+      "code": "654021",
+      "name": "伊宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县"
+    },
+    {
+      "code": "654022",
+      "name": "察布查尔锡伯自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/察布查尔锡伯自治县"
+    },
+    {
+      "code": "654023",
+      "name": "霍城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/霍城县"
+    },
+    {
+      "code": "654024",
+      "name": "巩留县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/巩留县"
+    },
+    {
+      "code": "654025",
+      "name": "新源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/新源县"
+    },
+    {
+      "code": "654026",
+      "name": "昭苏县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/昭苏县"
+    },
+    {
+      "code": "654027",
+      "name": "特克斯县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/特克斯县"
+    },
+    {
+      "code": "654028",
+      "name": "尼勒克县",
+      "level": 3,
+      "type": null,
+      "parent_code": "654000",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县"
+    }
+  ]
+}

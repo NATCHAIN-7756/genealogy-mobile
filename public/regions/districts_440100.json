@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "440103",
+      "name": "荔湾区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/荔湾区"
+    },
+    {
+      "code": "440104",
+      "name": "越秀区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/越秀区"
+    },
+    {
+      "code": "440105",
+      "name": "海珠区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/海珠区"
+    },
+    {
+      "code": "440106",
+      "name": "天河区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/天河区"
+    },
+    {
+      "code": "440111",
+      "name": "白云区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/白云区"
+    },
+    {
+      "code": "440112",
+      "name": "黄埔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/黄埔区"
+    },
+    {
+      "code": "440113",
+      "name": "番禺区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/番禺区"
+    },
+    {
+      "code": "440114",
+      "name": "花都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/花都区"
+    },
+    {
+      "code": "440115",
+      "name": "南沙区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/南沙区"
+    },
+    {
+      "code": "440117",
+      "name": "从化区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/从化区"
+    },
+    {
+      "code": "440118",
+      "name": "增城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440100",
+      "year": 0,
+      "name_path": "全国/广东省/广州市/增城区"
+    }
+  ]
+}

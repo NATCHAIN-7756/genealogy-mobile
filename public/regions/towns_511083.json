@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511083001",
+      "name": "古湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/古湖街道"
+    },
+    {
+      "code": "511083002",
+      "name": "金鹅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/金鹅街道"
+    },
+    {
+      "code": "511083101",
+      "name": "响石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/响石镇"
+    },
+    {
+      "code": "511083102",
+      "name": "圣灯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/圣灯镇"
+    },
+    {
+      "code": "511083103",
+      "name": "黄家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/黄家镇"
+    },
+    {
+      "code": "511083104",
+      "name": "双凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/双凤镇"
+    },
+    {
+      "code": "511083105",
+      "name": "龙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/龙市镇"
+    },
+    {
+      "code": "511083107",
+      "name": "界市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/界市镇"
+    },
+    {
+      "code": "511083108",
+      "name": "石碾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/石碾镇"
+    },
+    {
+      "code": "511083111",
+      "name": "石燕桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/石燕桥镇"
+    },
+    {
+      "code": "511083113",
+      "name": "胡家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/胡家镇"
+    },
+    {
+      "code": "511083114",
+      "name": "云顶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/云顶镇"
+    },
+    {
+      "code": "511083115",
+      "name": "普润镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511083",
+      "year": 0,
+      "name_path": "四川省/内江市/隆昌市/普润镇"
+    }
+  ]
+}

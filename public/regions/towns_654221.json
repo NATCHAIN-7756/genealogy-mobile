@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "654221100",
+      "name": "额敏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/额敏镇"
+    },
+    {
+      "code": "654221101",
+      "name": "玉什喀拉苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/玉什喀拉苏镇"
+    },
+    {
+      "code": "654221102",
+      "name": "杰勒阿尕什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/杰勒阿尕什镇"
+    },
+    {
+      "code": "654221103",
+      "name": "上户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/上户镇"
+    },
+    {
+      "code": "654221104",
+      "name": "玛热勒苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/玛热勒苏镇"
+    },
+    {
+      "code": "654221105",
+      "name": "喀拉也木勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/喀拉也木勒镇"
+    },
+    {
+      "code": "654221200",
+      "name": "郊区乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/郊区乡"
+    },
+    {
+      "code": "654221202",
+      "name": "额玛勒郭楞蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/额玛勒郭楞蒙古族乡"
+    },
+    {
+      "code": "654221207",
+      "name": "喇嘛昭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/喇嘛昭乡"
+    },
+    {
+      "code": "654221208",
+      "name": "霍吉尔特蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/霍吉尔特蒙古族乡"
+    },
+    {
+      "code": "654221209",
+      "name": "二道桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/额敏县/二道桥乡"
+    }
+  ]
+}

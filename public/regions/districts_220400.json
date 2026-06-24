@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "220402",
+      "name": "龙山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220400",
+      "year": 0,
+      "name_path": "全国/吉林省/辽源市/龙山区"
+    },
+    {
+      "code": "220403",
+      "name": "西安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220400",
+      "year": 0,
+      "name_path": "全国/吉林省/辽源市/西安区"
+    },
+    {
+      "code": "220421",
+      "name": "东丰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220400",
+      "year": 0,
+      "name_path": "全国/吉林省/辽源市/东丰县"
+    },
+    {
+      "code": "220422",
+      "name": "东辽县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220400",
+      "year": 0,
+      "name_path": "全国/吉林省/辽源市/东辽县"
+    }
+  ]
+}

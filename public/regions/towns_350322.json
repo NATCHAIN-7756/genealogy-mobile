@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "350322001",
+      "name": "鲤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/鲤城街道"
+    },
+    {
+      "code": "350322101",
+      "name": "枫亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/枫亭镇"
+    },
+    {
+      "code": "350322102",
+      "name": "榜头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/榜头镇"
+    },
+    {
+      "code": "350322103",
+      "name": "郊尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/郊尾镇"
+    },
+    {
+      "code": "350322104",
+      "name": "度尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/度尾镇"
+    },
+    {
+      "code": "350322106",
+      "name": "赖店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/赖店镇"
+    },
+    {
+      "code": "350322107",
+      "name": "盖尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/盖尾镇"
+    },
+    {
+      "code": "350322108",
+      "name": "园庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/园庄镇"
+    },
+    {
+      "code": "350322109",
+      "name": "大济镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/大济镇"
+    },
+    {
+      "code": "350322110",
+      "name": "龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/龙华镇"
+    },
+    {
+      "code": "350322111",
+      "name": "钟山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/钟山镇"
+    },
+    {
+      "code": "350322112",
+      "name": "游洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/游洋镇"
+    },
+    {
+      "code": "350322113",
+      "name": "鲤南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/鲤南镇"
+    },
+    {
+      "code": "350322200",
+      "name": "西苑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/西苑乡"
+    },
+    {
+      "code": "350322202",
+      "name": "石苍乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/石苍乡"
+    },
+    {
+      "code": "350322203",
+      "name": "社硎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/社硎乡"
+    },
+    {
+      "code": "350322204",
+      "name": "书峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/书峰乡"
+    },
+    {
+      "code": "350322205",
+      "name": "菜溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350322",
+      "year": 0,
+      "name_path": "福建省/莆田市/仙游县/菜溪乡"
+    }
+  ]
+}

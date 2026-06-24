@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "370402001",
+      "name": "中心街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/中心街街道"
+    },
+    {
+      "code": "370402002",
+      "name": "各塔埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/各塔埠街道"
+    },
+    {
+      "code": "370402003",
+      "name": "矿区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/矿区街道"
+    },
+    {
+      "code": "370402004",
+      "name": "文化路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/文化路街道"
+    },
+    {
+      "code": "370402005",
+      "name": "龙山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/龙山路街道"
+    },
+    {
+      "code": "370402006",
+      "name": "光明路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/光明路街道"
+    },
+    {
+      "code": "370402101",
+      "name": "税郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/税郭镇"
+    },
+    {
+      "code": "370402102",
+      "name": "孟庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/孟庄镇"
+    },
+    {
+      "code": "370402103",
+      "name": "齐村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/齐村镇"
+    },
+    {
+      "code": "370402104",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/永安镇"
+    },
+    {
+      "code": "370402105",
+      "name": "西王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370402",
+      "year": 0,
+      "name_path": "山东省/枣庄市/市中区/西王庄镇"
+    }
+  ]
+}

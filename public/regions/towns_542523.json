@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "542523100",
+      "name": "狮泉河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "542523",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/噶尔县/狮泉河镇"
+    },
+    {
+      "code": "542523200",
+      "name": "昆莎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542523",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/噶尔县/昆莎乡"
+    },
+    {
+      "code": "542523201",
+      "name": "左左乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542523",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/噶尔县/左左乡"
+    },
+    {
+      "code": "542523202",
+      "name": "门士乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542523",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/噶尔县/门士乡"
+    },
+    {
+      "code": "542523203",
+      "name": "扎西岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542523",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/噶尔县/扎西岗乡"
+    }
+  ]
+}

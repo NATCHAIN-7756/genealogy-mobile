@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "341622001",
+      "name": "漆园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/漆园街道"
+    },
+    {
+      "code": "341622002",
+      "name": "庄周街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/庄周街道"
+    },
+    {
+      "code": "341622003",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/城关街道"
+    },
+    {
+      "code": "341622101",
+      "name": "双涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/双涧镇"
+    },
+    {
+      "code": "341622102",
+      "name": "小涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/小涧镇"
+    },
+    {
+      "code": "341622104",
+      "name": "坛城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/坛城镇"
+    },
+    {
+      "code": "341622106",
+      "name": "许疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/许疃镇"
+    },
+    {
+      "code": "341622107",
+      "name": "板桥集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/板桥集镇"
+    },
+    {
+      "code": "341622108",
+      "name": "马集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/马集镇"
+    },
+    {
+      "code": "341622110",
+      "name": "岳坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/岳坊镇"
+    },
+    {
+      "code": "341622112",
+      "name": "立仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/立仓镇"
+    },
+    {
+      "code": "341622114",
+      "name": "楚村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/楚村镇"
+    },
+    {
+      "code": "341622115",
+      "name": "乐土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/乐土镇"
+    },
+    {
+      "code": "341622116",
+      "name": "三义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/三义镇"
+    },
+    {
+      "code": "341622117",
+      "name": "篱笆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/篱笆镇"
+    },
+    {
+      "code": "341622200",
+      "name": "王集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/王集乡"
+    },
+    {
+      "code": "341622202",
+      "name": "小辛集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341622",
+      "year": 0,
+      "name_path": "安徽省/亳州市/蒙城县/小辛集乡"
+    }
+  ]
+}

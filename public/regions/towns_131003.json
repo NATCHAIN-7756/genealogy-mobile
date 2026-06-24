@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "131003001",
+      "name": "银河北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/银河北路街道"
+    },
+    {
+      "code": "131003002",
+      "name": "爱民东道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/爱民东道街道"
+    },
+    {
+      "code": "131003003",
+      "name": "解放道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/解放道街道"
+    },
+    {
+      "code": "131003004",
+      "name": "新开路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/新开路街道"
+    },
+    {
+      "code": "131003005",
+      "name": "新源道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/新源道街道"
+    },
+    {
+      "code": "131003006",
+      "name": "云鹏道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/云鹏道街道"
+    },
+    {
+      "code": "131003007",
+      "name": "耀华道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/耀华道街道"
+    },
+    {
+      "code": "131003100",
+      "name": "南尖塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/南尖塔镇"
+    },
+    {
+      "code": "131003101",
+      "name": "万庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/万庄镇"
+    },
+    {
+      "code": "131003102",
+      "name": "九州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/九州镇"
+    },
+    {
+      "code": "131003103",
+      "name": "北旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131003",
+      "year": 0,
+      "name_path": "河北省/廊坊市/广阳区/北旺镇"
+    }
+  ]
+}

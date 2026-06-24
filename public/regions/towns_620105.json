@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "620105001",
+      "name": "培黎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/培黎街道"
+    },
+    {
+      "code": "620105002",
+      "name": "安宁西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/安宁西路街道"
+    },
+    {
+      "code": "620105003",
+      "name": "沙井驿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/沙井驿街道"
+    },
+    {
+      "code": "620105004",
+      "name": "十里店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/十里店街道"
+    },
+    {
+      "code": "620105005",
+      "name": "孔家崖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/孔家崖街道"
+    },
+    {
+      "code": "620105006",
+      "name": "银滩路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/银滩路街道"
+    },
+    {
+      "code": "620105007",
+      "name": "刘家堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/刘家堡街道"
+    },
+    {
+      "code": "620105008",
+      "name": "安宁堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/安宁堡街道"
+    },
+    {
+      "code": "620105100",
+      "name": "忠和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/忠和镇"
+    },
+    {
+      "code": "620105101",
+      "name": "九合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620105",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/安宁区/九合镇"
+    }
+  ]
+}

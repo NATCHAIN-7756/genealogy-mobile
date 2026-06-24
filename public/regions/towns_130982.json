@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "130982001",
+      "name": "新华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/新华路街道"
+    },
+    {
+      "code": "130982002",
+      "name": "西环路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/西环路街道"
+    },
+    {
+      "code": "130982003",
+      "name": "永丰路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/永丰路街道"
+    },
+    {
+      "code": "130982004",
+      "name": "中华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/中华路街道"
+    },
+    {
+      "code": "130982005",
+      "name": "渤海路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/渤海路街道"
+    },
+    {
+      "code": "130982006",
+      "name": "会战道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/会战道街道"
+    },
+    {
+      "code": "130982007",
+      "name": "油建路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/油建路街道"
+    },
+    {
+      "code": "130982100",
+      "name": "出岸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/出岸镇"
+    },
+    {
+      "code": "130982101",
+      "name": "石门桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/石门桥镇"
+    },
+    {
+      "code": "130982102",
+      "name": "吕公堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/吕公堡镇"
+    },
+    {
+      "code": "130982103",
+      "name": "长丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/长丰镇"
+    },
+    {
+      "code": "130982104",
+      "name": "鄚州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/鄚州镇"
+    },
+    {
+      "code": "130982105",
+      "name": "苟各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/苟各庄镇"
+    },
+    {
+      "code": "130982106",
+      "name": "梁召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/梁召镇"
+    },
+    {
+      "code": "130982107",
+      "name": "辛中驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/辛中驿镇"
+    },
+    {
+      "code": "130982108",
+      "name": "麻家坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/麻家坞镇"
+    },
+    {
+      "code": "130982109",
+      "name": "北辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/北辛庄镇"
+    },
+    {
+      "code": "130982110",
+      "name": "议论堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/议论堡镇"
+    },
+    {
+      "code": "130982111",
+      "name": "于村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/于村镇"
+    },
+    {
+      "code": "130982112",
+      "name": "北汉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/北汉镇"
+    },
+    {
+      "code": "130982204",
+      "name": "青塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/青塔乡"
+    },
+    {
+      "code": "130982206",
+      "name": "七间房乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130982",
+      "year": 0,
+      "name_path": "河北省/沧州市/任丘市/七间房乡"
+    }
+  ]
+}

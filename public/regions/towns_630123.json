@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "630123100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/城关镇"
+    },
+    {
+      "code": "630123101",
+      "name": "大华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/大华镇"
+    },
+    {
+      "code": "630123201",
+      "name": "东峡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/东峡乡"
+    },
+    {
+      "code": "630123202",
+      "name": "日月藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/日月藏族乡"
+    },
+    {
+      "code": "630123203",
+      "name": "和平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/和平乡"
+    },
+    {
+      "code": "630123204",
+      "name": "波航乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/波航乡"
+    },
+    {
+      "code": "630123205",
+      "name": "申中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/申中乡"
+    },
+    {
+      "code": "630123207",
+      "name": "巴燕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/巴燕乡"
+    },
+    {
+      "code": "630123208",
+      "name": "寺寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630123",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟源县/寺寨乡"
+    }
+  ]
+}

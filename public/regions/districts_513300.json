@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "513301",
+      "name": "康定市",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/康定市"
+    },
+    {
+      "code": "513322",
+      "name": "泸定县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/泸定县"
+    },
+    {
+      "code": "513323",
+      "name": "丹巴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/丹巴县"
+    },
+    {
+      "code": "513324",
+      "name": "九龙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/九龙县"
+    },
+    {
+      "code": "513325",
+      "name": "雅江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/雅江县"
+    },
+    {
+      "code": "513326",
+      "name": "道孚县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/道孚县"
+    },
+    {
+      "code": "513327",
+      "name": "炉霍县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/炉霍县"
+    },
+    {
+      "code": "513328",
+      "name": "甘孜县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/甘孜县"
+    },
+    {
+      "code": "513329",
+      "name": "新龙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/新龙县"
+    },
+    {
+      "code": "513330",
+      "name": "德格县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/德格县"
+    },
+    {
+      "code": "513331",
+      "name": "白玉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/白玉县"
+    },
+    {
+      "code": "513332",
+      "name": "石渠县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/石渠县"
+    },
+    {
+      "code": "513333",
+      "name": "色达县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/色达县"
+    },
+    {
+      "code": "513334",
+      "name": "理塘县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/理塘县"
+    },
+    {
+      "code": "513335",
+      "name": "巴塘县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/巴塘县"
+    },
+    {
+      "code": "513336",
+      "name": "乡城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/乡城县"
+    },
+    {
+      "code": "513337",
+      "name": "稻城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/稻城县"
+    },
+    {
+      "code": "513338",
+      "name": "得荣县",
+      "level": 3,
+      "type": null,
+      "parent_code": "513300",
+      "year": 0,
+      "name_path": "全国/四川省/甘孜藏族自治州/得荣县"
+    }
+  ]
+}

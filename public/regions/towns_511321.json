@@ -1,0 +1,382 @@
+{
+  "data": [
+    {
+      "code": "511321001",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/滨江街道"
+    },
+    {
+      "code": "511321002",
+      "name": "蜀北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/蜀北街道"
+    },
+    {
+      "code": "511321003",
+      "name": "满福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/满福街道"
+    },
+    {
+      "code": "511321004",
+      "name": "南隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/南隆街道"
+    },
+    {
+      "code": "511321102",
+      "name": "老鸦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/老鸦镇"
+    },
+    {
+      "code": "511321103",
+      "name": "永定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/永定镇"
+    },
+    {
+      "code": "511321104",
+      "name": "碑院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/碑院镇"
+    },
+    {
+      "code": "511321105",
+      "name": "谢河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/谢河镇"
+    },
+    {
+      "code": "511321106",
+      "name": "盘龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/盘龙镇"
+    },
+    {
+      "code": "511321107",
+      "name": "铁佛塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/铁佛塘镇"
+    },
+    {
+      "code": "511321108",
+      "name": "石河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/石河镇"
+    },
+    {
+      "code": "511321110",
+      "name": "王家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/王家镇"
+    },
+    {
+      "code": "511321111",
+      "name": "富利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/富利镇"
+    },
+    {
+      "code": "511321112",
+      "name": "楠木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/楠木镇"
+    },
+    {
+      "code": "511321113",
+      "name": "长坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/长坪镇"
+    },
+    {
+      "code": "511321114",
+      "name": "东坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/东坝镇"
+    },
+    {
+      "code": "511321115",
+      "name": "河坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/河坝镇"
+    },
+    {
+      "code": "511321116",
+      "name": "定水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/定水镇"
+    },
+    {
+      "code": "511321117",
+      "name": "大王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/大王镇"
+    },
+    {
+      "code": "511321118",
+      "name": "黄金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/黄金镇"
+    },
+    {
+      "code": "511321119",
+      "name": "流马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/流马镇"
+    },
+    {
+      "code": "511321120",
+      "name": "建兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/建兴镇"
+    },
+    {
+      "code": "511321121",
+      "name": "三官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/三官镇"
+    },
+    {
+      "code": "511321122",
+      "name": "伏虎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/伏虎镇"
+    },
+    {
+      "code": "511321123",
+      "name": "双佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/双佛镇"
+    },
+    {
+      "code": "511321124",
+      "name": "花罐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/花罐镇"
+    },
+    {
+      "code": "511321125",
+      "name": "大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/大桥镇"
+    },
+    {
+      "code": "511321126",
+      "name": "大河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/大河镇"
+    },
+    {
+      "code": "511321127",
+      "name": "万年镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/万年镇"
+    },
+    {
+      "code": "511321128",
+      "name": "升钟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/升钟镇"
+    },
+    {
+      "code": "511321129",
+      "name": "升水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/升水镇"
+    },
+    {
+      "code": "511321130",
+      "name": "大坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/大坪镇"
+    },
+    {
+      "code": "511321131",
+      "name": "神坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/神坝镇"
+    },
+    {
+      "code": "511321132",
+      "name": "八尔湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/八尔湖镇"
+    },
+    {
+      "code": "511321133",
+      "name": "石龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/石龙镇"
+    },
+    {
+      "code": "511321134",
+      "name": "西水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/西水镇"
+    },
+    {
+      "code": "511321136",
+      "name": "桐坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/桐坪镇"
+    },
+    {
+      "code": "511321211",
+      "name": "五灵乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/五灵乡"
+    },
+    {
+      "code": "511321230",
+      "name": "小元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/小元乡"
+    },
+    {
+      "code": "511321234",
+      "name": "宏观乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/宏观乡"
+    },
+    {
+      "code": "511321239",
+      "name": "双峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/双峰乡"
+    },
+    {
+      "code": "511321244",
+      "name": "太霞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511321",
+      "year": 0,
+      "name_path": "四川省/南充市/南部县/太霞乡"
+    }
+  ]
+}

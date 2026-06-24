@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130723100",
+      "name": "康保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/康保镇"
+    },
+    {
+      "code": "130723101",
+      "name": "张纪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/张纪镇"
+    },
+    {
+      "code": "130723102",
+      "name": "土城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/土城子镇"
+    },
+    {
+      "code": "130723103",
+      "name": "邓油坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/邓油坊镇"
+    },
+    {
+      "code": "130723104",
+      "name": "李家地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/李家地镇"
+    },
+    {
+      "code": "130723105",
+      "name": "照阳河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/照阳河镇"
+    },
+    {
+      "code": "130723106",
+      "name": "屯垦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/屯垦镇"
+    },
+    {
+      "code": "130723200",
+      "name": "阎油坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/阎油坊乡"
+    },
+    {
+      "code": "130723201",
+      "name": "丹清河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/丹清河乡"
+    },
+    {
+      "code": "130723202",
+      "name": "哈咇嘎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/哈咇嘎乡"
+    },
+    {
+      "code": "130723203",
+      "name": "二号卜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/二号卜乡"
+    },
+    {
+      "code": "130723204",
+      "name": "芦家营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/芦家营乡"
+    },
+    {
+      "code": "130723205",
+      "name": "忠义乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/忠义乡"
+    },
+    {
+      "code": "130723206",
+      "name": "处长地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/处长地乡"
+    },
+    {
+      "code": "130723207",
+      "name": "满德堂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130723",
+      "year": 0,
+      "name_path": "河北省/张家口市/康保县/满德堂乡"
+    }
+  ]
+}

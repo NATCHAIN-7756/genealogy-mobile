@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "210802",
+      "name": "站前区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210800",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市/站前区"
+    },
+    {
+      "code": "210803",
+      "name": "西市区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210800",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市/西市区"
+    },
+    {
+      "code": "210804",
+      "name": "鲅鱼圈区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210800",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市/鲅鱼圈区"
+    },
+    {
+      "code": "210811",
+      "name": "老边区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210800",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市/老边区"
+    },
+    {
+      "code": "210881",
+      "name": "盖州市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210800",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市/盖州市"
+    },
+    {
+      "code": "210882",
+      "name": "大石桥市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210800",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市/大石桥市"
+    }
+  ]
+}

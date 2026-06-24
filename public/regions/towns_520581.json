@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "520581001",
+      "name": "水西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/水西街道"
+    },
+    {
+      "code": "520581002",
+      "name": "莲城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/莲城街道"
+    },
+    {
+      "code": "520581003",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/文峰街道"
+    },
+    {
+      "code": "520581004",
+      "name": "杜鹃街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/杜鹃街道"
+    },
+    {
+      "code": "520581005",
+      "name": "锦绣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/锦绣街道"
+    },
+    {
+      "code": "520581100",
+      "name": "金碧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/金碧镇"
+    },
+    {
+      "code": "520581101",
+      "name": "雨朵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/雨朵镇"
+    },
+    {
+      "code": "520581102",
+      "name": "大关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/大关镇"
+    },
+    {
+      "code": "520581103",
+      "name": "谷里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/谷里镇"
+    },
+    {
+      "code": "520581104",
+      "name": "素朴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/素朴镇"
+    },
+    {
+      "code": "520581105",
+      "name": "中坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/中坪镇"
+    },
+    {
+      "code": "520581106",
+      "name": "重新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/重新镇"
+    },
+    {
+      "code": "520581107",
+      "name": "林泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/林泉镇"
+    },
+    {
+      "code": "520581108",
+      "name": "金兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/金兰镇"
+    },
+    {
+      "code": "520581109",
+      "name": "锦星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/锦星镇"
+    },
+    {
+      "code": "520581110",
+      "name": "洪水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/洪水镇"
+    },
+    {
+      "code": "520581111",
+      "name": "甘棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/甘棠镇"
+    },
+    {
+      "code": "520581112",
+      "name": "钟山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/钟山镇"
+    },
+    {
+      "code": "520581113",
+      "name": "协和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/协和镇"
+    },
+    {
+      "code": "520581114",
+      "name": "观音洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/观音洞镇"
+    },
+    {
+      "code": "520581200",
+      "name": "五里布依族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/五里布依族苗族乡"
+    },
+    {
+      "code": "520581201",
+      "name": "绿化白族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/绿化白族彝族乡"
+    },
+    {
+      "code": "520581202",
+      "name": "新仁苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/新仁苗族乡"
+    },
+    {
+      "code": "520581203",
+      "name": "铁石苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/铁石苗族彝族乡"
+    },
+    {
+      "code": "520581204",
+      "name": "太来彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/太来彝族苗族乡"
+    },
+    {
+      "code": "520581205",
+      "name": "永燊彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/永燊彝族苗族乡"
+    },
+    {
+      "code": "520581206",
+      "name": "中建苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/中建苗族彝族乡"
+    },
+    {
+      "code": "520581207",
+      "name": "花溪彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/花溪彝族苗族乡"
+    },
+    {
+      "code": "520581208",
+      "name": "定新彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/定新彝族苗族乡"
+    },
+    {
+      "code": "520581209",
+      "name": "金坡苗族彝族满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/金坡苗族彝族满族乡"
+    },
+    {
+      "code": "520581210",
+      "name": "仁和彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/仁和彝族苗族乡"
+    },
+    {
+      "code": "520581211",
+      "name": "红林彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520581",
+      "year": 0,
+      "name_path": "贵州省/毕节市/黔西市/红林彝族苗族乡"
+    }
+  ]
+}

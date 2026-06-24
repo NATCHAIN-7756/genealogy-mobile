@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "420281001",
+      "name": "东岳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/东岳路街道"
+    },
+    {
+      "code": "420281002",
+      "name": "东风路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/东风路街道"
+    },
+    {
+      "code": "420281003",
+      "name": "金湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/金湖街道"
+    },
+    {
+      "code": "420281004",
+      "name": "罗家桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/罗家桥街道"
+    },
+    {
+      "code": "420281005",
+      "name": "金山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/金山街道"
+    },
+    {
+      "code": "420281100",
+      "name": "金牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/金牛镇"
+    },
+    {
+      "code": "420281101",
+      "name": "保安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/保安镇"
+    },
+    {
+      "code": "420281102",
+      "name": "灵乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/灵乡镇"
+    },
+    {
+      "code": "420281103",
+      "name": "金山店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/金山店镇"
+    },
+    {
+      "code": "420281106",
+      "name": "还地桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/还地桥镇"
+    },
+    {
+      "code": "420281107",
+      "name": "殷祖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/殷祖镇"
+    },
+    {
+      "code": "420281109",
+      "name": "刘仁八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/刘仁八镇"
+    },
+    {
+      "code": "420281110",
+      "name": "陈贵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/陈贵镇"
+    },
+    {
+      "code": "420281111",
+      "name": "大箕铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/大箕铺镇"
+    },
+    {
+      "code": "420281112",
+      "name": "汪仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/汪仁镇"
+    },
+    {
+      "code": "420281202",
+      "name": "茗山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420281",
+      "year": 0,
+      "name_path": "湖北省/黄石市/大冶市/茗山乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "654326100",
+      "name": "托普铁热克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/托普铁热克镇"
+    },
+    {
+      "code": "654326101",
+      "name": "吉木乃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/吉木乃镇"
+    },
+    {
+      "code": "654326102",
+      "name": "喀尔交镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/喀尔交镇"
+    },
+    {
+      "code": "654326103",
+      "name": "乌拉斯特镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/乌拉斯特镇"
+    },
+    {
+      "code": "654326201",
+      "name": "托斯特乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/托斯特乡"
+    },
+    {
+      "code": "654326202",
+      "name": "恰勒什海乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/恰勒什海乡"
+    },
+    {
+      "code": "654326204",
+      "name": "别斯铁热克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654326",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/吉木乃县/别斯铁热克乡"
+    }
+  ]
+}

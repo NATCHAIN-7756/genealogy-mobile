@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "511424101",
+      "name": "杨场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511424",
+      "year": 0,
+      "name_path": "四川省/眉山市/丹棱县/杨场镇"
+    },
+    {
+      "code": "511424102",
+      "name": "仁美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511424",
+      "year": 0,
+      "name_path": "四川省/眉山市/丹棱县/仁美镇"
+    },
+    {
+      "code": "511424104",
+      "name": "张场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511424",
+      "year": 0,
+      "name_path": "四川省/眉山市/丹棱县/张场镇"
+    },
+    {
+      "code": "511424105",
+      "name": "齐乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511424",
+      "year": 0,
+      "name_path": "四川省/眉山市/丹棱县/齐乐镇"
+    },
+    {
+      "code": "511424204",
+      "name": "顺龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511424",
+      "year": 0,
+      "name_path": "四川省/眉山市/丹棱县/顺龙乡"
+    }
+  ]
+}

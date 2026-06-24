@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "653101",
+      "name": "喀什市",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/喀什市"
+    },
+    {
+      "code": "653121",
+      "name": "疏附县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/疏附县"
+    },
+    {
+      "code": "653122",
+      "name": "疏勒县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/疏勒县"
+    },
+    {
+      "code": "653123",
+      "name": "英吉沙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/英吉沙县"
+    },
+    {
+      "code": "653124",
+      "name": "泽普县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/泽普县"
+    },
+    {
+      "code": "653125",
+      "name": "莎车县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/莎车县"
+    },
+    {
+      "code": "653126",
+      "name": "叶城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/叶城县"
+    },
+    {
+      "code": "653127",
+      "name": "麦盖提县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/麦盖提县"
+    },
+    {
+      "code": "653128",
+      "name": "岳普湖县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/岳普湖县"
+    },
+    {
+      "code": "653129",
+      "name": "伽师县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/伽师县"
+    },
+    {
+      "code": "653130",
+      "name": "巴楚县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/巴楚县"
+    },
+    {
+      "code": "653131",
+      "name": "塔什库尔干塔吉克自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "653100",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/喀什地区/塔什库尔干塔吉克自治县"
+    }
+  ]
+}

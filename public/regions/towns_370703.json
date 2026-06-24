@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "370703001",
+      "name": "寒亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/寒亭街道"
+    },
+    {
+      "code": "370703002",
+      "name": "开元街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/开元街道"
+    },
+    {
+      "code": "370703003",
+      "name": "固堤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/固堤街道"
+    },
+    {
+      "code": "370703004",
+      "name": "高里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/高里街道"
+    },
+    {
+      "code": "370703005",
+      "name": "朱里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/朱里街道"
+    },
+    {
+      "code": "370703006",
+      "name": "大家洼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/大家洼街道"
+    },
+    {
+      "code": "370703007",
+      "name": "央子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/央子街道"
+    },
+    {
+      "code": "370703008",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370703",
+      "year": 0,
+      "name_path": "山东省/潍坊市/寒亭区/北城街道"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "371681001",
+      "name": "黛溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/黛溪街道"
+    },
+    {
+      "code": "371681002",
+      "name": "黄山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/黄山街道"
+    },
+    {
+      "code": "371681003",
+      "name": "高新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/高新街道"
+    },
+    {
+      "code": "371681004",
+      "name": "好生街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/好生街道"
+    },
+    {
+      "code": "371681005",
+      "name": "西董街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/西董街道"
+    },
+    {
+      "code": "371681100",
+      "name": "长山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/长山镇"
+    },
+    {
+      "code": "371681101",
+      "name": "魏桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/魏桥镇"
+    },
+    {
+      "code": "371681102",
+      "name": "临池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/临池镇"
+    },
+    {
+      "code": "371681103",
+      "name": "焦桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/焦桥镇"
+    },
+    {
+      "code": "371681104",
+      "name": "韩店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/韩店镇"
+    },
+    {
+      "code": "371681105",
+      "name": "孙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/孙镇"
+    },
+    {
+      "code": "371681106",
+      "name": "九户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/九户镇"
+    },
+    {
+      "code": "371681107",
+      "name": "青阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/青阳镇"
+    },
+    {
+      "code": "371681108",
+      "name": "明集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/明集镇"
+    },
+    {
+      "code": "371681109",
+      "name": "台子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/台子镇"
+    },
+    {
+      "code": "371681110",
+      "name": "码头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371681",
+      "year": 0,
+      "name_path": "山东省/滨州市/邹平市/码头镇"
+    }
+  ]
+}

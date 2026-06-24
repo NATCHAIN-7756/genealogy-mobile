@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "440281001",
+      "name": "乐城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/乐城街道"
+    },
+    {
+      "code": "440281102",
+      "name": "北乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/北乡镇"
+    },
+    {
+      "code": "440281103",
+      "name": "九峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/九峰镇"
+    },
+    {
+      "code": "440281104",
+      "name": "廊田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/廊田镇"
+    },
+    {
+      "code": "440281105",
+      "name": "长来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/长来镇"
+    },
+    {
+      "code": "440281106",
+      "name": "梅花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/梅花镇"
+    },
+    {
+      "code": "440281107",
+      "name": "三溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/三溪镇"
+    },
+    {
+      "code": "440281108",
+      "name": "坪石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/坪石镇"
+    },
+    {
+      "code": "440281110",
+      "name": "黄圃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/黄圃镇"
+    },
+    {
+      "code": "440281111",
+      "name": "五山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/五山镇"
+    },
+    {
+      "code": "440281112",
+      "name": "两江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/两江镇"
+    },
+    {
+      "code": "440281113",
+      "name": "沙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/沙坪镇"
+    },
+    {
+      "code": "440281114",
+      "name": "云岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/云岩镇"
+    },
+    {
+      "code": "440281115",
+      "name": "秀水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/秀水镇"
+    },
+    {
+      "code": "440281117",
+      "name": "大源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/大源镇"
+    },
+    {
+      "code": "440281118",
+      "name": "庆云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/庆云镇"
+    },
+    {
+      "code": "440281119",
+      "name": "白石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440281",
+      "year": 0,
+      "name_path": "广东省/韶关市/乐昌市/白石镇"
+    }
+  ]
+}

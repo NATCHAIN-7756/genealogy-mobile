@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "220382001",
+      "name": "郑家屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/郑家屯街道"
+    },
+    {
+      "code": "220382002",
+      "name": "辽东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/辽东街道"
+    },
+    {
+      "code": "220382003",
+      "name": "辽西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/辽西街道"
+    },
+    {
+      "code": "220382004",
+      "name": "辽南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/辽南街道"
+    },
+    {
+      "code": "220382005",
+      "name": "辽北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/辽北街道"
+    },
+    {
+      "code": "220382006",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/红旗街道"
+    },
+    {
+      "code": "220382100",
+      "name": "茂林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/茂林镇"
+    },
+    {
+      "code": "220382101",
+      "name": "双山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/双山镇"
+    },
+    {
+      "code": "220382102",
+      "name": "卧虎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/卧虎镇"
+    },
+    {
+      "code": "220382103",
+      "name": "服先镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/服先镇"
+    },
+    {
+      "code": "220382105",
+      "name": "王奔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/王奔镇"
+    },
+    {
+      "code": "220382106",
+      "name": "玻璃山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/玻璃山镇"
+    },
+    {
+      "code": "220382107",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/兴隆镇"
+    },
+    {
+      "code": "220382108",
+      "name": "东明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/东明镇"
+    },
+    {
+      "code": "220382200",
+      "name": "那木斯蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/那木斯蒙古族乡"
+    },
+    {
+      "code": "220382201",
+      "name": "柳条乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/柳条乡"
+    },
+    {
+      "code": "220382202",
+      "name": "新立乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/新立乡"
+    },
+    {
+      "code": "220382203",
+      "name": "永加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220382",
+      "year": 0,
+      "name_path": "吉林省/四平市/双辽市/永加乡"
+    }
+  ]
+}

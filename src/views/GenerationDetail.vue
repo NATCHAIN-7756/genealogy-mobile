@@ -68,12 +68,7 @@
     
     <van-empty v-if="members.length === 0" description="暂无成员数据" />
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -82,6 +77,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
 import { memberApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -161,19 +157,12 @@ async function loadGenerationMembers() {
     }
     
   } catch (e) {
-    showToast('加载失败')
-    // 模拟数据
-    members.value = [
-      { id: 1, name: '张三', gender: '男', birth_date: '1981-03-15', birth_place: '北京', branch: '长房', is_deceased: false },
-      { id: 2, name: '李四', gender: '女', birth_date: '1983-05-20', birth_place: '上海', branch: '二房', is_deceased: false },
-      { id: 3, name: '王五', gender: '男', birth_date: '1985-08-10', birth_place: '深圳', branch: '三房', is_deceased: false }
-    ]
-    branches.value = ['长房', '二房', '三房']
-    branchCounts.value = { '长房': 1, '二房': 1, '三房': 1 }
-    generationInfo.value.timeRange = '1981-1985年'
+    showToast("加载失败")
+    branches.value = []
+    branchCounts.value = {}
+    generationInfo.value = {}
   }
 }
-
 onMounted(() => {
   loadGenerationMembers()
 })

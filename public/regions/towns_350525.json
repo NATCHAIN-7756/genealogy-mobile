@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "350525100",
+      "name": "桃城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/桃城镇"
+    },
+    {
+      "code": "350525101",
+      "name": "五里街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/五里街镇"
+    },
+    {
+      "code": "350525102",
+      "name": "一都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/一都镇"
+    },
+    {
+      "code": "350525103",
+      "name": "下洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/下洋镇"
+    },
+    {
+      "code": "350525104",
+      "name": "蓬壶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/蓬壶镇"
+    },
+    {
+      "code": "350525105",
+      "name": "达埔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/达埔镇"
+    },
+    {
+      "code": "350525106",
+      "name": "吾峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/吾峰镇"
+    },
+    {
+      "code": "350525107",
+      "name": "石鼓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/石鼓镇"
+    },
+    {
+      "code": "350525108",
+      "name": "岵山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/岵山镇"
+    },
+    {
+      "code": "350525109",
+      "name": "东平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/东平镇"
+    },
+    {
+      "code": "350525110",
+      "name": "湖洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/湖洋镇"
+    },
+    {
+      "code": "350525111",
+      "name": "坑仔口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/坑仔口镇"
+    },
+    {
+      "code": "350525112",
+      "name": "玉斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/玉斗镇"
+    },
+    {
+      "code": "350525113",
+      "name": "锦斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/锦斗镇"
+    },
+    {
+      "code": "350525114",
+      "name": "东关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/东关镇"
+    },
+    {
+      "code": "350525115",
+      "name": "桂洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/桂洋镇"
+    },
+    {
+      "code": "350525116",
+      "name": "苏坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/苏坑镇"
+    },
+    {
+      "code": "350525117",
+      "name": "仙夹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/仙夹镇"
+    },
+    {
+      "code": "350525200",
+      "name": "横口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/横口乡"
+    },
+    {
+      "code": "350525201",
+      "name": "呈祥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/呈祥乡"
+    },
+    {
+      "code": "350525202",
+      "name": "介福乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/介福乡"
+    },
+    {
+      "code": "350525204",
+      "name": "外山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350525",
+      "year": 0,
+      "name_path": "福建省/泉州市/永春县/外山乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "220102",
+      "name": "南关区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/南关区"
+    },
+    {
+      "code": "220103",
+      "name": "宽城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/宽城区"
+    },
+    {
+      "code": "220104",
+      "name": "朝阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/朝阳区"
+    },
+    {
+      "code": "220105",
+      "name": "二道区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/二道区"
+    },
+    {
+      "code": "220106",
+      "name": "绿园区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/绿园区"
+    },
+    {
+      "code": "220112",
+      "name": "双阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/双阳区"
+    },
+    {
+      "code": "220113",
+      "name": "九台区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/九台区"
+    },
+    {
+      "code": "220122",
+      "name": "农安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/农安县"
+    },
+    {
+      "code": "220182",
+      "name": "榆树市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/榆树市"
+    },
+    {
+      "code": "220183",
+      "name": "德惠市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/德惠市"
+    },
+    {
+      "code": "220184",
+      "name": "公主岭市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220100",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市/公主岭市"
+    }
+  ]
+}

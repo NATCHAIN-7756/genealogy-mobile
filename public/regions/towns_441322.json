@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "441322001",
+      "name": "罗阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/罗阳街道"
+    },
+    {
+      "code": "441322002",
+      "name": "龙溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/龙溪街道"
+    },
+    {
+      "code": "441322100",
+      "name": "石坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/石坝镇"
+    },
+    {
+      "code": "441322102",
+      "name": "麻陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/麻陂镇"
+    },
+    {
+      "code": "441322103",
+      "name": "观音阁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/观音阁镇"
+    },
+    {
+      "code": "441322104",
+      "name": "公庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/公庄镇"
+    },
+    {
+      "code": "441322105",
+      "name": "杨村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/杨村镇"
+    },
+    {
+      "code": "441322106",
+      "name": "柏塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/柏塘镇"
+    },
+    {
+      "code": "441322108",
+      "name": "泰美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/泰美镇"
+    },
+    {
+      "code": "441322113",
+      "name": "湖镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/湖镇镇"
+    },
+    {
+      "code": "441322117",
+      "name": "龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/龙华镇"
+    },
+    {
+      "code": "441322119",
+      "name": "园洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/园洲镇"
+    },
+    {
+      "code": "441322121",
+      "name": "石湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/石湾镇"
+    },
+    {
+      "code": "441322122",
+      "name": "杨侨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/杨侨镇"
+    },
+    {
+      "code": "441322123",
+      "name": "横河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/横河镇"
+    },
+    {
+      "code": "441322124",
+      "name": "长宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441322",
+      "year": 0,
+      "name_path": "广东省/惠州市/博罗县/长宁镇"
+    }
+  ]
+}

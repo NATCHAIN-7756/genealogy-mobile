@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "310114001",
+      "name": "新成路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/新成路街道"
+    },
+    {
+      "code": "310114002",
+      "name": "真新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/真新街道"
+    },
+    {
+      "code": "310114004",
+      "name": "嘉定镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/嘉定镇街道"
+    },
+    {
+      "code": "310114102",
+      "name": "南翔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/南翔镇"
+    },
+    {
+      "code": "310114103",
+      "name": "安亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/安亭镇"
+    },
+    {
+      "code": "310114106",
+      "name": "马陆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/马陆镇"
+    },
+    {
+      "code": "310114109",
+      "name": "徐行镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/徐行镇"
+    },
+    {
+      "code": "310114111",
+      "name": "华亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/华亭镇"
+    },
+    {
+      "code": "310114114",
+      "name": "外冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/外冈镇"
+    },
+    {
+      "code": "310114118",
+      "name": "江桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310114",
+      "year": 0,
+      "name_path": "上海市/嘉定区/江桥镇"
+    }
+  ]
+}

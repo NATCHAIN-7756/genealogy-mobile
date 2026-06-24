@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "410602",
+      "name": "鹤山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410600",
+      "year": 0,
+      "name_path": "全国/河南省/鹤壁市/鹤山区"
+    },
+    {
+      "code": "410603",
+      "name": "山城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410600",
+      "year": 0,
+      "name_path": "全国/河南省/鹤壁市/山城区"
+    },
+    {
+      "code": "410611",
+      "name": "淇滨区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410600",
+      "year": 0,
+      "name_path": "全国/河南省/鹤壁市/淇滨区"
+    },
+    {
+      "code": "410621",
+      "name": "浚县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410600",
+      "year": 0,
+      "name_path": "全国/河南省/鹤壁市/浚县"
+    },
+    {
+      "code": "410622",
+      "name": "淇县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410600",
+      "year": 0,
+      "name_path": "全国/河南省/鹤壁市/淇县"
+    }
+  ]
+}

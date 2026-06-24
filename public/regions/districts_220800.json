@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "220802",
+      "name": "洮北区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220800",
+      "year": 0,
+      "name_path": "全国/吉林省/白城市/洮北区"
+    },
+    {
+      "code": "220821",
+      "name": "镇赉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220800",
+      "year": 0,
+      "name_path": "全国/吉林省/白城市/镇赉县"
+    },
+    {
+      "code": "220822",
+      "name": "通榆县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220800",
+      "year": 0,
+      "name_path": "全国/吉林省/白城市/通榆县"
+    },
+    {
+      "code": "220881",
+      "name": "洮南市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220800",
+      "year": 0,
+      "name_path": "全国/吉林省/白城市/洮南市"
+    },
+    {
+      "code": "220882",
+      "name": "大安市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220800",
+      "year": 0,
+      "name_path": "全国/吉林省/白城市/大安市"
+    }
+  ]
+}

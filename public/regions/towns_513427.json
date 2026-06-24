@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "513427101",
+      "name": "松新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/松新镇"
+    },
+    {
+      "code": "513427102",
+      "name": "竹寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/竹寿镇"
+    },
+    {
+      "code": "513427103",
+      "name": "华弹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/华弹镇"
+    },
+    {
+      "code": "513427104",
+      "name": "白鹤滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/白鹤滩镇"
+    },
+    {
+      "code": "513427106",
+      "name": "西瑶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/西瑶镇"
+    },
+    {
+      "code": "513427108",
+      "name": "大同镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/大同镇"
+    },
+    {
+      "code": "513427109",
+      "name": "骑骡沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/骑骡沟镇"
+    },
+    {
+      "code": "513427110",
+      "name": "跑马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/跑马镇"
+    },
+    {
+      "code": "513427111",
+      "name": "幸福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/幸福镇"
+    },
+    {
+      "code": "513427112",
+      "name": "石梨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/石梨镇"
+    },
+    {
+      "code": "513427113",
+      "name": "六铁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/六铁镇"
+    },
+    {
+      "code": "513427116",
+      "name": "宁远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/宁远镇"
+    },
+    {
+      "code": "513427117",
+      "name": "俱乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513427",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/宁南县/俱乐镇"
+    }
+  ]
+}

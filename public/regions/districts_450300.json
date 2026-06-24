@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "450302",
+      "name": "秀峰区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/秀峰区"
+    },
+    {
+      "code": "450303",
+      "name": "叠彩区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/叠彩区"
+    },
+    {
+      "code": "450304",
+      "name": "象山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/象山区"
+    },
+    {
+      "code": "450305",
+      "name": "七星区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/七星区"
+    },
+    {
+      "code": "450311",
+      "name": "雁山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/雁山区"
+    },
+    {
+      "code": "450312",
+      "name": "临桂区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/临桂区"
+    },
+    {
+      "code": "450321",
+      "name": "阳朔县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/阳朔县"
+    },
+    {
+      "code": "450323",
+      "name": "灵川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/灵川县"
+    },
+    {
+      "code": "450324",
+      "name": "全州县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/全州县"
+    },
+    {
+      "code": "450325",
+      "name": "兴安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/兴安县"
+    },
+    {
+      "code": "450326",
+      "name": "永福县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/永福县"
+    },
+    {
+      "code": "450327",
+      "name": "灌阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/灌阳县"
+    },
+    {
+      "code": "450328",
+      "name": "龙胜各族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/龙胜各族自治县"
+    },
+    {
+      "code": "450329",
+      "name": "资源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/资源县"
+    },
+    {
+      "code": "450330",
+      "name": "平乐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/平乐县"
+    },
+    {
+      "code": "450332",
+      "name": "恭城瑶族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/恭城瑶族自治县"
+    },
+    {
+      "code": "450381",
+      "name": "荔浦市",
+      "level": 3,
+      "type": null,
+      "parent_code": "450300",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/桂林市/荔浦市"
+    }
+  ]
+}

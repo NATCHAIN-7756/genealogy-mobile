@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "360121001",
+      "name": "八月湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/八月湖街道"
+    },
+    {
+      "code": "360121002",
+      "name": "莲塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/莲塘街道"
+    },
+    {
+      "code": "360121003",
+      "name": "银三角街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/银三角街道"
+    },
+    {
+      "code": "360121004",
+      "name": "东新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/东新街道"
+    },
+    {
+      "code": "360121101",
+      "name": "向塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/向塘镇"
+    },
+    {
+      "code": "360121102",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/三江镇"
+    },
+    {
+      "code": "360121103",
+      "name": "广福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/广福镇"
+    },
+    {
+      "code": "360121104",
+      "name": "塘南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/塘南镇"
+    },
+    {
+      "code": "360121105",
+      "name": "幽兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/幽兰镇"
+    },
+    {
+      "code": "360121106",
+      "name": "蒋巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/蒋巷镇"
+    },
+    {
+      "code": "360121107",
+      "name": "武阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/武阳镇"
+    },
+    {
+      "code": "360121108",
+      "name": "冈上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/冈上镇"
+    },
+    {
+      "code": "360121109",
+      "name": "昌东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/昌东镇"
+    },
+    {
+      "code": "360121110",
+      "name": "麻丘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/麻丘镇"
+    },
+    {
+      "code": "360121200",
+      "name": "黄马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/黄马乡"
+    },
+    {
+      "code": "360121201",
+      "name": "富山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/富山乡"
+    },
+    {
+      "code": "360121202",
+      "name": "泾口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/泾口乡"
+    },
+    {
+      "code": "360121204",
+      "name": "南新乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/南新乡"
+    },
+    {
+      "code": "360121205",
+      "name": "八一乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/八一乡"
+    },
+    {
+      "code": "360121206",
+      "name": "塔城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360121",
+      "year": 0,
+      "name_path": "江西省/南昌市/南昌县/塔城乡"
+    }
+  ]
+}

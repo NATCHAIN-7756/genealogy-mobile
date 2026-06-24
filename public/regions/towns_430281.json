@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "430281002",
+      "name": "阳三石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/阳三石街道"
+    },
+    {
+      "code": "430281006",
+      "name": "来龙门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/来龙门街道"
+    },
+    {
+      "code": "430281008",
+      "name": "仙岳山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/仙岳山街道"
+    },
+    {
+      "code": "430281009",
+      "name": "国瓷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/国瓷街道"
+    },
+    {
+      "code": "430281010",
+      "name": "长庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/长庆街道"
+    },
+    {
+      "code": "430281102",
+      "name": "白兔潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/白兔潭镇"
+    },
+    {
+      "code": "430281103",
+      "name": "浦口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/浦口镇"
+    },
+    {
+      "code": "430281105",
+      "name": "王仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/王仙镇"
+    },
+    {
+      "code": "430281106",
+      "name": "东富镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/东富镇"
+    },
+    {
+      "code": "430281107",
+      "name": "泗汾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/泗汾镇"
+    },
+    {
+      "code": "430281108",
+      "name": "沈潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/沈潭镇"
+    },
+    {
+      "code": "430281109",
+      "name": "船湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/船湾镇"
+    },
+    {
+      "code": "430281116",
+      "name": "均楚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/均楚镇"
+    },
+    {
+      "code": "430281117",
+      "name": "石亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/石亭镇"
+    },
+    {
+      "code": "430281120",
+      "name": "李畋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/李畋镇"
+    },
+    {
+      "code": "430281121",
+      "name": "明月镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/明月镇"
+    },
+    {
+      "code": "430281122",
+      "name": "茶山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/茶山镇"
+    },
+    {
+      "code": "430281123",
+      "name": "左权镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/左权镇"
+    },
+    {
+      "code": "430281124",
+      "name": "枫林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/枫林镇"
+    },
+    {
+      "code": "430281125",
+      "name": "沩山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/沩山镇"
+    },
+    {
+      "code": "430281126",
+      "name": "孙家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/孙家湾镇"
+    },
+    {
+      "code": "430281127",
+      "name": "嘉树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/嘉树镇"
+    },
+    {
+      "code": "430281128",
+      "name": "板杉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/板杉镇"
+    },
+    {
+      "code": "430281129",
+      "name": "官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430281",
+      "year": 0,
+      "name_path": "湖南省/株洲市/醴陵市/官庄镇"
+    }
+  ]
+}

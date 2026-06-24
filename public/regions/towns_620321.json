@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "620321100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/城关镇"
+    },
+    {
+      "code": "620321101",
+      "name": "河西堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/河西堡镇"
+    },
+    {
+      "code": "620321102",
+      "name": "新城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/新城子镇"
+    },
+    {
+      "code": "620321103",
+      "name": "朱王堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/朱王堡镇"
+    },
+    {
+      "code": "620321104",
+      "name": "东寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/东寨镇"
+    },
+    {
+      "code": "620321105",
+      "name": "水源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/水源镇"
+    },
+    {
+      "code": "620321106",
+      "name": "红山窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/红山窑镇"
+    },
+    {
+      "code": "620321107",
+      "name": "焦家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/焦家庄镇"
+    },
+    {
+      "code": "620321108",
+      "name": "六坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/六坝镇"
+    },
+    {
+      "code": "620321203",
+      "name": "南坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620321",
+      "year": 0,
+      "name_path": "甘肃省/金昌市/永昌县/南坝乡"
+    }
+  ]
+}

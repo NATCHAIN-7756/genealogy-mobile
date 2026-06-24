@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "520201001",
+      "name": "黄土坡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/黄土坡街道"
+    },
+    {
+      "code": "520201002",
+      "name": "荷城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/荷城街道"
+    },
+    {
+      "code": "520201003",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/凤凰街道"
+    },
+    {
+      "code": "520201004",
+      "name": "德坞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/德坞街道"
+    },
+    {
+      "code": "520201005",
+      "name": "荷泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/荷泉街道"
+    },
+    {
+      "code": "520201006",
+      "name": "红岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/红岩街道"
+    },
+    {
+      "code": "520201007",
+      "name": "杨柳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/杨柳街道"
+    },
+    {
+      "code": "520201008",
+      "name": "月照街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/月照街道"
+    },
+    {
+      "code": "520201009",
+      "name": "双戛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/双戛街道"
+    },
+    {
+      "code": "520201101",
+      "name": "大河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/大河镇"
+    },
+    {
+      "code": "520201102",
+      "name": "汪家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/汪家寨镇"
+    },
+    {
+      "code": "520201103",
+      "name": "大湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/大湾镇"
+    },
+    {
+      "code": "520201104",
+      "name": "木果镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/木果镇"
+    },
+    {
+      "code": "520201105",
+      "name": "保华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/保华镇"
+    },
+    {
+      "code": "520201201",
+      "name": "青林苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/青林苗族彝族乡"
+    },
+    {
+      "code": "520201202",
+      "name": "金盆苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/金盆苗族彝族乡"
+    },
+    {
+      "code": "520201203",
+      "name": "南开苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520201",
+      "year": 0,
+      "name_path": "贵州省/六盘水市/钟山区/南开苗族彝族乡"
+    }
+  ]
+}

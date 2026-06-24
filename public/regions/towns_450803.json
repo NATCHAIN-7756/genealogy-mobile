@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450803001",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/江南街道"
+    },
+    {
+      "code": "450803002",
+      "name": "八塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/八塘街道"
+    },
+    {
+      "code": "450803100",
+      "name": "桥圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/桥圩镇"
+    },
+    {
+      "code": "450803101",
+      "name": "木格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/木格镇"
+    },
+    {
+      "code": "450803102",
+      "name": "木梓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/木梓镇"
+    },
+    {
+      "code": "450803103",
+      "name": "湛江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/湛江镇"
+    },
+    {
+      "code": "450803104",
+      "name": "东津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/东津镇"
+    },
+    {
+      "code": "450803106",
+      "name": "新塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/新塘镇"
+    },
+    {
+      "code": "450803107",
+      "name": "瓦塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450803",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/港南区/瓦塘镇"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610625001",
+      "name": "保安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/保安街道"
+    },
+    {
+      "code": "610625103",
+      "name": "旦八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/旦八镇"
+    },
+    {
+      "code": "610625104",
+      "name": "金鼎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/金鼎镇"
+    },
+    {
+      "code": "610625105",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/永宁镇"
+    },
+    {
+      "code": "610625106",
+      "name": "杏河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/杏河镇"
+    },
+    {
+      "code": "610625107",
+      "name": "顺宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/顺宁镇"
+    },
+    {
+      "code": "610625108",
+      "name": "义正镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/义正镇"
+    },
+    {
+      "code": "610625109",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610625",
+      "year": 0,
+      "name_path": "陕西省/延安市/志丹县/双河镇"
+    }
+  ]
+}

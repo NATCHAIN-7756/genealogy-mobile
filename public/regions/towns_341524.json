@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "341524100",
+      "name": "梅山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/梅山镇"
+    },
+    {
+      "code": "341524101",
+      "name": "南溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/南溪镇"
+    },
+    {
+      "code": "341524103",
+      "name": "汤家汇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/汤家汇镇"
+    },
+    {
+      "code": "341524104",
+      "name": "斑竹园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/斑竹园镇"
+    },
+    {
+      "code": "341524105",
+      "name": "天堂寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/天堂寨镇"
+    },
+    {
+      "code": "341524106",
+      "name": "古碑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/古碑镇"
+    },
+    {
+      "code": "341524107",
+      "name": "吴家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/吴家店镇"
+    },
+    {
+      "code": "341524108",
+      "name": "燕子河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/燕子河镇"
+    },
+    {
+      "code": "341524109",
+      "name": "青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/青山镇"
+    },
+    {
+      "code": "341524110",
+      "name": "麻埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/麻埠镇"
+    },
+    {
+      "code": "341524111",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/双河镇"
+    },
+    {
+      "code": "341524112",
+      "name": "白塔畈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/白塔畈镇"
+    },
+    {
+      "code": "341524113",
+      "name": "流波䃥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/流波䃥镇"
+    },
+    {
+      "code": "341524202",
+      "name": "油坊店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/油坊店乡"
+    },
+    {
+      "code": "341524203",
+      "name": "长岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/长岭乡"
+    },
+    {
+      "code": "341524204",
+      "name": "槐树湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/槐树湾乡"
+    },
+    {
+      "code": "341524205",
+      "name": "花石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/花石乡"
+    },
+    {
+      "code": "341524206",
+      "name": "沙河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/沙河乡"
+    },
+    {
+      "code": "341524207",
+      "name": "桃岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/桃岭乡"
+    },
+    {
+      "code": "341524208",
+      "name": "果子园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/果子园乡"
+    },
+    {
+      "code": "341524209",
+      "name": "关庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/关庙乡"
+    },
+    {
+      "code": "341524211",
+      "name": "铁冲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/铁冲乡"
+    },
+    {
+      "code": "341524212",
+      "name": "全军乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341524",
+      "year": 0,
+      "name_path": "安徽省/六安市/金寨县/全军乡"
+    }
+  ]
+}

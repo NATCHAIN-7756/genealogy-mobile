@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "540326100",
+      "name": "白玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/白玛镇"
+    },
+    {
+      "code": "540326101",
+      "name": "帮达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/帮达镇"
+    },
+    {
+      "code": "540326102",
+      "name": "然乌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/然乌镇"
+    },
+    {
+      "code": "540326103",
+      "name": "同卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/同卡镇"
+    },
+    {
+      "code": "540326202",
+      "name": "郭庆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/郭庆乡"
+    },
+    {
+      "code": "540326203",
+      "name": "拉根乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/拉根乡"
+    },
+    {
+      "code": "540326204",
+      "name": "益庆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/益庆乡"
+    },
+    {
+      "code": "540326205",
+      "name": "吉中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/吉中乡"
+    },
+    {
+      "code": "540326206",
+      "name": "卡瓦白庆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/卡瓦白庆乡"
+    },
+    {
+      "code": "540326207",
+      "name": "吉达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/吉达乡"
+    },
+    {
+      "code": "540326208",
+      "name": "夏里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/夏里乡"
+    },
+    {
+      "code": "540326209",
+      "name": "拥巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/拥巴乡"
+    },
+    {
+      "code": "540326210",
+      "name": "瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/瓦乡"
+    },
+    {
+      "code": "540326211",
+      "name": "林卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540326",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/八宿县/林卡乡"
+    }
+  ]
+}

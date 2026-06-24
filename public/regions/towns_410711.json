@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "410711001",
+      "name": "卫北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/卫北街道"
+    },
+    {
+      "code": "410711002",
+      "name": "新辉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/新辉路街道"
+    },
+    {
+      "code": "410711003",
+      "name": "荣校路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/荣校路街道"
+    },
+    {
+      "code": "410711004",
+      "name": "北干道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/北干道街道"
+    },
+    {
+      "code": "410711005",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/花园街道"
+    },
+    {
+      "code": "410711006",
+      "name": "东干道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/东干道街道"
+    },
+    {
+      "code": "410711007",
+      "name": "和平路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/和平路街道"
+    },
+    {
+      "code": "410711100",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/王村镇"
+    },
+    {
+      "code": "410711101",
+      "name": "牧野镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410711",
+      "year": 0,
+      "name_path": "河南省/新乡市/牧野区/牧野镇"
+    }
+  ]
+}

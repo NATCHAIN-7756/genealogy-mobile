@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "141022100",
+      "name": "唐兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/唐兴镇"
+    },
+    {
+      "code": "141022101",
+      "name": "南梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/南梁镇"
+    },
+    {
+      "code": "141022102",
+      "name": "里砦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/里砦镇"
+    },
+    {
+      "code": "141022103",
+      "name": "隆化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/隆化镇"
+    },
+    {
+      "code": "141022104",
+      "name": "桥上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/桥上镇"
+    },
+    {
+      "code": "141022105",
+      "name": "西阎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/西阎镇"
+    },
+    {
+      "code": "141022106",
+      "name": "王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/王庄镇"
+    },
+    {
+      "code": "141022200",
+      "name": "中卫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/中卫乡"
+    },
+    {
+      "code": "141022201",
+      "name": "南唐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141022",
+      "year": 0,
+      "name_path": "山西省/临汾市/翼城县/南唐乡"
+    }
+  ]
+}

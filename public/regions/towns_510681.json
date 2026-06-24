@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510681001",
+      "name": "雒城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/雒城街道"
+    },
+    {
+      "code": "510681002",
+      "name": "汉州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/汉州街道"
+    },
+    {
+      "code": "510681003",
+      "name": "金雁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/金雁街道"
+    },
+    {
+      "code": "510681101",
+      "name": "三水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/三水镇"
+    },
+    {
+      "code": "510681102",
+      "name": "连山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/连山镇"
+    },
+    {
+      "code": "510681103",
+      "name": "高坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/高坪镇"
+    },
+    {
+      "code": "510681105",
+      "name": "向阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/向阳镇"
+    },
+    {
+      "code": "510681106",
+      "name": "小汉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/小汉镇"
+    },
+    {
+      "code": "510681107",
+      "name": "金轮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/金轮镇"
+    },
+    {
+      "code": "510681114",
+      "name": "金鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/金鱼镇"
+    },
+    {
+      "code": "510681116",
+      "name": "南丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/南丰镇"
+    },
+    {
+      "code": "510681117",
+      "name": "三星堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510681",
+      "year": 0,
+      "name_path": "四川省/德阳市/广汉市/三星堆镇"
+    }
+  ]
+}

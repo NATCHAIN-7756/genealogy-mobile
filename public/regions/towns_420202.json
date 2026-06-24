@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "420202001",
+      "name": "沈家营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420202",
+      "year": 0,
+      "name_path": "湖北省/黄石市/黄石港区/沈家营街道"
+    },
+    {
+      "code": "420202002",
+      "name": "黄石港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420202",
+      "year": 0,
+      "name_path": "湖北省/黄石市/黄石港区/黄石港街道"
+    },
+    {
+      "code": "420202003",
+      "name": "胜阳港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420202",
+      "year": 0,
+      "name_path": "湖北省/黄石市/黄石港区/胜阳港街道"
+    },
+    {
+      "code": "420202005",
+      "name": "花湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420202",
+      "year": 0,
+      "name_path": "湖北省/黄石市/黄石港区/花湖街道"
+    }
+  ]
+}

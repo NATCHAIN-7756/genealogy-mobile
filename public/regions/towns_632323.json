@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "632323100",
+      "name": "泽曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/泽曲镇"
+    },
+    {
+      "code": "632323102",
+      "name": "和日镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/和日镇"
+    },
+    {
+      "code": "632323105",
+      "name": "麦秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/麦秀镇"
+    },
+    {
+      "code": "632323106",
+      "name": "宁秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/宁秀镇"
+    },
+    {
+      "code": "632323203",
+      "name": "王家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/王家乡"
+    },
+    {
+      "code": "632323206",
+      "name": "西卜沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/西卜沙乡"
+    },
+    {
+      "code": "632323207",
+      "name": "多禾茂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632323",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/泽库县/多禾茂乡"
+    }
+  ]
+}

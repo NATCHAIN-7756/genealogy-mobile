@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "360113001",
+      "name": "沙井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/沙井街道"
+    },
+    {
+      "code": "360113002",
+      "name": "卫东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/卫东街道"
+    },
+    {
+      "code": "360113003",
+      "name": "生米街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/生米街道"
+    },
+    {
+      "code": "360113004",
+      "name": "凤凰洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/凤凰洲街道"
+    },
+    {
+      "code": "360113005",
+      "name": "红角洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/红角洲街道"
+    },
+    {
+      "code": "360113006",
+      "name": "九龙湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/九龙湖街道"
+    },
+    {
+      "code": "360113007",
+      "name": "龙兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/龙兴街道"
+    },
+    {
+      "code": "360113101",
+      "name": "流湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/流湖镇"
+    },
+    {
+      "code": "360113102",
+      "name": "厚田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360113",
+      "year": 0,
+      "name_path": "江西省/南昌市/红谷滩区/厚田镇"
+    }
+  ]
+}

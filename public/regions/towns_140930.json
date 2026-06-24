@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140930100",
+      "name": "西口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/西口镇"
+    },
+    {
+      "code": "140930101",
+      "name": "楼子营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/楼子营镇"
+    },
+    {
+      "code": "140930102",
+      "name": "刘家塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/刘家塔镇"
+    },
+    {
+      "code": "140930103",
+      "name": "巡镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/巡镇镇"
+    },
+    {
+      "code": "140930104",
+      "name": "旧县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/旧县镇"
+    },
+    {
+      "code": "140930105",
+      "name": "沙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/沙泉镇"
+    },
+    {
+      "code": "140930200",
+      "name": "鹿固乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/鹿固乡"
+    },
+    {
+      "code": "140930202",
+      "name": "单寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/单寨乡"
+    },
+    {
+      "code": "140930203",
+      "name": "土沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/土沟乡"
+    },
+    {
+      "code": "140930205",
+      "name": "沙坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/沙坪乡"
+    },
+    {
+      "code": "140930206",
+      "name": "社梁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140930",
+      "year": 0,
+      "name_path": "山西省/忻州市/河曲县/社梁乡"
+    }
+  ]
+}

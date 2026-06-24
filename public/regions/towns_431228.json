@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "431228101",
+      "name": "罗旧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/罗旧镇"
+    },
+    {
+      "code": "431228104",
+      "name": "公坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/公坪镇"
+    },
+    {
+      "code": "431228105",
+      "name": "新店坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/新店坪镇"
+    },
+    {
+      "code": "431228106",
+      "name": "碧涌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/碧涌镇"
+    },
+    {
+      "code": "431228107",
+      "name": "土桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/土桥镇"
+    },
+    {
+      "code": "431228108",
+      "name": "三道坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/三道坑镇"
+    },
+    {
+      "code": "431228109",
+      "name": "岩桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/岩桥镇"
+    },
+    {
+      "code": "431228110",
+      "name": "楠木坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/楠木坪镇"
+    },
+    {
+      "code": "431228111",
+      "name": "芷江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/芷江镇"
+    },
+    {
+      "code": "431228201",
+      "name": "牛牯坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/牛牯坪乡"
+    },
+    {
+      "code": "431228204",
+      "name": "水宽乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/水宽乡"
+    },
+    {
+      "code": "431228212",
+      "name": "大树坳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/大树坳乡"
+    },
+    {
+      "code": "431228215",
+      "name": "梨溪口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/梨溪口乡"
+    },
+    {
+      "code": "431228216",
+      "name": "洞下场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/洞下场乡"
+    },
+    {
+      "code": "431228220",
+      "name": "禾梨坳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/禾梨坳乡"
+    },
+    {
+      "code": "431228221",
+      "name": "冷水溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/冷水溪乡"
+    },
+    {
+      "code": "431228223",
+      "name": "晓坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/晓坪乡"
+    },
+    {
+      "code": "431228224",
+      "name": "罗卜田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431228",
+      "year": 0,
+      "name_path": "湖南省/怀化市/芷江侗族自治县/罗卜田乡"
+    }
+  ]
+}

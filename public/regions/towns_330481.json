@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "330481001",
+      "name": "马桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/马桥街道"
+    },
+    {
+      "code": "330481002",
+      "name": "海昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/海昌街道"
+    },
+    {
+      "code": "330481003",
+      "name": "海洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/海洲街道"
+    },
+    {
+      "code": "330481004",
+      "name": "硖石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/硖石街道"
+    },
+    {
+      "code": "330481101",
+      "name": "许村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/许村镇"
+    },
+    {
+      "code": "330481103",
+      "name": "长安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/长安镇"
+    },
+    {
+      "code": "330481105",
+      "name": "周王庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/周王庙镇"
+    },
+    {
+      "code": "330481106",
+      "name": "丁桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/丁桥镇"
+    },
+    {
+      "code": "330481107",
+      "name": "斜桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/斜桥镇"
+    },
+    {
+      "code": "330481108",
+      "name": "黄湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/黄湾镇"
+    },
+    {
+      "code": "330481110",
+      "name": "盐官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/盐官镇"
+    },
+    {
+      "code": "330481112",
+      "name": "袁花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330481",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海宁市/袁花镇"
+    }
+  ]
+}

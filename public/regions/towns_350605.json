@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "350605100",
+      "name": "武安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350605",
+      "year": 0,
+      "name_path": "福建省/漳州市/长泰区/武安镇"
+    },
+    {
+      "code": "350605101",
+      "name": "岩溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350605",
+      "year": 0,
+      "name_path": "福建省/漳州市/长泰区/岩溪镇"
+    },
+    {
+      "code": "350605102",
+      "name": "陈巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350605",
+      "year": 0,
+      "name_path": "福建省/漳州市/长泰区/陈巷镇"
+    },
+    {
+      "code": "350605103",
+      "name": "枋洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350605",
+      "year": 0,
+      "name_path": "福建省/漳州市/长泰区/枋洋镇"
+    },
+    {
+      "code": "350605200",
+      "name": "坂里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350605",
+      "year": 0,
+      "name_path": "福建省/漳州市/长泰区/坂里乡"
+    }
+  ]
+}

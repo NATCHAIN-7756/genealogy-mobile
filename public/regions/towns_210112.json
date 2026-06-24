@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "210112005",
+      "name": "桃仙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/桃仙街道"
+    },
+    {
+      "code": "210112006",
+      "name": "深井子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/深井子街道"
+    },
+    {
+      "code": "210112007",
+      "name": "祝家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/祝家街道"
+    },
+    {
+      "code": "210112008",
+      "name": "白塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/白塔街道"
+    },
+    {
+      "code": "210112010",
+      "name": "李相街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/李相街道"
+    },
+    {
+      "code": "210112014",
+      "name": "五三街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/五三街道"
+    },
+    {
+      "code": "210112015",
+      "name": "浑河站东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/浑河站东街道"
+    },
+    {
+      "code": "210112016",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/东湖街道"
+    },
+    {
+      "code": "210112017",
+      "name": "高坎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/高坎街道"
+    },
+    {
+      "code": "210112018",
+      "name": "满堂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/满堂街道"
+    },
+    {
+      "code": "210112019",
+      "name": "王滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/王滨街道"
+    },
+    {
+      "code": "210112021",
+      "name": "汪家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210112",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/浑南区/汪家街道"
+    }
+  ]
+}

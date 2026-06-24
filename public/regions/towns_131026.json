@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "131026100",
+      "name": "文安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/文安镇"
+    },
+    {
+      "code": "131026101",
+      "name": "新镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/新镇镇"
+    },
+    {
+      "code": "131026102",
+      "name": "苏桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/苏桥镇"
+    },
+    {
+      "code": "131026103",
+      "name": "大柳河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/大柳河镇"
+    },
+    {
+      "code": "131026104",
+      "name": "左各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/左各庄镇"
+    },
+    {
+      "code": "131026105",
+      "name": "滩里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/滩里镇"
+    },
+    {
+      "code": "131026106",
+      "name": "史各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/史各庄镇"
+    },
+    {
+      "code": "131026107",
+      "name": "赵各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/赵各庄镇"
+    },
+    {
+      "code": "131026108",
+      "name": "兴隆宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/兴隆宫镇"
+    },
+    {
+      "code": "131026109",
+      "name": "大留镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/大留镇镇"
+    },
+    {
+      "code": "131026110",
+      "name": "孙氏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/孙氏镇"
+    },
+    {
+      "code": "131026111",
+      "name": "德归镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/德归镇"
+    },
+    {
+      "code": "131026200",
+      "name": "大围河回族满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131026",
+      "year": 0,
+      "name_path": "河北省/廊坊市/文安县/大围河回族满族乡"
+    }
+  ]
+}

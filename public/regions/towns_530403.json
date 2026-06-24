@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "530403001",
+      "name": "星云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/星云街道"
+    },
+    {
+      "code": "530403002",
+      "name": "宁海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/宁海街道"
+    },
+    {
+      "code": "530403101",
+      "name": "江城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/江城镇"
+    },
+    {
+      "code": "530403102",
+      "name": "前卫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/前卫镇"
+    },
+    {
+      "code": "530403103",
+      "name": "九溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/九溪镇"
+    },
+    {
+      "code": "530403104",
+      "name": "路居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/路居镇"
+    },
+    {
+      "code": "530403200",
+      "name": "安化彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/安化彝族乡"
+    },
+    {
+      "code": "530403201",
+      "name": "雄关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530403",
+      "year": 0,
+      "name_path": "云南省/玉溪市/江川区/雄关乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "330105001",
+      "name": "米市巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/米市巷街道"
+    },
+    {
+      "code": "330105002",
+      "name": "湖墅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/湖墅街道"
+    },
+    {
+      "code": "330105003",
+      "name": "小河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/小河街道"
+    },
+    {
+      "code": "330105004",
+      "name": "和睦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/和睦街道"
+    },
+    {
+      "code": "330105005",
+      "name": "拱宸桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/拱宸桥街道"
+    },
+    {
+      "code": "330105007",
+      "name": "大关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/大关街道"
+    },
+    {
+      "code": "330105008",
+      "name": "上塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/上塘街道"
+    },
+    {
+      "code": "330105009",
+      "name": "祥符街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/祥符街道"
+    },
+    {
+      "code": "330105010",
+      "name": "康桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/康桥街道"
+    },
+    {
+      "code": "330105011",
+      "name": "半山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/半山街道"
+    },
+    {
+      "code": "330105012",
+      "name": "天水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/天水街道"
+    },
+    {
+      "code": "330105013",
+      "name": "武林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/武林街道"
+    },
+    {
+      "code": "330105014",
+      "name": "长庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/长庆街道"
+    },
+    {
+      "code": "330105015",
+      "name": "潮鸣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/潮鸣街道"
+    },
+    {
+      "code": "330105016",
+      "name": "朝晖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/朝晖街道"
+    },
+    {
+      "code": "330105017",
+      "name": "文晖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/文晖街道"
+    },
+    {
+      "code": "330105018",
+      "name": "东新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/东新街道"
+    },
+    {
+      "code": "330105019",
+      "name": "石桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330105",
+      "year": 0,
+      "name_path": "浙江省/杭州市/拱墅区/石桥街道"
+    }
+  ]
+}

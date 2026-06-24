@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "350404",
+      "name": "三元区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/三元区"
+    },
+    {
+      "code": "350405",
+      "name": "沙县区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/沙县区"
+    },
+    {
+      "code": "350421",
+      "name": "明溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/明溪县"
+    },
+    {
+      "code": "350423",
+      "name": "清流县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/清流县"
+    },
+    {
+      "code": "350424",
+      "name": "宁化县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/宁化县"
+    },
+    {
+      "code": "350425",
+      "name": "大田县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/大田县"
+    },
+    {
+      "code": "350426",
+      "name": "尤溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/尤溪县"
+    },
+    {
+      "code": "350428",
+      "name": "将乐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/将乐县"
+    },
+    {
+      "code": "350429",
+      "name": "泰宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/泰宁县"
+    },
+    {
+      "code": "350430",
+      "name": "建宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/建宁县"
+    },
+    {
+      "code": "350481",
+      "name": "永安市",
+      "level": 3,
+      "type": null,
+      "parent_code": "350400",
+      "year": 0,
+      "name_path": "全国/福建省/三明市/永安市"
+    }
+  ]
+}

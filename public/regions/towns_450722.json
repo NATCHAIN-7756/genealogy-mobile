@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "450722001",
+      "name": "小江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/小江街道"
+    },
+    {
+      "code": "450722002",
+      "name": "江城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/江城街道"
+    },
+    {
+      "code": "450722101",
+      "name": "泉水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/泉水镇"
+    },
+    {
+      "code": "450722102",
+      "name": "石埇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/石埇镇"
+    },
+    {
+      "code": "450722103",
+      "name": "安石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/安石镇"
+    },
+    {
+      "code": "450722104",
+      "name": "张黄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/张黄镇"
+    },
+    {
+      "code": "450722105",
+      "name": "大成镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/大成镇"
+    },
+    {
+      "code": "450722106",
+      "name": "白石水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/白石水镇"
+    },
+    {
+      "code": "450722107",
+      "name": "北通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/北通镇"
+    },
+    {
+      "code": "450722108",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/三合镇"
+    },
+    {
+      "code": "450722109",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/龙门镇"
+    },
+    {
+      "code": "450722111",
+      "name": "福旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/福旺镇"
+    },
+    {
+      "code": "450722112",
+      "name": "寨圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/寨圩镇"
+    },
+    {
+      "code": "450722113",
+      "name": "乐民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/乐民镇"
+    },
+    {
+      "code": "450722114",
+      "name": "六硍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/六硍镇"
+    },
+    {
+      "code": "450722115",
+      "name": "平睦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/平睦镇"
+    },
+    {
+      "code": "450722116",
+      "name": "官垌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450722",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/浦北县/官垌镇"
+    }
+  ]
+}

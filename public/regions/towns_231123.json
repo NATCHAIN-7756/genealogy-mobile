@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "231123101",
+      "name": "逊河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/逊河镇"
+    },
+    {
+      "code": "231123102",
+      "name": "奇克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/奇克镇"
+    },
+    {
+      "code": "231123103",
+      "name": "克林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/克林镇"
+    },
+    {
+      "code": "231123201",
+      "name": "干岔子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/干岔子乡"
+    },
+    {
+      "code": "231123202",
+      "name": "松树沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/松树沟乡"
+    },
+    {
+      "code": "231123203",
+      "name": "车陆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/车陆乡"
+    },
+    {
+      "code": "231123204",
+      "name": "新鄂鄂伦春族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/新鄂鄂伦春族乡"
+    },
+    {
+      "code": "231123205",
+      "name": "新兴鄂伦春族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/新兴鄂伦春族乡"
+    },
+    {
+      "code": "231123207",
+      "name": "宝山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231123",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/逊克县/宝山乡"
+    }
+  ]
+}

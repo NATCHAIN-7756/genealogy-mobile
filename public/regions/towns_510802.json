@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "510802001",
+      "name": "东坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/东坝街道"
+    },
+    {
+      "code": "510802002",
+      "name": "嘉陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/嘉陵街道"
+    },
+    {
+      "code": "510802004",
+      "name": "雪峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/雪峰街道"
+    },
+    {
+      "code": "510802007",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/河西街道"
+    },
+    {
+      "code": "510802009",
+      "name": "上西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/上西街道"
+    },
+    {
+      "code": "510802010",
+      "name": "南河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/南河街道"
+    },
+    {
+      "code": "510802011",
+      "name": "万缘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/万缘街道"
+    },
+    {
+      "code": "510802100",
+      "name": "荣山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/荣山镇"
+    },
+    {
+      "code": "510802101",
+      "name": "大石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/大石镇"
+    },
+    {
+      "code": "510802102",
+      "name": "盘龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/盘龙镇"
+    },
+    {
+      "code": "510802103",
+      "name": "宝轮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/宝轮镇"
+    },
+    {
+      "code": "510802105",
+      "name": "三堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/三堆镇"
+    },
+    {
+      "code": "510802200",
+      "name": "白朝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/白朝乡"
+    },
+    {
+      "code": "510802201",
+      "name": "金洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/金洞乡"
+    },
+    {
+      "code": "510802202",
+      "name": "龙潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510802",
+      "year": 0,
+      "name_path": "四川省/广元市/利州区/龙潭乡"
+    }
+  ]
+}

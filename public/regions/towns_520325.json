@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "520325001",
+      "name": "尹珍街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/尹珍街道"
+    },
+    {
+      "code": "520325100",
+      "name": "玉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/玉溪镇"
+    },
+    {
+      "code": "520325101",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/三江镇"
+    },
+    {
+      "code": "520325102",
+      "name": "隆兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/隆兴镇"
+    },
+    {
+      "code": "520325103",
+      "name": "旧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/旧城镇"
+    },
+    {
+      "code": "520325104",
+      "name": "忠信镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/忠信镇"
+    },
+    {
+      "code": "520325105",
+      "name": "洛龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/洛龙镇"
+    },
+    {
+      "code": "520325106",
+      "name": "阳溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/阳溪镇"
+    },
+    {
+      "code": "520325107",
+      "name": "三桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/三桥镇"
+    },
+    {
+      "code": "520325108",
+      "name": "大磏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/大磏镇"
+    },
+    {
+      "code": "520325109",
+      "name": "平模镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/平模镇"
+    },
+    {
+      "code": "520325110",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/河口镇"
+    },
+    {
+      "code": "520325200",
+      "name": "上坝土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/上坝土家族乡"
+    },
+    {
+      "code": "520325201",
+      "name": "棕坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/棕坪乡"
+    },
+    {
+      "code": "520325202",
+      "name": "桃源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520325",
+      "year": 0,
+      "name_path": "贵州省/遵义市/道真仡佬族苗族自治县/桃源乡"
+    }
+  ]
+}

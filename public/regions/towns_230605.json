@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "230605008",
+      "name": "杏南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/杏南街道"
+    },
+    {
+      "code": "230605009",
+      "name": "创业街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/创业街道"
+    },
+    {
+      "code": "230605010",
+      "name": "红岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/红岗街道"
+    },
+    {
+      "code": "230605011",
+      "name": "八百垧街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/八百垧街道"
+    },
+    {
+      "code": "230605012",
+      "name": "银河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/银河街道"
+    },
+    {
+      "code": "230605013",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/解放街道"
+    },
+    {
+      "code": "230605100",
+      "name": "杏树岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230605",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/红岗区/杏树岗镇"
+    }
+  ]
+}

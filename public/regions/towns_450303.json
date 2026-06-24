@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "450303001",
+      "name": "叠彩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450303",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/叠彩区/叠彩街道"
+    },
+    {
+      "code": "450303002",
+      "name": "北门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450303",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/叠彩区/北门街道"
+    },
+    {
+      "code": "450303200",
+      "name": "大河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450303",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/叠彩区/大河乡"
+    }
+  ]
+}

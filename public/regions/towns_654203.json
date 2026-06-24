@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "654203001",
+      "name": "桃园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/桃园街道"
+    },
+    {
+      "code": "654203002",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/团结街道"
+    },
+    {
+      "code": "654203003",
+      "name": "书香街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/书香街道"
+    },
+    {
+      "code": "654203004",
+      "name": "凯旋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/凯旋街道"
+    },
+    {
+      "code": "654203101",
+      "name": "四道河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/四道河子镇"
+    },
+    {
+      "code": "654203102",
+      "name": "老沙湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/老沙湾镇"
+    },
+    {
+      "code": "654203103",
+      "name": "乌兰乌苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/乌兰乌苏镇"
+    },
+    {
+      "code": "654203104",
+      "name": "安集海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/安集海镇"
+    },
+    {
+      "code": "654203105",
+      "name": "东湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/东湾镇"
+    },
+    {
+      "code": "654203106",
+      "name": "西戈壁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/西戈壁镇"
+    },
+    {
+      "code": "654203107",
+      "name": "柳毛湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/柳毛湾镇"
+    },
+    {
+      "code": "654203108",
+      "name": "金沟河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/金沟河镇"
+    },
+    {
+      "code": "654203200",
+      "name": "商户地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/商户地乡"
+    },
+    {
+      "code": "654203201",
+      "name": "大泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/大泉乡"
+    },
+    {
+      "code": "654203202",
+      "name": "博尔通古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654203",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/沙湾市/博尔通古乡"
+    }
+  ]
+}

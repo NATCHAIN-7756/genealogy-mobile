@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "420112001",
+      "name": "吴家山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/吴家山街道"
+    },
+    {
+      "code": "420112002",
+      "name": "柏泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/柏泉街道"
+    },
+    {
+      "code": "420112004",
+      "name": "将军路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/将军路街道"
+    },
+    {
+      "code": "420112005",
+      "name": "慈惠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/慈惠街道"
+    },
+    {
+      "code": "420112006",
+      "name": "走马岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/走马岭街道"
+    },
+    {
+      "code": "420112007",
+      "name": "径河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/径河街道"
+    },
+    {
+      "code": "420112008",
+      "name": "长青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/长青街道"
+    },
+    {
+      "code": "420112009",
+      "name": "新沟镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/新沟镇街道"
+    },
+    {
+      "code": "420112011",
+      "name": "辛安渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/辛安渡街道"
+    },
+    {
+      "code": "420112012",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/东山街道"
+    },
+    {
+      "code": "420112014",
+      "name": "金银湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420112",
+      "year": 0,
+      "name_path": "湖北省/武汉市/东西湖区/金银湖街道"
+    }
+  ]
+}

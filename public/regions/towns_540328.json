@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "540328100",
+      "name": "嘎托镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/嘎托镇"
+    },
+    {
+      "code": "540328101",
+      "name": "如美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/如美镇"
+    },
+    {
+      "code": "540328200",
+      "name": "索多西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/索多西乡"
+    },
+    {
+      "code": "540328201",
+      "name": "莽岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/莽岭乡"
+    },
+    {
+      "code": "540328202",
+      "name": "宗西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/宗西乡"
+    },
+    {
+      "code": "540328203",
+      "name": "昂多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/昂多乡"
+    },
+    {
+      "code": "540328204",
+      "name": "措瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/措瓦乡"
+    },
+    {
+      "code": "540328205",
+      "name": "洛尼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/洛尼乡"
+    },
+    {
+      "code": "540328206",
+      "name": "戈波乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/戈波乡"
+    },
+    {
+      "code": "540328207",
+      "name": "帮达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/帮达乡"
+    },
+    {
+      "code": "540328208",
+      "name": "徐中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/徐中乡"
+    },
+    {
+      "code": "540328209",
+      "name": "曲登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/曲登乡"
+    },
+    {
+      "code": "540328210",
+      "name": "木许乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/木许乡"
+    },
+    {
+      "code": "540328211",
+      "name": "纳西民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/纳西民族乡"
+    },
+    {
+      "code": "540328212",
+      "name": "朱巴龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/朱巴龙乡"
+    },
+    {
+      "code": "540328213",
+      "name": "曲孜卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540328",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/芒康县/曲孜卡乡"
+    }
+  ]
+}

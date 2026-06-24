@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "371323001",
+      "name": "沂城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/沂城街道"
+    },
+    {
+      "code": "371323002",
+      "name": "龙家圈街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/龙家圈街道"
+    },
+    {
+      "code": "371323101",
+      "name": "马站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/马站镇"
+    },
+    {
+      "code": "371323102",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/高桥镇"
+    },
+    {
+      "code": "371323103",
+      "name": "许家湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/许家湖镇"
+    },
+    {
+      "code": "371323104",
+      "name": "黄山铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/黄山铺镇"
+    },
+    {
+      "code": "371323106",
+      "name": "诸葛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/诸葛镇"
+    },
+    {
+      "code": "371323107",
+      "name": "崔家峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/崔家峪镇"
+    },
+    {
+      "code": "371323108",
+      "name": "四十里堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/四十里堡镇"
+    },
+    {
+      "code": "371323109",
+      "name": "杨庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/杨庄镇"
+    },
+    {
+      "code": "371323110",
+      "name": "夏蔚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/夏蔚镇"
+    },
+    {
+      "code": "371323111",
+      "name": "沙沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/沙沟镇"
+    },
+    {
+      "code": "371323112",
+      "name": "高庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/高庄镇"
+    },
+    {
+      "code": "371323113",
+      "name": "道托镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/道托镇"
+    },
+    {
+      "code": "371323115",
+      "name": "泉庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/泉庄镇"
+    },
+    {
+      "code": "371323116",
+      "name": "富官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/富官庄镇"
+    },
+    {
+      "code": "371323117",
+      "name": "院东头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/院东头镇"
+    },
+    {
+      "code": "371323201",
+      "name": "圈里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371323",
+      "year": 0,
+      "name_path": "山东省/临沂市/沂水县/圈里乡"
+    }
+  ]
+}

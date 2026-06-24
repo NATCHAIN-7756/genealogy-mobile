@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "211011004",
+      "name": "铁西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211011",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/太子河区/铁西街道"
+    },
+    {
+      "code": "211011101",
+      "name": "祁家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211011",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/太子河区/祁家镇"
+    },
+    {
+      "code": "211011102",
+      "name": "王家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211011",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/太子河区/王家镇"
+    },
+    {
+      "code": "211011103",
+      "name": "沙岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211011",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/太子河区/沙岭镇"
+    },
+    {
+      "code": "211011204",
+      "name": "东宁卫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211011",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/太子河区/东宁卫乡"
+    }
+  ]
+}

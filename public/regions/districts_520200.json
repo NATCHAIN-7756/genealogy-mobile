@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "520201",
+      "name": "钟山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "520200",
+      "year": 0,
+      "name_path": "全国/贵州省/六盘水市/钟山区"
+    },
+    {
+      "code": "520203",
+      "name": "六枝特区",
+      "level": 3,
+      "type": null,
+      "parent_code": "520200",
+      "year": 0,
+      "name_path": "全国/贵州省/六盘水市/六枝特区"
+    },
+    {
+      "code": "520204",
+      "name": "水城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "520200",
+      "year": 0,
+      "name_path": "全国/贵州省/六盘水市/水城区"
+    },
+    {
+      "code": "520281",
+      "name": "盘州市",
+      "level": 3,
+      "type": null,
+      "parent_code": "520200",
+      "year": 0,
+      "name_path": "全国/贵州省/六盘水市/盘州市"
+    }
+  ]
+}

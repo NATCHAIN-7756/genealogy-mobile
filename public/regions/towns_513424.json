@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "513424001",
+      "name": "德州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/德州街道"
+    },
+    {
+      "code": "513424002",
+      "name": "昌州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/昌州街道"
+    },
+    {
+      "code": "513424101",
+      "name": "永郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/永郎镇"
+    },
+    {
+      "code": "513424102",
+      "name": "乐跃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/乐跃镇"
+    },
+    {
+      "code": "513424103",
+      "name": "麻栗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/麻栗镇"
+    },
+    {
+      "code": "513424104",
+      "name": "茨达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/茨达镇"
+    },
+    {
+      "code": "513424109",
+      "name": "巴洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/巴洞镇"
+    },
+    {
+      "code": "513424113",
+      "name": "铁炉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/铁炉镇"
+    },
+    {
+      "code": "513424114",
+      "name": "黑龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/黑龙潭镇"
+    },
+    {
+      "code": "513424115",
+      "name": "热河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/热河镇"
+    },
+    {
+      "code": "513424217",
+      "name": "南山傈僳族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/南山傈僳族乡"
+    },
+    {
+      "code": "513424218",
+      "name": "金沙傈僳族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513424",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/德昌县/金沙傈僳族乡"
+    }
+  ]
+}

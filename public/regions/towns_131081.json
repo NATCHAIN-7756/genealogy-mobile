@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "131081001",
+      "name": "裕华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/裕华街道"
+    },
+    {
+      "code": "131081100",
+      "name": "霸州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/霸州镇"
+    },
+    {
+      "code": "131081101",
+      "name": "南孟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/南孟镇"
+    },
+    {
+      "code": "131081102",
+      "name": "信安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/信安镇"
+    },
+    {
+      "code": "131081103",
+      "name": "堂二里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/堂二里镇"
+    },
+    {
+      "code": "131081104",
+      "name": "煎茶铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/煎茶铺镇"
+    },
+    {
+      "code": "131081105",
+      "name": "胜芳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/胜芳镇"
+    },
+    {
+      "code": "131081106",
+      "name": "扬芬港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/扬芬港镇"
+    },
+    {
+      "code": "131081107",
+      "name": "康仙庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/康仙庄镇"
+    },
+    {
+      "code": "131081108",
+      "name": "王庄子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/王庄子镇"
+    },
+    {
+      "code": "131081200",
+      "name": "岔河集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/岔河集乡"
+    },
+    {
+      "code": "131081202",
+      "name": "东杨庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/东杨庄乡"
+    },
+    {
+      "code": "131081204",
+      "name": "东段乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131081",
+      "year": 0,
+      "name_path": "河北省/廊坊市/霸州市/东段乡"
+    }
+  ]
+}

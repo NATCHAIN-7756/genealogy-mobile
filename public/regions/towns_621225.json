@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "621225100",
+      "name": "汉源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/汉源镇"
+    },
+    {
+      "code": "621225101",
+      "name": "长道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/长道镇"
+    },
+    {
+      "code": "621225102",
+      "name": "姜席镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/姜席镇"
+    },
+    {
+      "code": "621225103",
+      "name": "石峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/石峡镇"
+    },
+    {
+      "code": "621225104",
+      "name": "何坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/何坝镇"
+    },
+    {
+      "code": "621225105",
+      "name": "洛峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/洛峪镇"
+    },
+    {
+      "code": "621225106",
+      "name": "马元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/马元镇"
+    },
+    {
+      "code": "621225107",
+      "name": "大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/大桥镇"
+    },
+    {
+      "code": "621225108",
+      "name": "西峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/西峪镇"
+    },
+    {
+      "code": "621225109",
+      "name": "十里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/十里镇"
+    },
+    {
+      "code": "621225110",
+      "name": "石堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/石堡镇"
+    },
+    {
+      "code": "621225111",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/兴隆镇"
+    },
+    {
+      "code": "621225112",
+      "name": "苏合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/苏合镇"
+    },
+    {
+      "code": "621225113",
+      "name": "稍峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/稍峪镇"
+    },
+    {
+      "code": "621225114",
+      "name": "卢河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/卢河镇"
+    },
+    {
+      "code": "621225115",
+      "name": "西高山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/西高山镇"
+    },
+    {
+      "code": "621225206",
+      "name": "晒经乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/晒经乡"
+    },
+    {
+      "code": "621225208",
+      "name": "六巷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/六巷乡"
+    },
+    {
+      "code": "621225209",
+      "name": "太石河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/太石河乡"
+    },
+    {
+      "code": "621225210",
+      "name": "蒿林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621225",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/西和县/蒿林乡"
+    }
+  ]
+}

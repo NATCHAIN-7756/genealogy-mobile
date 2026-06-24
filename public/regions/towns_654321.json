@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "654321100",
+      "name": "布尔津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/布尔津镇"
+    },
+    {
+      "code": "654321101",
+      "name": "冲乎尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/冲乎尔镇"
+    },
+    {
+      "code": "654321102",
+      "name": "窝依莫克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/窝依莫克镇"
+    },
+    {
+      "code": "654321103",
+      "name": "阔斯特克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/阔斯特克镇"
+    },
+    {
+      "code": "654321201",
+      "name": "杜来提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/杜来提乡"
+    },
+    {
+      "code": "654321204",
+      "name": "也格孜托别乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/也格孜托别乡"
+    },
+    {
+      "code": "654321205",
+      "name": "禾木喀纳斯蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654321",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/布尔津县/禾木喀纳斯蒙古族乡"
+    }
+  ]
+}

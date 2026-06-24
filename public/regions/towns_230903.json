@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "230903008",
+      "name": "桃南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/桃南街道"
+    },
+    {
+      "code": "230903009",
+      "name": "桃北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/桃北街道"
+    },
+    {
+      "code": "230903010",
+      "name": "桃山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/桃山街道"
+    },
+    {
+      "code": "230903011",
+      "name": "桃东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/桃东街道"
+    },
+    {
+      "code": "230903012",
+      "name": "桃西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/桃西街道"
+    },
+    {
+      "code": "230903013",
+      "name": "桃源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/桃源街道"
+    },
+    {
+      "code": "230903100",
+      "name": "万宝河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230903",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/桃山区/万宝河镇"
+    }
+  ]
+}

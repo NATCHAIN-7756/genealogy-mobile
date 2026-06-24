@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "511421001",
+      "name": "文林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/文林街道"
+    },
+    {
+      "code": "511421002",
+      "name": "普宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/普宁街道"
+    },
+    {
+      "code": "511421003",
+      "name": "怀仁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/怀仁街道"
+    },
+    {
+      "code": "511421004",
+      "name": "视高街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/视高街道"
+    },
+    {
+      "code": "511421101",
+      "name": "大化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/大化镇"
+    },
+    {
+      "code": "511421102",
+      "name": "文宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/文宫镇"
+    },
+    {
+      "code": "511421103",
+      "name": "高家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/高家镇"
+    },
+    {
+      "code": "511421104",
+      "name": "富加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/富加镇"
+    },
+    {
+      "code": "511421105",
+      "name": "汪洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/汪洋镇"
+    },
+    {
+      "code": "511421106",
+      "name": "钟祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/钟祥镇"
+    },
+    {
+      "code": "511421107",
+      "name": "始建镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/始建镇"
+    },
+    {
+      "code": "511421108",
+      "name": "彰加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/彰加镇"
+    },
+    {
+      "code": "511421109",
+      "name": "慈航镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/慈航镇"
+    },
+    {
+      "code": "511421110",
+      "name": "龙正镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/龙正镇"
+    },
+    {
+      "code": "511421111",
+      "name": "北斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/北斗镇"
+    },
+    {
+      "code": "511421112",
+      "name": "禾加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/禾加镇"
+    },
+    {
+      "code": "511421114",
+      "name": "禄加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/禄加镇"
+    },
+    {
+      "code": "511421115",
+      "name": "宝飞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/宝飞镇"
+    },
+    {
+      "code": "511421116",
+      "name": "龙马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/龙马镇"
+    },
+    {
+      "code": "511421117",
+      "name": "方家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/方家镇"
+    },
+    {
+      "code": "511421120",
+      "name": "满井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/满井镇"
+    },
+    {
+      "code": "511421121",
+      "name": "黑龙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/黑龙滩镇"
+    },
+    {
+      "code": "511421125",
+      "name": "宝马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/宝马镇"
+    },
+    {
+      "code": "511421126",
+      "name": "珠嘉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/珠嘉镇"
+    },
+    {
+      "code": "511421128",
+      "name": "曹家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/曹家镇"
+    },
+    {
+      "code": "511421142",
+      "name": "谢安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/谢安镇"
+    },
+    {
+      "code": "511421143",
+      "name": "新店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/新店镇"
+    },
+    {
+      "code": "511421144",
+      "name": "藕塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/藕塘镇"
+    },
+    {
+      "code": "511421145",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/板桥镇"
+    },
+    {
+      "code": "511421146",
+      "name": "贵平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/贵平镇"
+    },
+    {
+      "code": "511421202",
+      "name": "青岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/青岗乡"
+    },
+    {
+      "code": "511421206",
+      "name": "虞丞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511421",
+      "year": 0,
+      "name_path": "四川省/眉山市/仁寿县/虞丞乡"
+    }
+  ]
+}

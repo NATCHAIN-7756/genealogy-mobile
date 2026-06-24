@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "130408100",
+      "name": "临洺关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/临洺关镇"
+    },
+    {
+      "code": "130408101",
+      "name": "大北汪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/大北汪镇"
+    },
+    {
+      "code": "130408102",
+      "name": "张西堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/张西堡镇"
+    },
+    {
+      "code": "130408103",
+      "name": "广府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/广府镇"
+    },
+    {
+      "code": "130408105",
+      "name": "永合会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/永合会镇"
+    },
+    {
+      "code": "130408106",
+      "name": "刘营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/刘营镇"
+    },
+    {
+      "code": "130408107",
+      "name": "东杨庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/东杨庄镇"
+    },
+    {
+      "code": "130408108",
+      "name": "讲武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/讲武镇"
+    },
+    {
+      "code": "130408109",
+      "name": "西苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/西苏镇"
+    },
+    {
+      "code": "130408110",
+      "name": "刘汉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/刘汉镇"
+    },
+    {
+      "code": "130408111",
+      "name": "界河店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/界河店镇"
+    },
+    {
+      "code": "130408112",
+      "name": "小龙马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/小龙马镇"
+    },
+    {
+      "code": "130408204",
+      "name": "正西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/正西乡"
+    },
+    {
+      "code": "130408206",
+      "name": "曲陌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/曲陌乡"
+    },
+    {
+      "code": "130408207",
+      "name": "辛庄堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/辛庄堡乡"
+    },
+    {
+      "code": "130408211",
+      "name": "西河庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/西河庄乡"
+    },
+    {
+      "code": "130408213",
+      "name": "西阳城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130408",
+      "year": 0,
+      "name_path": "河北省/邯郸市/永年区/西阳城乡"
+    }
+  ]
+}

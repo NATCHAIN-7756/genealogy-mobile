@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "540624100",
+      "name": "帕那镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/帕那镇"
+    },
+    {
+      "code": "540624101",
+      "name": "强玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/强玛镇"
+    },
+    {
+      "code": "540624102",
+      "name": "扎仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/扎仁镇"
+    },
+    {
+      "code": "540624103",
+      "name": "雁石坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/雁石坪镇"
+    },
+    {
+      "code": "540624201",
+      "name": "多玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/多玛乡"
+    },
+    {
+      "code": "540624202",
+      "name": "玛曲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/玛曲乡"
+    },
+    {
+      "code": "540624205",
+      "name": "滩堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/滩堆乡"
+    },
+    {
+      "code": "540624207",
+      "name": "帮麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/帮麦乡"
+    },
+    {
+      "code": "540624209",
+      "name": "玛荣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/玛荣乡"
+    },
+    {
+      "code": "540624210",
+      "name": "扎曲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/扎曲乡"
+    },
+    {
+      "code": "540624211",
+      "name": "色务乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/色务乡"
+    },
+    {
+      "code": "540624212",
+      "name": "措玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/措玛乡"
+    },
+    {
+      "code": "540624213",
+      "name": "岗尼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540624",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/安多县/岗尼乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "370117001",
+      "name": "艾山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370117",
+      "year": 0,
+      "name_path": "山东省/济南市/钢城区/艾山街道"
+    },
+    {
+      "code": "370117002",
+      "name": "里辛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370117",
+      "year": 0,
+      "name_path": "山东省/济南市/钢城区/里辛街道"
+    },
+    {
+      "code": "370117003",
+      "name": "汶源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370117",
+      "year": 0,
+      "name_path": "山东省/济南市/钢城区/汶源街道"
+    },
+    {
+      "code": "370117004",
+      "name": "颜庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370117",
+      "year": 0,
+      "name_path": "山东省/济南市/钢城区/颜庄街道"
+    },
+    {
+      "code": "370117005",
+      "name": "辛庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370117",
+      "year": 0,
+      "name_path": "山东省/济南市/钢城区/辛庄街道"
+    }
+  ]
+}

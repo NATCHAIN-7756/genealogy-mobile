@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140431100",
+      "name": "沁河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/沁河镇"
+    },
+    {
+      "code": "140431101",
+      "name": "郭道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/郭道镇"
+    },
+    {
+      "code": "140431102",
+      "name": "灵空山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/灵空山镇"
+    },
+    {
+      "code": "140431103",
+      "name": "王和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/王和镇"
+    },
+    {
+      "code": "140431105",
+      "name": "王陶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/王陶镇"
+    },
+    {
+      "code": "140431106",
+      "name": "景凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/景凤镇"
+    },
+    {
+      "code": "140431200",
+      "name": "中峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/中峪乡"
+    },
+    {
+      "code": "140431201",
+      "name": "法中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/法中乡"
+    },
+    {
+      "code": "140431202",
+      "name": "交口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/交口乡"
+    },
+    {
+      "code": "140431203",
+      "name": "聪子峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/聪子峪乡"
+    },
+    {
+      "code": "140431204",
+      "name": "韩洪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/韩洪乡"
+    },
+    {
+      "code": "140431207",
+      "name": "赤石桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140431",
+      "year": 0,
+      "name_path": "山西省/长治市/沁源县/赤石桥乡"
+    }
+  ]
+}

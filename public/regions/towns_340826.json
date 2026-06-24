@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "340826001",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/龙山街道"
+    },
+    {
+      "code": "340826002",
+      "name": "松兹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/松兹街道"
+    },
+    {
+      "code": "340826100",
+      "name": "孚玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/孚玉镇"
+    },
+    {
+      "code": "340826101",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/复兴镇"
+    },
+    {
+      "code": "340826102",
+      "name": "汇口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/汇口镇"
+    },
+    {
+      "code": "340826103",
+      "name": "许岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/许岭镇"
+    },
+    {
+      "code": "340826104",
+      "name": "下仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/下仓镇"
+    },
+    {
+      "code": "340826105",
+      "name": "二郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/二郎镇"
+    },
+    {
+      "code": "340826106",
+      "name": "华亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/华亭镇"
+    },
+    {
+      "code": "340826107",
+      "name": "凉亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/凉亭镇"
+    },
+    {
+      "code": "340826108",
+      "name": "长铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/长铺镇"
+    },
+    {
+      "code": "340826200",
+      "name": "高岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/高岭乡"
+    },
+    {
+      "code": "340826201",
+      "name": "程岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/程岭乡"
+    },
+    {
+      "code": "340826202",
+      "name": "九姑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/九姑乡"
+    },
+    {
+      "code": "340826203",
+      "name": "千岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/千岭乡"
+    },
+    {
+      "code": "340826204",
+      "name": "洲头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/洲头乡"
+    },
+    {
+      "code": "340826205",
+      "name": "佐坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/佐坝乡"
+    },
+    {
+      "code": "340826206",
+      "name": "北浴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/北浴乡"
+    },
+    {
+      "code": "340826207",
+      "name": "陈汉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/陈汉乡"
+    },
+    {
+      "code": "340826208",
+      "name": "隘口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/隘口乡"
+    },
+    {
+      "code": "340826209",
+      "name": "柳坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/柳坪乡"
+    },
+    {
+      "code": "340826210",
+      "name": "趾凤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/趾凤乡"
+    },
+    {
+      "code": "340826211",
+      "name": "河塌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340826",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宿松县/河塌乡"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "520382001",
+      "name": "中枢街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/中枢街道"
+    },
+    {
+      "code": "520382002",
+      "name": "盐津街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/盐津街道"
+    },
+    {
+      "code": "520382003",
+      "name": "苍龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/苍龙街道"
+    },
+    {
+      "code": "520382004",
+      "name": "坛厂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/坛厂街道"
+    },
+    {
+      "code": "520382005",
+      "name": "鲁班街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/鲁班街道"
+    },
+    {
+      "code": "520382103",
+      "name": "长岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/长岗镇"
+    },
+    {
+      "code": "520382105",
+      "name": "五马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/五马镇"
+    },
+    {
+      "code": "520382106",
+      "name": "茅坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/茅坝镇"
+    },
+    {
+      "code": "520382107",
+      "name": "九仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/九仓镇"
+    },
+    {
+      "code": "520382108",
+      "name": "喜头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/喜头镇"
+    },
+    {
+      "code": "520382109",
+      "name": "大坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/大坝镇"
+    },
+    {
+      "code": "520382110",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/三合镇"
+    },
+    {
+      "code": "520382111",
+      "name": "合马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/合马镇"
+    },
+    {
+      "code": "520382113",
+      "name": "火石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/火石镇"
+    },
+    {
+      "code": "520382114",
+      "name": "学孔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/学孔镇"
+    },
+    {
+      "code": "520382115",
+      "name": "龙井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/龙井镇"
+    },
+    {
+      "code": "520382116",
+      "name": "美酒河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/美酒河镇"
+    },
+    {
+      "code": "520382117",
+      "name": "高大坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/高大坪镇"
+    },
+    {
+      "code": "520382118",
+      "name": "茅台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/茅台镇"
+    },
+    {
+      "code": "520382201",
+      "name": "后山苗族布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520382",
+      "year": 0,
+      "name_path": "贵州省/遵义市/仁怀市/后山苗族布依族乡"
+    }
+  ]
+}

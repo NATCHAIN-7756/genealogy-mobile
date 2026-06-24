@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "620122101",
+      "name": "西岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/西岔镇"
+    },
+    {
+      "code": "620122103",
+      "name": "什川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/什川镇"
+    },
+    {
+      "code": "620122104",
+      "name": "石洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/石洞镇"
+    },
+    {
+      "code": "620122106",
+      "name": "水阜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/水阜镇"
+    },
+    {
+      "code": "620122107",
+      "name": "黑石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/黑石镇"
+    },
+    {
+      "code": "620122108",
+      "name": "中川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/中川镇"
+    },
+    {
+      "code": "620122109",
+      "name": "秦川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/秦川镇"
+    },
+    {
+      "code": "620122110",
+      "name": "上川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620122",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/皋兰县/上川镇"
+    }
+  ]
+}

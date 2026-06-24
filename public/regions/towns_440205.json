@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "440205001",
+      "name": "松山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/松山街道"
+    },
+    {
+      "code": "440205100",
+      "name": "马坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/马坝镇"
+    },
+    {
+      "code": "440205103",
+      "name": "大塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/大塘镇"
+    },
+    {
+      "code": "440205104",
+      "name": "枫湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/枫湾镇"
+    },
+    {
+      "code": "440205105",
+      "name": "小坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/小坑镇"
+    },
+    {
+      "code": "440205106",
+      "name": "沙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/沙溪镇"
+    },
+    {
+      "code": "440205108",
+      "name": "乌石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/乌石镇"
+    },
+    {
+      "code": "440205109",
+      "name": "樟市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/樟市镇"
+    },
+    {
+      "code": "440205110",
+      "name": "白土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/白土镇"
+    },
+    {
+      "code": "440205119",
+      "name": "罗坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440205",
+      "year": 0,
+      "name_path": "广东省/韶关市/曲江区/罗坑镇"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "140702001",
+      "name": "北关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/北关街道"
+    },
+    {
+      "code": "140702002",
+      "name": "锦纶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/锦纶街道"
+    },
+    {
+      "code": "140702003",
+      "name": "新华街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/新华街街道"
+    },
+    {
+      "code": "140702004",
+      "name": "西南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/西南街街道"
+    },
+    {
+      "code": "140702005",
+      "name": "路西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/路西街道"
+    },
+    {
+      "code": "140702006",
+      "name": "经纬街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/经纬街道"
+    },
+    {
+      "code": "140702007",
+      "name": "安宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/安宁街道"
+    },
+    {
+      "code": "140702008",
+      "name": "新建街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/新建街街道"
+    },
+    {
+      "code": "140702009",
+      "name": "晋华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/晋华街道"
+    },
+    {
+      "code": "140702100",
+      "name": "乌金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/乌金山镇"
+    },
+    {
+      "code": "140702101",
+      "name": "东阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/东阳镇"
+    },
+    {
+      "code": "140702103",
+      "name": "长凝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/长凝镇"
+    },
+    {
+      "code": "140702104",
+      "name": "北田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/北田镇"
+    },
+    {
+      "code": "140702105",
+      "name": "修文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/修文镇"
+    },
+    {
+      "code": "140702200",
+      "name": "郭家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/郭家堡乡"
+    },
+    {
+      "code": "140702201",
+      "name": "张庆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/张庆乡"
+    },
+    {
+      "code": "140702202",
+      "name": "庄子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/庄子乡"
+    },
+    {
+      "code": "140702203",
+      "name": "东赵乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140702",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆次区/东赵乡"
+    }
+  ]
+}

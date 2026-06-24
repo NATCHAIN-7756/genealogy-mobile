@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "411422001",
+      "name": "凤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/凤城街道"
+    },
+    {
+      "code": "411422002",
+      "name": "董店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/董店街道"
+    },
+    {
+      "code": "411422100",
+      "name": "长岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/长岗镇"
+    },
+    {
+      "code": "411422101",
+      "name": "平岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/平岗镇"
+    },
+    {
+      "code": "411422102",
+      "name": "周堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/周堂镇"
+    },
+    {
+      "code": "411422103",
+      "name": "蓼堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/蓼堤镇"
+    },
+    {
+      "code": "411422104",
+      "name": "西陵寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/西陵寺镇"
+    },
+    {
+      "code": "411422105",
+      "name": "城关回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/城关回族镇"
+    },
+    {
+      "code": "411422106",
+      "name": "潮庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/潮庄镇"
+    },
+    {
+      "code": "411422107",
+      "name": "尚屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/尚屯镇"
+    },
+    {
+      "code": "411422108",
+      "name": "河堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/河堤镇"
+    },
+    {
+      "code": "411422109",
+      "name": "匡城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/匡城镇"
+    },
+    {
+      "code": "411422200",
+      "name": "后台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/后台乡"
+    },
+    {
+      "code": "411422202",
+      "name": "河集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/河集乡"
+    },
+    {
+      "code": "411422203",
+      "name": "孙聚寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/孙聚寨乡"
+    },
+    {
+      "code": "411422204",
+      "name": "白楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/白楼乡"
+    },
+    {
+      "code": "411422206",
+      "name": "白庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/白庙乡"
+    },
+    {
+      "code": "411422207",
+      "name": "胡堂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/胡堂乡"
+    },
+    {
+      "code": "411422208",
+      "name": "尤吉屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/尤吉屯乡"
+    },
+    {
+      "code": "411422211",
+      "name": "涧岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411422",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢县/涧岗乡"
+    }
+  ]
+}

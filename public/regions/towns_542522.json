@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "542522100",
+      "name": "托林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/托林镇"
+    },
+    {
+      "code": "542522200",
+      "name": "萨让乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/萨让乡"
+    },
+    {
+      "code": "542522201",
+      "name": "达巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/达巴乡"
+    },
+    {
+      "code": "542522202",
+      "name": "底雅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/底雅乡"
+    },
+    {
+      "code": "542522203",
+      "name": "香孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/香孜乡"
+    },
+    {
+      "code": "542522204",
+      "name": "曲松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/曲松乡"
+    },
+    {
+      "code": "542522205",
+      "name": "楚鲁松杰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542522",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/札达县/楚鲁松杰乡"
+    }
+  ]
+}

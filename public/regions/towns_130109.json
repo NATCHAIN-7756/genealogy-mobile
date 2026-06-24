@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "130109100",
+      "name": "廉州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/廉州镇"
+    },
+    {
+      "code": "130109101",
+      "name": "兴安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/兴安镇"
+    },
+    {
+      "code": "130109102",
+      "name": "贾市庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/贾市庄镇"
+    },
+    {
+      "code": "130109103",
+      "name": "南营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/南营镇"
+    },
+    {
+      "code": "130109104",
+      "name": "梅花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/梅花镇"
+    },
+    {
+      "code": "130109105",
+      "name": "岗上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/岗上镇"
+    },
+    {
+      "code": "130109106",
+      "name": "丘头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/丘头镇"
+    },
+    {
+      "code": "130109107",
+      "name": "南董镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/南董镇"
+    },
+    {
+      "code": "130109108",
+      "name": "张家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/张家庄镇"
+    },
+    {
+      "code": "130109109",
+      "name": "南孟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/南孟镇"
+    },
+    {
+      "code": "130109110",
+      "name": "增村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/增村镇"
+    },
+    {
+      "code": "130109111",
+      "name": "常安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/常安镇"
+    },
+    {
+      "code": "130109112",
+      "name": "西关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/西关镇"
+    },
+    {
+      "code": "130109200",
+      "name": "九门回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130109",
+      "year": 0,
+      "name_path": "河北省/石家庄市/藁城区/九门回族乡"
+    }
+  ]
+}

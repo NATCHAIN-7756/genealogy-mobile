@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "360826101",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/桥头镇"
+    },
+    {
+      "code": "360826102",
+      "name": "禾市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/禾市镇"
+    },
+    {
+      "code": "360826103",
+      "name": "螺溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/螺溪镇"
+    },
+    {
+      "code": "360826105",
+      "name": "苏溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/苏溪镇"
+    },
+    {
+      "code": "360826106",
+      "name": "马市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/马市镇"
+    },
+    {
+      "code": "360826107",
+      "name": "塘洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/塘洲镇"
+    },
+    {
+      "code": "360826108",
+      "name": "冠朝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/冠朝镇"
+    },
+    {
+      "code": "360826109",
+      "name": "沙村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/沙村镇"
+    },
+    {
+      "code": "360826110",
+      "name": "小龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/小龙镇"
+    },
+    {
+      "code": "360826111",
+      "name": "苑前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/苑前镇"
+    },
+    {
+      "code": "360826112",
+      "name": "万合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/万合镇"
+    },
+    {
+      "code": "360826114",
+      "name": "澄江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/澄江镇"
+    },
+    {
+      "code": "360826115",
+      "name": "老营盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/老营盘镇"
+    },
+    {
+      "code": "360826116",
+      "name": "灌溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/灌溪镇"
+    },
+    {
+      "code": "360826117",
+      "name": "沿溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/沿溪镇"
+    },
+    {
+      "code": "360826200",
+      "name": "石山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/石山乡"
+    },
+    {
+      "code": "360826201",
+      "name": "南溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/南溪乡"
+    },
+    {
+      "code": "360826203",
+      "name": "上模乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/上模乡"
+    },
+    {
+      "code": "360826204",
+      "name": "水槎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/水槎乡"
+    },
+    {
+      "code": "360826205",
+      "name": "上圯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/上圯乡"
+    },
+    {
+      "code": "360826207",
+      "name": "中龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360826",
+      "year": 0,
+      "name_path": "江西省/吉安市/泰和县/中龙乡"
+    }
+  ]
+}

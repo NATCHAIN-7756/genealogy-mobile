@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "370923001",
+      "name": "州城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/州城街道"
+    },
+    {
+      "code": "370923002",
+      "name": "东平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/东平街道"
+    },
+    {
+      "code": "370923003",
+      "name": "彭集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/彭集街道"
+    },
+    {
+      "code": "370923101",
+      "name": "沙河站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/沙河站镇"
+    },
+    {
+      "code": "370923106",
+      "name": "老湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/老湖镇"
+    },
+    {
+      "code": "370923107",
+      "name": "银山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/银山镇"
+    },
+    {
+      "code": "370923108",
+      "name": "斑鸠店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/斑鸠店镇"
+    },
+    {
+      "code": "370923109",
+      "name": "接山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/接山镇"
+    },
+    {
+      "code": "370923110",
+      "name": "大羊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/大羊镇"
+    },
+    {
+      "code": "370923111",
+      "name": "梯门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/梯门镇"
+    },
+    {
+      "code": "370923112",
+      "name": "戴庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/戴庙镇"
+    },
+    {
+      "code": "370923113",
+      "name": "新湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/新湖镇"
+    },
+    {
+      "code": "370923206",
+      "name": "商老庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/商老庄乡"
+    },
+    {
+      "code": "370923208",
+      "name": "旧县乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370923",
+      "year": 0,
+      "name_path": "山东省/泰安市/东平县/旧县乡"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "510781006",
+      "name": "中坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/中坝街道"
+    },
+    {
+      "code": "510781101",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/太平镇"
+    },
+    {
+      "code": "510781102",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/三合镇"
+    },
+    {
+      "code": "510781103",
+      "name": "含增镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/含增镇"
+    },
+    {
+      "code": "510781104",
+      "name": "青莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/青莲镇"
+    },
+    {
+      "code": "510781105",
+      "name": "彰明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/彰明镇"
+    },
+    {
+      "code": "510781106",
+      "name": "龙凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/龙凤镇"
+    },
+    {
+      "code": "510781107",
+      "name": "武都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/武都镇"
+    },
+    {
+      "code": "510781108",
+      "name": "大康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/大康镇"
+    },
+    {
+      "code": "510781109",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/新安镇"
+    },
+    {
+      "code": "510781110",
+      "name": "战旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/战旗镇"
+    },
+    {
+      "code": "510781111",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/双河镇"
+    },
+    {
+      "code": "510781112",
+      "name": "永胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/永胜镇"
+    },
+    {
+      "code": "510781113",
+      "name": "小溪坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/小溪坝镇"
+    },
+    {
+      "code": "510781114",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/河口镇"
+    },
+    {
+      "code": "510781115",
+      "name": "重华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/重华镇"
+    },
+    {
+      "code": "510781116",
+      "name": "厚坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/厚坝镇"
+    },
+    {
+      "code": "510781117",
+      "name": "二郎庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/二郎庙镇"
+    },
+    {
+      "code": "510781118",
+      "name": "马角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/马角镇"
+    },
+    {
+      "code": "510781119",
+      "name": "雁门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/雁门镇"
+    },
+    {
+      "code": "510781122",
+      "name": "大堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/大堰镇"
+    },
+    {
+      "code": "510781124",
+      "name": "西屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/西屏镇"
+    },
+    {
+      "code": "510781125",
+      "name": "方水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/方水镇"
+    },
+    {
+      "code": "510781219",
+      "name": "枫顺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510781",
+      "year": 0,
+      "name_path": "四川省/绵阳市/江油市/枫顺乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "350425100",
+      "name": "均溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/均溪镇"
+    },
+    {
+      "code": "350425101",
+      "name": "石牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/石牌镇"
+    },
+    {
+      "code": "350425102",
+      "name": "上京镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/上京镇"
+    },
+    {
+      "code": "350425103",
+      "name": "广平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/广平镇"
+    },
+    {
+      "code": "350425104",
+      "name": "桃源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/桃源镇"
+    },
+    {
+      "code": "350425105",
+      "name": "太华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/太华镇"
+    },
+    {
+      "code": "350425106",
+      "name": "建设镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/建设镇"
+    },
+    {
+      "code": "350425107",
+      "name": "奇韬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/奇韬镇"
+    },
+    {
+      "code": "350425108",
+      "name": "吴山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/吴山镇"
+    },
+    {
+      "code": "350425109",
+      "name": "华兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/华兴镇"
+    },
+    {
+      "code": "350425110",
+      "name": "梅山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/梅山镇"
+    },
+    {
+      "code": "350425111",
+      "name": "文江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/文江镇"
+    },
+    {
+      "code": "350425201",
+      "name": "屏山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/屏山乡"
+    },
+    {
+      "code": "350425203",
+      "name": "济阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/济阳乡"
+    },
+    {
+      "code": "350425204",
+      "name": "武陵乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/武陵乡"
+    },
+    {
+      "code": "350425205",
+      "name": "谢洋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/谢洋乡"
+    },
+    {
+      "code": "350425208",
+      "name": "湖美乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/湖美乡"
+    },
+    {
+      "code": "350425209",
+      "name": "前坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350425",
+      "year": 0,
+      "name_path": "福建省/三明市/大田县/前坪乡"
+    }
+  ]
+}

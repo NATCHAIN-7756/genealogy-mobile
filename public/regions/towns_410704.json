@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "410704001",
+      "name": "宝山西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410704",
+      "year": 0,
+      "name_path": "河南省/新乡市/凤泉区/宝山西路街道"
+    },
+    {
+      "code": "410704002",
+      "name": "宝山东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410704",
+      "year": 0,
+      "name_path": "河南省/新乡市/凤泉区/宝山东路街道"
+    },
+    {
+      "code": "410704100",
+      "name": "大块镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410704",
+      "year": 0,
+      "name_path": "河南省/新乡市/凤泉区/大块镇"
+    },
+    {
+      "code": "410704101",
+      "name": "耿黄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410704",
+      "year": 0,
+      "name_path": "河南省/新乡市/凤泉区/耿黄镇"
+    },
+    {
+      "code": "410704200",
+      "name": "潞王坟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410704",
+      "year": 0,
+      "name_path": "河南省/新乡市/凤泉区/潞王坟乡"
+    }
+  ]
+}

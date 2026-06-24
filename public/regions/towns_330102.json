@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "330102001",
+      "name": "清波街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/清波街道"
+    },
+    {
+      "code": "330102003",
+      "name": "湖滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/湖滨街道"
+    },
+    {
+      "code": "330102004",
+      "name": "小营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/小营街道"
+    },
+    {
+      "code": "330102008",
+      "name": "南星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/南星街道"
+    },
+    {
+      "code": "330102009",
+      "name": "紫阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/紫阳街道"
+    },
+    {
+      "code": "330102010",
+      "name": "望江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/望江街道"
+    },
+    {
+      "code": "330102011",
+      "name": "凯旋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/凯旋街道"
+    },
+    {
+      "code": "330102012",
+      "name": "采荷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/采荷街道"
+    },
+    {
+      "code": "330102013",
+      "name": "闸弄口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/闸弄口街道"
+    },
+    {
+      "code": "330102014",
+      "name": "四季青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/四季青街道"
+    },
+    {
+      "code": "330102015",
+      "name": "彭埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/彭埠街道"
+    },
+    {
+      "code": "330102016",
+      "name": "笕桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/笕桥街道"
+    },
+    {
+      "code": "330102017",
+      "name": "丁兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/丁兰街道"
+    },
+    {
+      "code": "330102018",
+      "name": "九堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330102",
+      "year": 0,
+      "name_path": "浙江省/杭州市/上城区/九堡街道"
+    }
+  ]
+}

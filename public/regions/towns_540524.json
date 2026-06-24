@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "540524100",
+      "name": "琼结镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540524",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/琼结县/琼结镇"
+    },
+    {
+      "code": "540524200",
+      "name": "加麻乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540524",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/琼结县/加麻乡"
+    },
+    {
+      "code": "540524201",
+      "name": "下水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540524",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/琼结县/下水乡"
+    },
+    {
+      "code": "540524202",
+      "name": "拉玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540524",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/琼结县/拉玉乡"
+    }
+  ]
+}

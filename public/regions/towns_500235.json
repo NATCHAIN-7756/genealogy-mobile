@@ -1,0 +1,382 @@
+{
+  "data": [
+    {
+      "code": "500235001",
+      "name": "青龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/青龙街道"
+    },
+    {
+      "code": "500235002",
+      "name": "双江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/双江街道"
+    },
+    {
+      "code": "500235003",
+      "name": "人和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/人和街道"
+    },
+    {
+      "code": "500235004",
+      "name": "盘龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/盘龙街道"
+    },
+    {
+      "code": "500235005",
+      "name": "黄石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/黄石街道"
+    },
+    {
+      "code": "500235100",
+      "name": "云阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/云阳镇"
+    },
+    {
+      "code": "500235101",
+      "name": "云安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/云安镇"
+    },
+    {
+      "code": "500235103",
+      "name": "凤鸣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/凤鸣镇"
+    },
+    {
+      "code": "500235105",
+      "name": "龙角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/龙角镇"
+    },
+    {
+      "code": "500235106",
+      "name": "宝坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/宝坪镇"
+    },
+    {
+      "code": "500235107",
+      "name": "故陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/故陵镇"
+    },
+    {
+      "code": "500235108",
+      "name": "红狮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/红狮镇"
+    },
+    {
+      "code": "500235109",
+      "name": "南溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/南溪镇"
+    },
+    {
+      "code": "500235111",
+      "name": "双土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/双土镇"
+    },
+    {
+      "code": "500235112",
+      "name": "桑坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/桑坪镇"
+    },
+    {
+      "code": "500235113",
+      "name": "江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/江口镇"
+    },
+    {
+      "code": "500235115",
+      "name": "路阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/路阳镇"
+    },
+    {
+      "code": "500235116",
+      "name": "农坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/农坝镇"
+    },
+    {
+      "code": "500235117",
+      "name": "高阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/高阳镇"
+    },
+    {
+      "code": "500235118",
+      "name": "渠马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/渠马镇"
+    },
+    {
+      "code": "500235122",
+      "name": "巴阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/巴阳镇"
+    },
+    {
+      "code": "500235124",
+      "name": "鱼泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/鱼泉镇"
+    },
+    {
+      "code": "500235126",
+      "name": "平安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/平安镇"
+    },
+    {
+      "code": "500235127",
+      "name": "沙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/沙市镇"
+    },
+    {
+      "code": "500235128",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/双龙镇"
+    },
+    {
+      "code": "500235129",
+      "name": "栖霞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/栖霞镇"
+    },
+    {
+      "code": "500235130",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/水口镇"
+    },
+    {
+      "code": "500235131",
+      "name": "蔈草镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/蔈草镇"
+    },
+    {
+      "code": "500235132",
+      "name": "泥溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/泥溪镇"
+    },
+    {
+      "code": "500235133",
+      "name": "养鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/养鹿镇"
+    },
+    {
+      "code": "500235134",
+      "name": "后叶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/后叶镇"
+    },
+    {
+      "code": "500235135",
+      "name": "龙洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/龙洞镇"
+    },
+    {
+      "code": "500235136",
+      "name": "堰坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/堰坪镇"
+    },
+    {
+      "code": "500235137",
+      "name": "大阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/大阳镇"
+    },
+    {
+      "code": "500235138",
+      "name": "耀灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/耀灵镇"
+    },
+    {
+      "code": "500235208",
+      "name": "外郎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/外郎乡"
+    },
+    {
+      "code": "500235215",
+      "name": "新津乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/新津乡"
+    },
+    {
+      "code": "500235216",
+      "name": "普安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/普安乡"
+    },
+    {
+      "code": "500235218",
+      "name": "洞鹿乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/洞鹿乡"
+    },
+    {
+      "code": "500235219",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/石门乡"
+    },
+    {
+      "code": "500235239",
+      "name": "上坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/上坝乡"
+    },
+    {
+      "code": "500235241",
+      "name": "清水土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500235",
+      "year": 0,
+      "name_path": "重庆市/云阳县/清水土家族乡"
+    }
+  ]
+}

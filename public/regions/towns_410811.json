@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "410811001",
+      "name": "东方红街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/东方红街道"
+    },
+    {
+      "code": "410811002",
+      "name": "焦东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/焦东街道"
+    },
+    {
+      "code": "410811003",
+      "name": "百间房街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/百间房街道"
+    },
+    {
+      "code": "410811004",
+      "name": "太行街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/太行街道"
+    },
+    {
+      "code": "410811005",
+      "name": "艺新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/艺新街道"
+    },
+    {
+      "code": "410811006",
+      "name": "光亚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/光亚街道"
+    },
+    {
+      "code": "410811007",
+      "name": "定和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/定和街道"
+    },
+    {
+      "code": "410811008",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/新城街道"
+    },
+    {
+      "code": "410811009",
+      "name": "中星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/中星街道"
+    },
+    {
+      "code": "410811010",
+      "name": "李万街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/李万街道"
+    },
+    {
+      "code": "410811011",
+      "name": "文苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/文苑街道"
+    },
+    {
+      "code": "410811012",
+      "name": "文昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/文昌街道"
+    },
+    {
+      "code": "410811100",
+      "name": "阳庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/阳庙镇"
+    },
+    {
+      "code": "410811101",
+      "name": "宁郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/宁郭镇"
+    },
+    {
+      "code": "410811200",
+      "name": "苏家作乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410811",
+      "year": 0,
+      "name_path": "河南省/焦作市/山阳区/苏家作乡"
+    }
+  ]
+}

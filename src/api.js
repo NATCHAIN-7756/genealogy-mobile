@@ -7,13 +7,6 @@ const api = axios.create({
   timeout: 10000
 })
 
-// ==================== 认证模块 ====================
-export const authApi = {
-  login: (phone, password) => api.post('/auth/login', { phone, password }),
-  getMe: () => api.get('/auth/me'),
-  logout: () => { localStorage.removeItem('token'); localStorage.removeItem('user'); }
-}
-
 // 请求拦截器 - 自动携带token
 api.interceptors.request.use(config => {
   const token = localStorage.getItem('token')
@@ -28,7 +21,6 @@ api.interceptors.response.use(
     if (error.response && error.response.status === 401) {
       localStorage.removeItem('token')
       localStorage.removeItem('user')
-      // 如果不在登录页，跳转到登录页
       if (!window.location.pathname.includes('/login')) {
         window.location.href = '/m/login'
       }
@@ -37,13 +29,23 @@ api.interceptors.response.use(
   }
 )
 
+// ==================== 认证模块 ====================
+export const authApi = {
+  login: (phone, password) => api.post('/auth/login', { phone, password }),
+  getMe: () => api.get('/auth/me'),
+  logout: () => { localStorage.removeItem('token'); localStorage.removeItem('user'); }
+}
+
+// ==================== 家族模块 ====================
 export const familyApi = {
   list: () => api.get('/families'),
   get: (id) => api.get(`/families/${id}`),
   create: (data) => api.post('/families', data),
+  update: (id, data) => api.put(`/families/${id}`, data),
   join: (code) => api.post(`/families/join/${code}`)
 }
 
+// ==================== 成员模块 ====================
 export const memberApi = {
   list: (familyId, params) => api.get(`/members/family/${familyId}`, { params }),
   get: (id) => api.get(`/members/${id}`),
@@ -54,41 +56,54 @@ export const memberApi = {
   getRelations: (memberId) => api.get(`/members/${memberId}/relations`)
 }
 
+// ==================== 故事模块 ====================
 export const storyApi = {
   list: (familyId, status) => api.get(`/stories/family/${familyId}`, { params: { status } }),
   get: (id) => api.get(`/stories/${id}`),
   create: (familyId, data) => api.post(`/stories/family/${familyId}`, data),
   update: (id, data) => api.put(`/stories/${id}`, data),
-  delete: (id) => api.delete(`/stories/${id}`)
+  delete: (id) => api.delete(`/stories/${id}`),
+  like: (id) => api.post(`/stories/${id}/like`),
+  collect: (id) => api.post(`/stories/${id}/collect`),
+  getComments: (id) => api.get(`/stories/${id}/comments`),
+  addComment: (id, data) => api.post(`/stories/${id}/comments`, data),
+  getStatus: (id) => api.get(`/stories/${id}/status`)
 }
 
+// ==================== 大事记模块 ====================
 export const eventApi = {
   list: (familyId, status) => api.get(`/events/family/${familyId}`, { params: { status } }),
   get: (id) => api.get(`/events/${id}`),
   create: (familyId, data) => api.post(`/events/family/${familyId}`, data),
+  update: (id, data) => api.put(`/events/${id}`, data),
   delete: (id) => api.delete(`/events/${id}`)
 }
 
+// ==================== 赞助模块 ====================
 export const sponsorApi = {
   list: (familyId, status) => api.get(`/sponsors/family/${familyId}`, { params: { status } }),
-  create: (familyId, data) => api.post(`/sponsors/family/${familyId}`, data),
   get: (id) => api.get(`/sponsors/${id}`),
+  create: (familyId, data) => api.post(`/sponsors/family/${familyId}`, data),
+  update: (id, data) => api.put(`/sponsors/${id}`, data),
   delete: (id) => api.delete(`/sponsors/${id}`)
 }
 
+// ==================== 族委会模块 ====================
 export const committeeApi = {
   pendingStories: () => api.get('/committee/pending/stories'),
   pendingEvents: () => api.get('/committee/pending/events'),
   pendingSponsors: () => api.get('/committee/pending/sponsors'),
-  reviewStory: (id, action, note = '') => api.post(`/committee/review/story/${id}?action=${action}&note=${encodeURIComponent(note)}`),
-  reviewEvent: (id, action, note = '') => api.post(`/committee/review/event/${id}?action=${action}&note=${encodeURIComponent(note)}`),
-  reviewSponsor: (id, action, note = '') => api.post(`/committee/review/sponsor/${id}?action=${action}&note=${encodeURIComponent(note)}`)
+  reviewStory: (id, action, note) => api.post(`/committee/review/story/${id}`, { action, note }),
+  reviewEvent: (id, action, note) => api.post(`/committee/review/event/${id}`, { action, note }),
+  reviewSponsor: (id, action, note) => api.post(`/committee/review/sponsor/${id}`, { action, note })
 }
 
+// ==================== 搜索模块 ====================
 export const searchApi = {
   search: (keyword, type) => api.get('/search', { params: { keyword, type } })
 }
 
+// ==================== 族谱书模块 ====================
 export const bookApi = {
   list: (familyId) => api.get('/books', { params: { family_id: familyId } }),
   get: (id) => api.get(`/books/${id}`),
@@ -96,24 +111,28 @@ export const bookApi = {
   create: (data) => api.post('/books', data)
 }
 
+// ==================== Canvas模块 ====================
 export const canvasApi = {
   getTree: (familyId) => api.get(`/canvas/${familyId}`),
   getNodeDetail: (familyId, memberId) => api.get(`/canvas/${familyId}/node/${memberId}`),
   exportTree: (familyId) => api.get(`/canvas/${familyId}/export`)
 }
 
+// ==================== 历史版本模块 ====================
 export const historyApi = {
-  create: (familyId, name, desc) => api.post(`/history/family/${familyId}`, { version_name: name, description: desc }),
   list: (familyId) => api.get(`/history/family/${familyId}`),
+  create: (familyId, name, desc) => api.post(`/history/family/${familyId}`, { version_name: name, description: desc }),
   restore: (snapshotId) => api.post(`/history/${snapshotId}/restore`),
   delete: (snapshotId) => api.delete(`/history/${snapshotId}`)
 }
 
+// ==================== 用户模块 ====================
 export const userApi = {
   profile: () => api.get('/users/me'),
   updateProfile: (data) => api.put('/users/me', data)
 }
 
+// ==================== 上传模块 ====================
 export const uploadApi = {
   upload: (file) => {
     const formData = new FormData()
@@ -124,6 +143,7 @@ export const uploadApi = {
   }
 }
 
+// ==================== 辅助函数 ====================
 export function groupMembersByGeneration(members) {
   const groups = {}
   members.forEach(m => {

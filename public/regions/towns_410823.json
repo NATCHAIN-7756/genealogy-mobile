@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "410823001",
+      "name": "木城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/木城街道"
+    },
+    {
+      "code": "410823002",
+      "name": "龙源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/龙源街道"
+    },
+    {
+      "code": "410823003",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/龙泉街道"
+    },
+    {
+      "code": "410823004",
+      "name": "木栾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/木栾街道"
+    },
+    {
+      "code": "410823101",
+      "name": "詹店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/詹店镇"
+    },
+    {
+      "code": "410823102",
+      "name": "西陶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/西陶镇"
+    },
+    {
+      "code": "410823103",
+      "name": "谢旗营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/谢旗营镇"
+    },
+    {
+      "code": "410823104",
+      "name": "大封镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/大封镇"
+    },
+    {
+      "code": "410823105",
+      "name": "乔庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/乔庙镇"
+    },
+    {
+      "code": "410823107",
+      "name": "圪垱店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/圪垱店镇"
+    },
+    {
+      "code": "410823108",
+      "name": "嘉应观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/嘉应观镇"
+    },
+    {
+      "code": "410823203",
+      "name": "三阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/三阳乡"
+    },
+    {
+      "code": "410823204",
+      "name": "小董乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/小董乡"
+    },
+    {
+      "code": "410823205",
+      "name": "大虹桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/大虹桥乡"
+    },
+    {
+      "code": "410823206",
+      "name": "北郭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410823",
+      "year": 0,
+      "name_path": "河南省/焦作市/武陟县/北郭乡"
+    }
+  ]
+}

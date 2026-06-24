@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "211003004",
+      "name": "庆阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211003",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/文圣区/庆阳街道"
+    },
+    {
+      "code": "211003008",
+      "name": "东京陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211003",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/文圣区/东京陵街道"
+    },
+    {
+      "code": "211003100",
+      "name": "罗大台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211003",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/文圣区/罗大台镇"
+    },
+    {
+      "code": "211003101",
+      "name": "小屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211003",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/文圣区/小屯镇"
+    }
+  ]
+}

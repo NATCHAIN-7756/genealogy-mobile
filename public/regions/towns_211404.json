@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "211404002",
+      "name": "沙锅屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/沙锅屯街道"
+    },
+    {
+      "code": "211404003",
+      "name": "邱皮沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/邱皮沟街道"
+    },
+    {
+      "code": "211404005",
+      "name": "苇子沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/苇子沟街道"
+    },
+    {
+      "code": "211404007",
+      "name": "小凌河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/小凌河街道"
+    },
+    {
+      "code": "211404008",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/九龙街道"
+    },
+    {
+      "code": "211404010",
+      "name": "龙腾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/龙腾街道"
+    },
+    {
+      "code": "211404101",
+      "name": "缸窑岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/缸窑岭镇"
+    },
+    {
+      "code": "211404102",
+      "name": "暖池塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/暖池塘镇"
+    },
+    {
+      "code": "211404103",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/高桥镇"
+    },
+    {
+      "code": "211404104",
+      "name": "台集屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/台集屯镇"
+    },
+    {
+      "code": "211404105",
+      "name": "虹螺岘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/虹螺岘镇"
+    },
+    {
+      "code": "211404106",
+      "name": "金星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/金星镇"
+    },
+    {
+      "code": "211404201",
+      "name": "沙锅屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/沙锅屯乡"
+    },
+    {
+      "code": "211404203",
+      "name": "黄土坎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/黄土坎乡"
+    },
+    {
+      "code": "211404204",
+      "name": "大兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/大兴乡"
+    },
+    {
+      "code": "211404205",
+      "name": "张相公屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211404",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/南票区/张相公屯乡"
+    }
+  ]
+}

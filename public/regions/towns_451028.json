@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "451028100",
+      "name": "同乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/同乐镇"
+    },
+    {
+      "code": "451028101",
+      "name": "甘田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/甘田镇"
+    },
+    {
+      "code": "451028102",
+      "name": "新化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/新化镇"
+    },
+    {
+      "code": "451028103",
+      "name": "花坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/花坪镇"
+    },
+    {
+      "code": "451028201",
+      "name": "逻沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/逻沙乡"
+    },
+    {
+      "code": "451028203",
+      "name": "逻西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/逻西乡"
+    },
+    {
+      "code": "451028204",
+      "name": "幼平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/幼平乡"
+    },
+    {
+      "code": "451028205",
+      "name": "雅长乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451028",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/乐业县/雅长乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "222406001",
+      "name": "民惠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/民惠街道"
+    },
+    {
+      "code": "222406002",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/光明街道"
+    },
+    {
+      "code": "222406003",
+      "name": "文化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/文化街道"
+    },
+    {
+      "code": "222406100",
+      "name": "八家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/八家子镇"
+    },
+    {
+      "code": "222406101",
+      "name": "福洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/福洞镇"
+    },
+    {
+      "code": "222406102",
+      "name": "头道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/头道镇"
+    },
+    {
+      "code": "222406103",
+      "name": "西城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/西城镇"
+    },
+    {
+      "code": "222406104",
+      "name": "南坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/南坪镇"
+    },
+    {
+      "code": "222406105",
+      "name": "东城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/东城镇"
+    },
+    {
+      "code": "222406106",
+      "name": "崇善镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/崇善镇"
+    },
+    {
+      "code": "222406108",
+      "name": "龙城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222406",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/和龙市/龙城镇"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "220502",
+      "name": "东昌区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/东昌区"
+    },
+    {
+      "code": "220503",
+      "name": "二道江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/二道江区"
+    },
+    {
+      "code": "220521",
+      "name": "通化县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/通化县"
+    },
+    {
+      "code": "220523",
+      "name": "辉南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/辉南县"
+    },
+    {
+      "code": "220524",
+      "name": "柳河县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/柳河县"
+    },
+    {
+      "code": "220581",
+      "name": "梅河口市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/梅河口市"
+    },
+    {
+      "code": "220582",
+      "name": "集安市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220500",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市/集安市"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "430112001",
+      "name": "高塘岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/高塘岭街道"
+    },
+    {
+      "code": "430112006",
+      "name": "白沙洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/白沙洲街道"
+    },
+    {
+      "code": "430112007",
+      "name": "大泽湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/大泽湖街道"
+    },
+    {
+      "code": "430112008",
+      "name": "月亮岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/月亮岛街道"
+    },
+    {
+      "code": "430112009",
+      "name": "丁字湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/丁字湾街道"
+    },
+    {
+      "code": "430112011",
+      "name": "金山桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/金山桥街道"
+    },
+    {
+      "code": "430112012",
+      "name": "黄金园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/黄金园街道"
+    },
+    {
+      "code": "430112014",
+      "name": "铜官街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/铜官街道"
+    },
+    {
+      "code": "430112015",
+      "name": "乌山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/乌山街道"
+    },
+    {
+      "code": "430112016",
+      "name": "雷锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/雷锋街道"
+    },
+    {
+      "code": "430112017",
+      "name": "白马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/白马街道"
+    },
+    {
+      "code": "430112101",
+      "name": "桥驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/桥驿镇"
+    },
+    {
+      "code": "430112103",
+      "name": "茶亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/茶亭镇"
+    },
+    {
+      "code": "430112106",
+      "name": "靖港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/靖港镇"
+    },
+    {
+      "code": "430112107",
+      "name": "乔口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/乔口镇"
+    },
+    {
+      "code": "430112115",
+      "name": "白箬铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430112",
+      "year": 0,
+      "name_path": "湖南省/长沙市/望城区/白箬铺镇"
+    }
+  ]
+}

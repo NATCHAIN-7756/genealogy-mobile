@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "450325100",
+      "name": "兴安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/兴安镇"
+    },
+    {
+      "code": "450325101",
+      "name": "湘漓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/湘漓镇"
+    },
+    {
+      "code": "450325102",
+      "name": "界首镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/界首镇"
+    },
+    {
+      "code": "450325103",
+      "name": "高尚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/高尚镇"
+    },
+    {
+      "code": "450325104",
+      "name": "严关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/严关镇"
+    },
+    {
+      "code": "450325105",
+      "name": "溶江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/溶江镇"
+    },
+    {
+      "code": "450325200",
+      "name": "漠川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/漠川乡"
+    },
+    {
+      "code": "450325201",
+      "name": "白石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/白石乡"
+    },
+    {
+      "code": "450325202",
+      "name": "崔家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/崔家乡"
+    },
+    {
+      "code": "450325203",
+      "name": "华江瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450325",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/兴安县/华江瑶族乡"
+    }
+  ]
+}

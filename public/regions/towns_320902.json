@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "320902001",
+      "name": "五星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/五星街道"
+    },
+    {
+      "code": "320902002",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/文峰街道"
+    },
+    {
+      "code": "320902003",
+      "name": "先锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/先锋街道"
+    },
+    {
+      "code": "320902004",
+      "name": "伍佑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/伍佑街道"
+    },
+    {
+      "code": "320902005",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/新城街道"
+    },
+    {
+      "code": "320902006",
+      "name": "大洋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/大洋街道"
+    },
+    {
+      "code": "320902007",
+      "name": "黄海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/黄海街道"
+    },
+    {
+      "code": "320902008",
+      "name": "新洋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/新洋街道"
+    },
+    {
+      "code": "320902009",
+      "name": "毓龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/毓龙街道"
+    },
+    {
+      "code": "320902010",
+      "name": "新河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/新河街道"
+    },
+    {
+      "code": "320902011",
+      "name": "宝瓶湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/宝瓶湖街道"
+    },
+    {
+      "code": "320902012",
+      "name": "东亭湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/东亭湖街道"
+    },
+    {
+      "code": "320902102",
+      "name": "新兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/新兴镇"
+    },
+    {
+      "code": "320902104",
+      "name": "南洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/南洋镇"
+    },
+    {
+      "code": "320902106",
+      "name": "便仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/便仓镇"
+    },
+    {
+      "code": "320902108",
+      "name": "步凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/步凤镇"
+    },
+    {
+      "code": "320902115",
+      "name": "黄尖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/黄尖镇"
+    },
+    {
+      "code": "320902116",
+      "name": "盐东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320902",
+      "year": 0,
+      "name_path": "江苏省/盐城市/亭湖区/盐东镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530923100",
+      "name": "德党镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/德党镇"
+    },
+    {
+      "code": "530923101",
+      "name": "小勐统镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/小勐统镇"
+    },
+    {
+      "code": "530923102",
+      "name": "永康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/永康镇"
+    },
+    {
+      "code": "530923202",
+      "name": "勐板乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/勐板乡"
+    },
+    {
+      "code": "530923203",
+      "name": "亚练乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/亚练乡"
+    },
+    {
+      "code": "530923204",
+      "name": "乌木龙彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/乌木龙彝族乡"
+    },
+    {
+      "code": "530923205",
+      "name": "大雪山彝族拉祜族傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/大雪山彝族拉祜族傣族乡"
+    },
+    {
+      "code": "530923206",
+      "name": "班卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/班卡乡"
+    },
+    {
+      "code": "530923207",
+      "name": "崇岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/崇岗乡"
+    },
+    {
+      "code": "530923208",
+      "name": "大山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530923",
+      "year": 0,
+      "name_path": "云南省/临沧市/永德县/大山乡"
+    }
+  ]
+}

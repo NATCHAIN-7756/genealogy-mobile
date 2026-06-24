@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "511402001",
+      "name": "通惠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/通惠街道"
+    },
+    {
+      "code": "511402002",
+      "name": "大石桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/大石桥街道"
+    },
+    {
+      "code": "511402003",
+      "name": "苏祠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/苏祠街道"
+    },
+    {
+      "code": "511402102",
+      "name": "太和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/太和镇"
+    },
+    {
+      "code": "511402104",
+      "name": "尚义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/尚义镇"
+    },
+    {
+      "code": "511402105",
+      "name": "多悦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/多悦镇"
+    },
+    {
+      "code": "511402106",
+      "name": "秦家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/秦家镇"
+    },
+    {
+      "code": "511402110",
+      "name": "修文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/修文镇"
+    },
+    {
+      "code": "511402112",
+      "name": "松江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/松江镇"
+    },
+    {
+      "code": "511402113",
+      "name": "崇礼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/崇礼镇"
+    },
+    {
+      "code": "511402114",
+      "name": "富牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/富牛镇"
+    },
+    {
+      "code": "511402115",
+      "name": "永寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/永寿镇"
+    },
+    {
+      "code": "511402118",
+      "name": "万胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/万胜镇"
+    },
+    {
+      "code": "511402119",
+      "name": "思蒙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/思蒙镇"
+    },
+    {
+      "code": "511402120",
+      "name": "三苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/三苏镇"
+    },
+    {
+      "code": "511402121",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511402",
+      "year": 0,
+      "name_path": "四川省/眉山市/东坡区/复兴镇"
+    }
+  ]
+}

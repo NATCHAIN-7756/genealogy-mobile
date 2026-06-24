@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "610722001",
+      "name": "莲花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/莲花街道"
+    },
+    {
+      "code": "610722002",
+      "name": "博望街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/博望街道"
+    },
+    {
+      "code": "610722101",
+      "name": "龙头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/龙头镇"
+    },
+    {
+      "code": "610722102",
+      "name": "沙河营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/沙河营镇"
+    },
+    {
+      "code": "610722103",
+      "name": "文川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/文川镇"
+    },
+    {
+      "code": "610722104",
+      "name": "柳林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/柳林镇"
+    },
+    {
+      "code": "610722105",
+      "name": "老庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/老庄镇"
+    },
+    {
+      "code": "610722107",
+      "name": "桔园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/桔园镇"
+    },
+    {
+      "code": "610722108",
+      "name": "原公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/原公镇"
+    },
+    {
+      "code": "610722109",
+      "name": "上元观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/上元观镇"
+    },
+    {
+      "code": "610722110",
+      "name": "天明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/天明镇"
+    },
+    {
+      "code": "610722111",
+      "name": "二里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/二里镇"
+    },
+    {
+      "code": "610722112",
+      "name": "五堵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/五堵镇"
+    },
+    {
+      "code": "610722114",
+      "name": "双溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/双溪镇"
+    },
+    {
+      "code": "610722116",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/小河镇"
+    },
+    {
+      "code": "610722118",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/三合镇"
+    },
+    {
+      "code": "610722119",
+      "name": "董家营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610722",
+      "year": 0,
+      "name_path": "陕西省/汉中市/城固县/董家营镇"
+    }
+  ]
+}

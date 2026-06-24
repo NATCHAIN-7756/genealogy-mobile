@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "140122100",
+      "name": "黄寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/黄寨镇"
+    },
+    {
+      "code": "140122101",
+      "name": "大盂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/大盂镇"
+    },
+    {
+      "code": "140122102",
+      "name": "东黄水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/东黄水镇"
+    },
+    {
+      "code": "140122103",
+      "name": "泥屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/泥屯镇"
+    },
+    {
+      "code": "140122200",
+      "name": "高村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/高村乡"
+    },
+    {
+      "code": "140122201",
+      "name": "侯村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/侯村乡"
+    },
+    {
+      "code": "140122202",
+      "name": "凌井店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/凌井店乡"
+    },
+    {
+      "code": "140122203",
+      "name": "西凌井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/西凌井乡"
+    },
+    {
+      "code": "140122205",
+      "name": "杨兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140122",
+      "year": 0,
+      "name_path": "山西省/太原市/阳曲县/杨兴乡"
+    }
+  ]
+}

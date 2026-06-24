@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "130128100",
+      "name": "深泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130128",
+      "year": 0,
+      "name_path": "河北省/石家庄市/深泽县/深泽镇"
+    },
+    {
+      "code": "130128101",
+      "name": "铁杆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130128",
+      "year": 0,
+      "name_path": "河北省/石家庄市/深泽县/铁杆镇"
+    },
+    {
+      "code": "130128102",
+      "name": "赵八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130128",
+      "year": 0,
+      "name_path": "河北省/石家庄市/深泽县/赵八镇"
+    },
+    {
+      "code": "130128103",
+      "name": "大桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130128",
+      "year": 0,
+      "name_path": "河北省/石家庄市/深泽县/大桥头镇"
+    },
+    {
+      "code": "130128200",
+      "name": "白庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130128",
+      "year": 0,
+      "name_path": "河北省/石家庄市/深泽县/白庄乡"
+    },
+    {
+      "code": "130128201",
+      "name": "留村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130128",
+      "year": 0,
+      "name_path": "河北省/石家庄市/深泽县/留村乡"
+    }
+  ]
+}

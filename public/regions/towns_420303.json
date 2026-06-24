@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "420303001",
+      "name": "花果街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/花果街道"
+    },
+    {
+      "code": "420303002",
+      "name": "红卫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/红卫街道"
+    },
+    {
+      "code": "420303003",
+      "name": "车城路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/车城路街道"
+    },
+    {
+      "code": "420303004",
+      "name": "汉江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/汉江路街道"
+    },
+    {
+      "code": "420303100",
+      "name": "黄龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/黄龙镇"
+    },
+    {
+      "code": "420303101",
+      "name": "柏林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/柏林镇"
+    },
+    {
+      "code": "420303200",
+      "name": "方滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/方滩乡"
+    },
+    {
+      "code": "420303201",
+      "name": "西沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420303",
+      "year": 0,
+      "name_path": "湖北省/十堰市/张湾区/西沟乡"
+    }
+  ]
+}

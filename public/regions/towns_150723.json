@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "150723100",
+      "name": "阿里河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/阿里河镇"
+    },
+    {
+      "code": "150723102",
+      "name": "诺敏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/诺敏镇"
+    },
+    {
+      "code": "150723104",
+      "name": "乌鲁布铁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/乌鲁布铁镇"
+    },
+    {
+      "code": "150723105",
+      "name": "大杨树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/大杨树镇"
+    },
+    {
+      "code": "150723107",
+      "name": "宜里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/宜里镇"
+    },
+    {
+      "code": "150723109",
+      "name": "甘河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/甘河镇"
+    },
+    {
+      "code": "150723113",
+      "name": "克一河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/克一河镇"
+    },
+    {
+      "code": "150723114",
+      "name": "吉文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/吉文镇"
+    },
+    {
+      "code": "150723200",
+      "name": "古里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/古里乡"
+    },
+    {
+      "code": "150723216",
+      "name": "托扎敏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150723",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/鄂伦春自治旗/托扎敏乡"
+    }
+  ]
+}

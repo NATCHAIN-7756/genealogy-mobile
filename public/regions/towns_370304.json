@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "370304002",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/城西街道"
+    },
+    {
+      "code": "370304003",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/城东街道"
+    },
+    {
+      "code": "370304004",
+      "name": "山头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/山头街道"
+    },
+    {
+      "code": "370304102",
+      "name": "域城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/域城镇"
+    },
+    {
+      "code": "370304103",
+      "name": "白塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/白塔镇"
+    },
+    {
+      "code": "370304106",
+      "name": "八陡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/八陡镇"
+    },
+    {
+      "code": "370304108",
+      "name": "石马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/石马镇"
+    },
+    {
+      "code": "370304112",
+      "name": "池上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/池上镇"
+    },
+    {
+      "code": "370304113",
+      "name": "博山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/博山镇"
+    },
+    {
+      "code": "370304114",
+      "name": "源泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370304",
+      "year": 0,
+      "name_path": "山东省/淄博市/博山区/源泉镇"
+    }
+  ]
+}

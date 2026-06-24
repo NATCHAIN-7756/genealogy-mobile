@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "410108011",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/新城街道"
+    },
+    {
+      "code": "410108012",
+      "name": "刘寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/刘寨街道"
+    },
+    {
+      "code": "410108013",
+      "name": "江山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/江山路街道"
+    },
+    {
+      "code": "410108014",
+      "name": "长兴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/长兴路街道"
+    },
+    {
+      "code": "410108015",
+      "name": "迎宾路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/迎宾路街道"
+    },
+    {
+      "code": "410108016",
+      "name": "大河路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/大河路街道"
+    },
+    {
+      "code": "410108105",
+      "name": "古荥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/古荥镇"
+    },
+    {
+      "code": "410108106",
+      "name": "花园口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410108",
+      "year": 0,
+      "name_path": "河南省/郑州市/惠济区/花园口镇"
+    }
+  ]
+}

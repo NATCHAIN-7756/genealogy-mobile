@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "341602001",
+      "name": "花戏楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/花戏楼街道"
+    },
+    {
+      "code": "341602002",
+      "name": "薛阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/薛阁街道"
+    },
+    {
+      "code": "341602003",
+      "name": "汤陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/汤陵街道"
+    },
+    {
+      "code": "341602100",
+      "name": "古井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/古井镇"
+    },
+    {
+      "code": "341602102",
+      "name": "芦庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/芦庙镇"
+    },
+    {
+      "code": "341602103",
+      "name": "华佗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/华佗镇"
+    },
+    {
+      "code": "341602104",
+      "name": "魏岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/魏岗镇"
+    },
+    {
+      "code": "341602105",
+      "name": "牛集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/牛集镇"
+    },
+    {
+      "code": "341602107",
+      "name": "颜集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/颜集镇"
+    },
+    {
+      "code": "341602108",
+      "name": "五马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/五马镇"
+    },
+    {
+      "code": "341602109",
+      "name": "十八里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/十八里镇"
+    },
+    {
+      "code": "341602111",
+      "name": "谯东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/谯东镇"
+    },
+    {
+      "code": "341602112",
+      "name": "十九里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/十九里镇"
+    },
+    {
+      "code": "341602113",
+      "name": "沙土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/沙土镇"
+    },
+    {
+      "code": "341602114",
+      "name": "观堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/观堂镇"
+    },
+    {
+      "code": "341602115",
+      "name": "大杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/大杨镇"
+    },
+    {
+      "code": "341602116",
+      "name": "城父镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/城父镇"
+    },
+    {
+      "code": "341602117",
+      "name": "十河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/十河镇"
+    },
+    {
+      "code": "341602119",
+      "name": "双沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/双沟镇"
+    },
+    {
+      "code": "341602120",
+      "name": "淝河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/淝河镇"
+    },
+    {
+      "code": "341602121",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/古城镇"
+    },
+    {
+      "code": "341602122",
+      "name": "龙扬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/龙扬镇"
+    },
+    {
+      "code": "341602123",
+      "name": "立德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/立德镇"
+    },
+    {
+      "code": "341602200",
+      "name": "张店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/张店乡"
+    },
+    {
+      "code": "341602201",
+      "name": "赵桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341602",
+      "year": 0,
+      "name_path": "安徽省/亳州市/谯城区/赵桥乡"
+    }
+  ]
+}

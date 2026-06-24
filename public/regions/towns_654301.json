@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "654301001",
+      "name": "金山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/金山路街道"
+    },
+    {
+      "code": "654301002",
+      "name": "解放路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/解放路街道"
+    },
+    {
+      "code": "654301003",
+      "name": "团结路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/团结路街道"
+    },
+    {
+      "code": "654301004",
+      "name": "恰秀路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/恰秀路街道"
+    },
+    {
+      "code": "654301100",
+      "name": "北屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/北屯镇"
+    },
+    {
+      "code": "654301101",
+      "name": "阿苇滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/阿苇滩镇"
+    },
+    {
+      "code": "654301102",
+      "name": "红墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/红墩镇"
+    },
+    {
+      "code": "654301103",
+      "name": "切木尔切克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/切木尔切克镇"
+    },
+    {
+      "code": "654301104",
+      "name": "阿拉哈克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/阿拉哈克镇"
+    },
+    {
+      "code": "654301202",
+      "name": "汗德尕特蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/汗德尕特蒙古族乡"
+    },
+    {
+      "code": "654301203",
+      "name": "拉斯特乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/拉斯特乡"
+    },
+    {
+      "code": "654301204",
+      "name": "喀拉希力克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/喀拉希力克乡"
+    },
+    {
+      "code": "654301205",
+      "name": "萨尔胡松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/萨尔胡松乡"
+    },
+    {
+      "code": "654301206",
+      "name": "巴里巴盖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/巴里巴盖乡"
+    },
+    {
+      "code": "654301207",
+      "name": "切尔克齐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654301",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/阿勒泰市/切尔克齐乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "340111002",
+      "name": "包公街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/包公街道"
+    },
+    {
+      "code": "340111003",
+      "name": "芜湖路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/芜湖路街道"
+    },
+    {
+      "code": "340111004",
+      "name": "常青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/常青街道"
+    },
+    {
+      "code": "340111006",
+      "name": "望湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/望湖街道"
+    },
+    {
+      "code": "340111007",
+      "name": "义城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/义城街道"
+    },
+    {
+      "code": "340111008",
+      "name": "烟墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/烟墩街道"
+    },
+    {
+      "code": "340111009",
+      "name": "骆岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/骆岗街道"
+    },
+    {
+      "code": "340111010",
+      "name": "万年埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/万年埠街道"
+    },
+    {
+      "code": "340111011",
+      "name": "同安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/同安街道"
+    },
+    {
+      "code": "340111101",
+      "name": "大圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/大圩镇"
+    },
+    {
+      "code": "340111106",
+      "name": "淝河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340111",
+      "year": 0,
+      "name_path": "安徽省/合肥市/包河区/淝河镇"
+    }
+  ]
+}

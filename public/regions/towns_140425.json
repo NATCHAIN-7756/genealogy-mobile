@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140425100",
+      "name": "青羊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/青羊镇"
+    },
+    {
+      "code": "140425101",
+      "name": "龙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/龙溪镇"
+    },
+    {
+      "code": "140425102",
+      "name": "石城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/石城镇"
+    },
+    {
+      "code": "140425103",
+      "name": "苗庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/苗庄镇"
+    },
+    {
+      "code": "140425104",
+      "name": "玉峡关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/玉峡关镇"
+    },
+    {
+      "code": "140425200",
+      "name": "西沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/西沟乡"
+    },
+    {
+      "code": "140425201",
+      "name": "东寺头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/东寺头乡"
+    },
+    {
+      "code": "140425202",
+      "name": "虹梯关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/虹梯关乡"
+    },
+    {
+      "code": "140425203",
+      "name": "阳高乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/阳高乡"
+    },
+    {
+      "code": "140425204",
+      "name": "北耽车乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/北耽车乡"
+    },
+    {
+      "code": "140425206",
+      "name": "北社乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140425",
+      "year": 0,
+      "name_path": "山西省/长治市/平顺县/北社乡"
+    }
+  ]
+}

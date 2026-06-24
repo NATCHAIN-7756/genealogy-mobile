@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "320582001",
+      "name": "金港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/金港街道"
+    },
+    {
+      "code": "320582002",
+      "name": "后塍街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/后塍街道"
+    },
+    {
+      "code": "320582003",
+      "name": "德积街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/德积街道"
+    },
+    {
+      "code": "320582100",
+      "name": "塘桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/塘桥镇"
+    },
+    {
+      "code": "320582103",
+      "name": "凤凰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/凤凰镇"
+    },
+    {
+      "code": "320582105",
+      "name": "乐余镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/乐余镇"
+    },
+    {
+      "code": "320582107",
+      "name": "锦丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/锦丰镇"
+    },
+    {
+      "code": "320582108",
+      "name": "南丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/南丰镇"
+    },
+    {
+      "code": "320582110",
+      "name": "杨舍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/杨舍镇"
+    },
+    {
+      "code": "320582116",
+      "name": "大新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320582",
+      "year": 0,
+      "name_path": "江苏省/苏州市/张家港市/大新镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "513233100",
+      "name": "邛溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/邛溪镇"
+    },
+    {
+      "code": "513233101",
+      "name": "刷经寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/刷经寺镇"
+    },
+    {
+      "code": "513233102",
+      "name": "瓦切镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/瓦切镇"
+    },
+    {
+      "code": "513233103",
+      "name": "安曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/安曲镇"
+    },
+    {
+      "code": "513233104",
+      "name": "色地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/色地镇"
+    },
+    {
+      "code": "513233105",
+      "name": "龙日镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/龙日镇"
+    },
+    {
+      "code": "513233202",
+      "name": "江茸乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/江茸乡"
+    },
+    {
+      "code": "513233204",
+      "name": "阿木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/阿木乡"
+    },
+    {
+      "code": "513233206",
+      "name": "麦洼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/麦洼乡"
+    },
+    {
+      "code": "513233208",
+      "name": "查尔玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513233",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/红原县/查尔玛乡"
+    }
+  ]
+}

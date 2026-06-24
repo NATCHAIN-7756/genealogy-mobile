@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "210521003",
+      "name": "观音阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/观音阁街道"
+    },
+    {
+      "code": "210521100",
+      "name": "小市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/小市镇"
+    },
+    {
+      "code": "210521101",
+      "name": "草河掌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/草河掌镇"
+    },
+    {
+      "code": "210521102",
+      "name": "草河城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/草河城镇"
+    },
+    {
+      "code": "210521103",
+      "name": "草河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/草河口镇"
+    },
+    {
+      "code": "210521104",
+      "name": "连山关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/连山关镇"
+    },
+    {
+      "code": "210521106",
+      "name": "清河城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/清河城镇"
+    },
+    {
+      "code": "210521109",
+      "name": "田师付镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/田师付镇"
+    },
+    {
+      "code": "210521110",
+      "name": "南甸子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/南甸子镇"
+    },
+    {
+      "code": "210521111",
+      "name": "碱厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/碱厂镇"
+    },
+    {
+      "code": "210521112",
+      "name": "高官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/高官镇"
+    },
+    {
+      "code": "210521202",
+      "name": "东营坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210521",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/本溪满族自治县/东营坊乡"
+    }
+  ]
+}

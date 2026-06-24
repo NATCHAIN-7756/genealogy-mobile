@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "430822100",
+      "name": "澧源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/澧源镇"
+    },
+    {
+      "code": "430822101",
+      "name": "瑞塔铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/瑞塔铺镇"
+    },
+    {
+      "code": "430822102",
+      "name": "官地坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/官地坪镇"
+    },
+    {
+      "code": "430822103",
+      "name": "凉水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/凉水口镇"
+    },
+    {
+      "code": "430822104",
+      "name": "龙潭坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/龙潭坪镇"
+    },
+    {
+      "code": "430822105",
+      "name": "五道水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/五道水镇"
+    },
+    {
+      "code": "430822106",
+      "name": "陈家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/陈家河镇"
+    },
+    {
+      "code": "430822107",
+      "name": "廖家村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/廖家村镇"
+    },
+    {
+      "code": "430822108",
+      "name": "利福塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/利福塔镇"
+    },
+    {
+      "code": "430822109",
+      "name": "人潮溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/人潮溪镇"
+    },
+    {
+      "code": "430822110",
+      "name": "八大公山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/八大公山镇"
+    },
+    {
+      "code": "430822111",
+      "name": "桥自弯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/桥自弯镇"
+    },
+    {
+      "code": "430822200",
+      "name": "空壳树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/空壳树乡"
+    },
+    {
+      "code": "430822202",
+      "name": "竹叶坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/竹叶坪乡"
+    },
+    {
+      "code": "430822203",
+      "name": "走马坪白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/走马坪白族乡"
+    },
+    {
+      "code": "430822207",
+      "name": "刘家坪白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/刘家坪白族乡"
+    },
+    {
+      "code": "430822208",
+      "name": "芙蓉桥白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/芙蓉桥白族乡"
+    },
+    {
+      "code": "430822210",
+      "name": "马合口白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/马合口白族乡"
+    },
+    {
+      "code": "430822213",
+      "name": "洪家关白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/洪家关白族乡"
+    },
+    {
+      "code": "430822216",
+      "name": "沙塔坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/沙塔坪乡"
+    },
+    {
+      "code": "430822224",
+      "name": "河口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/河口乡"
+    },
+    {
+      "code": "430822225",
+      "name": "上河溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/上河溪乡"
+    },
+    {
+      "code": "430822228",
+      "name": "上洞街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430822",
+      "year": 0,
+      "name_path": "湖南省/张家界市/桑植县/上洞街乡"
+    }
+  ]
+}

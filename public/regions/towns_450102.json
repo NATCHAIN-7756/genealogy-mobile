@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "450102001",
+      "name": "民生街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450102",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/兴宁区/民生街道"
+    },
+    {
+      "code": "450102002",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450102",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/兴宁区/朝阳街道"
+    },
+    {
+      "code": "450102003",
+      "name": "兴东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450102",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/兴宁区/兴东街道"
+    },
+    {
+      "code": "450102101",
+      "name": "三塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450102",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/兴宁区/三塘镇"
+    },
+    {
+      "code": "450102107",
+      "name": "五塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450102",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/兴宁区/五塘镇"
+    },
+    {
+      "code": "450102109",
+      "name": "昆仑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450102",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/兴宁区/昆仑镇"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "350802001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/东城街道"
+    },
+    {
+      "code": "350802002",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/南城街道"
+    },
+    {
+      "code": "350802003",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/西城街道"
+    },
+    {
+      "code": "350802004",
+      "name": "中城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/中城街道"
+    },
+    {
+      "code": "350802005",
+      "name": "西陂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/西陂街道"
+    },
+    {
+      "code": "350802006",
+      "name": "曹溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/曹溪街道"
+    },
+    {
+      "code": "350802007",
+      "name": "东肖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/东肖街道"
+    },
+    {
+      "code": "350802008",
+      "name": "龙门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/龙门街道"
+    },
+    {
+      "code": "350802009",
+      "name": "铁山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/铁山街道"
+    },
+    {
+      "code": "350802010",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/北城街道"
+    },
+    {
+      "code": "350802100",
+      "name": "红坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/红坊镇"
+    },
+    {
+      "code": "350802101",
+      "name": "适中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/适中镇"
+    },
+    {
+      "code": "350802102",
+      "name": "雁石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/雁石镇"
+    },
+    {
+      "code": "350802103",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/白沙镇"
+    },
+    {
+      "code": "350802104",
+      "name": "万安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/万安镇"
+    },
+    {
+      "code": "350802105",
+      "name": "大池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/大池镇"
+    },
+    {
+      "code": "350802106",
+      "name": "小池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/小池镇"
+    },
+    {
+      "code": "350802107",
+      "name": "江山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/江山镇"
+    },
+    {
+      "code": "350802108",
+      "name": "苏坂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/苏坂镇"
+    },
+    {
+      "code": "350802109",
+      "name": "岩山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350802",
+      "year": 0,
+      "name_path": "福建省/龙岩市/新罗区/岩山镇"
+    }
+  ]
+}

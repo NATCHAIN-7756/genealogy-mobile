@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "340825100",
+      "name": "晋熙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/晋熙镇"
+    },
+    {
+      "code": "340825101",
+      "name": "徐桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/徐桥镇"
+    },
+    {
+      "code": "340825102",
+      "name": "新仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/新仓镇"
+    },
+    {
+      "code": "340825103",
+      "name": "小池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/小池镇"
+    },
+    {
+      "code": "340825104",
+      "name": "寺前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/寺前镇"
+    },
+    {
+      "code": "340825105",
+      "name": "天华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/天华镇"
+    },
+    {
+      "code": "340825106",
+      "name": "牛镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/牛镇镇"
+    },
+    {
+      "code": "340825107",
+      "name": "弥陀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/弥陀镇"
+    },
+    {
+      "code": "340825108",
+      "name": "北中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/北中镇"
+    },
+    {
+      "code": "340825109",
+      "name": "百里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/百里镇"
+    },
+    {
+      "code": "340825200",
+      "name": "大石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/大石乡"
+    },
+    {
+      "code": "340825201",
+      "name": "城西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/城西乡"
+    },
+    {
+      "code": "340825202",
+      "name": "江塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/江塘乡"
+    },
+    {
+      "code": "340825203",
+      "name": "汤泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/汤泉乡"
+    },
+    {
+      "code": "340825204",
+      "name": "刘畈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340825",
+      "year": 0,
+      "name_path": "安徽省/安庆市/太湖县/刘畈乡"
+    }
+  ]
+}

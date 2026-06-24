@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "431126001",
+      "name": "文庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/文庙街道"
+    },
+    {
+      "code": "431126002",
+      "name": "舜陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/舜陵街道"
+    },
+    {
+      "code": "431126003",
+      "name": "桐山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/桐山街道"
+    },
+    {
+      "code": "431126004",
+      "name": "东溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/东溪街道"
+    },
+    {
+      "code": "431126101",
+      "name": "天堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/天堂镇"
+    },
+    {
+      "code": "431126102",
+      "name": "水市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/水市镇"
+    },
+    {
+      "code": "431126103",
+      "name": "湾井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/湾井镇"
+    },
+    {
+      "code": "431126104",
+      "name": "冷水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/冷水镇"
+    },
+    {
+      "code": "431126105",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/太平镇"
+    },
+    {
+      "code": "431126106",
+      "name": "禾亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/禾亭镇"
+    },
+    {
+      "code": "431126107",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/仁和镇"
+    },
+    {
+      "code": "431126108",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/中和镇"
+    },
+    {
+      "code": "431126109",
+      "name": "柏家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/柏家坪镇"
+    },
+    {
+      "code": "431126110",
+      "name": "清水桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/清水桥镇"
+    },
+    {
+      "code": "431126111",
+      "name": "鲤溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/鲤溪镇"
+    },
+    {
+      "code": "431126112",
+      "name": "保安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/保安镇"
+    },
+    {
+      "code": "431126200",
+      "name": "九疑瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/九疑瑶族乡"
+    },
+    {
+      "code": "431126202",
+      "name": "五龙山瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/五龙山瑶族乡"
+    },
+    {
+      "code": "431126203",
+      "name": "棉花坪瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/棉花坪瑶族乡"
+    },
+    {
+      "code": "431126204",
+      "name": "桐木漯瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431126",
+      "year": 0,
+      "name_path": "湖南省/永州市/宁远县/桐木漯瑶族乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "230405001",
+      "name": "兴安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/兴安路街道"
+    },
+    {
+      "code": "230405002",
+      "name": "兴建路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/兴建路街道"
+    },
+    {
+      "code": "230405003",
+      "name": "河东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/河东路街道"
+    },
+    {
+      "code": "230405004",
+      "name": "峻德路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/峻德路街道"
+    },
+    {
+      "code": "230405005",
+      "name": "兴长路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/兴长路街道"
+    },
+    {
+      "code": "230405006",
+      "name": "光宇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/光宇街道"
+    },
+    {
+      "code": "230405100",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230405",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴安区/红旗镇"
+    }
+  ]
+}

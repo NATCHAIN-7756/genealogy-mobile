@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "360902001",
+      "name": "灵泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/灵泉街道"
+    },
+    {
+      "code": "360902002",
+      "name": "金园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/金园街道"
+    },
+    {
+      "code": "360902003",
+      "name": "秀江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/秀江街道"
+    },
+    {
+      "code": "360902004",
+      "name": "湛郎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/湛郎街道"
+    },
+    {
+      "code": "360902005",
+      "name": "珠泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/珠泉街道"
+    },
+    {
+      "code": "360902006",
+      "name": "化成街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/化成街道"
+    },
+    {
+      "code": "360902007",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/凤凰街道"
+    },
+    {
+      "code": "360902008",
+      "name": "官园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/官园街道"
+    },
+    {
+      "code": "360902009",
+      "name": "下浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/下浦街道"
+    },
+    {
+      "code": "360902010",
+      "name": "新康府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/新康府街道"
+    },
+    {
+      "code": "360902100",
+      "name": "彬江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/彬江镇"
+    },
+    {
+      "code": "360902101",
+      "name": "西村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/西村镇"
+    },
+    {
+      "code": "360902102",
+      "name": "金瑞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/金瑞镇"
+    },
+    {
+      "code": "360902103",
+      "name": "温汤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/温汤镇"
+    },
+    {
+      "code": "360902104",
+      "name": "三阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/三阳镇"
+    },
+    {
+      "code": "360902105",
+      "name": "慈化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/慈化镇"
+    },
+    {
+      "code": "360902106",
+      "name": "天台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/天台镇"
+    },
+    {
+      "code": "360902107",
+      "name": "洪塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/洪塘镇"
+    },
+    {
+      "code": "360902108",
+      "name": "渥江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/渥江镇"
+    },
+    {
+      "code": "360902109",
+      "name": "新坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/新坊镇"
+    },
+    {
+      "code": "360902114",
+      "name": "寨下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/寨下镇"
+    },
+    {
+      "code": "360902115",
+      "name": "芦村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/芦村镇"
+    },
+    {
+      "code": "360902116",
+      "name": "湖田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/湖田镇"
+    },
+    {
+      "code": "360902117",
+      "name": "新田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/新田镇"
+    },
+    {
+      "code": "360902118",
+      "name": "南庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/南庙镇"
+    },
+    {
+      "code": "360902119",
+      "name": "竹亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/竹亭镇"
+    },
+    {
+      "code": "360902120",
+      "name": "水江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/水江镇"
+    },
+    {
+      "code": "360902121",
+      "name": "辽市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/辽市镇"
+    },
+    {
+      "code": "360902122",
+      "name": "洪江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/洪江镇"
+    },
+    {
+      "code": "360902209",
+      "name": "楠木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/楠木乡"
+    },
+    {
+      "code": "360902216",
+      "name": "柏木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/柏木乡"
+    },
+    {
+      "code": "360902219",
+      "name": "飞剑潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360902",
+      "year": 0,
+      "name_path": "江西省/宜春市/袁州区/飞剑潭乡"
+    }
+  ]
+}

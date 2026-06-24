@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "411024100",
+      "name": "安陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/安陵镇"
+    },
+    {
+      "code": "411024101",
+      "name": "马栏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/马栏镇"
+    },
+    {
+      "code": "411024102",
+      "name": "柏梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/柏梁镇"
+    },
+    {
+      "code": "411024103",
+      "name": "陈化店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/陈化店镇"
+    },
+    {
+      "code": "411024104",
+      "name": "望田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/望田镇"
+    },
+    {
+      "code": "411024105",
+      "name": "张桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/张桥镇"
+    },
+    {
+      "code": "411024106",
+      "name": "陶城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/陶城镇"
+    },
+    {
+      "code": "411024107",
+      "name": "大马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/大马镇"
+    },
+    {
+      "code": "411024108",
+      "name": "只乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/只乐镇"
+    },
+    {
+      "code": "411024109",
+      "name": "彭店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/彭店镇"
+    },
+    {
+      "code": "411024110",
+      "name": "南坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/南坞镇"
+    },
+    {
+      "code": "411024111",
+      "name": "马坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411024",
+      "year": 0,
+      "name_path": "河南省/许昌市/鄢陵县/马坊镇"
+    }
+  ]
+}

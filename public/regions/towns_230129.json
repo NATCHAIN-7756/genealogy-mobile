@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230129100",
+      "name": "延寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/延寿镇"
+    },
+    {
+      "code": "230129101",
+      "name": "六团镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/六团镇"
+    },
+    {
+      "code": "230129102",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/中和镇"
+    },
+    {
+      "code": "230129103",
+      "name": "加信镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/加信镇"
+    },
+    {
+      "code": "230129104",
+      "name": "延河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/延河镇"
+    },
+    {
+      "code": "230129105",
+      "name": "玉河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/玉河镇"
+    },
+    {
+      "code": "230129204",
+      "name": "安山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/安山乡"
+    },
+    {
+      "code": "230129205",
+      "name": "寿山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/寿山乡"
+    },
+    {
+      "code": "230129209",
+      "name": "青川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230129",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/延寿县/青川乡"
+    }
+  ]
+}

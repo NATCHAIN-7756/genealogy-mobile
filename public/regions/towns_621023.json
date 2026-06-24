@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "621023100",
+      "name": "悦乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/悦乐镇"
+    },
+    {
+      "code": "621023101",
+      "name": "柔远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/柔远镇"
+    },
+    {
+      "code": "621023102",
+      "name": "元城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/元城镇"
+    },
+    {
+      "code": "621023103",
+      "name": "南梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/南梁镇"
+    },
+    {
+      "code": "621023104",
+      "name": "城壕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/城壕镇"
+    },
+    {
+      "code": "621023105",
+      "name": "五蛟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/五蛟镇"
+    },
+    {
+      "code": "621023205",
+      "name": "上里塬乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/上里塬乡"
+    },
+    {
+      "code": "621023206",
+      "name": "王咀子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/王咀子乡"
+    },
+    {
+      "code": "621023208",
+      "name": "白马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/白马乡"
+    },
+    {
+      "code": "621023209",
+      "name": "怀安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/怀安乡"
+    },
+    {
+      "code": "621023210",
+      "name": "乔川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/乔川乡"
+    },
+    {
+      "code": "621023211",
+      "name": "乔河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/乔河乡"
+    },
+    {
+      "code": "621023213",
+      "name": "山庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/山庄乡"
+    },
+    {
+      "code": "621023215",
+      "name": "林镇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/林镇乡"
+    },
+    {
+      "code": "621023216",
+      "name": "紫坊畔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621023",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/华池县/紫坊畔乡"
+    }
+  ]
+}

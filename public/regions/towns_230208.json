@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "230208001",
+      "name": "梅里斯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/梅里斯街道"
+    },
+    {
+      "code": "230208101",
+      "name": "雅尔塞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/雅尔塞镇"
+    },
+    {
+      "code": "230208102",
+      "name": "卧牛吐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/卧牛吐镇"
+    },
+    {
+      "code": "230208103",
+      "name": "达呼店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/达呼店镇"
+    },
+    {
+      "code": "230208104",
+      "name": "共和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/共和镇"
+    },
+    {
+      "code": "230208105",
+      "name": "梅里斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/梅里斯镇"
+    },
+    {
+      "code": "230208200",
+      "name": "莽格吐达斡尔族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230208",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/梅里斯达斡尔族区/莽格吐达斡尔族乡"
+    }
+  ]
+}

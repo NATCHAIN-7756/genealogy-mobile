@@ -1,0 +1,319 @@
+{
+  "data": [
+    {
+      "code": "653125001",
+      "name": "叶尔羌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/叶尔羌街道"
+    },
+    {
+      "code": "653125002",
+      "name": "城中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/城中街道"
+    },
+    {
+      "code": "653125003",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/城东街道"
+    },
+    {
+      "code": "653125004",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/城西街道"
+    },
+    {
+      "code": "653125005",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/城北街道"
+    },
+    {
+      "code": "653125100",
+      "name": "莎车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/莎车镇"
+    },
+    {
+      "code": "653125101",
+      "name": "恰热克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/恰热克镇"
+    },
+    {
+      "code": "653125102",
+      "name": "艾力西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/艾力西湖镇"
+    },
+    {
+      "code": "653125103",
+      "name": "荒地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/荒地镇"
+    },
+    {
+      "code": "653125104",
+      "name": "阿瓦提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/阿瓦提镇"
+    },
+    {
+      "code": "653125105",
+      "name": "白什坎特镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/白什坎特镇"
+    },
+    {
+      "code": "653125106",
+      "name": "依盖尔其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/依盖尔其镇"
+    },
+    {
+      "code": "653125107",
+      "name": "古勒巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/古勒巴格镇"
+    },
+    {
+      "code": "653125108",
+      "name": "米夏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/米夏镇"
+    },
+    {
+      "code": "653125109",
+      "name": "托木吾斯塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/托木吾斯塘镇"
+    },
+    {
+      "code": "653125110",
+      "name": "塔尕尔其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/塔尕尔其镇"
+    },
+    {
+      "code": "653125111",
+      "name": "乌达力克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/乌达力克镇"
+    },
+    {
+      "code": "653125112",
+      "name": "阿拉买提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/阿拉买提镇"
+    },
+    {
+      "code": "653125113",
+      "name": "阿扎特巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/阿扎特巴格镇"
+    },
+    {
+      "code": "653125114",
+      "name": "广安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/广安镇"
+    },
+    {
+      "code": "653125201",
+      "name": "阿热勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/阿热勒乡"
+    },
+    {
+      "code": "653125202",
+      "name": "恰尔巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/恰尔巴格乡"
+    },
+    {
+      "code": "653125204",
+      "name": "英吾斯塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/英吾斯塘乡"
+    },
+    {
+      "code": "653125206",
+      "name": "阿尔斯兰巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/阿尔斯兰巴格乡"
+    },
+    {
+      "code": "653125207",
+      "name": "孜热甫夏提塔吉克族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/孜热甫夏提塔吉克族乡"
+    },
+    {
+      "code": "653125208",
+      "name": "亚喀艾日克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/亚喀艾日克乡"
+    },
+    {
+      "code": "653125209",
+      "name": "喀群乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/喀群乡"
+    },
+    {
+      "code": "653125210",
+      "name": "霍什拉甫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/霍什拉甫乡"
+    },
+    {
+      "code": "653125211",
+      "name": "达木斯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/达木斯乡"
+    },
+    {
+      "code": "653125213",
+      "name": "伊什库力乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/伊什库力乡"
+    },
+    {
+      "code": "653125214",
+      "name": "拍克其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/拍克其乡"
+    },
+    {
+      "code": "653125216",
+      "name": "阔什艾日克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/阔什艾日克乡"
+    },
+    {
+      "code": "653125217",
+      "name": "墩巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/墩巴格乡"
+    },
+    {
+      "code": "653125220",
+      "name": "巴格阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/巴格阿瓦提乡"
+    },
+    {
+      "code": "653125221",
+      "name": "喀拉苏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653125",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/莎车县/喀拉苏乡"
+    }
+  ]
+}

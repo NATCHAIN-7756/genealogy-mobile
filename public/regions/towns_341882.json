@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "341882001",
+      "name": "桐汭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/桐汭街道"
+    },
+    {
+      "code": "341882002",
+      "name": "祠山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/祠山街道"
+    },
+    {
+      "code": "341882003",
+      "name": "升平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/升平街道"
+    },
+    {
+      "code": "341882100",
+      "name": "桃州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/桃州镇"
+    },
+    {
+      "code": "341882101",
+      "name": "柏垫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/柏垫镇"
+    },
+    {
+      "code": "341882102",
+      "name": "誓节镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/誓节镇"
+    },
+    {
+      "code": "341882103",
+      "name": "邱村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/邱村镇"
+    },
+    {
+      "code": "341882104",
+      "name": "新杭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/新杭镇"
+    },
+    {
+      "code": "341882105",
+      "name": "杨滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/杨滩镇"
+    },
+    {
+      "code": "341882106",
+      "name": "卢村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/卢村镇"
+    },
+    {
+      "code": "341882107",
+      "name": "东亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/东亭镇"
+    },
+    {
+      "code": "341882108",
+      "name": "四合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341882",
+      "year": 0,
+      "name_path": "安徽省/宣城市/广德市/四合镇"
+    }
+  ]
+}

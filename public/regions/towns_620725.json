@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "620725101",
+      "name": "清泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/清泉镇"
+    },
+    {
+      "code": "620725102",
+      "name": "位奇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/位奇镇"
+    },
+    {
+      "code": "620725103",
+      "name": "霍城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/霍城镇"
+    },
+    {
+      "code": "620725104",
+      "name": "陈户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/陈户镇"
+    },
+    {
+      "code": "620725105",
+      "name": "大马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/大马营镇"
+    },
+    {
+      "code": "620725106",
+      "name": "东乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/东乐镇"
+    },
+    {
+      "code": "620725203",
+      "name": "老军乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/老军乡"
+    },
+    {
+      "code": "620725204",
+      "name": "李桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620725",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/山丹县/李桥乡"
+    }
+  ]
+}

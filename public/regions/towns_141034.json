@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "141034100",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/永安镇"
+    },
+    {
+      "code": "141034101",
+      "name": "对竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/对竹镇"
+    },
+    {
+      "code": "141034102",
+      "name": "勍香镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/勍香镇"
+    },
+    {
+      "code": "141034103",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/和平镇"
+    },
+    {
+      "code": "141034104",
+      "name": "僧念镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/僧念镇"
+    },
+    {
+      "code": "141034200",
+      "name": "佃坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/佃坪乡"
+    },
+    {
+      "code": "141034201",
+      "name": "团柏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141034",
+      "year": 0,
+      "name_path": "山西省/临汾市/汾西县/团柏乡"
+    }
+  ]
+}

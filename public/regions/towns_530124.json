@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530124001",
+      "name": "永定街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/永定街道"
+    },
+    {
+      "code": "530124002",
+      "name": "大营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/大营街道"
+    },
+    {
+      "code": "530124102",
+      "name": "罗免镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/罗免镇"
+    },
+    {
+      "code": "530124103",
+      "name": "赤鹫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/赤鹫镇"
+    },
+    {
+      "code": "530124104",
+      "name": "东村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/东村镇"
+    },
+    {
+      "code": "530124105",
+      "name": "款庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/款庄镇"
+    },
+    {
+      "code": "530124106",
+      "name": "散旦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530124",
+      "year": 0,
+      "name_path": "云南省/昆明市/富民县/散旦镇"
+    }
+  ]
+}

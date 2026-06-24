@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "350723100",
+      "name": "杭川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/杭川镇"
+    },
+    {
+      "code": "350723101",
+      "name": "寨里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/寨里镇"
+    },
+    {
+      "code": "350723102",
+      "name": "止马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/止马镇"
+    },
+    {
+      "code": "350723103",
+      "name": "崇仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/崇仁镇"
+    },
+    {
+      "code": "350723104",
+      "name": "鸾凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/鸾凤镇"
+    },
+    {
+      "code": "350723202",
+      "name": "李坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/李坊乡"
+    },
+    {
+      "code": "350723203",
+      "name": "华桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/华桥乡"
+    },
+    {
+      "code": "350723204",
+      "name": "司前乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350723",
+      "year": 0,
+      "name_path": "福建省/南平市/光泽县/司前乡"
+    }
+  ]
+}

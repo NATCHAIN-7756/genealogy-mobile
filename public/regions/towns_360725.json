@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "360725100",
+      "name": "横水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/横水镇"
+    },
+    {
+      "code": "360725102",
+      "name": "扬眉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/扬眉镇"
+    },
+    {
+      "code": "360725103",
+      "name": "过埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/过埠镇"
+    },
+    {
+      "code": "360725104",
+      "name": "铅厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/铅厂镇"
+    },
+    {
+      "code": "360725105",
+      "name": "长龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/长龙镇"
+    },
+    {
+      "code": "360725106",
+      "name": "关田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/关田镇"
+    },
+    {
+      "code": "360725200",
+      "name": "龙勾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/龙勾乡"
+    },
+    {
+      "code": "360725202",
+      "name": "杰坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/杰坝乡"
+    },
+    {
+      "code": "360725203",
+      "name": "金坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/金坑乡"
+    },
+    {
+      "code": "360725204",
+      "name": "思顺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/思顺乡"
+    },
+    {
+      "code": "360725205",
+      "name": "麟潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/麟潭乡"
+    },
+    {
+      "code": "360725206",
+      "name": "上堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/上堡乡"
+    },
+    {
+      "code": "360725207",
+      "name": "聂都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/聂都乡"
+    },
+    {
+      "code": "360725208",
+      "name": "文英乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/文英乡"
+    },
+    {
+      "code": "360725209",
+      "name": "乐洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/乐洞乡"
+    },
+    {
+      "code": "360725210",
+      "name": "丰州乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360725",
+      "year": 0,
+      "name_path": "江西省/赣州市/崇义县/丰州乡"
+    }
+  ]
+}

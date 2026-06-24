@@ -39,12 +39,7 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -52,7 +47,8 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
-import axios from 'axios'
+import { eventApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -65,17 +61,13 @@ const activeTabbar = ref(1)
 const events = ref([])
 const newEvent = ref({ title: '', event_date: '', description: '' })
 
-const token = localStorage.getItem('token')
-
 function back() { router.back() }
 function goEvent(event) { router.push(`/family/${familyId}/event/${event.id}`) }
 
 async function loadEvents() {
   loading.value = true
   try {
-    const res = await axios.get(`http://45.207.215.95/api/events/family/${familyId}`, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    const res = await eventApi.list(familyId)
     events.value = res.data
     finished.value = true
   } catch (e) {
@@ -94,9 +86,7 @@ async function submitEvent() {
   }
   submitting.value = true
   try {
-    await axios.post(`http://45.207.215.95/api/events/family/${familyId}`, newEvent.value, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    await eventApi.create(familyId, newEvent.value)
     showToast('添加成功')
     showCreate.value = false
     newEvent.value = { title: '', event_date: '', description: '' }

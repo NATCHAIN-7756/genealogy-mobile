@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "130682001",
+      "name": "南城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/南城区街道"
+    },
+    {
+      "code": "130682002",
+      "name": "北城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/北城区街道"
+    },
+    {
+      "code": "130682003",
+      "name": "西城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/西城区街道"
+    },
+    {
+      "code": "130682004",
+      "name": "长安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/长安路街道"
+    },
+    {
+      "code": "130682100",
+      "name": "留早镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/留早镇"
+    },
+    {
+      "code": "130682101",
+      "name": "清风店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/清风店镇"
+    },
+    {
+      "code": "130682102",
+      "name": "庞村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/庞村镇"
+    },
+    {
+      "code": "130682103",
+      "name": "砖路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/砖路镇"
+    },
+    {
+      "code": "130682104",
+      "name": "明月店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/明月店镇"
+    },
+    {
+      "code": "130682105",
+      "name": "叮咛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/叮咛店镇"
+    },
+    {
+      "code": "130682106",
+      "name": "东亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/东亭镇"
+    },
+    {
+      "code": "130682107",
+      "name": "大辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/大辛庄镇"
+    },
+    {
+      "code": "130682108",
+      "name": "东旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/东旺镇"
+    },
+    {
+      "code": "130682109",
+      "name": "高蓬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/高蓬镇"
+    },
+    {
+      "code": "130682110",
+      "name": "邢邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/邢邑镇"
+    },
+    {
+      "code": "130682111",
+      "name": "李亲顾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/李亲顾镇"
+    },
+    {
+      "code": "130682112",
+      "name": "子位镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/子位镇"
+    },
+    {
+      "code": "130682113",
+      "name": "息冢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/息冢镇"
+    },
+    {
+      "code": "130682114",
+      "name": "周村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/周村镇"
+    },
+    {
+      "code": "130682116",
+      "name": "开元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/开元镇"
+    },
+    {
+      "code": "130682117",
+      "name": "大鹿庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/大鹿庄镇"
+    },
+    {
+      "code": "130682203",
+      "name": "东留春乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/东留春乡"
+    },
+    {
+      "code": "130682204",
+      "name": "号头庄回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/号头庄回族乡"
+    },
+    {
+      "code": "130682205",
+      "name": "杨家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/杨家庄乡"
+    },
+    {
+      "code": "130682208",
+      "name": "西城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130682",
+      "year": 0,
+      "name_path": "河北省/保定市/定州市/西城乡"
+    }
+  ]
+}

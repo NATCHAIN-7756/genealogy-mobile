@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "440882001",
+      "name": "雷城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/雷城街道"
+    },
+    {
+      "code": "440882002",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/新城街道"
+    },
+    {
+      "code": "440882003",
+      "name": "西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/西湖街道"
+    },
+    {
+      "code": "440882101",
+      "name": "附城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/附城镇"
+    },
+    {
+      "code": "440882102",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/白沙镇"
+    },
+    {
+      "code": "440882103",
+      "name": "沈塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/沈塘镇"
+    },
+    {
+      "code": "440882104",
+      "name": "客路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/客路镇"
+    },
+    {
+      "code": "440882105",
+      "name": "杨家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/杨家镇"
+    },
+    {
+      "code": "440882106",
+      "name": "唐家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/唐家镇"
+    },
+    {
+      "code": "440882107",
+      "name": "纪家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/纪家镇"
+    },
+    {
+      "code": "440882108",
+      "name": "企水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/企水镇"
+    },
+    {
+      "code": "440882109",
+      "name": "南兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/南兴镇"
+    },
+    {
+      "code": "440882110",
+      "name": "松竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/松竹镇"
+    },
+    {
+      "code": "440882111",
+      "name": "调风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/调风镇"
+    },
+    {
+      "code": "440882112",
+      "name": "雷高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/雷高镇"
+    },
+    {
+      "code": "440882113",
+      "name": "东里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/东里镇"
+    },
+    {
+      "code": "440882114",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/龙门镇"
+    },
+    {
+      "code": "440882115",
+      "name": "英利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/英利镇"
+    },
+    {
+      "code": "440882116",
+      "name": "北和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/北和镇"
+    },
+    {
+      "code": "440882118",
+      "name": "覃斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/覃斗镇"
+    },
+    {
+      "code": "440882119",
+      "name": "乌石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440882",
+      "year": 0,
+      "name_path": "广东省/湛江市/雷州市/乌石镇"
+    }
+  ]
+}

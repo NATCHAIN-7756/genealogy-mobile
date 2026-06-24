@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "522302001",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/城北街道"
+    },
+    {
+      "code": "522302002",
+      "name": "真武山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/真武山街道"
+    },
+    {
+      "code": "522302003",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/城南街道"
+    },
+    {
+      "code": "522302004",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/东湖街道"
+    },
+    {
+      "code": "522302005",
+      "name": "陆官街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/陆官街道"
+    },
+    {
+      "code": "522302006",
+      "name": "薏品田园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/薏品田园街道"
+    },
+    {
+      "code": "522302101",
+      "name": "屯脚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/屯脚镇"
+    },
+    {
+      "code": "522302103",
+      "name": "百德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/百德镇"
+    },
+    {
+      "code": "522302104",
+      "name": "雨樟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/雨樟镇"
+    },
+    {
+      "code": "522302105",
+      "name": "潘家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/潘家庄镇"
+    },
+    {
+      "code": "522302107",
+      "name": "下山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/下山镇"
+    },
+    {
+      "code": "522302108",
+      "name": "新龙场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/新龙场镇"
+    },
+    {
+      "code": "522302109",
+      "name": "大山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/大山镇"
+    },
+    {
+      "code": "522302110",
+      "name": "波阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/波阳镇"
+    },
+    {
+      "code": "522302111",
+      "name": "马马崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/马马崖镇"
+    },
+    {
+      "code": "522302112",
+      "name": "巴铃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/巴铃镇"
+    },
+    {
+      "code": "522302113",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/回龙镇"
+    },
+    {
+      "code": "522302200",
+      "name": "鲁础营回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522302",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/兴仁市/鲁础营回族乡"
+    }
+  ]
+}

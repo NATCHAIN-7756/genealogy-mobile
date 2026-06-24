@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "230751100",
+      "name": "西林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230751",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/金林区/西林镇"
+    },
+    {
+      "code": "230751101",
+      "name": "金山屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230751",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/金林区/金山屯镇"
+    }
+  ]
+}

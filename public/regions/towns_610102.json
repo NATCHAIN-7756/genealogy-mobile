@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "610102001",
+      "name": "西一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/西一路街道"
+    },
+    {
+      "code": "610102002",
+      "name": "长乐中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/长乐中路街道"
+    },
+    {
+      "code": "610102003",
+      "name": "中山门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/中山门街道"
+    },
+    {
+      "code": "610102004",
+      "name": "韩森寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/韩森寨街道"
+    },
+    {
+      "code": "610102005",
+      "name": "解放门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/解放门街道"
+    },
+    {
+      "code": "610102006",
+      "name": "自强路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/自强路街道"
+    },
+    {
+      "code": "610102007",
+      "name": "太华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/太华路街道"
+    },
+    {
+      "code": "610102008",
+      "name": "长乐西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/长乐西路街道"
+    },
+    {
+      "code": "610102009",
+      "name": "胡家庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610102",
+      "year": 0,
+      "name_path": "陕西省/西安市/新城区/胡家庙街道"
+    }
+  ]
+}

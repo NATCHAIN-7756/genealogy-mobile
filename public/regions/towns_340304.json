@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "340304001",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/朝阳街道"
+    },
+    {
+      "code": "340304002",
+      "name": "纬四街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/纬四街道"
+    },
+    {
+      "code": "340304003",
+      "name": "大庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/大庆街道"
+    },
+    {
+      "code": "340304004",
+      "name": "张公山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/张公山街道"
+    },
+    {
+      "code": "340304005",
+      "name": "钓鱼台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/钓鱼台街道"
+    },
+    {
+      "code": "340304100",
+      "name": "秦集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/秦集镇"
+    },
+    {
+      "code": "340304101",
+      "name": "马城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/马城镇"
+    },
+    {
+      "code": "340304200",
+      "name": "长青乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340304",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/禹会区/长青乡"
+    }
+  ]
+}

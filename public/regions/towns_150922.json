@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "150922100",
+      "name": "长顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150922",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/化德县/长顺镇"
+    },
+    {
+      "code": "150922101",
+      "name": "七号镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150922",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/化德县/七号镇"
+    },
+    {
+      "code": "150922102",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150922",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/化德县/朝阳镇"
+    },
+    {
+      "code": "150922205",
+      "name": "德包图乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150922",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/化德县/德包图乡"
+    },
+    {
+      "code": "150922207",
+      "name": "公腊胡洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150922",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/化德县/公腊胡洞乡"
+    },
+    {
+      "code": "150922208",
+      "name": "白音特拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150922",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/化德县/白音特拉乡"
+    }
+  ]
+}

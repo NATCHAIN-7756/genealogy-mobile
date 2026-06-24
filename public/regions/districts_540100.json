@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "540102",
+      "name": "城关区",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/城关区"
+    },
+    {
+      "code": "540103",
+      "name": "堆龙德庆区",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/堆龙德庆区"
+    },
+    {
+      "code": "540104",
+      "name": "达孜区",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/达孜区"
+    },
+    {
+      "code": "540121",
+      "name": "林周县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/林周县"
+    },
+    {
+      "code": "540122",
+      "name": "当雄县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/当雄县"
+    },
+    {
+      "code": "540123",
+      "name": "尼木县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/尼木县"
+    },
+    {
+      "code": "540124",
+      "name": "曲水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/曲水县"
+    },
+    {
+      "code": "540127",
+      "name": "墨竹工卡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540100",
+      "year": 0,
+      "name_path": "全国/西藏自治区/拉萨市/墨竹工卡县"
+    }
+  ]
+}

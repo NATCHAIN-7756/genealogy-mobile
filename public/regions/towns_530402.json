@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "530402001",
+      "name": "玉兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/玉兴街道"
+    },
+    {
+      "code": "530402002",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/凤凰街道"
+    },
+    {
+      "code": "530402003",
+      "name": "玉带街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/玉带街道"
+    },
+    {
+      "code": "530402004",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/北城街道"
+    },
+    {
+      "code": "530402005",
+      "name": "春和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/春和街道"
+    },
+    {
+      "code": "530402006",
+      "name": "李棋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/李棋街道"
+    },
+    {
+      "code": "530402007",
+      "name": "大营街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/大营街街道"
+    },
+    {
+      "code": "530402008",
+      "name": "研和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/研和街道"
+    },
+    {
+      "code": "530402009",
+      "name": "高仓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/高仓街道"
+    },
+    {
+      "code": "530402200",
+      "name": "小石桥彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/小石桥彝族乡"
+    },
+    {
+      "code": "530402201",
+      "name": "洛河彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530402",
+      "year": 0,
+      "name_path": "云南省/玉溪市/红塔区/洛河彝族乡"
+    }
+  ]
+}

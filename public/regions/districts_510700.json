@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "510703",
+      "name": "涪城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/涪城区"
+    },
+    {
+      "code": "510704",
+      "name": "游仙区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/游仙区"
+    },
+    {
+      "code": "510705",
+      "name": "安州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/安州区"
+    },
+    {
+      "code": "510722",
+      "name": "三台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/三台县"
+    },
+    {
+      "code": "510723",
+      "name": "盐亭县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/盐亭县"
+    },
+    {
+      "code": "510725",
+      "name": "梓潼县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/梓潼县"
+    },
+    {
+      "code": "510726",
+      "name": "北川羌族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/北川羌族自治县"
+    },
+    {
+      "code": "510727",
+      "name": "平武县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/平武县"
+    },
+    {
+      "code": "510781",
+      "name": "江油市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510700",
+      "year": 0,
+      "name_path": "全国/四川省/绵阳市/江油市"
+    }
+  ]
+}

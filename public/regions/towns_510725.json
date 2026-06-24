@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "510725100",
+      "name": "文昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/文昌镇"
+    },
+    {
+      "code": "510725101",
+      "name": "长卿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/长卿镇"
+    },
+    {
+      "code": "510725102",
+      "name": "许州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/许州镇"
+    },
+    {
+      "code": "510725103",
+      "name": "黎雅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/黎雅镇"
+    },
+    {
+      "code": "510725105",
+      "name": "卧龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/卧龙镇"
+    },
+    {
+      "code": "510725106",
+      "name": "观义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/观义镇"
+    },
+    {
+      "code": "510725107",
+      "name": "玛瑙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/玛瑙镇"
+    },
+    {
+      "code": "510725108",
+      "name": "石牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/石牛镇"
+    },
+    {
+      "code": "510725109",
+      "name": "自强镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/自强镇"
+    },
+    {
+      "code": "510725110",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/仁和镇"
+    },
+    {
+      "code": "510725111",
+      "name": "双板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/双板镇"
+    },
+    {
+      "code": "510725112",
+      "name": "金龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/金龙镇"
+    },
+    {
+      "code": "510725113",
+      "name": "文兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/文兴镇"
+    },
+    {
+      "code": "510725114",
+      "name": "演武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/演武镇"
+    },
+    {
+      "code": "510725118",
+      "name": "宏仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/宏仁镇"
+    },
+    {
+      "code": "510725217",
+      "name": "宝石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510725",
+      "year": 0,
+      "name_path": "四川省/绵阳市/梓潼县/宝石乡"
+    }
+  ]
+}

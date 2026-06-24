@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "320321001",
+      "name": "中阳里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/中阳里街道"
+    },
+    {
+      "code": "320321002",
+      "name": "凤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/凤城街道"
+    },
+    {
+      "code": "320321003",
+      "name": "孙楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/孙楼街道"
+    },
+    {
+      "code": "320321102",
+      "name": "首羡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/首羡镇"
+    },
+    {
+      "code": "320321103",
+      "name": "顺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/顺河镇"
+    },
+    {
+      "code": "320321104",
+      "name": "常店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/常店镇"
+    },
+    {
+      "code": "320321105",
+      "name": "欢口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/欢口镇"
+    },
+    {
+      "code": "320321106",
+      "name": "师寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/师寨镇"
+    },
+    {
+      "code": "320321107",
+      "name": "华山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/华山镇"
+    },
+    {
+      "code": "320321108",
+      "name": "梁寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/梁寨镇"
+    },
+    {
+      "code": "320321109",
+      "name": "范楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/范楼镇"
+    },
+    {
+      "code": "320321111",
+      "name": "宋楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/宋楼镇"
+    },
+    {
+      "code": "320321112",
+      "name": "大沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/大沙河镇"
+    },
+    {
+      "code": "320321113",
+      "name": "王沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/王沟镇"
+    },
+    {
+      "code": "320321114",
+      "name": "赵庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320321",
+      "year": 0,
+      "name_path": "江苏省/徐州市/丰县/赵庄镇"
+    }
+  ]
+}

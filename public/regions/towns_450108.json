@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "450108001",
+      "name": "大沙田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/大沙田街道"
+    },
+    {
+      "code": "450108002",
+      "name": "玉洞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/玉洞街道"
+    },
+    {
+      "code": "450108100",
+      "name": "良庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/良庆镇"
+    },
+    {
+      "code": "450108101",
+      "name": "那马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/那马镇"
+    },
+    {
+      "code": "450108102",
+      "name": "那陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/那陈镇"
+    },
+    {
+      "code": "450108103",
+      "name": "大塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/大塘镇"
+    },
+    {
+      "code": "450108104",
+      "name": "南晓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450108",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/良庆区/南晓镇"
+    }
+  ]
+}

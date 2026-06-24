@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "530921100",
+      "name": "凤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/凤山镇"
+    },
+    {
+      "code": "530921101",
+      "name": "鲁史镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/鲁史镇"
+    },
+    {
+      "code": "530921102",
+      "name": "小湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/小湾镇"
+    },
+    {
+      "code": "530921103",
+      "name": "营盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/营盘镇"
+    },
+    {
+      "code": "530921104",
+      "name": "勐佑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/勐佑镇"
+    },
+    {
+      "code": "530921107",
+      "name": "洛党镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/洛党镇"
+    },
+    {
+      "code": "530921108",
+      "name": "雪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/雪山镇"
+    },
+    {
+      "code": "530921109",
+      "name": "三岔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/三岔河镇"
+    },
+    {
+      "code": "530921200",
+      "name": "诗礼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/诗礼乡"
+    },
+    {
+      "code": "530921201",
+      "name": "新华彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/新华彝族苗族乡"
+    },
+    {
+      "code": "530921203",
+      "name": "大寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/大寺乡"
+    },
+    {
+      "code": "530921206",
+      "name": "腰街彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/腰街彝族乡"
+    },
+    {
+      "code": "530921210",
+      "name": "郭大寨彝族白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530921",
+      "year": 0,
+      "name_path": "云南省/临沧市/凤庆县/郭大寨彝族白族乡"
+    }
+  ]
+}

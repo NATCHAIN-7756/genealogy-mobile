@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "510421100",
+      "name": "攀莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/攀莲镇"
+    },
+    {
+      "code": "510421101",
+      "name": "丙谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/丙谷镇"
+    },
+    {
+      "code": "510421102",
+      "name": "得石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/得石镇"
+    },
+    {
+      "code": "510421103",
+      "name": "撒莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/撒莲镇"
+    },
+    {
+      "code": "510421106",
+      "name": "普威镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/普威镇"
+    },
+    {
+      "code": "510421112",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/白马镇"
+    },
+    {
+      "code": "510421113",
+      "name": "草场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/草场镇"
+    },
+    {
+      "code": "510421213",
+      "name": "麻陇彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/麻陇彝族乡"
+    },
+    {
+      "code": "510421219",
+      "name": "新山傈僳族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/新山傈僳族乡"
+    },
+    {
+      "code": "510421220",
+      "name": "湾丘彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/湾丘彝族乡"
+    },
+    {
+      "code": "510421221",
+      "name": "白坡彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510421",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/米易县/白坡彝族乡"
+    }
+  ]
+}

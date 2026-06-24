@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "640122001",
+      "name": "富兴街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640122",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/贺兰县/富兴街街道"
+    },
+    {
+      "code": "640122100",
+      "name": "习岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640122",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/贺兰县/习岗镇"
+    },
+    {
+      "code": "640122101",
+      "name": "金贵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640122",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/贺兰县/金贵镇"
+    },
+    {
+      "code": "640122102",
+      "name": "立岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640122",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/贺兰县/立岗镇"
+    },
+    {
+      "code": "640122103",
+      "name": "洪广镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640122",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/贺兰县/洪广镇"
+    },
+    {
+      "code": "640122200",
+      "name": "常信乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640122",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/贺兰县/常信乡"
+    }
+  ]
+}

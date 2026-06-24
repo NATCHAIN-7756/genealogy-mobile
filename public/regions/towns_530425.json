@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530425001",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/龙泉街道"
+    },
+    {
+      "code": "530425002",
+      "name": "六街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/六街街道"
+    },
+    {
+      "code": "530425102",
+      "name": "绿汁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/绿汁镇"
+    },
+    {
+      "code": "530425200",
+      "name": "浦贝彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/浦贝彝族乡"
+    },
+    {
+      "code": "530425201",
+      "name": "十街彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/十街彝族乡"
+    },
+    {
+      "code": "530425202",
+      "name": "铜厂彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/铜厂彝族乡"
+    },
+    {
+      "code": "530425203",
+      "name": "小街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530425",
+      "year": 0,
+      "name_path": "云南省/玉溪市/易门县/小街乡"
+    }
+  ]
+}

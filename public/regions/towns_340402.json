@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "340402001",
+      "name": "大通街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340402",
+      "year": 0,
+      "name_path": "安徽省/淮南市/大通区/大通街道"
+    },
+    {
+      "code": "340402100",
+      "name": "上窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340402",
+      "year": 0,
+      "name_path": "安徽省/淮南市/大通区/上窑镇"
+    },
+    {
+      "code": "340402101",
+      "name": "洛河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340402",
+      "year": 0,
+      "name_path": "安徽省/淮南市/大通区/洛河镇"
+    },
+    {
+      "code": "340402102",
+      "name": "九龙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340402",
+      "year": 0,
+      "name_path": "安徽省/淮南市/大通区/九龙岗镇"
+    },
+    {
+      "code": "340402200",
+      "name": "孔店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340402",
+      "year": 0,
+      "name_path": "安徽省/淮南市/大通区/孔店乡"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "321002",
+      "name": "广陵区",
+      "level": 3,
+      "type": null,
+      "parent_code": "321000",
+      "year": 0,
+      "name_path": "全国/江苏省/扬州市/广陵区"
+    },
+    {
+      "code": "321003",
+      "name": "邗江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "321000",
+      "year": 0,
+      "name_path": "全国/江苏省/扬州市/邗江区"
+    },
+    {
+      "code": "321012",
+      "name": "江都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "321000",
+      "year": 0,
+      "name_path": "全国/江苏省/扬州市/江都区"
+    },
+    {
+      "code": "321023",
+      "name": "宝应县",
+      "level": 3,
+      "type": null,
+      "parent_code": "321000",
+      "year": 0,
+      "name_path": "全国/江苏省/扬州市/宝应县"
+    },
+    {
+      "code": "321081",
+      "name": "仪征市",
+      "level": 3,
+      "type": null,
+      "parent_code": "321000",
+      "year": 0,
+      "name_path": "全国/江苏省/扬州市/仪征市"
+    },
+    {
+      "code": "321084",
+      "name": "高邮市",
+      "level": 3,
+      "type": null,
+      "parent_code": "321000",
+      "year": 0,
+      "name_path": "全国/江苏省/扬州市/高邮市"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "120116005",
+      "name": "杭州道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/杭州道街道"
+    },
+    {
+      "code": "120116006",
+      "name": "新河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/新河街道"
+    },
+    {
+      "code": "120116007",
+      "name": "大沽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/大沽街道"
+    },
+    {
+      "code": "120116008",
+      "name": "新北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/新北街道"
+    },
+    {
+      "code": "120116009",
+      "name": "北塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/北塘街道"
+    },
+    {
+      "code": "120116011",
+      "name": "胡家园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/胡家园街道"
+    },
+    {
+      "code": "120116012",
+      "name": "泰达街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/泰达街道"
+    },
+    {
+      "code": "120116021",
+      "name": "汉沽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/汉沽街道"
+    },
+    {
+      "code": "120116022",
+      "name": "寨上街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/寨上街道"
+    },
+    {
+      "code": "120116033",
+      "name": "古林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/古林街道"
+    },
+    {
+      "code": "120116034",
+      "name": "海滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/海滨街道"
+    },
+    {
+      "code": "120116036",
+      "name": "塘沽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/塘沽街道"
+    },
+    {
+      "code": "120116037",
+      "name": "茶淀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/茶淀街道"
+    },
+    {
+      "code": "120116038",
+      "name": "大港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/大港街道"
+    },
+    {
+      "code": "120116039",
+      "name": "新港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/新港街道"
+    },
+    {
+      "code": "120116040",
+      "name": "新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/新村街道"
+    },
+    {
+      "code": "120116100",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/新城镇"
+    },
+    {
+      "code": "120116102",
+      "name": "杨家泊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/杨家泊镇"
+    },
+    {
+      "code": "120116105",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/太平镇"
+    },
+    {
+      "code": "120116106",
+      "name": "小王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/小王庄镇"
+    },
+    {
+      "code": "120116107",
+      "name": "中塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120116",
+      "year": 0,
+      "name_path": "天津市/滨海新区/中塘镇"
+    }
+  ]
+}

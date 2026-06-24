@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "610104001",
+      "name": "青年路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/青年路街道"
+    },
+    {
+      "code": "610104002",
+      "name": "北院门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/北院门街道"
+    },
+    {
+      "code": "610104003",
+      "name": "北关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/北关街道"
+    },
+    {
+      "code": "610104004",
+      "name": "红庙坡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/红庙坡街道"
+    },
+    {
+      "code": "610104005",
+      "name": "环城西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/环城西路街道"
+    },
+    {
+      "code": "610104006",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/西关街道"
+    },
+    {
+      "code": "610104007",
+      "name": "土门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/土门街道"
+    },
+    {
+      "code": "610104008",
+      "name": "桃园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/桃园路街道"
+    },
+    {
+      "code": "610104009",
+      "name": "枣园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610104",
+      "year": 0,
+      "name_path": "陕西省/西安市/莲湖区/枣园街道"
+    }
+  ]
+}

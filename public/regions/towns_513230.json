@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "513230101",
+      "name": "南木达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/南木达镇"
+    },
+    {
+      "code": "513230102",
+      "name": "中壤塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/中壤塘镇"
+    },
+    {
+      "code": "513230103",
+      "name": "岗木达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/岗木达镇"
+    },
+    {
+      "code": "513230200",
+      "name": "蒲西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/蒲西乡"
+    },
+    {
+      "code": "513230201",
+      "name": "宗科乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/宗科乡"
+    },
+    {
+      "code": "513230202",
+      "name": "石里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/石里乡"
+    },
+    {
+      "code": "513230203",
+      "name": "吾伊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/吾伊乡"
+    },
+    {
+      "code": "513230205",
+      "name": "上杜柯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/上杜柯乡"
+    },
+    {
+      "code": "513230206",
+      "name": "茸木达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/茸木达乡"
+    },
+    {
+      "code": "513230208",
+      "name": "尕多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/尕多乡"
+    },
+    {
+      "code": "513230210",
+      "name": "上壤塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513230",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/壤塘县/上壤塘乡"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "150429100",
+      "name": "天义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/天义镇"
+    },
+    {
+      "code": "150429101",
+      "name": "小城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/小城子镇"
+    },
+    {
+      "code": "150429102",
+      "name": "大城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/大城子镇"
+    },
+    {
+      "code": "150429103",
+      "name": "八里罕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/八里罕镇"
+    },
+    {
+      "code": "150429104",
+      "name": "黑里河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/黑里河镇"
+    },
+    {
+      "code": "150429105",
+      "name": "右北平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/右北平镇"
+    },
+    {
+      "code": "150429106",
+      "name": "大双庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/大双庙镇"
+    },
+    {
+      "code": "150429107",
+      "name": "汐子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/汐子镇"
+    },
+    {
+      "code": "150429108",
+      "name": "大明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/大明镇"
+    },
+    {
+      "code": "150429109",
+      "name": "忙农镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/忙农镇"
+    },
+    {
+      "code": "150429110",
+      "name": "五化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/五化镇"
+    },
+    {
+      "code": "150429111",
+      "name": "必斯营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/必斯营子镇"
+    },
+    {
+      "code": "150429112",
+      "name": "三座店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/三座店镇"
+    },
+    {
+      "code": "150429202",
+      "name": "一肯中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/一肯中乡"
+    },
+    {
+      "code": "150429203",
+      "name": "存金沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150429",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/宁城县/存金沟乡"
+    }
+  ]
+}

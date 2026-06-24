@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "623027100",
+      "name": "拉卜楞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/拉卜楞镇"
+    },
+    {
+      "code": "623027101",
+      "name": "王格尔塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/王格尔塘镇"
+    },
+    {
+      "code": "623027102",
+      "name": "阿木去乎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/阿木去乎镇"
+    },
+    {
+      "code": "623027103",
+      "name": "桑科镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/桑科镇"
+    },
+    {
+      "code": "623027104",
+      "name": "甘加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/甘加镇"
+    },
+    {
+      "code": "623027105",
+      "name": "麻当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/麻当镇"
+    },
+    {
+      "code": "623027106",
+      "name": "博拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/博拉镇"
+    },
+    {
+      "code": "623027107",
+      "name": "科才镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/科才镇"
+    },
+    {
+      "code": "623027203",
+      "name": "达麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/达麦乡"
+    },
+    {
+      "code": "623027205",
+      "name": "曲奥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/曲奥乡"
+    },
+    {
+      "code": "623027206",
+      "name": "唐尕昂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/唐尕昂乡"
+    },
+    {
+      "code": "623027207",
+      "name": "扎油乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/扎油乡"
+    },
+    {
+      "code": "623027208",
+      "name": "吉仓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623027",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/夏河县/吉仓乡"
+    }
+  ]
+}

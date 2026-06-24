@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "231102",
+      "name": "爱辉区",
+      "level": 3,
+      "type": null,
+      "parent_code": "231100",
+      "year": 0,
+      "name_path": "全国/黑龙江省/黑河市/爱辉区"
+    },
+    {
+      "code": "231123",
+      "name": "逊克县",
+      "level": 3,
+      "type": null,
+      "parent_code": "231100",
+      "year": 0,
+      "name_path": "全国/黑龙江省/黑河市/逊克县"
+    },
+    {
+      "code": "231124",
+      "name": "孙吴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "231100",
+      "year": 0,
+      "name_path": "全国/黑龙江省/黑河市/孙吴县"
+    },
+    {
+      "code": "231181",
+      "name": "北安市",
+      "level": 3,
+      "type": null,
+      "parent_code": "231100",
+      "year": 0,
+      "name_path": "全国/黑龙江省/黑河市/北安市"
+    },
+    {
+      "code": "231182",
+      "name": "五大连池市",
+      "level": 3,
+      "type": null,
+      "parent_code": "231100",
+      "year": 0,
+      "name_path": "全国/黑龙江省/黑河市/五大连池市"
+    },
+    {
+      "code": "231183",
+      "name": "嫩江市",
+      "level": 3,
+      "type": null,
+      "parent_code": "231100",
+      "year": 0,
+      "name_path": "全国/黑龙江省/黑河市/嫩江市"
+    }
+  ]
+}

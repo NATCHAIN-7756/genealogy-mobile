@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "652922100",
+      "name": "温宿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/温宿镇"
+    },
+    {
+      "code": "652922101",
+      "name": "吐木秀克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/吐木秀克镇"
+    },
+    {
+      "code": "652922102",
+      "name": "克孜勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/克孜勒镇"
+    },
+    {
+      "code": "652922103",
+      "name": "阿热勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/阿热勒镇"
+    },
+    {
+      "code": "652922104",
+      "name": "佳木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/佳木镇"
+    },
+    {
+      "code": "652922200",
+      "name": "托乎拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/托乎拉乡"
+    },
+    {
+      "code": "652922202",
+      "name": "恰格拉克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/恰格拉克乡"
+    },
+    {
+      "code": "652922204",
+      "name": "依希来木其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/依希来木其乡"
+    },
+    {
+      "code": "652922206",
+      "name": "古勒阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/古勒阿瓦提乡"
+    },
+    {
+      "code": "652922207",
+      "name": "博孜墩柯尔克孜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652922",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/温宿县/博孜墩柯尔克孜族乡"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "632221",
+      "name": "门源回族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632200",
+      "year": 0,
+      "name_path": "全国/青海省/海北藏族自治州/门源回族自治县"
+    },
+    {
+      "code": "632222",
+      "name": "祁连县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632200",
+      "year": 0,
+      "name_path": "全国/青海省/海北藏族自治州/祁连县"
+    },
+    {
+      "code": "632223",
+      "name": "海晏县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632200",
+      "year": 0,
+      "name_path": "全国/青海省/海北藏族自治州/海晏县"
+    },
+    {
+      "code": "632224",
+      "name": "刚察县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632200",
+      "year": 0,
+      "name_path": "全国/青海省/海北藏族自治州/刚察县"
+    }
+  ]
+}

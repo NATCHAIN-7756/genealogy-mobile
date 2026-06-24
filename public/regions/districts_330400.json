@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "330402",
+      "name": "南湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/南湖区"
+    },
+    {
+      "code": "330411",
+      "name": "秀洲区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/秀洲区"
+    },
+    {
+      "code": "330421",
+      "name": "嘉善县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/嘉善县"
+    },
+    {
+      "code": "330424",
+      "name": "海盐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/海盐县"
+    },
+    {
+      "code": "330481",
+      "name": "海宁市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/海宁市"
+    },
+    {
+      "code": "330482",
+      "name": "平湖市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/平湖市"
+    },
+    {
+      "code": "330483",
+      "name": "桐乡市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330400",
+      "year": 0,
+      "name_path": "全国/浙江省/嘉兴市/桐乡市"
+    }
+  ]
+}

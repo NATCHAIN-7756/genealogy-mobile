@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "350521100",
+      "name": "螺城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/螺城镇"
+    },
+    {
+      "code": "350521101",
+      "name": "螺阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/螺阳镇"
+    },
+    {
+      "code": "350521102",
+      "name": "黄塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/黄塘镇"
+    },
+    {
+      "code": "350521103",
+      "name": "紫山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/紫山镇"
+    },
+    {
+      "code": "350521104",
+      "name": "洛阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/洛阳镇"
+    },
+    {
+      "code": "350521105",
+      "name": "东园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/东园镇"
+    },
+    {
+      "code": "350521106",
+      "name": "张坂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/张坂镇"
+    },
+    {
+      "code": "350521107",
+      "name": "崇武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/崇武镇"
+    },
+    {
+      "code": "350521108",
+      "name": "山霞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/山霞镇"
+    },
+    {
+      "code": "350521109",
+      "name": "涂寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/涂寨镇"
+    },
+    {
+      "code": "350521110",
+      "name": "东岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/东岭镇"
+    },
+    {
+      "code": "350521111",
+      "name": "东桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/东桥镇"
+    },
+    {
+      "code": "350521112",
+      "name": "净峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/净峰镇"
+    },
+    {
+      "code": "350521113",
+      "name": "小岞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/小岞镇"
+    },
+    {
+      "code": "350521114",
+      "name": "辋川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/辋川镇"
+    },
+    {
+      "code": "350521200",
+      "name": "百崎回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350521",
+      "year": 0,
+      "name_path": "福建省/泉州市/惠安县/百崎回族乡"
+    }
+  ]
+}

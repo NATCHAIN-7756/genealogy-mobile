@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "420503001",
+      "name": "大公桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420503",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/伍家岗区/大公桥街道"
+    },
+    {
+      "code": "420503002",
+      "name": "万寿桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420503",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/伍家岗区/万寿桥街道"
+    },
+    {
+      "code": "420503003",
+      "name": "宝塔河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420503",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/伍家岗区/宝塔河街道"
+    },
+    {
+      "code": "420503004",
+      "name": "伍家岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420503",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/伍家岗区/伍家岗街道"
+    },
+    {
+      "code": "420503201",
+      "name": "伍家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420503",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/伍家岗区/伍家乡"
+    }
+  ]
+}

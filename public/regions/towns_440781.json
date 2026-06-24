@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "440781001",
+      "name": "台城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/台城街道"
+    },
+    {
+      "code": "440781101",
+      "name": "大江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/大江镇"
+    },
+    {
+      "code": "440781102",
+      "name": "水步镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/水步镇"
+    },
+    {
+      "code": "440781103",
+      "name": "四九镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/四九镇"
+    },
+    {
+      "code": "440781105",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/白沙镇"
+    },
+    {
+      "code": "440781106",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/三合镇"
+    },
+    {
+      "code": "440781107",
+      "name": "冲蒌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/冲蒌镇"
+    },
+    {
+      "code": "440781108",
+      "name": "斗山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/斗山镇"
+    },
+    {
+      "code": "440781109",
+      "name": "都斛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/都斛镇"
+    },
+    {
+      "code": "440781110",
+      "name": "赤溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/赤溪镇"
+    },
+    {
+      "code": "440781111",
+      "name": "端芬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/端芬镇"
+    },
+    {
+      "code": "440781112",
+      "name": "广海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/广海镇"
+    },
+    {
+      "code": "440781113",
+      "name": "海宴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/海宴镇"
+    },
+    {
+      "code": "440781114",
+      "name": "汶村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/汶村镇"
+    },
+    {
+      "code": "440781115",
+      "name": "深井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/深井镇"
+    },
+    {
+      "code": "440781117",
+      "name": "北陡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/北陡镇"
+    },
+    {
+      "code": "440781120",
+      "name": "川岛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440781",
+      "year": 0,
+      "name_path": "广东省/江门市/台山市/川岛镇"
+    }
+  ]
+}

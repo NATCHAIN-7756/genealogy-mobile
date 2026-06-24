@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "321003001",
+      "name": "邗上街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/邗上街道"
+    },
+    {
+      "code": "321003002",
+      "name": "新盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/新盛街道"
+    },
+    {
+      "code": "321003003",
+      "name": "蒋王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/蒋王街道"
+    },
+    {
+      "code": "321003004",
+      "name": "汊河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/汊河街道"
+    },
+    {
+      "code": "321003005",
+      "name": "梅岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/梅岭街道"
+    },
+    {
+      "code": "321003006",
+      "name": "扬子津街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/扬子津街道"
+    },
+    {
+      "code": "321003007",
+      "name": "瘦西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/瘦西湖街道"
+    },
+    {
+      "code": "321003008",
+      "name": "甘泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/甘泉街道"
+    },
+    {
+      "code": "321003011",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/城北街道"
+    },
+    {
+      "code": "321003012",
+      "name": "竹西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/竹西街道"
+    },
+    {
+      "code": "321003013",
+      "name": "文汇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/文汇街道"
+    },
+    {
+      "code": "321003014",
+      "name": "双桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/双桥街道"
+    },
+    {
+      "code": "321003015",
+      "name": "西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/西湖街道"
+    },
+    {
+      "code": "321003102",
+      "name": "公道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/公道镇"
+    },
+    {
+      "code": "321003104",
+      "name": "方巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/方巷镇"
+    },
+    {
+      "code": "321003106",
+      "name": "槐泗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/槐泗镇"
+    },
+    {
+      "code": "321003109",
+      "name": "瓜洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/瓜洲镇"
+    },
+    {
+      "code": "321003118",
+      "name": "杨寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/杨寿镇"
+    },
+    {
+      "code": "321003120",
+      "name": "杨庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/杨庙镇"
+    },
+    {
+      "code": "321003122",
+      "name": "八里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/八里镇"
+    },
+    {
+      "code": "321003123",
+      "name": "施桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/施桥镇"
+    },
+    {
+      "code": "321003200",
+      "name": "平山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321003",
+      "year": 0,
+      "name_path": "江苏省/扬州市/邗江区/平山乡"
+    }
+  ]
+}

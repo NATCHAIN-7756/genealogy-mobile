@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "620602",
+      "name": "凉州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "620600",
+      "year": 0,
+      "name_path": "全国/甘肃省/武威市/凉州区"
+    },
+    {
+      "code": "620621",
+      "name": "民勤县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620600",
+      "year": 0,
+      "name_path": "全国/甘肃省/武威市/民勤县"
+    },
+    {
+      "code": "620622",
+      "name": "古浪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620600",
+      "year": 0,
+      "name_path": "全国/甘肃省/武威市/古浪县"
+    },
+    {
+      "code": "620623",
+      "name": "天祝藏族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620600",
+      "year": 0,
+      "name_path": "全国/甘肃省/武威市/天祝藏族自治县"
+    }
+  ]
+}

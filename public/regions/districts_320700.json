@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "320703",
+      "name": "连云区",
+      "level": 3,
+      "type": null,
+      "parent_code": "320700",
+      "year": 0,
+      "name_path": "全国/江苏省/连云港市/连云区"
+    },
+    {
+      "code": "320706",
+      "name": "海州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "320700",
+      "year": 0,
+      "name_path": "全国/江苏省/连云港市/海州区"
+    },
+    {
+      "code": "320707",
+      "name": "赣榆区",
+      "level": 3,
+      "type": null,
+      "parent_code": "320700",
+      "year": 0,
+      "name_path": "全国/江苏省/连云港市/赣榆区"
+    },
+    {
+      "code": "320722",
+      "name": "东海县",
+      "level": 3,
+      "type": null,
+      "parent_code": "320700",
+      "year": 0,
+      "name_path": "全国/江苏省/连云港市/东海县"
+    },
+    {
+      "code": "320723",
+      "name": "灌云县",
+      "level": 3,
+      "type": null,
+      "parent_code": "320700",
+      "year": 0,
+      "name_path": "全国/江苏省/连云港市/灌云县"
+    },
+    {
+      "code": "320724",
+      "name": "灌南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "320700",
+      "year": 0,
+      "name_path": "全国/江苏省/连云港市/灌南县"
+    }
+  ]
+}

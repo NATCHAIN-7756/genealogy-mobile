@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "420684001",
+      "name": "鄢城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/鄢城街道"
+    },
+    {
+      "code": "420684002",
+      "name": "南营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/南营街道"
+    },
+    {
+      "code": "420684003",
+      "name": "龙头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/龙头街道"
+    },
+    {
+      "code": "420684100",
+      "name": "郑集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/郑集镇"
+    },
+    {
+      "code": "420684101",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/小河镇"
+    },
+    {
+      "code": "420684102",
+      "name": "刘猴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/刘猴镇"
+    },
+    {
+      "code": "420684103",
+      "name": "孔湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/孔湾镇"
+    },
+    {
+      "code": "420684104",
+      "name": "流水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/流水镇"
+    },
+    {
+      "code": "420684105",
+      "name": "板桥店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/板桥店镇"
+    },
+    {
+      "code": "420684106",
+      "name": "王集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/王集镇"
+    },
+    {
+      "code": "420684107",
+      "name": "雷河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420684",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/宜城市/雷河镇"
+    }
+  ]
+}

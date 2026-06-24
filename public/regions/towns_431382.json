@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "431382001",
+      "name": "蓝田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/蓝田街道"
+    },
+    {
+      "code": "431382002",
+      "name": "六亩塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/六亩塘街道"
+    },
+    {
+      "code": "431382003",
+      "name": "石马山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/石马山街道"
+    },
+    {
+      "code": "431382102",
+      "name": "安平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/安平镇"
+    },
+    {
+      "code": "431382103",
+      "name": "湄江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/湄江镇"
+    },
+    {
+      "code": "431382104",
+      "name": "伏口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/伏口镇"
+    },
+    {
+      "code": "431382105",
+      "name": "桥头河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/桥头河镇"
+    },
+    {
+      "code": "431382106",
+      "name": "七星街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/七星街镇"
+    },
+    {
+      "code": "431382107",
+      "name": "杨市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/杨市镇"
+    },
+    {
+      "code": "431382108",
+      "name": "枫坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/枫坪镇"
+    },
+    {
+      "code": "431382109",
+      "name": "斗笠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/斗笠山镇"
+    },
+    {
+      "code": "431382111",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/白马镇"
+    },
+    {
+      "code": "431382112",
+      "name": "茅塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/茅塘镇"
+    },
+    {
+      "code": "431382113",
+      "name": "荷塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/荷塘镇"
+    },
+    {
+      "code": "431382114",
+      "name": "金石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/金石镇"
+    },
+    {
+      "code": "431382115",
+      "name": "龙塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/龙塘镇"
+    },
+    {
+      "code": "431382116",
+      "name": "渡头塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/渡头塘镇"
+    },
+    {
+      "code": "431382117",
+      "name": "湖泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/湖泉镇"
+    },
+    {
+      "code": "431382200",
+      "name": "三甲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/三甲乡"
+    },
+    {
+      "code": "431382202",
+      "name": "古塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431382",
+      "year": 0,
+      "name_path": "湖南省/娄底市/涟源市/古塘乡"
+    }
+  ]
+}

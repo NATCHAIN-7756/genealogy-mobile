@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530126001",
+      "name": "鹿阜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/鹿阜街道"
+    },
+    {
+      "code": "530126002",
+      "name": "石林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/石林街道"
+    },
+    {
+      "code": "530126003",
+      "name": "板桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/板桥街道"
+    },
+    {
+      "code": "530126104",
+      "name": "西街口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/西街口镇"
+    },
+    {
+      "code": "530126105",
+      "name": "长湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/长湖镇"
+    },
+    {
+      "code": "530126106",
+      "name": "圭山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/圭山镇"
+    },
+    {
+      "code": "530126202",
+      "name": "大可乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530126",
+      "year": 0,
+      "name_path": "云南省/昆明市/石林彝族自治县/大可乡"
+    }
+  ]
+}

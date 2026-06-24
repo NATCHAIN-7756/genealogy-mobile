@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "445202001",
+      "name": "榕华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/榕华街道"
+    },
+    {
+      "code": "445202002",
+      "name": "新兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/新兴街道"
+    },
+    {
+      "code": "445202006",
+      "name": "榕东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/榕东街道"
+    },
+    {
+      "code": "445202008",
+      "name": "东阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/东阳街道"
+    },
+    {
+      "code": "445202009",
+      "name": "东升街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/东升街道"
+    },
+    {
+      "code": "445202010",
+      "name": "东兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/东兴街道"
+    },
+    {
+      "code": "445202011",
+      "name": "仙桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/仙桥街道"
+    },
+    {
+      "code": "445202012",
+      "name": "梅云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/梅云街道"
+    },
+    {
+      "code": "445202013",
+      "name": "渔湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/渔湖街道"
+    },
+    {
+      "code": "445202014",
+      "name": "溪南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/溪南街道"
+    },
+    {
+      "code": "445202015",
+      "name": "凤美街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/凤美街道"
+    },
+    {
+      "code": "445202016",
+      "name": "京冈街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/京冈街道"
+    },
+    {
+      "code": "445202017",
+      "name": "进贤门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/进贤门街道"
+    },
+    {
+      "code": "445202102",
+      "name": "地都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/地都镇"
+    },
+    {
+      "code": "445202103",
+      "name": "砲台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/砲台镇"
+    },
+    {
+      "code": "445202104",
+      "name": "登岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445202",
+      "year": 0,
+      "name_path": "广东省/揭阳市/榕城区/登岗镇"
+    }
+  ]
+}

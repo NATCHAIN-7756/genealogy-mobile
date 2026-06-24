@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130209001",
+      "name": "希望路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/希望路街道"
+    },
+    {
+      "code": "130209002",
+      "name": "垦丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/垦丰街道"
+    },
+    {
+      "code": "130209003",
+      "name": "中山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/中山路街道"
+    },
+    {
+      "code": "130209100",
+      "name": "唐海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/唐海镇"
+    },
+    {
+      "code": "130209101",
+      "name": "柳赞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/柳赞镇"
+    },
+    {
+      "code": "130209102",
+      "name": "滨海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/滨海镇"
+    },
+    {
+      "code": "130209103",
+      "name": "孙塘庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/孙塘庄镇"
+    },
+    {
+      "code": "130209104",
+      "name": "双井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130209",
+      "year": 0,
+      "name_path": "河北省/唐山市/曹妃甸区/双井镇"
+    }
+  ]
+}

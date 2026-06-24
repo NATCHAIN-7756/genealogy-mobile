@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "540237100",
+      "name": "岗巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540237",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/岗巴县/岗巴镇"
+    },
+    {
+      "code": "540237200",
+      "name": "昌龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540237",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/岗巴县/昌龙乡"
+    },
+    {
+      "code": "540237201",
+      "name": "直克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540237",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/岗巴县/直克乡"
+    },
+    {
+      "code": "540237202",
+      "name": "孔玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540237",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/岗巴县/孔玛乡"
+    },
+    {
+      "code": "540237203",
+      "name": "龙中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540237",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/岗巴县/龙中乡"
+    }
+  ]
+}

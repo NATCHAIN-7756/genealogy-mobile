@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "620702",
+      "name": "甘州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "620700",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市/甘州区"
+    },
+    {
+      "code": "620721",
+      "name": "肃南裕固族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620700",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市/肃南裕固族自治县"
+    },
+    {
+      "code": "620722",
+      "name": "民乐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620700",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市/民乐县"
+    },
+    {
+      "code": "620723",
+      "name": "临泽县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620700",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市/临泽县"
+    },
+    {
+      "code": "620724",
+      "name": "高台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620700",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市/高台县"
+    },
+    {
+      "code": "620725",
+      "name": "山丹县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620700",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市/山丹县"
+    }
+  ]
+}

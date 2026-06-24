@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "211005001",
+      "name": "苏家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211005",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/弓长岭区/苏家街道"
+    },
+    {
+      "code": "211005003",
+      "name": "安平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211005",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/弓长岭区/安平街道"
+    },
+    {
+      "code": "211005101",
+      "name": "汤河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211005",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/弓长岭区/汤河镇"
+    },
+    {
+      "code": "211005201",
+      "name": "安平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211005",
+      "year": 0,
+      "name_path": "辽宁省/辽阳市/弓长岭区/安平乡"
+    }
+  ]
+}

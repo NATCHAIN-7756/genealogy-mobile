@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450327100",
+      "name": "灌阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/灌阳镇"
+    },
+    {
+      "code": "450327101",
+      "name": "黄关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/黄关镇"
+    },
+    {
+      "code": "450327102",
+      "name": "文市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/文市镇"
+    },
+    {
+      "code": "450327103",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/新街镇"
+    },
+    {
+      "code": "450327104",
+      "name": "新圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/新圩镇"
+    },
+    {
+      "code": "450327105",
+      "name": "水车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/水车镇"
+    },
+    {
+      "code": "450327200",
+      "name": "洞井瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/洞井瑶族乡"
+    },
+    {
+      "code": "450327201",
+      "name": "观音阁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/观音阁乡"
+    },
+    {
+      "code": "450327202",
+      "name": "西山瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450327",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/灌阳县/西山瑶族乡"
+    }
+  ]
+}

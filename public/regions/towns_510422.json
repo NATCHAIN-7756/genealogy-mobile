@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510422100",
+      "name": "桐子林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/桐子林镇"
+    },
+    {
+      "code": "510422101",
+      "name": "红格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/红格镇"
+    },
+    {
+      "code": "510422102",
+      "name": "渔门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/渔门镇"
+    },
+    {
+      "code": "510422103",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/永兴镇"
+    },
+    {
+      "code": "510422104",
+      "name": "新九镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/新九镇"
+    },
+    {
+      "code": "510422105",
+      "name": "惠民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/惠民镇"
+    },
+    {
+      "code": "510422205",
+      "name": "红果彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/红果彝族乡"
+    },
+    {
+      "code": "510422212",
+      "name": "共和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/共和乡"
+    },
+    {
+      "code": "510422215",
+      "name": "国胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/国胜乡"
+    },
+    {
+      "code": "510422216",
+      "name": "红宝苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/红宝苗族彝族乡"
+    },
+    {
+      "code": "510422224",
+      "name": "温泉彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/温泉彝族乡"
+    },
+    {
+      "code": "510422226",
+      "name": "格萨拉彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510422",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/盐边县/格萨拉彝族乡"
+    }
+  ]
+}

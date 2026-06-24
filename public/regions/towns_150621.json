@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "150621001",
+      "name": "锡尼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/锡尼街道"
+    },
+    {
+      "code": "150621002",
+      "name": "西园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/西园街道"
+    },
+    {
+      "code": "150621003",
+      "name": "白塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/白塔街道"
+    },
+    {
+      "code": "150621004",
+      "name": "工业街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/工业街道"
+    },
+    {
+      "code": "150621005",
+      "name": "昭君街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/昭君街道"
+    },
+    {
+      "code": "150621006",
+      "name": "平原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/平原街道"
+    },
+    {
+      "code": "150621108",
+      "name": "王爱召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/王爱召镇"
+    },
+    {
+      "code": "150621109",
+      "name": "树林召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/树林召镇"
+    },
+    {
+      "code": "150621110",
+      "name": "昭君镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/昭君镇"
+    },
+    {
+      "code": "150621111",
+      "name": "白泥井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/白泥井镇"
+    },
+    {
+      "code": "150621112",
+      "name": "吉格斯太镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/吉格斯太镇"
+    },
+    {
+      "code": "150621113",
+      "name": "中和西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/中和西镇"
+    },
+    {
+      "code": "150621114",
+      "name": "恩格贝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/恩格贝镇"
+    },
+    {
+      "code": "150621115",
+      "name": "风水梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/风水梁镇"
+    },
+    {
+      "code": "150621201",
+      "name": "展旦召苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150621",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/达拉特旗/展旦召苏木"
+    }
+  ]
+}

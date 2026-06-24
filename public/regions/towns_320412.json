@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "320412001",
+      "name": "南夏墅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/南夏墅街道"
+    },
+    {
+      "code": "320412002",
+      "name": "西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/西湖街道"
+    },
+    {
+      "code": "320412003",
+      "name": "丁堰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/丁堰街道"
+    },
+    {
+      "code": "320412004",
+      "name": "戚墅堰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/戚墅堰街道"
+    },
+    {
+      "code": "320412005",
+      "name": "潞城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/潞城街道"
+    },
+    {
+      "code": "320412100",
+      "name": "湖塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/湖塘镇"
+    },
+    {
+      "code": "320412102",
+      "name": "牛塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/牛塘镇"
+    },
+    {
+      "code": "320412103",
+      "name": "洛阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/洛阳镇"
+    },
+    {
+      "code": "320412104",
+      "name": "遥观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/遥观镇"
+    },
+    {
+      "code": "320412105",
+      "name": "横林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/横林镇"
+    },
+    {
+      "code": "320412106",
+      "name": "横山桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/横山桥镇"
+    },
+    {
+      "code": "320412110",
+      "name": "雪堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/雪堰镇"
+    },
+    {
+      "code": "320412113",
+      "name": "前黄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/前黄镇"
+    },
+    {
+      "code": "320412114",
+      "name": "礼嘉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/礼嘉镇"
+    },
+    {
+      "code": "320412119",
+      "name": "嘉泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/嘉泽镇"
+    },
+    {
+      "code": "320412120",
+      "name": "湟里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320412",
+      "year": 0,
+      "name_path": "江苏省/常州市/武进区/湟里镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "451324100",
+      "name": "金秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/金秀镇"
+    },
+    {
+      "code": "451324101",
+      "name": "桐木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/桐木镇"
+    },
+    {
+      "code": "451324102",
+      "name": "头排镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/头排镇"
+    },
+    {
+      "code": "451324200",
+      "name": "三角乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/三角乡"
+    },
+    {
+      "code": "451324201",
+      "name": "忠良乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/忠良乡"
+    },
+    {
+      "code": "451324202",
+      "name": "罗香乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/罗香乡"
+    },
+    {
+      "code": "451324203",
+      "name": "长垌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/长垌乡"
+    },
+    {
+      "code": "451324204",
+      "name": "大樟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/大樟乡"
+    },
+    {
+      "code": "451324205",
+      "name": "六巷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/六巷乡"
+    },
+    {
+      "code": "451324207",
+      "name": "三江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451324",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/金秀瑶族自治县/三江乡"
+    }
+  ]
+}

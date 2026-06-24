@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "211204001",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211204",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/清河区/红旗街道"
+    },
+    {
+      "code": "211204002",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211204",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/清河区/向阳街道"
+    },
+    {
+      "code": "211204101",
+      "name": "张相镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211204",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/清河区/张相镇"
+    },
+    {
+      "code": "211204102",
+      "name": "杨木林子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211204",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/清河区/杨木林子镇"
+    },
+    {
+      "code": "211204203",
+      "name": "聂家满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211204",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/清河区/聂家满族乡"
+    }
+  ]
+}

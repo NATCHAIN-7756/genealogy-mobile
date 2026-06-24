@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "220681001",
+      "name": "建国街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/建国街道"
+    },
+    {
+      "code": "220681002",
+      "name": "新市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/新市街道"
+    },
+    {
+      "code": "220681003",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/兴隆街道"
+    },
+    {
+      "code": "220681004",
+      "name": "大湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/大湖街道"
+    },
+    {
+      "code": "220681005",
+      "name": "森工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/森工街道"
+    },
+    {
+      "code": "220681006",
+      "name": "大栗子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/大栗子街道"
+    },
+    {
+      "code": "220681101",
+      "name": "桦树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/桦树镇"
+    },
+    {
+      "code": "220681102",
+      "name": "六道沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/六道沟镇"
+    },
+    {
+      "code": "220681103",
+      "name": "苇沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/苇沙河镇"
+    },
+    {
+      "code": "220681104",
+      "name": "花山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/花山镇"
+    },
+    {
+      "code": "220681105",
+      "name": "闹枝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/闹枝镇"
+    },
+    {
+      "code": "220681106",
+      "name": "四道沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/四道沟镇"
+    },
+    {
+      "code": "220681200",
+      "name": "蚂蚁河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220681",
+      "year": 0,
+      "name_path": "吉林省/白山市/临江市/蚂蚁河乡"
+    }
+  ]
+}

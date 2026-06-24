@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "430529100",
+      "name": "儒林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/儒林镇"
+    },
+    {
+      "code": "430529101",
+      "name": "茅坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/茅坪镇"
+    },
+    {
+      "code": "430529102",
+      "name": "西岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/西岩镇"
+    },
+    {
+      "code": "430529103",
+      "name": "丹口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/丹口镇"
+    },
+    {
+      "code": "430529104",
+      "name": "五团镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/五团镇"
+    },
+    {
+      "code": "430529106",
+      "name": "长安营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/长安营镇"
+    },
+    {
+      "code": "430529107",
+      "name": "白毛坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/白毛坪镇"
+    },
+    {
+      "code": "430529200",
+      "name": "威溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/威溪乡"
+    },
+    {
+      "code": "430529203",
+      "name": "兰蓉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/兰蓉乡"
+    },
+    {
+      "code": "430529204",
+      "name": "汀坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/汀坪乡"
+    },
+    {
+      "code": "430529205",
+      "name": "蒋坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/蒋坊乡"
+    },
+    {
+      "code": "430529206",
+      "name": "金紫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430529",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/城步苗族自治县/金紫乡"
+    }
+  ]
+}

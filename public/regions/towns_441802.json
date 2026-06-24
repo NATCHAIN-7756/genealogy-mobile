@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "441802001",
+      "name": "凤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/凤城街道"
+    },
+    {
+      "code": "441802002",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/东城街道"
+    },
+    {
+      "code": "441802003",
+      "name": "洲心街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/洲心街道"
+    },
+    {
+      "code": "441802004",
+      "name": "横荷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/横荷街道"
+    },
+    {
+      "code": "441802100",
+      "name": "源潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/源潭镇"
+    },
+    {
+      "code": "441802101",
+      "name": "龙塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/龙塘镇"
+    },
+    {
+      "code": "441802102",
+      "name": "石角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/石角镇"
+    },
+    {
+      "code": "441802103",
+      "name": "飞来峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441802",
+      "year": 0,
+      "name_path": "广东省/清远市/清城区/飞来峡镇"
+    }
+  ]
+}

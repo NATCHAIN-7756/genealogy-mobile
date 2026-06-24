@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "445322100",
+      "name": "都城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/都城镇"
+    },
+    {
+      "code": "445322101",
+      "name": "平台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/平台镇"
+    },
+    {
+      "code": "445322102",
+      "name": "桂圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/桂圩镇"
+    },
+    {
+      "code": "445322104",
+      "name": "通门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/通门镇"
+    },
+    {
+      "code": "445322105",
+      "name": "建城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/建城镇"
+    },
+    {
+      "code": "445322106",
+      "name": "宝珠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/宝珠镇"
+    },
+    {
+      "code": "445322108",
+      "name": "大方镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/大方镇"
+    },
+    {
+      "code": "445322110",
+      "name": "千官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/千官镇"
+    },
+    {
+      "code": "445322111",
+      "name": "大湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/大湾镇"
+    },
+    {
+      "code": "445322112",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/河口镇"
+    },
+    {
+      "code": "445322113",
+      "name": "宋桂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/宋桂镇"
+    },
+    {
+      "code": "445322114",
+      "name": "东坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/东坝镇"
+    },
+    {
+      "code": "445322115",
+      "name": "连滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/连滩镇"
+    },
+    {
+      "code": "445322116",
+      "name": "历洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/历洞镇"
+    },
+    {
+      "code": "445322117",
+      "name": "南江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445322",
+      "year": 0,
+      "name_path": "广东省/云浮市/郁南县/南江口镇"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "530524102",
+      "name": "漭水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/漭水镇"
+    },
+    {
+      "code": "530524103",
+      "name": "柯街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/柯街镇"
+    },
+    {
+      "code": "530524104",
+      "name": "卡斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/卡斯镇"
+    },
+    {
+      "code": "530524105",
+      "name": "勐统镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/勐统镇"
+    },
+    {
+      "code": "530524106",
+      "name": "田园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/田园镇"
+    },
+    {
+      "code": "530524107",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/温泉镇"
+    },
+    {
+      "code": "530524108",
+      "name": "鸡飞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/鸡飞镇"
+    },
+    {
+      "code": "530524109",
+      "name": "大田坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/大田坝镇"
+    },
+    {
+      "code": "530524110",
+      "name": "翁堵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/翁堵镇"
+    },
+    {
+      "code": "530524204",
+      "name": "湾甸傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/湾甸傣族乡"
+    },
+    {
+      "code": "530524205",
+      "name": "更戛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/更戛乡"
+    },
+    {
+      "code": "530524206",
+      "name": "珠街彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/珠街彝族乡"
+    },
+    {
+      "code": "530524207",
+      "name": "耈街彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530524",
+      "year": 0,
+      "name_path": "云南省/保山市/昌宁县/耈街彝族苗族乡"
+    }
+  ]
+}

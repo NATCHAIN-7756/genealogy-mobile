@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "530602",
+      "name": "昭阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/昭阳区"
+    },
+    {
+      "code": "530621",
+      "name": "鲁甸县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/鲁甸县"
+    },
+    {
+      "code": "530622",
+      "name": "巧家县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/巧家县"
+    },
+    {
+      "code": "530623",
+      "name": "盐津县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/盐津县"
+    },
+    {
+      "code": "530624",
+      "name": "大关县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/大关县"
+    },
+    {
+      "code": "530625",
+      "name": "永善县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/永善县"
+    },
+    {
+      "code": "530626",
+      "name": "绥江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/绥江县"
+    },
+    {
+      "code": "530627",
+      "name": "镇雄县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/镇雄县"
+    },
+    {
+      "code": "530628",
+      "name": "彝良县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/彝良县"
+    },
+    {
+      "code": "530629",
+      "name": "威信县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/威信县"
+    },
+    {
+      "code": "530681",
+      "name": "水富市",
+      "level": 3,
+      "type": null,
+      "parent_code": "530600",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市/水富市"
+    }
+  ]
+}

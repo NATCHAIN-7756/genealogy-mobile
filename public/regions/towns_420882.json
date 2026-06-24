@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "420882001",
+      "name": "新市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/新市街道"
+    },
+    {
+      "code": "420882002",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/永兴街道"
+    },
+    {
+      "code": "420882003",
+      "name": "温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/温泉街道"
+    },
+    {
+      "code": "420882102",
+      "name": "曹武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/曹武镇"
+    },
+    {
+      "code": "420882103",
+      "name": "罗店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/罗店镇"
+    },
+    {
+      "code": "420882105",
+      "name": "宋河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/宋河镇"
+    },
+    {
+      "code": "420882106",
+      "name": "坪坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/坪坝镇"
+    },
+    {
+      "code": "420882107",
+      "name": "三阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/三阳镇"
+    },
+    {
+      "code": "420882108",
+      "name": "绿林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/绿林镇"
+    },
+    {
+      "code": "420882109",
+      "name": "杨集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/杨集镇"
+    },
+    {
+      "code": "420882110",
+      "name": "孙桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/孙桥镇"
+    },
+    {
+      "code": "420882111",
+      "name": "石龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/石龙镇"
+    },
+    {
+      "code": "420882112",
+      "name": "永漋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/永漋镇"
+    },
+    {
+      "code": "420882114",
+      "name": "雁门口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/雁门口镇"
+    },
+    {
+      "code": "420882115",
+      "name": "钱场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420882",
+      "year": 0,
+      "name_path": "湖北省/荆门市/京山市/钱场镇"
+    }
+  ]
+}

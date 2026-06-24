@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "320105006",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320105",
+      "year": 0,
+      "name_path": "江苏省/南京市/建邺区/兴隆街道"
+    },
+    {
+      "code": "320105007",
+      "name": "南苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320105",
+      "year": 0,
+      "name_path": "江苏省/南京市/建邺区/南苑街道"
+    },
+    {
+      "code": "320105008",
+      "name": "双闸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320105",
+      "year": 0,
+      "name_path": "江苏省/南京市/建邺区/双闸街道"
+    },
+    {
+      "code": "320105009",
+      "name": "沙洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320105",
+      "year": 0,
+      "name_path": "江苏省/南京市/建邺区/沙洲街道"
+    },
+    {
+      "code": "320105010",
+      "name": "江心洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320105",
+      "year": 0,
+      "name_path": "江苏省/南京市/建邺区/江心洲街道"
+    },
+    {
+      "code": "320105011",
+      "name": "莫愁湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320105",
+      "year": 0,
+      "name_path": "江苏省/南京市/建邺区/莫愁湖街道"
+    }
+  ]
+}

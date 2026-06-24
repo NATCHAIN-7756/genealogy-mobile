@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "421088100",
+      "name": "容城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/容城镇"
+    },
+    {
+      "code": "421088101",
+      "name": "朱河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/朱河镇"
+    },
+    {
+      "code": "421088102",
+      "name": "新沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/新沟镇"
+    },
+    {
+      "code": "421088103",
+      "name": "龚场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/龚场镇"
+    },
+    {
+      "code": "421088104",
+      "name": "周老嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/周老嘴镇"
+    },
+    {
+      "code": "421088105",
+      "name": "黄歇口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/黄歇口镇"
+    },
+    {
+      "code": "421088106",
+      "name": "汪桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/汪桥镇"
+    },
+    {
+      "code": "421088107",
+      "name": "程集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/程集镇"
+    },
+    {
+      "code": "421088108",
+      "name": "分盐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/分盐镇"
+    },
+    {
+      "code": "421088109",
+      "name": "毛市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/毛市镇"
+    },
+    {
+      "code": "421088110",
+      "name": "福田寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/福田寺镇"
+    },
+    {
+      "code": "421088111",
+      "name": "上车湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/上车湾镇"
+    },
+    {
+      "code": "421088112",
+      "name": "汴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/汴河镇"
+    },
+    {
+      "code": "421088113",
+      "name": "尺八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/尺八镇"
+    },
+    {
+      "code": "421088114",
+      "name": "白螺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/白螺镇"
+    },
+    {
+      "code": "421088115",
+      "name": "网市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/网市镇"
+    },
+    {
+      "code": "421088116",
+      "name": "三洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/三洲镇"
+    },
+    {
+      "code": "421088117",
+      "name": "桥市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/桥市镇"
+    },
+    {
+      "code": "421088200",
+      "name": "红城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/红城乡"
+    },
+    {
+      "code": "421088201",
+      "name": "棋盘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/棋盘乡"
+    },
+    {
+      "code": "421088202",
+      "name": "柘木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421088",
+      "year": 0,
+      "name_path": "湖北省/荆州市/监利市/柘木乡"
+    }
+  ]
+}

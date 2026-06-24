@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "532601001",
+      "name": "开化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/开化街道"
+    },
+    {
+      "code": "532601002",
+      "name": "卧龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/卧龙街道"
+    },
+    {
+      "code": "532601003",
+      "name": "新平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/新平街道"
+    },
+    {
+      "code": "532601102",
+      "name": "古木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/古木镇"
+    },
+    {
+      "code": "532601103",
+      "name": "平坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/平坝镇"
+    },
+    {
+      "code": "532601104",
+      "name": "马塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/马塘镇"
+    },
+    {
+      "code": "532601105",
+      "name": "德厚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/德厚镇"
+    },
+    {
+      "code": "532601106",
+      "name": "小街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/小街镇"
+    },
+    {
+      "code": "532601107",
+      "name": "薄竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/薄竹镇"
+    },
+    {
+      "code": "532601108",
+      "name": "追栗街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/追栗街镇"
+    },
+    {
+      "code": "532601200",
+      "name": "东山彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/东山彝族乡"
+    },
+    {
+      "code": "532601201",
+      "name": "柳井彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/柳井彝族乡"
+    },
+    {
+      "code": "532601202",
+      "name": "新街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/新街乡"
+    },
+    {
+      "code": "532601203",
+      "name": "喜古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/喜古乡"
+    },
+    {
+      "code": "532601204",
+      "name": "坝心彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/坝心彝族乡"
+    },
+    {
+      "code": "532601205",
+      "name": "秉烈彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/秉烈彝族乡"
+    },
+    {
+      "code": "532601206",
+      "name": "红甸回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532601",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/文山市/红甸回族乡"
+    }
+  ]
+}

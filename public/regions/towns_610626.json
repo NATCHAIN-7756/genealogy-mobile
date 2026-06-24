@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "610626001",
+      "name": "吴起街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/吴起街道"
+    },
+    {
+      "code": "610626102",
+      "name": "周湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/周湾镇"
+    },
+    {
+      "code": "610626103",
+      "name": "白豹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/白豹镇"
+    },
+    {
+      "code": "610626104",
+      "name": "长官庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/长官庙镇"
+    },
+    {
+      "code": "610626105",
+      "name": "长城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/长城镇"
+    },
+    {
+      "code": "610626108",
+      "name": "铁边城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/铁边城镇"
+    },
+    {
+      "code": "610626109",
+      "name": "吴仓堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/吴仓堡镇"
+    },
+    {
+      "code": "610626110",
+      "name": "庙沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/庙沟镇"
+    },
+    {
+      "code": "610626111",
+      "name": "五谷城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610626",
+      "year": 0,
+      "name_path": "陕西省/延安市/吴起县/五谷城镇"
+    }
+  ]
+}

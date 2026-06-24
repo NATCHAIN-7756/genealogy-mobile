@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "371302",
+      "name": "兰山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/兰山区"
+    },
+    {
+      "code": "371311",
+      "name": "罗庄区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/罗庄区"
+    },
+    {
+      "code": "371312",
+      "name": "河东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/河东区"
+    },
+    {
+      "code": "371321",
+      "name": "沂南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/沂南县"
+    },
+    {
+      "code": "371322",
+      "name": "郯城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/郯城县"
+    },
+    {
+      "code": "371323",
+      "name": "沂水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/沂水县"
+    },
+    {
+      "code": "371324",
+      "name": "兰陵县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/兰陵县"
+    },
+    {
+      "code": "371325",
+      "name": "费县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/费县"
+    },
+    {
+      "code": "371326",
+      "name": "平邑县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/平邑县"
+    },
+    {
+      "code": "371327",
+      "name": "莒南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/莒南县"
+    },
+    {
+      "code": "371328",
+      "name": "蒙阴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/蒙阴县"
+    },
+    {
+      "code": "371329",
+      "name": "临沭县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371300",
+      "year": 0,
+      "name_path": "全国/山东省/临沂市/临沭县"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "632821100",
+      "name": "希里沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632821",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/乌兰县/希里沟镇"
+    },
+    {
+      "code": "632821101",
+      "name": "茶卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632821",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/乌兰县/茶卡镇"
+    },
+    {
+      "code": "632821102",
+      "name": "柯柯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632821",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/乌兰县/柯柯镇"
+    },
+    {
+      "code": "632821103",
+      "name": "铜普镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632821",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/乌兰县/铜普镇"
+    }
+  ]
+}

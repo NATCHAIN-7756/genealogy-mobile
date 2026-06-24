@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "211303004",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/新华街道"
+    },
+    {
+      "code": "211303006",
+      "name": "海龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/海龙街道"
+    },
+    {
+      "code": "211303007",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/龙泉街道"
+    },
+    {
+      "code": "211303101",
+      "name": "七道泉子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/七道泉子镇"
+    },
+    {
+      "code": "211303102",
+      "name": "西大营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/西大营子镇"
+    },
+    {
+      "code": "211303103",
+      "name": "召都巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/召都巴镇"
+    },
+    {
+      "code": "211303104",
+      "name": "大平房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/大平房镇"
+    },
+    {
+      "code": "211303105",
+      "name": "联合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/联合镇"
+    },
+    {
+      "code": "211303106",
+      "name": "边杖子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211303",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/龙城区/边杖子镇"
+    }
+  ]
+}

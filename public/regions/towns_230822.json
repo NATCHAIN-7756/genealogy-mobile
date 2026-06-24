@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "230822103",
+      "name": "驼腰子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/驼腰子镇"
+    },
+    {
+      "code": "230822104",
+      "name": "石头河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/石头河子镇"
+    },
+    {
+      "code": "230822106",
+      "name": "桦南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/桦南镇"
+    },
+    {
+      "code": "230822107",
+      "name": "土龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/土龙山镇"
+    },
+    {
+      "code": "230822108",
+      "name": "孟家岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/孟家岗镇"
+    },
+    {
+      "code": "230822109",
+      "name": "闫家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/闫家镇"
+    },
+    {
+      "code": "230822110",
+      "name": "柳毛河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/柳毛河镇"
+    },
+    {
+      "code": "230822205",
+      "name": "金沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/金沙乡"
+    },
+    {
+      "code": "230822213",
+      "name": "梨树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/梨树乡"
+    },
+    {
+      "code": "230822214",
+      "name": "明义乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/明义乡"
+    },
+    {
+      "code": "230822215",
+      "name": "大八浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/大八浪乡"
+    },
+    {
+      "code": "230822216",
+      "name": "五道岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230822",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦南县/五道岗乡"
+    }
+  ]
+}

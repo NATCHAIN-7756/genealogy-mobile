@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "340103003",
+      "name": "逍遥津街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/逍遥津街道"
+    },
+    {
+      "code": "340103009",
+      "name": "亳州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/亳州路街道"
+    },
+    {
+      "code": "340103010",
+      "name": "双岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/双岗街道"
+    },
+    {
+      "code": "340103011",
+      "name": "杏花村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/杏花村街道"
+    },
+    {
+      "code": "340103012",
+      "name": "海棠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/海棠街道"
+    },
+    {
+      "code": "340103013",
+      "name": "杏林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/杏林街道"
+    },
+    {
+      "code": "340103014",
+      "name": "三孝口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/三孝口街道"
+    },
+    {
+      "code": "340103015",
+      "name": "四里河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/四里河街道"
+    },
+    {
+      "code": "340103016",
+      "name": "林店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/林店街道"
+    },
+    {
+      "code": "340103101",
+      "name": "大杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/大杨镇"
+    },
+    {
+      "code": "340103200",
+      "name": "三十岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340103",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐阳区/三十岗乡"
+    }
+  ]
+}

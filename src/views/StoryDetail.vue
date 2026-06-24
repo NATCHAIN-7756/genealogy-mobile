@@ -1,74 +1,65 @@
 <template>
   <div class="story-detail">
-    <van-nav-bar :title="story.title" left-arrow @click-left="back">
+    <van-nav-bar :title="story.title || '故事详情'" left-arrow @click-left="back">
       <template #right>
         <van-icon name="share-o" size="20" @click="shareStory" />
       </template>
     </van-nav-bar>
     
-    <!-- 文章头部 -->
-    <div class="story-header">
-      <van-tag :type="getCategoryType(story.category)" size="medium">
-        {{ getCategoryLabel(story.category) }}
-      </van-tag>
-      <h1 class="story-title">{{ story.title }}</h1>
-      <div class="story-meta">
-        <span>
-          <van-icon name="user-o" size="14" />
-          {{ story.author }}
-        </span>
-        <span>{{ story.date }}</span>
-      </div>
-    </div>
+    <van-loading v-if="loading" class="loading-center" />
     
-    <!-- 文章内容 -->
-    <div class="story-content">
-      <div class="content-text" v-html="story.content"></div>
+    <template v-else>
+      <!-- 文章头部 -->
+      <div class="story-header">
+        <van-tag :type="getCategoryType(story.category)" size="medium">
+          {{ getCategoryLabel(story.category) }}
+        </van-tag>
+        <h1 class="story-title">{{ story.title }}</h1>
+        <div class="story-meta">
+          <span>
+            <van-icon name="user-o" size="14" />
+            {{ story.author_name || '匿名' }}
+          </span>
+          <span>{{ story.created_at?.slice(0, 10) }}</span>
+        </div>
+      </div>
       
-      <!-- 配图 -->
-      <div v-if="story.photos && story.photos.length > 0" class="story-photos">
-        <van-image 
-          v-for="(photo, index) in story.photos" 
-          :key="index"
-          :src="photo"
-          fit="cover"
-          width="100%"
-          style="margin-bottom: 12px; border-radius: 8px;"
-          @click="previewPhoto(index)"
-        />
+      <!-- 文章内容 -->
+      <div class="story-content">
+        <div class="content-text" v-html="story.content"></div>
+        
+        <!-- 配图 -->
+        <div v-if="story.photos && story.photos.length > 0" class="story-photos">
+          <van-image 
+            v-for="(photo, index) in story.photos" 
+            :key="index"
+            :src="photo"
+            fit="cover"
+            width="100%"
+            style="margin-bottom: 12px; border-radius: 8px;"
+            @click="previewPhoto(index)"
+          />
+        </div>
       </div>
-    </div>
+      
+      <!-- 互动区域 -->
+      <div class="interaction-bar">
+        <van-button plain size="small" @click="likeStory">
+          <van-icon :name="isLiked ? 'like' : 'like-o'" :color="isLiked ? '#f44' : ''" />
+          {{ story.likes || 0 }}
+        </van-button>
+        <van-button plain size="small" @click="showComments = true">
+          <van-icon name="comment-o" />
+          {{ comments.length }}
+        </van-button>
+        <van-button plain size="small" @click="collectStory">
+          <van-icon :name="isCollected ? 'star' : 'star-o'" :color="isCollected ? '#ff9800' : ''" />
+          收藏
+        </van-button>
+      </div>
+    </template>
     
-    <!-- 关联人物 -->
-    <van-cell-group v-if="story.members && story.members.length > 0" inset style="margin: 12px" title="关联人物">
-      <van-cell 
-        v-for="member in story.members" 
-        :key="member.id"
-        :title="member.name"
-        is-link
-        @click="goMember(member)"
-      >
-        <template #label>
-          <span>{{ member.relation }}</span>
-        </template>
-      </van-cell>
-    </van-cell-group>
-    
-    <!-- 互动区域 -->
-    <div class="interaction-bar">
-      <van-button plain size="small" @click="likeStory">
-        <van-icon :name="isLiked ? 'like' : 'like-o'" :color="isLiked ? '#f44' : ''" />
-        {{ story.likes || 0 }}
-      </van-button>
-      <van-button plain size="small" @click="showComments = true">
-        <van-icon name="comment-o" />
-        {{ story.comments || 0 }}
-      </van-button>
-      <van-button plain size="small" @click="collectStory">
-        <van-icon :name="isCollected ? 'star' : 'star-o'" :color="isCollected ? '#ff9800' : ''" />
-        收藏
-      </van-button>
-    </div>
+    <van-empty v-if="!loading && !story.id" description="故事不存在" />
     
     <!-- 评论弹窗 -->
     <van-popup v-model:show="showComments" position="bottom" round style="height: 60%">
@@ -76,9 +67,9 @@
         <van-cell title="评论区" />
         <div v-if="comments.length > 0" class="comments-list">
           <div v-for="comment in comments" :key="comment.id" class="comment-item">
-            <div class="comment-author">{{ comment.author }}</div>
+            <div class="comment-author">{{ comment.author_name }}</div>
             <div class="comment-content">{{ comment.content }}</div>
-            <div class="comment-time">{{ comment.time }}</div>
+            <div class="comment-time">{{ comment.created_at?.slice(0, 10) }}</div>
           </div>
         </div>
         <van-empty v-else description="暂无评论" />
@@ -97,12 +88,7 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -110,40 +96,23 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast, showImagePreview } from 'vant'
+import { storyApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
 const storyId = route.params.storyId
+const familyId = route.params.id
 
+const loading = ref(true)
 const activeTabbar = ref(1)
 const showComments = ref(false)
 const isLiked = ref(false)
 const isCollected = ref(false)
 const newComment = ref('')
 
-const story = ref({
-  id: 1,
-  title: '张三公迁居济南记',
-  category: 'origin',
-  author: '族委会',
-  date: '2026-01-15',
-  content: `<p>明洪武二年（1369年），始迁祖张三公响应朝廷号召，携家眷由山西洪洞县大槐树迁至济南，开启了我族在山东的繁衍历史。</p>
-<p>据族谱记载，张三公原籍山西平阳府洪洞县，家有良田百亩，生活殷实。当时朝廷下令移民实京师，张三公虽不舍故土，但念及君命难违，遂携妻子老小，踏上了东迁之路。</p>
-<p>一路上风餐露宿，历经艰辛。三公常告诫子孙："吾辈虽离故土，然张氏家风不可忘。勤俭持家，诗书传世，方为立身之本。"</p>
-<p>至济南后，三公择地而居，勤恳耕作，渐成家业。其子孙繁衍，枝繁叶茂，至今已传二十五代，族人遍布全国各地。</p>`,
-  photos: [],
-  members: [
-    { id: 1, name: '张三公', relation: '始迁祖' }
-  ],
-  views: 520,
-  likes: 86,
-  comments: 12
-})
-
-const comments = ref([
-  { id: 1, author: '张明', content: '原来我们家族有这么悠久的历史！', time: '2026-01-16' },
-  { id: 2, author: '李四', content: '感谢族委会整理这些珍贵史料', time: '2026-01-17' }
-])
+const story = ref({})
+const comments = ref([])
 
 function back() {
   router.back()
@@ -159,52 +128,77 @@ function getCategoryType(cat) {
   return map[cat] || 'default'
 }
 
-function goMember(member) {
-  router.push(`/family/${route.params.id}/member/${member.id}/card`)
-}
-
 function shareStory() {
   showToast('分享功能开发中')
 }
 
-function likeStory() {
-  isLiked.value = !isLiked.value
-  if (isLiked.value) {
-    story.value.likes++
-    showToast('已点赞')
-  } else {
-    story.value.likes--
+async function likeStory() {
+  try {
+    await storyApi.like(storyId)
+    isLiked.value = !isLiked.value
+    if (isLiked.value) {
+      story.value.likes = (story.value.likes || 0) + 1
+      showToast('已点赞')
+    } else {
+      story.value.likes = (story.value.likes || 1) - 1
+    }
+  } catch (e) {
+    showToast('操作失败')
   }
 }
 
-function collectStory() {
-  isCollected.value = !isCollected.value
-  showToast(isCollected.value ? '已收藏' : '已取消收藏')
+async function collectStory() {
+  try {
+    await storyApi.collect(storyId)
+    isCollected.value = !isCollected.value
+    showToast(isCollected.value ? '已收藏' : '已取消收藏')
+  } catch (e) {
+    showToast('操作失败')
+  }
 }
 
 function previewPhoto(index) {
-  showImagePreview({ images: story.value.photos, startPosition: index })
+  showImagePreview({ images: story.value.photos || [], startPosition: index })
 }
 
-function submitComment() {
+async function submitComment() {
   if (!newComment.value.trim()) {
     showToast('请输入评论内容')
     return
   }
-  comments.value.unshift({
-    id: Date.now(),
-    author: '我',
-    content: newComment.value,
-    time: '刚刚'
-  })
-  story.value.comments++
-  newComment.value = ''
-  showToast('评论成功')
+  try {
+    const res = await storyApi.addComment(storyId, { content: newComment.value })
+    comments.value.unshift(res.data)
+    newComment.value = ''
+    showToast('评论成功')
+  } catch (e) {
+    showToast('评论失败')
+  }
 }
 
-onMounted(() => {
-  // TODO: 加载故事详情
-})
+async function loadStory() {
+  loading.value = true
+  try {
+    const res = await storyApi.get(storyId)
+    story.value = res.data
+    
+    // 加载评论
+    const commentsRes = await storyApi.getComments(storyId)
+    comments.value = commentsRes.data || []
+    
+    // 检查是否已点赞/收藏
+    const statusRes = await storyApi.getStatus(storyId)
+    isLiked.value = statusRes.data?.liked || false
+    isCollected.value = statusRes.data?.collected || false
+  } catch (e) {
+    console.error('加载故事失败:', e)
+    showToast('加载失败')
+  } finally {
+    loading.value = false
+  }
+}
+
+onMounted(() => loadStory())
 </script>
 
 <style scoped>
@@ -212,6 +206,12 @@ onMounted(() => {
   padding-bottom: 50px;
   background: #f5f5f5;
   min-height: 100vh;
+}
+
+.loading-center {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
 }
 
 .story-header {

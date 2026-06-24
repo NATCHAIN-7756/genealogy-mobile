@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "220882001",
+      "name": "慧阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/慧阳街道"
+    },
+    {
+      "code": "220882002",
+      "name": "临江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/临江街道"
+    },
+    {
+      "code": "220882003",
+      "name": "长虹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/长虹街道"
+    },
+    {
+      "code": "220882004",
+      "name": "锦华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/锦华街道"
+    },
+    {
+      "code": "220882005",
+      "name": "安北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/安北街道"
+    },
+    {
+      "code": "220882100",
+      "name": "月亮泡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/月亮泡镇"
+    },
+    {
+      "code": "220882101",
+      "name": "安广镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/安广镇"
+    },
+    {
+      "code": "220882102",
+      "name": "丰收镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/丰收镇"
+    },
+    {
+      "code": "220882103",
+      "name": "新平安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/新平安镇"
+    },
+    {
+      "code": "220882104",
+      "name": "两家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/两家子镇"
+    },
+    {
+      "code": "220882105",
+      "name": "舍力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/舍力镇"
+    },
+    {
+      "code": "220882106",
+      "name": "大岗子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/大岗子镇"
+    },
+    {
+      "code": "220882107",
+      "name": "叉干镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/叉干镇"
+    },
+    {
+      "code": "220882108",
+      "name": "龙沼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/龙沼镇"
+    },
+    {
+      "code": "220882109",
+      "name": "太山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/太山镇"
+    },
+    {
+      "code": "220882200",
+      "name": "四棵树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/四棵树乡"
+    },
+    {
+      "code": "220882201",
+      "name": "联合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/联合乡"
+    },
+    {
+      "code": "220882203",
+      "name": "乐胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/乐胜乡"
+    },
+    {
+      "code": "220882204",
+      "name": "大赉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/大赉乡"
+    },
+    {
+      "code": "220882205",
+      "name": "红岗子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/红岗子乡"
+    },
+    {
+      "code": "220882208",
+      "name": "烧锅镇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/烧锅镇乡"
+    },
+    {
+      "code": "220882210",
+      "name": "海坨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/海坨乡"
+    },
+    {
+      "code": "220882211",
+      "name": "新艾里蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220882",
+      "year": 0,
+      "name_path": "吉林省/白城市/大安市/新艾里蒙古族乡"
+    }
+  ]
+}

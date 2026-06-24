@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540621100",
+      "name": "阿扎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/阿扎镇"
+    },
+    {
+      "code": "540621101",
+      "name": "嘉黎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/嘉黎镇"
+    },
+    {
+      "code": "540621201",
+      "name": "尼屋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/尼屋乡"
+    },
+    {
+      "code": "540621202",
+      "name": "藏比乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/藏比乡"
+    },
+    {
+      "code": "540621203",
+      "name": "措多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/措多乡"
+    },
+    {
+      "code": "540621204",
+      "name": "夏玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/夏玛乡"
+    },
+    {
+      "code": "540621206",
+      "name": "林堤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/林堤乡"
+    },
+    {
+      "code": "540621207",
+      "name": "麦地卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/麦地卡乡"
+    },
+    {
+      "code": "540621209",
+      "name": "绒多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/绒多乡"
+    },
+    {
+      "code": "540621210",
+      "name": "鸽群乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540621",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/嘉黎县/鸽群乡"
+    }
+  ]
+}

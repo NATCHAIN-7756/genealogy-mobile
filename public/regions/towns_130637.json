@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "130637100",
+      "name": "博野镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/博野镇"
+    },
+    {
+      "code": "130637101",
+      "name": "小店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/小店镇"
+    },
+    {
+      "code": "130637102",
+      "name": "程委镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/程委镇"
+    },
+    {
+      "code": "130637103",
+      "name": "东墟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/东墟镇"
+    },
+    {
+      "code": "130637104",
+      "name": "北杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/北杨镇"
+    },
+    {
+      "code": "130637105",
+      "name": "城东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/城东镇"
+    },
+    {
+      "code": "130637106",
+      "name": "南小王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130637",
+      "year": 0,
+      "name_path": "河北省/保定市/博野县/南小王镇"
+    }
+  ]
+}

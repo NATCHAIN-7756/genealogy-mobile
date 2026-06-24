@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "231202001",
+      "name": "紫来街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/紫来街道"
+    },
+    {
+      "code": "231202002",
+      "name": "爱路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/爱路街道"
+    },
+    {
+      "code": "231202003",
+      "name": "大有街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/大有街道"
+    },
+    {
+      "code": "231202004",
+      "name": "吉泰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/吉泰街道"
+    },
+    {
+      "code": "231202005",
+      "name": "东兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/东兴街道"
+    },
+    {
+      "code": "231202006",
+      "name": "北林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/北林街道"
+    },
+    {
+      "code": "231202007",
+      "name": "先锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/先锋街道"
+    },
+    {
+      "code": "231202008",
+      "name": "春雷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/春雷街道"
+    },
+    {
+      "code": "231202009",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/东城街道"
+    },
+    {
+      "code": "231202010",
+      "name": "康庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/康庄街道"
+    },
+    {
+      "code": "231202011",
+      "name": "朝旭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/朝旭街道"
+    },
+    {
+      "code": "231202012",
+      "name": "北辰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/北辰街道"
+    },
+    {
+      "code": "231202101",
+      "name": "宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/宝山镇"
+    },
+    {
+      "code": "231202102",
+      "name": "绥胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/绥胜镇"
+    },
+    {
+      "code": "231202103",
+      "name": "西长发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/西长发镇"
+    },
+    {
+      "code": "231202104",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/永安镇"
+    },
+    {
+      "code": "231202105",
+      "name": "太平川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/太平川镇"
+    },
+    {
+      "code": "231202106",
+      "name": "秦家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/秦家镇"
+    },
+    {
+      "code": "231202107",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/双河镇"
+    },
+    {
+      "code": "231202108",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/三河镇"
+    },
+    {
+      "code": "231202109",
+      "name": "四方台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/四方台镇"
+    },
+    {
+      "code": "231202110",
+      "name": "津河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/津河镇"
+    },
+    {
+      "code": "231202111",
+      "name": "张维镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/张维镇"
+    },
+    {
+      "code": "231202113",
+      "name": "东津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/东津镇"
+    },
+    {
+      "code": "231202114",
+      "name": "东富镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/东富镇"
+    },
+    {
+      "code": "231202115",
+      "name": "兴福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/兴福镇"
+    },
+    {
+      "code": "231202116",
+      "name": "三井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/三井镇"
+    },
+    {
+      "code": "231202201",
+      "name": "红旗满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/红旗满族乡"
+    },
+    {
+      "code": "231202202",
+      "name": "连岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/连岗乡"
+    },
+    {
+      "code": "231202203",
+      "name": "新华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/新华乡"
+    },
+    {
+      "code": "231202212",
+      "name": "五营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/五营乡"
+    },
+    {
+      "code": "231202213",
+      "name": "兴和朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231202",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/北林区/兴和朝鲜族乡"
+    }
+  ]
+}

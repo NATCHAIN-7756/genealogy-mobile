@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "370502",
+      "name": "东营区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370500",
+      "year": 0,
+      "name_path": "全国/山东省/东营市/东营区"
+    },
+    {
+      "code": "370503",
+      "name": "河口区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370500",
+      "year": 0,
+      "name_path": "全国/山东省/东营市/河口区"
+    },
+    {
+      "code": "370505",
+      "name": "垦利区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370500",
+      "year": 0,
+      "name_path": "全国/山东省/东营市/垦利区"
+    },
+    {
+      "code": "370522",
+      "name": "利津县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370500",
+      "year": 0,
+      "name_path": "全国/山东省/东营市/利津县"
+    },
+    {
+      "code": "370523",
+      "name": "广饶县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370500",
+      "year": 0,
+      "name_path": "全国/山东省/东营市/广饶县"
+    }
+  ]
+}

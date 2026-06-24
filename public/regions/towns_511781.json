@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "code": "511781001",
+      "name": "古东关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/古东关街道"
+    },
+    {
+      "code": "511781100",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/太平镇"
+    },
+    {
+      "code": "511781101",
+      "name": "青花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/青花镇"
+    },
+    {
+      "code": "511781102",
+      "name": "旧院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/旧院镇"
+    },
+    {
+      "code": "511781103",
+      "name": "罗文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/罗文镇"
+    },
+    {
+      "code": "511781104",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/河口镇"
+    },
+    {
+      "code": "511781105",
+      "name": "草坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/草坝镇"
+    },
+    {
+      "code": "511781106",
+      "name": "竹峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/竹峪镇"
+    },
+    {
+      "code": "511781107",
+      "name": "大竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/大竹镇"
+    },
+    {
+      "code": "511781108",
+      "name": "官渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/官渡镇"
+    },
+    {
+      "code": "511781109",
+      "name": "黄钟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/黄钟镇"
+    },
+    {
+      "code": "511781110",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/白沙镇"
+    },
+    {
+      "code": "511781111",
+      "name": "沙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/沙滩镇"
+    },
+    {
+      "code": "511781112",
+      "name": "石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/石塘镇"
+    },
+    {
+      "code": "511781113",
+      "name": "八台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/八台镇"
+    },
+    {
+      "code": "511781114",
+      "name": "石窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/石窝镇"
+    },
+    {
+      "code": "511781115",
+      "name": "铁矿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/铁矿镇"
+    },
+    {
+      "code": "511781116",
+      "name": "大沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/大沙镇"
+    },
+    {
+      "code": "511781117",
+      "name": "魏家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/魏家镇"
+    },
+    {
+      "code": "511781118",
+      "name": "白果镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/白果镇"
+    },
+    {
+      "code": "511781119",
+      "name": "井溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/井溪镇"
+    },
+    {
+      "code": "511781121",
+      "name": "长坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/长坝镇"
+    },
+    {
+      "code": "511781122",
+      "name": "鹰背镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/鹰背镇"
+    },
+    {
+      "code": "511781123",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/永宁镇"
+    },
+    {
+      "code": "511781124",
+      "name": "固军镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/固军镇"
+    },
+    {
+      "code": "511781125",
+      "name": "黑宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/黑宝山镇"
+    },
+    {
+      "code": "511781208",
+      "name": "蜂桶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/蜂桶乡"
+    },
+    {
+      "code": "511781212",
+      "name": "曾家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/曾家乡"
+    },
+    {
+      "code": "511781218",
+      "name": "玉带乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/玉带乡"
+    },
+    {
+      "code": "511781227",
+      "name": "紫溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/紫溪乡"
+    },
+    {
+      "code": "511781229",
+      "name": "庙子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511781",
+      "year": 0,
+      "name_path": "四川省/达州市/万源市/庙子乡"
+    }
+  ]
+}

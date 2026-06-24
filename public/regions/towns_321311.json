@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "321311001",
+      "name": "顺河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/顺河街道"
+    },
+    {
+      "code": "321311002",
+      "name": "豫新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/豫新街道"
+    },
+    {
+      "code": "321311003",
+      "name": "下相街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/下相街道"
+    },
+    {
+      "code": "321311004",
+      "name": "陆集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/陆集街道"
+    },
+    {
+      "code": "321311005",
+      "name": "晓店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/晓店街道"
+    },
+    {
+      "code": "321311006",
+      "name": "井头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/井头街道"
+    },
+    {
+      "code": "321311103",
+      "name": "王官集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/王官集镇"
+    },
+    {
+      "code": "321311105",
+      "name": "仰化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/仰化镇"
+    },
+    {
+      "code": "321311111",
+      "name": "关庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/关庙镇"
+    },
+    {
+      "code": "321311113",
+      "name": "新庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/新庄镇"
+    },
+    {
+      "code": "321311116",
+      "name": "来龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/来龙镇"
+    },
+    {
+      "code": "321311117",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/大兴镇"
+    },
+    {
+      "code": "321311118",
+      "name": "皂河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/皂河镇"
+    },
+    {
+      "code": "321311201",
+      "name": "曹集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321311",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿豫区/曹集乡"
+    }
+  ]
+}

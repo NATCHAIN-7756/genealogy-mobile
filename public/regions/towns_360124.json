@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "360124001",
+      "name": "民和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/民和街道"
+    },
+    {
+      "code": "360124002",
+      "name": "云桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/云桥街道"
+    },
+    {
+      "code": "360124101",
+      "name": "温圳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/温圳镇"
+    },
+    {
+      "code": "360124102",
+      "name": "李渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/李渡镇"
+    },
+    {
+      "code": "360124104",
+      "name": "张公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/张公镇"
+    },
+    {
+      "code": "360124105",
+      "name": "梅庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/梅庄镇"
+    },
+    {
+      "code": "360124106",
+      "name": "架桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/架桥镇"
+    },
+    {
+      "code": "360124107",
+      "name": "罗溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/罗溪镇"
+    },
+    {
+      "code": "360124109",
+      "name": "前坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/前坊镇"
+    },
+    {
+      "code": "360124111",
+      "name": "文港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/文港镇"
+    },
+    {
+      "code": "360124112",
+      "name": "钟陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/钟陵镇"
+    },
+    {
+      "code": "360124113",
+      "name": "池溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/池溪镇"
+    },
+    {
+      "code": "360124114",
+      "name": "下埠集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/下埠集镇"
+    },
+    {
+      "code": "360124201",
+      "name": "白圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/白圩乡"
+    },
+    {
+      "code": "360124205",
+      "name": "泉岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/泉岭乡"
+    },
+    {
+      "code": "360124210",
+      "name": "三里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/三里乡"
+    },
+    {
+      "code": "360124211",
+      "name": "七里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/七里乡"
+    },
+    {
+      "code": "360124213",
+      "name": "三阳集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360124",
+      "year": 0,
+      "name_path": "江西省/南昌市/进贤县/三阳集乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "530111001",
+      "name": "吴井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/吴井街道"
+    },
+    {
+      "code": "530111002",
+      "name": "关上街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/关上街道"
+    },
+    {
+      "code": "530111003",
+      "name": "金马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/金马街道"
+    },
+    {
+      "code": "530111004",
+      "name": "太和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/太和街道"
+    },
+    {
+      "code": "530111005",
+      "name": "官渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/官渡街道"
+    },
+    {
+      "code": "530111006",
+      "name": "小板桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/小板桥街道"
+    },
+    {
+      "code": "530111007",
+      "name": "大板桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/大板桥街道"
+    },
+    {
+      "code": "530111008",
+      "name": "矣六街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/矣六街道"
+    },
+    {
+      "code": "530111009",
+      "name": "六甲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/六甲街道"
+    },
+    {
+      "code": "530111010",
+      "name": "阿拉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/阿拉街道"
+    },
+    {
+      "code": "530111011",
+      "name": "长水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/长水街道"
+    },
+    {
+      "code": "530111012",
+      "name": "小哨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530111",
+      "year": 0,
+      "name_path": "云南省/昆明市/官渡区/小哨街道"
+    }
+  ]
+}

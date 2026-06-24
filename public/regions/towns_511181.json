@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511181001",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/胜利街道"
+    },
+    {
+      "code": "511181002",
+      "name": "峨山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/峨山街道"
+    },
+    {
+      "code": "511181100",
+      "name": "绥山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/绥山镇"
+    },
+    {
+      "code": "511181101",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/高桥镇"
+    },
+    {
+      "code": "511181102",
+      "name": "罗目镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/罗目镇"
+    },
+    {
+      "code": "511181103",
+      "name": "九里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/九里镇"
+    },
+    {
+      "code": "511181104",
+      "name": "龙池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/龙池镇"
+    },
+    {
+      "code": "511181106",
+      "name": "符溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/符溪镇"
+    },
+    {
+      "code": "511181108",
+      "name": "双福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/双福镇"
+    },
+    {
+      "code": "511181109",
+      "name": "桂花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/桂花桥镇"
+    },
+    {
+      "code": "511181110",
+      "name": "大为镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/大为镇"
+    },
+    {
+      "code": "511181112",
+      "name": "黄湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/黄湾镇"
+    },
+    {
+      "code": "511181200",
+      "name": "龙门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511181",
+      "year": 0,
+      "name_path": "四川省/乐山市/峨眉山市/龙门乡"
+    }
+  ]
+}

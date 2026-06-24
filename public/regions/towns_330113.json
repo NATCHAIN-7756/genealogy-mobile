@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "330113001",
+      "name": "临平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/临平街道"
+    },
+    {
+      "code": "330113002",
+      "name": "南苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/南苑街道"
+    },
+    {
+      "code": "330113003",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/东湖街道"
+    },
+    {
+      "code": "330113004",
+      "name": "星桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/星桥街道"
+    },
+    {
+      "code": "330113005",
+      "name": "乔司街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/乔司街道"
+    },
+    {
+      "code": "330113006",
+      "name": "运河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/运河街道"
+    },
+    {
+      "code": "330113007",
+      "name": "崇贤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/崇贤街道"
+    },
+    {
+      "code": "330113100",
+      "name": "塘栖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330113",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临平区/塘栖镇"
+    }
+  ]
+}

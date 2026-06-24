@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "310117001",
+      "name": "岳阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/岳阳街道"
+    },
+    {
+      "code": "310117002",
+      "name": "永丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/永丰街道"
+    },
+    {
+      "code": "310117003",
+      "name": "方松街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/方松街道"
+    },
+    {
+      "code": "310117004",
+      "name": "中山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/中山街道"
+    },
+    {
+      "code": "310117005",
+      "name": "广富林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/广富林街道"
+    },
+    {
+      "code": "310117006",
+      "name": "九里亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/九里亭街道"
+    },
+    {
+      "code": "310117102",
+      "name": "泗泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/泗泾镇"
+    },
+    {
+      "code": "310117103",
+      "name": "佘山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/佘山镇"
+    },
+    {
+      "code": "310117104",
+      "name": "车墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/车墩镇"
+    },
+    {
+      "code": "310117105",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/新桥镇"
+    },
+    {
+      "code": "310117106",
+      "name": "洞泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/洞泾镇"
+    },
+    {
+      "code": "310117107",
+      "name": "九亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/九亭镇"
+    },
+    {
+      "code": "310117109",
+      "name": "泖港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/泖港镇"
+    },
+    {
+      "code": "310117116",
+      "name": "石湖荡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/石湖荡镇"
+    },
+    {
+      "code": "310117117",
+      "name": "新浜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/新浜镇"
+    },
+    {
+      "code": "310117120",
+      "name": "叶榭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/叶榭镇"
+    },
+    {
+      "code": "310117121",
+      "name": "小昆山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310117",
+      "year": 0,
+      "name_path": "上海市/松江区/小昆山镇"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "330603001",
+      "name": "柯桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/柯桥街道"
+    },
+    {
+      "code": "330603002",
+      "name": "柯岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/柯岩街道"
+    },
+    {
+      "code": "330603003",
+      "name": "华舍街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/华舍街道"
+    },
+    {
+      "code": "330603004",
+      "name": "湖塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/湖塘街道"
+    },
+    {
+      "code": "330603005",
+      "name": "齐贤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/齐贤街道"
+    },
+    {
+      "code": "330603006",
+      "name": "安昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/安昌街道"
+    },
+    {
+      "code": "330603007",
+      "name": "兰亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/兰亭街道"
+    },
+    {
+      "code": "330603008",
+      "name": "福全街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/福全街道"
+    },
+    {
+      "code": "330603009",
+      "name": "钱清街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/钱清街道"
+    },
+    {
+      "code": "330603010",
+      "name": "马鞍街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/马鞍街道"
+    },
+    {
+      "code": "330603011",
+      "name": "杨汛桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/杨汛桥街道"
+    },
+    {
+      "code": "330603104",
+      "name": "平水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/平水镇"
+    },
+    {
+      "code": "330603106",
+      "name": "王坛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/王坛镇"
+    },
+    {
+      "code": "330603108",
+      "name": "稽东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/稽东镇"
+    },
+    {
+      "code": "330603110",
+      "name": "漓渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/漓渚镇"
+    },
+    {
+      "code": "330603111",
+      "name": "夏履镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330603",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/柯桥区/夏履镇"
+    }
+  ]
+}

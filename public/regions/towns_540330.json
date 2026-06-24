@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540330100",
+      "name": "边坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/边坝镇"
+    },
+    {
+      "code": "540330101",
+      "name": "草卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/草卡镇"
+    },
+    {
+      "code": "540330201",
+      "name": "沙丁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/沙丁乡"
+    },
+    {
+      "code": "540330202",
+      "name": "金岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/金岭乡"
+    },
+    {
+      "code": "540330203",
+      "name": "加贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/加贡乡"
+    },
+    {
+      "code": "540330204",
+      "name": "马武乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/马武乡"
+    },
+    {
+      "code": "540330205",
+      "name": "热玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/热玉乡"
+    },
+    {
+      "code": "540330206",
+      "name": "尼木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/尼木乡"
+    },
+    {
+      "code": "540330207",
+      "name": "马秀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/马秀乡"
+    },
+    {
+      "code": "540330208",
+      "name": "拉孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/拉孜乡"
+    },
+    {
+      "code": "540330209",
+      "name": "都瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540330",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/边坝县/都瓦乡"
+    }
+  ]
+}

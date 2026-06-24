@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "411321100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/城关镇"
+    },
+    {
+      "code": "411321101",
+      "name": "留山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/留山镇"
+    },
+    {
+      "code": "411321102",
+      "name": "云阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/云阳镇"
+    },
+    {
+      "code": "411321103",
+      "name": "皇路店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/皇路店镇"
+    },
+    {
+      "code": "411321104",
+      "name": "南河店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/南河店镇"
+    },
+    {
+      "code": "411321105",
+      "name": "板山坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/板山坪镇"
+    },
+    {
+      "code": "411321106",
+      "name": "乔端镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/乔端镇"
+    },
+    {
+      "code": "411321107",
+      "name": "白土岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/白土岗镇"
+    },
+    {
+      "code": "411321108",
+      "name": "五朵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/五朵镇"
+    },
+    {
+      "code": "411321109",
+      "name": "崔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/崔庄镇"
+    },
+    {
+      "code": "411321200",
+      "name": "城郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/城郊乡"
+    },
+    {
+      "code": "411321201",
+      "name": "小店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/小店乡"
+    },
+    {
+      "code": "411321202",
+      "name": "皇后乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/皇后乡"
+    },
+    {
+      "code": "411321203",
+      "name": "太山庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/太山庙乡"
+    },
+    {
+      "code": "411321204",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/石门乡"
+    },
+    {
+      "code": "411321208",
+      "name": "马市坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411321",
+      "year": 0,
+      "name_path": "河南省/南阳市/南召县/马市坪乡"
+    }
+  ]
+}

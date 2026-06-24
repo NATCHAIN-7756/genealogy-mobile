@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "232722100",
+      "name": "塔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/塔河镇"
+    },
+    {
+      "code": "232722101",
+      "name": "瓦拉干镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/瓦拉干镇"
+    },
+    {
+      "code": "232722102",
+      "name": "盘古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/盘古镇"
+    },
+    {
+      "code": "232722103",
+      "name": "古驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/古驿镇"
+    },
+    {
+      "code": "232722104",
+      "name": "开库康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/开库康镇"
+    },
+    {
+      "code": "232722200",
+      "name": "十八站鄂伦春族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/十八站鄂伦春族乡"
+    },
+    {
+      "code": "232722201",
+      "name": "依西肯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232722",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/塔河县/依西肯乡"
+    }
+  ]
+}

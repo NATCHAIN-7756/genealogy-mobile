@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "230421100",
+      "name": "凤翔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/凤翔镇"
+    },
+    {
+      "code": "230421101",
+      "name": "鹤北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/鹤北镇"
+    },
+    {
+      "code": "230421102",
+      "name": "名山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/名山镇"
+    },
+    {
+      "code": "230421103",
+      "name": "团结镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/团结镇"
+    },
+    {
+      "code": "230421104",
+      "name": "肇兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/肇兴镇"
+    },
+    {
+      "code": "230421105",
+      "name": "云山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/云山镇"
+    },
+    {
+      "code": "230421200",
+      "name": "东明朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/东明朝鲜族乡"
+    },
+    {
+      "code": "230421203",
+      "name": "太平沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230421",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/萝北县/太平沟乡"
+    }
+  ]
+}

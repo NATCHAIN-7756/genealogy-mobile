@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "652901001",
+      "name": "兰干街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/兰干街道"
+    },
+    {
+      "code": "652901002",
+      "name": "英巴扎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/英巴扎街道"
+    },
+    {
+      "code": "652901003",
+      "name": "红桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/红桥街道"
+    },
+    {
+      "code": "652901004",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/新城街道"
+    },
+    {
+      "code": "652901005",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/南城街道"
+    },
+    {
+      "code": "652901006",
+      "name": "柯柯牙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/柯柯牙街道"
+    },
+    {
+      "code": "652901007",
+      "name": "多浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/多浪街道"
+    },
+    {
+      "code": "652901100",
+      "name": "喀拉塔勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/喀拉塔勒镇"
+    },
+    {
+      "code": "652901101",
+      "name": "阿依库勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/阿依库勒镇"
+    },
+    {
+      "code": "652901102",
+      "name": "依干其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/依干其镇"
+    },
+    {
+      "code": "652901103",
+      "name": "柳源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/柳源镇"
+    },
+    {
+      "code": "652901201",
+      "name": "拜什吐格曼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/拜什吐格曼乡"
+    },
+    {
+      "code": "652901202",
+      "name": "托普鲁克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/托普鲁克乡"
+    },
+    {
+      "code": "652901203",
+      "name": "库木巴什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652901",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿克苏市/库木巴什乡"
+    }
+  ]
+}

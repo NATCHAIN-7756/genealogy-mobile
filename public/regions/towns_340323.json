@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "340323100",
+      "name": "谷阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/谷阳镇"
+    },
+    {
+      "code": "340323101",
+      "name": "王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/王庄镇"
+    },
+    {
+      "code": "340323103",
+      "name": "新马桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/新马桥镇"
+    },
+    {
+      "code": "340323104",
+      "name": "刘集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/刘集镇"
+    },
+    {
+      "code": "340323105",
+      "name": "湖沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/湖沟镇"
+    },
+    {
+      "code": "340323106",
+      "name": "任桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/任桥镇"
+    },
+    {
+      "code": "340323107",
+      "name": "濠城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/濠城镇"
+    },
+    {
+      "code": "340323108",
+      "name": "连城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/连城镇"
+    },
+    {
+      "code": "340323109",
+      "name": "仲兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/仲兴镇"
+    },
+    {
+      "code": "340323110",
+      "name": "杨庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/杨庙镇"
+    },
+    {
+      "code": "340323201",
+      "name": "石湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340323",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/固镇县/石湖乡"
+    }
+  ]
+}

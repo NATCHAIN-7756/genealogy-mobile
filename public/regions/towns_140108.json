@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "140108001",
+      "name": "尖草坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/尖草坪街道"
+    },
+    {
+      "code": "140108002",
+      "name": "光社街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/光社街道"
+    },
+    {
+      "code": "140108003",
+      "name": "上兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/上兰街道"
+    },
+    {
+      "code": "140108004",
+      "name": "南寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/南寨街道"
+    },
+    {
+      "code": "140108005",
+      "name": "迎新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/迎新街街道"
+    },
+    {
+      "code": "140108006",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/古城街道"
+    },
+    {
+      "code": "140108007",
+      "name": "汇丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/汇丰街道"
+    },
+    {
+      "code": "140108008",
+      "name": "柴村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/柴村街道"
+    },
+    {
+      "code": "140108009",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/新城街道"
+    },
+    {
+      "code": "140108100",
+      "name": "向阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/向阳镇"
+    },
+    {
+      "code": "140108101",
+      "name": "阳曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/阳曲镇"
+    },
+    {
+      "code": "140108201",
+      "name": "柏板乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/柏板乡"
+    },
+    {
+      "code": "140108202",
+      "name": "西墕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140108",
+      "year": 0,
+      "name_path": "山西省/太原市/尖草坪区/西墕乡"
+    }
+  ]
+}

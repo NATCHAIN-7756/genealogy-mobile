@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "520621001",
+      "name": "双江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/双江街道"
+    },
+    {
+      "code": "520621002",
+      "name": "凯德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/凯德街道"
+    },
+    {
+      "code": "520621101",
+      "name": "闵孝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/闵孝镇"
+    },
+    {
+      "code": "520621102",
+      "name": "桃映镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/桃映镇"
+    },
+    {
+      "code": "520621103",
+      "name": "民和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/民和镇"
+    },
+    {
+      "code": "520621104",
+      "name": "怒溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/怒溪镇"
+    },
+    {
+      "code": "520621105",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/太平镇"
+    },
+    {
+      "code": "520621106",
+      "name": "坝盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/坝盘镇"
+    },
+    {
+      "code": "520621200",
+      "name": "德旺土家族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/德旺土家族苗族乡"
+    },
+    {
+      "code": "520621201",
+      "name": "官和侗族土家族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520621",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/江口县/官和侗族土家族苗族乡"
+    }
+  ]
+}

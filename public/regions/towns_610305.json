@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "610305100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/城关镇"
+    },
+    {
+      "code": "610305101",
+      "name": "虢王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/虢王镇"
+    },
+    {
+      "code": "610305102",
+      "name": "彪角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/彪角镇"
+    },
+    {
+      "code": "610305103",
+      "name": "横水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/横水镇"
+    },
+    {
+      "code": "610305104",
+      "name": "田家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/田家庄镇"
+    },
+    {
+      "code": "610305105",
+      "name": "糜杆桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/糜杆桥镇"
+    },
+    {
+      "code": "610305107",
+      "name": "南指挥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/南指挥镇"
+    },
+    {
+      "code": "610305108",
+      "name": "陈村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/陈村镇"
+    },
+    {
+      "code": "610305109",
+      "name": "长青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/长青镇"
+    },
+    {
+      "code": "610305110",
+      "name": "柳林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/柳林镇"
+    },
+    {
+      "code": "610305111",
+      "name": "姚家沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/姚家沟镇"
+    },
+    {
+      "code": "610305112",
+      "name": "范家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610305",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/凤翔区/范家寨镇"
+    }
+  ]
+}

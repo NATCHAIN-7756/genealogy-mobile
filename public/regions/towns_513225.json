@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "513225101",
+      "name": "漳扎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/漳扎镇"
+    },
+    {
+      "code": "513225102",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/双河镇"
+    },
+    {
+      "code": "513225103",
+      "name": "南坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/南坪镇"
+    },
+    {
+      "code": "513225104",
+      "name": "黑河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/黑河镇"
+    },
+    {
+      "code": "513225105",
+      "name": "勿角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/勿角镇"
+    },
+    {
+      "code": "513225201",
+      "name": "永和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/永和乡"
+    },
+    {
+      "code": "513225203",
+      "name": "白河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/白河乡"
+    },
+    {
+      "code": "513225205",
+      "name": "保华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/保华乡"
+    },
+    {
+      "code": "513225209",
+      "name": "郭元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/郭元乡"
+    },
+    {
+      "code": "513225210",
+      "name": "草地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/草地乡"
+    },
+    {
+      "code": "513225213",
+      "name": "玉瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/玉瓦乡"
+    },
+    {
+      "code": "513225214",
+      "name": "大录乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513225",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/九寨沟县/大录乡"
+    }
+  ]
+}

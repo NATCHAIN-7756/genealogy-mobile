@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "650422100",
+      "name": "托克逊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/托克逊镇"
+    },
+    {
+      "code": "650422101",
+      "name": "库米什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/库米什镇"
+    },
+    {
+      "code": "650422102",
+      "name": "克尔碱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/克尔碱镇"
+    },
+    {
+      "code": "650422103",
+      "name": "阿乐惠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/阿乐惠镇"
+    },
+    {
+      "code": "650422104",
+      "name": "伊拉湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/伊拉湖镇"
+    },
+    {
+      "code": "650422105",
+      "name": "夏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/夏镇"
+    },
+    {
+      "code": "650422106",
+      "name": "博斯坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/博斯坦镇"
+    },
+    {
+      "code": "650422107",
+      "name": "石泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/石泉镇"
+    },
+    {
+      "code": "650422201",
+      "name": "郭勒布依乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650422",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/托克逊县/郭勒布依乡"
+    }
+  ]
+}

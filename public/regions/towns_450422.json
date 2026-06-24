@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "450422100",
+      "name": "藤州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/藤州镇"
+    },
+    {
+      "code": "450422103",
+      "name": "塘步镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/塘步镇"
+    },
+    {
+      "code": "450422104",
+      "name": "埌南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/埌南镇"
+    },
+    {
+      "code": "450422105",
+      "name": "同心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/同心镇"
+    },
+    {
+      "code": "450422106",
+      "name": "金鸡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/金鸡镇"
+    },
+    {
+      "code": "450422107",
+      "name": "新庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/新庆镇"
+    },
+    {
+      "code": "450422108",
+      "name": "象棋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/象棋镇"
+    },
+    {
+      "code": "450422109",
+      "name": "岭景镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/岭景镇"
+    },
+    {
+      "code": "450422110",
+      "name": "天平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/天平镇"
+    },
+    {
+      "code": "450422111",
+      "name": "濛江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/濛江镇"
+    },
+    {
+      "code": "450422112",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/和平镇"
+    },
+    {
+      "code": "450422113",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/太平镇"
+    },
+    {
+      "code": "450422114",
+      "name": "古龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/古龙镇"
+    },
+    {
+      "code": "450422115",
+      "name": "东荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/东荣镇"
+    },
+    {
+      "code": "450422116",
+      "name": "大黎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/大黎镇"
+    },
+    {
+      "code": "450422200",
+      "name": "平福乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/平福乡"
+    },
+    {
+      "code": "450422201",
+      "name": "宁康乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450422",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/藤县/宁康乡"
+    }
+  ]
+}

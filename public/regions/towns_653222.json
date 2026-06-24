@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "653222100",
+      "name": "喀拉喀什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/喀拉喀什镇"
+    },
+    {
+      "code": "653222101",
+      "name": "扎瓦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/扎瓦镇"
+    },
+    {
+      "code": "653222102",
+      "name": "奎牙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/奎牙镇"
+    },
+    {
+      "code": "653222103",
+      "name": "喀尔赛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/喀尔赛镇"
+    },
+    {
+      "code": "653222104",
+      "name": "普恰克其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/普恰克其镇"
+    },
+    {
+      "code": "653222203",
+      "name": "阿克萨拉依乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/阿克萨拉依乡"
+    },
+    {
+      "code": "653222204",
+      "name": "乌尔其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/乌尔其乡"
+    },
+    {
+      "code": "653222205",
+      "name": "托胡拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/托胡拉乡"
+    },
+    {
+      "code": "653222206",
+      "name": "萨依巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/萨依巴格乡"
+    },
+    {
+      "code": "653222207",
+      "name": "加汗巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/加汗巴格乡"
+    },
+    {
+      "code": "653222209",
+      "name": "芒来乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/芒来乡"
+    },
+    {
+      "code": "653222210",
+      "name": "阔依其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/阔依其乡"
+    },
+    {
+      "code": "653222211",
+      "name": "雅瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/雅瓦乡"
+    },
+    {
+      "code": "653222212",
+      "name": "吐外特乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/吐外特乡"
+    },
+    {
+      "code": "653222213",
+      "name": "英也尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/英也尔乡"
+    },
+    {
+      "code": "653222214",
+      "name": "喀瓦克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653222",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/墨玉县/喀瓦克乡"
+    }
+  ]
+}

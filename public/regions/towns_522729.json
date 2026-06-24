@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "522729001",
+      "name": "长寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/长寨街道"
+    },
+    {
+      "code": "522729101",
+      "name": "广顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/广顺镇"
+    },
+    {
+      "code": "522729103",
+      "name": "摆所镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/摆所镇"
+    },
+    {
+      "code": "522729104",
+      "name": "代化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/代化镇"
+    },
+    {
+      "code": "522729105",
+      "name": "白云山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/白云山镇"
+    },
+    {
+      "code": "522729106",
+      "name": "鼓扬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/鼓扬镇"
+    },
+    {
+      "code": "522729209",
+      "name": "敦操乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522729",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/长顺县/敦操乡"
+    }
+  ]
+}

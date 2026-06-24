@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "450702001",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/向阳街道"
+    },
+    {
+      "code": "450702002",
+      "name": "水东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/水东街道"
+    },
+    {
+      "code": "450702003",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/文峰街道"
+    },
+    {
+      "code": "450702004",
+      "name": "南珠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/南珠街道"
+    },
+    {
+      "code": "450702005",
+      "name": "尖山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/尖山街道"
+    },
+    {
+      "code": "450702100",
+      "name": "沙埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/沙埠镇"
+    },
+    {
+      "code": "450702101",
+      "name": "康熙岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/康熙岭镇"
+    },
+    {
+      "code": "450702102",
+      "name": "黄屋屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/黄屋屯镇"
+    },
+    {
+      "code": "450702104",
+      "name": "大番坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/大番坡镇"
+    },
+    {
+      "code": "450702105",
+      "name": "龙门港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/龙门港镇"
+    },
+    {
+      "code": "450702106",
+      "name": "犀牛脚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/犀牛脚镇"
+    },
+    {
+      "code": "450702107",
+      "name": "久隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/久隆镇"
+    },
+    {
+      "code": "450702108",
+      "name": "东场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/东场镇"
+    },
+    {
+      "code": "450702109",
+      "name": "那丽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/那丽镇"
+    },
+    {
+      "code": "450702110",
+      "name": "那彭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/那彭镇"
+    },
+    {
+      "code": "450702111",
+      "name": "那思镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450702",
+      "year": 0,
+      "name_path": "广西壮族自治区/钦州市/钦南区/那思镇"
+    }
+  ]
+}

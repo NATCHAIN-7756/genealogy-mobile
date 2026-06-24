@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "350404001",
+      "name": "列东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/列东街道"
+    },
+    {
+      "code": "350404002",
+      "name": "列西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/列西街道"
+    },
+    {
+      "code": "350404003",
+      "name": "徐碧街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/徐碧街道"
+    },
+    {
+      "code": "350404004",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/城关街道"
+    },
+    {
+      "code": "350404005",
+      "name": "白沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/白沙街道"
+    },
+    {
+      "code": "350404006",
+      "name": "富兴堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/富兴堡街道"
+    },
+    {
+      "code": "350404007",
+      "name": "荆西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/荆西街道"
+    },
+    {
+      "code": "350404100",
+      "name": "陈大镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/陈大镇"
+    },
+    {
+      "code": "350404101",
+      "name": "洋溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/洋溪镇"
+    },
+    {
+      "code": "350404102",
+      "name": "莘口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/莘口镇"
+    },
+    {
+      "code": "350404103",
+      "name": "岩前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/岩前镇"
+    },
+    {
+      "code": "350404200",
+      "name": "中村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350404",
+      "year": 0,
+      "name_path": "福建省/三明市/三元区/中村乡"
+    }
+  ]
+}

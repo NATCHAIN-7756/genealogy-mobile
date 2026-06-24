@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "150430100",
+      "name": "新惠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/新惠镇"
+    },
+    {
+      "code": "150430101",
+      "name": "四家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/四家子镇"
+    },
+    {
+      "code": "150430102",
+      "name": "长胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/长胜镇"
+    },
+    {
+      "code": "150430103",
+      "name": "贝子府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/贝子府镇"
+    },
+    {
+      "code": "150430104",
+      "name": "四道湾子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/四道湾子镇"
+    },
+    {
+      "code": "150430105",
+      "name": "下洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/下洼镇"
+    },
+    {
+      "code": "150430106",
+      "name": "金厂沟梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/金厂沟梁镇"
+    },
+    {
+      "code": "150430107",
+      "name": "兴隆洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/兴隆洼镇"
+    },
+    {
+      "code": "150430108",
+      "name": "黄羊洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/黄羊洼镇"
+    },
+    {
+      "code": "150430109",
+      "name": "古鲁板蒿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/古鲁板蒿镇"
+    },
+    {
+      "code": "150430110",
+      "name": "牛古吐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/牛古吐镇"
+    },
+    {
+      "code": "150430202",
+      "name": "木头营子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/木头营子乡"
+    },
+    {
+      "code": "150430204",
+      "name": "丰收乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/丰收乡"
+    },
+    {
+      "code": "150430205",
+      "name": "玛尼罕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/玛尼罕乡"
+    },
+    {
+      "code": "150430206",
+      "name": "萨力巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/萨力巴乡"
+    },
+    {
+      "code": "150430207",
+      "name": "敖润苏莫苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150430",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/敖汉旗/敖润苏莫苏木"
+    }
+  ]
+}

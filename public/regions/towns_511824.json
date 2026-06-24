@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "511824002",
+      "name": "新棉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/新棉街道"
+    },
+    {
+      "code": "511824101",
+      "name": "回隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/回隆镇"
+    },
+    {
+      "code": "511824102",
+      "name": "美罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/美罗镇"
+    },
+    {
+      "code": "511824106",
+      "name": "安顺场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/安顺场镇"
+    },
+    {
+      "code": "511824202",
+      "name": "蟹螺藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/蟹螺藏族乡"
+    },
+    {
+      "code": "511824203",
+      "name": "永和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/永和乡"
+    },
+    {
+      "code": "511824207",
+      "name": "栗子坪彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/栗子坪彝族乡"
+    },
+    {
+      "code": "511824209",
+      "name": "迎政乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/迎政乡"
+    },
+    {
+      "code": "511824211",
+      "name": "丰乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/丰乐乡"
+    },
+    {
+      "code": "511824212",
+      "name": "新民藏族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/新民藏族彝族乡"
+    },
+    {
+      "code": "511824215",
+      "name": "草科藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/草科藏族乡"
+    },
+    {
+      "code": "511824216",
+      "name": "王岗坪彝族藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511824",
+      "year": 0,
+      "name_path": "四川省/雅安市/石棉县/王岗坪彝族藏族乡"
+    }
+  ]
+}

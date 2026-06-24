@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150826101",
+      "name": "头道桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/头道桥镇"
+    },
+    {
+      "code": "150826102",
+      "name": "二道桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/二道桥镇"
+    },
+    {
+      "code": "150826103",
+      "name": "三道桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/三道桥镇"
+    },
+    {
+      "code": "150826104",
+      "name": "团结镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/团结镇"
+    },
+    {
+      "code": "150826105",
+      "name": "双庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/双庙镇"
+    },
+    {
+      "code": "150826106",
+      "name": "蛮会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/蛮会镇"
+    },
+    {
+      "code": "150826107",
+      "name": "陕坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/陕坝镇"
+    },
+    {
+      "code": "150826108",
+      "name": "沙海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/沙海镇"
+    },
+    {
+      "code": "150826109",
+      "name": "蒙海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150826",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/杭锦后旗/蒙海镇"
+    }
+  ]
+}

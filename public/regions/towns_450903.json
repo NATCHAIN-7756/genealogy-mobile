@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "450903100",
+      "name": "福绵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450903",
+      "year": 0,
+      "name_path": "广西壮族自治区/玉林市/福绵区/福绵镇"
+    },
+    {
+      "code": "450903101",
+      "name": "成均镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450903",
+      "year": 0,
+      "name_path": "广西壮族自治区/玉林市/福绵区/成均镇"
+    },
+    {
+      "code": "450903102",
+      "name": "樟木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450903",
+      "year": 0,
+      "name_path": "广西壮族自治区/玉林市/福绵区/樟木镇"
+    },
+    {
+      "code": "450903103",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450903",
+      "year": 0,
+      "name_path": "广西壮族自治区/玉林市/福绵区/新桥镇"
+    },
+    {
+      "code": "450903104",
+      "name": "沙田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450903",
+      "year": 0,
+      "name_path": "广西壮族自治区/玉林市/福绵区/沙田镇"
+    },
+    {
+      "code": "450903105",
+      "name": "石和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450903",
+      "year": 0,
+      "name_path": "广西壮族自治区/玉林市/福绵区/石和镇"
+    }
+  ]
+}

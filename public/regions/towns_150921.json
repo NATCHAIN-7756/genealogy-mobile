@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150921100",
+      "name": "卓资山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/卓资山镇"
+    },
+    {
+      "code": "150921101",
+      "name": "旗下营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/旗下营镇"
+    },
+    {
+      "code": "150921102",
+      "name": "十八台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/十八台镇"
+    },
+    {
+      "code": "150921103",
+      "name": "巴音锡勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/巴音锡勒镇"
+    },
+    {
+      "code": "150921104",
+      "name": "梨花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/梨花镇"
+    },
+    {
+      "code": "150921203",
+      "name": "大榆树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/大榆树乡"
+    },
+    {
+      "code": "150921208",
+      "name": "红召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/红召乡"
+    },
+    {
+      "code": "150921209",
+      "name": "复兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150921",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/卓资县/复兴乡"
+    }
+  ]
+}

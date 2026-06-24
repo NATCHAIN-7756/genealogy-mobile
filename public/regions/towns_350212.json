@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "350212001",
+      "name": "大同街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/大同街道"
+    },
+    {
+      "code": "350212002",
+      "name": "祥平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/祥平街道"
+    },
+    {
+      "code": "350212003",
+      "name": "新民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/新民街道"
+    },
+    {
+      "code": "350212004",
+      "name": "西柯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/西柯街道"
+    },
+    {
+      "code": "350212005",
+      "name": "祥和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/祥和街道"
+    },
+    {
+      "code": "350212006",
+      "name": "新美街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/新美街道"
+    },
+    {
+      "code": "350212007",
+      "name": "美林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/美林街道"
+    },
+    {
+      "code": "350212105",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/莲花镇"
+    },
+    {
+      "code": "350212107",
+      "name": "洪塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/洪塘镇"
+    },
+    {
+      "code": "350212109",
+      "name": "汀溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/汀溪镇"
+    },
+    {
+      "code": "350212110",
+      "name": "五显镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350212",
+      "year": 0,
+      "name_path": "福建省/厦门市/同安区/五显镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "410411001",
+      "name": "马庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/马庄街道"
+    },
+    {
+      "code": "410411002",
+      "name": "南环路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/南环路街道"
+    },
+    {
+      "code": "410411003",
+      "name": "姚孟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/姚孟街道"
+    },
+    {
+      "code": "410411004",
+      "name": "九里山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/九里山街道"
+    },
+    {
+      "code": "410411005",
+      "name": "轻工路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/轻工路街道"
+    },
+    {
+      "code": "410411006",
+      "name": "高阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/高阳路街道"
+    },
+    {
+      "code": "410411007",
+      "name": "北渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/北渡街道"
+    },
+    {
+      "code": "410411008",
+      "name": "荆山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/荆山街道"
+    },
+    {
+      "code": "410411009",
+      "name": "河滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/河滨街道"
+    },
+    {
+      "code": "410411200",
+      "name": "曹镇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410411",
+      "year": 0,
+      "name_path": "河南省/平顶山市/湛河区/曹镇乡"
+    }
+  ]
+}

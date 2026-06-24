@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "150625100",
+      "name": "锡尼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150625",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/杭锦旗/锡尼镇"
+    },
+    {
+      "code": "150625101",
+      "name": "巴拉贡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150625",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/杭锦旗/巴拉贡镇"
+    },
+    {
+      "code": "150625102",
+      "name": "吉日嘎朗图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150625",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/杭锦旗/吉日嘎朗图镇"
+    },
+    {
+      "code": "150625103",
+      "name": "呼和木独镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150625",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/杭锦旗/呼和木独镇"
+    },
+    {
+      "code": "150625104",
+      "name": "独贵塔拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150625",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/杭锦旗/独贵塔拉镇"
+    },
+    {
+      "code": "150625206",
+      "name": "伊和乌素苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150625",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/杭锦旗/伊和乌素苏木"
+    }
+  ]
+}

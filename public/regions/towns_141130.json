@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "141130100",
+      "name": "水头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/水头镇"
+    },
+    {
+      "code": "141130101",
+      "name": "康城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/康城镇"
+    },
+    {
+      "code": "141130102",
+      "name": "双池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/双池镇"
+    },
+    {
+      "code": "141130103",
+      "name": "桃红坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/桃红坡镇"
+    },
+    {
+      "code": "141130104",
+      "name": "石口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/石口镇"
+    },
+    {
+      "code": "141130105",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/回龙镇"
+    },
+    {
+      "code": "141130202",
+      "name": "温泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141130",
+      "year": 0,
+      "name_path": "山西省/吕梁市/交口县/温泉乡"
+    }
+  ]
+}

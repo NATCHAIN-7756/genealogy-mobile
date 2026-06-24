@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "440232100",
+      "name": "乳城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/乳城镇"
+    },
+    {
+      "code": "440232103",
+      "name": "一六镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/一六镇"
+    },
+    {
+      "code": "440232104",
+      "name": "桂头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/桂头镇"
+    },
+    {
+      "code": "440232106",
+      "name": "洛阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/洛阳镇"
+    },
+    {
+      "code": "440232108",
+      "name": "大布镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/大布镇"
+    },
+    {
+      "code": "440232109",
+      "name": "大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/大桥镇"
+    },
+    {
+      "code": "440232111",
+      "name": "东坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/东坪镇"
+    },
+    {
+      "code": "440232112",
+      "name": "游溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/游溪镇"
+    },
+    {
+      "code": "440232113",
+      "name": "必背镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440232",
+      "year": 0,
+      "name_path": "广东省/韶关市/乳源瑶族自治县/必背镇"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "410726002",
+      "name": "文岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/文岩街道"
+    },
+    {
+      "code": "410726003",
+      "name": "潭龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/潭龙街道"
+    },
+    {
+      "code": "410726004",
+      "name": "塔铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/塔铺街道"
+    },
+    {
+      "code": "410726102",
+      "name": "丰庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/丰庄镇"
+    },
+    {
+      "code": "410726103",
+      "name": "东屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/东屯镇"
+    },
+    {
+      "code": "410726104",
+      "name": "石婆固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/石婆固镇"
+    },
+    {
+      "code": "410726105",
+      "name": "王楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/王楼镇"
+    },
+    {
+      "code": "410726200",
+      "name": "僧固乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/僧固乡"
+    },
+    {
+      "code": "410726203",
+      "name": "魏邱乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/魏邱乡"
+    },
+    {
+      "code": "410726204",
+      "name": "司寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/司寨乡"
+    },
+    {
+      "code": "410726207",
+      "name": "马庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/马庄乡"
+    },
+    {
+      "code": "410726209",
+      "name": "胙城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/胙城乡"
+    },
+    {
+      "code": "410726210",
+      "name": "榆林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410726",
+      "year": 0,
+      "name_path": "河南省/新乡市/延津县/榆林乡"
+    }
+  ]
+}

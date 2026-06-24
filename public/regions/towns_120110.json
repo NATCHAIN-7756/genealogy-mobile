@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "120110001",
+      "name": "张贵庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/张贵庄街道"
+    },
+    {
+      "code": "120110002",
+      "name": "丰年村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/丰年村街道"
+    },
+    {
+      "code": "120110003",
+      "name": "万新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/万新街道"
+    },
+    {
+      "code": "120110004",
+      "name": "无瑕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/无瑕街道"
+    },
+    {
+      "code": "120110005",
+      "name": "新立街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/新立街道"
+    },
+    {
+      "code": "120110006",
+      "name": "华明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/华明街道"
+    },
+    {
+      "code": "120110007",
+      "name": "金钟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/金钟街道"
+    },
+    {
+      "code": "120110008",
+      "name": "军粮城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/军粮城街道"
+    },
+    {
+      "code": "120110009",
+      "name": "金桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/金桥街道"
+    },
+    {
+      "code": "120110010",
+      "name": "东丽湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/东丽湖街道"
+    },
+    {
+      "code": "120110011",
+      "name": "华新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120110",
+      "year": 0,
+      "name_path": "天津市/东丽区/华新街道"
+    }
+  ]
+}

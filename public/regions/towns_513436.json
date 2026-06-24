@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "513436100",
+      "name": "巴普镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/巴普镇"
+    },
+    {
+      "code": "513436101",
+      "name": "洪溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/洪溪镇"
+    },
+    {
+      "code": "513436102",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/新桥镇"
+    },
+    {
+      "code": "513436103",
+      "name": "牛牛坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/牛牛坝镇"
+    },
+    {
+      "code": "513436104",
+      "name": "拉马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/拉马镇"
+    },
+    {
+      "code": "513436105",
+      "name": "候播乃拖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/候播乃拖镇"
+    },
+    {
+      "code": "513436106",
+      "name": "候古莫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/候古莫镇"
+    },
+    {
+      "code": "513436200",
+      "name": "觉洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/觉洛乡"
+    },
+    {
+      "code": "513436201",
+      "name": "井叶特西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/井叶特西乡"
+    },
+    {
+      "code": "513436202",
+      "name": "合姑洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/合姑洛乡"
+    },
+    {
+      "code": "513436208",
+      "name": "典补乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/典补乡"
+    },
+    {
+      "code": "513436217",
+      "name": "九口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/九口乡"
+    },
+    {
+      "code": "513436218",
+      "name": "洛俄依甘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/洛俄依甘乡"
+    },
+    {
+      "code": "513436221",
+      "name": "柳洪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/柳洪乡"
+    },
+    {
+      "code": "513436225",
+      "name": "峨曲古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/峨曲古乡"
+    },
+    {
+      "code": "513436229",
+      "name": "龙门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/龙门乡"
+    },
+    {
+      "code": "513436231",
+      "name": "洒库乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/洒库乡"
+    },
+    {
+      "code": "513436235",
+      "name": "瓦候乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513436",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/美姑县/瓦候乡"
+    }
+  ]
+}

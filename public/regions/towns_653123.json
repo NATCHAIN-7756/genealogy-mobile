@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "653123100",
+      "name": "英吉沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/英吉沙镇"
+    },
+    {
+      "code": "653123101",
+      "name": "乌恰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/乌恰镇"
+    },
+    {
+      "code": "653123102",
+      "name": "芒辛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/芒辛镇"
+    },
+    {
+      "code": "653123103",
+      "name": "萨罕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/萨罕镇"
+    },
+    {
+      "code": "653123200",
+      "name": "城关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/城关乡"
+    },
+    {
+      "code": "653123201",
+      "name": "乔勒潘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/乔勒潘乡"
+    },
+    {
+      "code": "653123202",
+      "name": "龙甫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/龙甫乡"
+    },
+    {
+      "code": "653123204",
+      "name": "色提力乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/色提力乡"
+    },
+    {
+      "code": "653123206",
+      "name": "英也尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/英也尔乡"
+    },
+    {
+      "code": "653123207",
+      "name": "克孜勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/克孜勒乡"
+    },
+    {
+      "code": "653123208",
+      "name": "托普鲁克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/托普鲁克乡"
+    },
+    {
+      "code": "653123209",
+      "name": "苏盖提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/苏盖提乡"
+    },
+    {
+      "code": "653123211",
+      "name": "艾古斯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/艾古斯乡"
+    },
+    {
+      "code": "653123212",
+      "name": "依格孜也尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653123",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/英吉沙县/依格孜也尔乡"
+    }
+  ]
+}

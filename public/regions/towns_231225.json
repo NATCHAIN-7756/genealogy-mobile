@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "231225100",
+      "name": "明水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/明水镇"
+    },
+    {
+      "code": "231225101",
+      "name": "兴仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/兴仁镇"
+    },
+    {
+      "code": "231225102",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/永兴镇"
+    },
+    {
+      "code": "231225103",
+      "name": "崇德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/崇德镇"
+    },
+    {
+      "code": "231225104",
+      "name": "通达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/通达镇"
+    },
+    {
+      "code": "231225105",
+      "name": "双兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/双兴镇"
+    },
+    {
+      "code": "231225203",
+      "name": "永久乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/永久乡"
+    },
+    {
+      "code": "231225204",
+      "name": "树人乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/树人乡"
+    },
+    {
+      "code": "231225205",
+      "name": "光荣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/光荣乡"
+    },
+    {
+      "code": "231225206",
+      "name": "繁荣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/繁荣乡"
+    },
+    {
+      "code": "231225207",
+      "name": "通泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/通泉乡"
+    },
+    {
+      "code": "231225208",
+      "name": "育林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231225",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/明水县/育林乡"
+    }
+  ]
+}

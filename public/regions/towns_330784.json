@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "330784001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/东城街道"
+    },
+    {
+      "code": "330784002",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/西城街道"
+    },
+    {
+      "code": "330784003",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/江南街道"
+    },
+    {
+      "code": "330784100",
+      "name": "石柱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/石柱镇"
+    },
+    {
+      "code": "330784101",
+      "name": "古山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/古山镇"
+    },
+    {
+      "code": "330784102",
+      "name": "象珠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/象珠镇"
+    },
+    {
+      "code": "330784103",
+      "name": "龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/龙山镇"
+    },
+    {
+      "code": "330784104",
+      "name": "花街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/花街镇"
+    },
+    {
+      "code": "330784105",
+      "name": "方岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/方岩镇"
+    },
+    {
+      "code": "330784106",
+      "name": "舟山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/舟山镇"
+    },
+    {
+      "code": "330784107",
+      "name": "前仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/前仓镇"
+    },
+    {
+      "code": "330784108",
+      "name": "唐先镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/唐先镇"
+    },
+    {
+      "code": "330784109",
+      "name": "西溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/西溪镇"
+    },
+    {
+      "code": "330784110",
+      "name": "芝英镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330784",
+      "year": 0,
+      "name_path": "浙江省/金华市/永康市/芝英镇"
+    }
+  ]
+}

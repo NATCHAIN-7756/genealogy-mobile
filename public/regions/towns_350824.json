@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "350824001",
+      "name": "平川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/平川街道"
+    },
+    {
+      "code": "350824101",
+      "name": "中山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/中山镇"
+    },
+    {
+      "code": "350824102",
+      "name": "岩前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/岩前镇"
+    },
+    {
+      "code": "350824103",
+      "name": "十方镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/十方镇"
+    },
+    {
+      "code": "350824104",
+      "name": "中堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/中堡镇"
+    },
+    {
+      "code": "350824105",
+      "name": "桃溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/桃溪镇"
+    },
+    {
+      "code": "350824106",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/城厢镇"
+    },
+    {
+      "code": "350824107",
+      "name": "东留镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/东留镇"
+    },
+    {
+      "code": "350824108",
+      "name": "武东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/武东镇"
+    },
+    {
+      "code": "350824109",
+      "name": "永平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/永平镇"
+    },
+    {
+      "code": "350824110",
+      "name": "万安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/万安镇"
+    },
+    {
+      "code": "350824111",
+      "name": "象洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/象洞镇"
+    },
+    {
+      "code": "350824112",
+      "name": "湘店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/湘店镇"
+    },
+    {
+      "code": "350824113",
+      "name": "大禾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/大禾镇"
+    },
+    {
+      "code": "350824114",
+      "name": "中赤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/中赤镇"
+    },
+    {
+      "code": "350824203",
+      "name": "民主乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/民主乡"
+    },
+    {
+      "code": "350824204",
+      "name": "下坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350824",
+      "year": 0,
+      "name_path": "福建省/龙岩市/武平县/下坝乡"
+    }
+  ]
+}

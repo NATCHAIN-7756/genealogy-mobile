@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "410505001",
+      "name": "梅园庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/梅园庄街道"
+    },
+    {
+      "code": "410505002",
+      "name": "李珍街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/李珍街道"
+    },
+    {
+      "code": "410505003",
+      "name": "水冶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/水冶街道"
+    },
+    {
+      "code": "410505005",
+      "name": "铁西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/铁西路街道"
+    },
+    {
+      "code": "410505006",
+      "name": "电厂路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/电厂路街道"
+    },
+    {
+      "code": "410505008",
+      "name": "清风街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/清风街街道"
+    },
+    {
+      "code": "410505009",
+      "name": "纱厂路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/纱厂路街道"
+    },
+    {
+      "code": "410505010",
+      "name": "北蒙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/北蒙街道"
+    },
+    {
+      "code": "410505011",
+      "name": "相台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/相台街道"
+    },
+    {
+      "code": "410505100",
+      "name": "曲沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/曲沟镇"
+    },
+    {
+      "code": "410505101",
+      "name": "水冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/水冶镇"
+    },
+    {
+      "code": "410505200",
+      "name": "西郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410505",
+      "year": 0,
+      "name_path": "河南省/安阳市/殷都区/西郊乡"
+    }
+  ]
+}

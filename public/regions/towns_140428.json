@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140428100",
+      "name": "丹朱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/丹朱镇"
+    },
+    {
+      "code": "140428101",
+      "name": "鲍店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/鲍店镇"
+    },
+    {
+      "code": "140428102",
+      "name": "石哲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/石哲镇"
+    },
+    {
+      "code": "140428103",
+      "name": "大堡头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/大堡头镇"
+    },
+    {
+      "code": "140428104",
+      "name": "慈林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/慈林镇"
+    },
+    {
+      "code": "140428105",
+      "name": "色头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/色头镇"
+    },
+    {
+      "code": "140428106",
+      "name": "南漳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/南漳镇"
+    },
+    {
+      "code": "140428107",
+      "name": "宋村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/宋村镇"
+    },
+    {
+      "code": "140428108",
+      "name": "南陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/南陈镇"
+    },
+    {
+      "code": "140428201",
+      "name": "碾张乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/碾张乡"
+    },
+    {
+      "code": "140428202",
+      "name": "常张乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140428",
+      "year": 0,
+      "name_path": "山西省/长治市/长子县/常张乡"
+    }
+  ]
+}

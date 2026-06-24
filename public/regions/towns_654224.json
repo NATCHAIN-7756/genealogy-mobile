@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "654224100",
+      "name": "托里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/托里镇"
+    },
+    {
+      "code": "654224101",
+      "name": "铁厂沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/铁厂沟镇"
+    },
+    {
+      "code": "654224102",
+      "name": "庙尔沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/庙尔沟镇"
+    },
+    {
+      "code": "654224103",
+      "name": "哈图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/哈图镇"
+    },
+    {
+      "code": "654224201",
+      "name": "多拉特乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/多拉特乡"
+    },
+    {
+      "code": "654224202",
+      "name": "乌雪特乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/乌雪特乡"
+    },
+    {
+      "code": "654224203",
+      "name": "库普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/库普乡"
+    },
+    {
+      "code": "654224204",
+      "name": "阿克别里斗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654224",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/托里县/阿克别里斗乡"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "520627001",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/和平街道"
+    },
+    {
+      "code": "520627002",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/团结街道"
+    },
+    {
+      "code": "520627003",
+      "name": "沙子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/沙子街道"
+    },
+    {
+      "code": "520627004",
+      "name": "祐溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/祐溪街道"
+    },
+    {
+      "code": "520627102",
+      "name": "谯家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/谯家镇"
+    },
+    {
+      "code": "520627103",
+      "name": "夹石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/夹石镇"
+    },
+    {
+      "code": "520627104",
+      "name": "淇滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/淇滩镇"
+    },
+    {
+      "code": "520627105",
+      "name": "官舟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/官舟镇"
+    },
+    {
+      "code": "520627106",
+      "name": "土地坳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/土地坳镇"
+    },
+    {
+      "code": "520627107",
+      "name": "思渠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/思渠镇"
+    },
+    {
+      "code": "520627108",
+      "name": "客田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/客田镇"
+    },
+    {
+      "code": "520627109",
+      "name": "洪渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/洪渡镇"
+    },
+    {
+      "code": "520627110",
+      "name": "黑水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/黑水镇"
+    },
+    {
+      "code": "520627111",
+      "name": "甘溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/甘溪镇"
+    },
+    {
+      "code": "520627112",
+      "name": "中界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/中界镇"
+    },
+    {
+      "code": "520627113",
+      "name": "泉坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/泉坝镇"
+    },
+    {
+      "code": "520627114",
+      "name": "中寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/中寨镇"
+    },
+    {
+      "code": "520627115",
+      "name": "黄土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/黄土镇"
+    },
+    {
+      "code": "520627116",
+      "name": "新景镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/新景镇"
+    },
+    {
+      "code": "520627117",
+      "name": "板场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/板场镇"
+    },
+    {
+      "code": "520627118",
+      "name": "塘坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/塘坝镇"
+    },
+    {
+      "code": "520627203",
+      "name": "晓景乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/晓景乡"
+    },
+    {
+      "code": "520627211",
+      "name": "后坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520627",
+      "year": 0,
+      "name_path": "贵州省/铜仁市/沿河土家族自治县/后坪乡"
+    }
+  ]
+}

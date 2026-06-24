@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "610117001",
+      "name": "鹿苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/鹿苑街道"
+    },
+    {
+      "code": "610117002",
+      "name": "泾渭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/泾渭街道"
+    },
+    {
+      "code": "610117003",
+      "name": "崇皇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/崇皇街道"
+    },
+    {
+      "code": "610117004",
+      "name": "姬家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/姬家街道"
+    },
+    {
+      "code": "610117005",
+      "name": "通远街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/通远街道"
+    },
+    {
+      "code": "610117006",
+      "name": "耿镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/耿镇街道"
+    },
+    {
+      "code": "610117007",
+      "name": "张卜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610117",
+      "year": 0,
+      "name_path": "陕西省/西安市/高陵区/张卜街道"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "130628001",
+      "name": "锦华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/锦华街道"
+    },
+    {
+      "code": "130628101",
+      "name": "庞口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/庞口镇"
+    },
+    {
+      "code": "130628102",
+      "name": "西演镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/西演镇"
+    },
+    {
+      "code": "130628103",
+      "name": "邢家南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/邢家南镇"
+    },
+    {
+      "code": "130628104",
+      "name": "晋庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/晋庄镇"
+    },
+    {
+      "code": "130628105",
+      "name": "小王果庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/小王果庄镇"
+    },
+    {
+      "code": "130628106",
+      "name": "蒲口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/蒲口镇"
+    },
+    {
+      "code": "130628107",
+      "name": "庞家佐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/庞家佐镇"
+    },
+    {
+      "code": "130628204",
+      "name": "龙化乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130628",
+      "year": 0,
+      "name_path": "河北省/保定市/高阳县/龙化乡"
+    }
+  ]
+}

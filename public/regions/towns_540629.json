@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "540629100",
+      "name": "尼玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/尼玛镇"
+    },
+    {
+      "code": "540629201",
+      "name": "卓尼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/卓尼乡"
+    },
+    {
+      "code": "540629202",
+      "name": "达果乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/达果乡"
+    },
+    {
+      "code": "540629203",
+      "name": "阿索乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/阿索乡"
+    },
+    {
+      "code": "540629204",
+      "name": "荣玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/荣玛乡"
+    },
+    {
+      "code": "540629205",
+      "name": "中仓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/中仓乡"
+    },
+    {
+      "code": "540629206",
+      "name": "来多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/来多乡"
+    },
+    {
+      "code": "540629207",
+      "name": "申亚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/申亚乡"
+    },
+    {
+      "code": "540629208",
+      "name": "卓瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/卓瓦乡"
+    },
+    {
+      "code": "540629209",
+      "name": "俄久乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/俄久乡"
+    },
+    {
+      "code": "540629210",
+      "name": "文部乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/文部乡"
+    },
+    {
+      "code": "540629211",
+      "name": "甲谷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/甲谷乡"
+    },
+    {
+      "code": "540629212",
+      "name": "军仓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/军仓乡"
+    },
+    {
+      "code": "540629213",
+      "name": "吉瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540629",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/尼玛县/吉瓦乡"
+    }
+  ]
+}

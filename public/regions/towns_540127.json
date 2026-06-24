@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "540127100",
+      "name": "工卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/工卡镇"
+    },
+    {
+      "code": "540127101",
+      "name": "甲玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/甲玛镇"
+    },
+    {
+      "code": "540127200",
+      "name": "唐加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/唐加乡"
+    },
+    {
+      "code": "540127202",
+      "name": "尼玛江热乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/尼玛江热乡"
+    },
+    {
+      "code": "540127203",
+      "name": "日多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/日多乡"
+    },
+    {
+      "code": "540127204",
+      "name": "扎西岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/扎西岗乡"
+    },
+    {
+      "code": "540127205",
+      "name": "门巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/门巴乡"
+    },
+    {
+      "code": "540127206",
+      "name": "扎雪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540127",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/墨竹工卡县/扎雪乡"
+    }
+  ]
+}

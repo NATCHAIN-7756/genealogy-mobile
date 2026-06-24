@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230225100",
+      "name": "甘南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/甘南镇"
+    },
+    {
+      "code": "230225101",
+      "name": "兴十四镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/兴十四镇"
+    },
+    {
+      "code": "230225102",
+      "name": "平阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/平阳镇"
+    },
+    {
+      "code": "230225103",
+      "name": "东阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/东阳镇"
+    },
+    {
+      "code": "230225104",
+      "name": "巨宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/巨宝镇"
+    },
+    {
+      "code": "230225201",
+      "name": "长山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/长山乡"
+    },
+    {
+      "code": "230225202",
+      "name": "中兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/中兴乡"
+    },
+    {
+      "code": "230225203",
+      "name": "兴隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/兴隆乡"
+    },
+    {
+      "code": "230225204",
+      "name": "宝山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/宝山乡"
+    },
+    {
+      "code": "230225206",
+      "name": "查哈阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230225",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/甘南县/查哈阳乡"
+    }
+  ]
+}

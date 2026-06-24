@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "530922100",
+      "name": "爱华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/爱华镇"
+    },
+    {
+      "code": "530922101",
+      "name": "漫湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/漫湾镇"
+    },
+    {
+      "code": "530922102",
+      "name": "大朝山西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/大朝山西镇"
+    },
+    {
+      "code": "530922103",
+      "name": "茂兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/茂兰镇"
+    },
+    {
+      "code": "530922104",
+      "name": "大寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/大寨镇"
+    },
+    {
+      "code": "530922105",
+      "name": "涌宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/涌宝镇"
+    },
+    {
+      "code": "530922106",
+      "name": "幸福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/幸福镇"
+    },
+    {
+      "code": "530922201",
+      "name": "忙怀彝族布朗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/忙怀彝族布朗族乡"
+    },
+    {
+      "code": "530922202",
+      "name": "晓街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/晓街乡"
+    },
+    {
+      "code": "530922203",
+      "name": "茶房乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/茶房乡"
+    },
+    {
+      "code": "530922206",
+      "name": "栗树彝族傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/栗树彝族傣族乡"
+    },
+    {
+      "code": "530922207",
+      "name": "后箐彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530922",
+      "year": 0,
+      "name_path": "云南省/临沧市/云县/后箐彝族乡"
+    }
+  ]
+}

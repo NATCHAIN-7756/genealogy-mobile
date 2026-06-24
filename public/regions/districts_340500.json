@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "340503",
+      "name": "花山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340500",
+      "year": 0,
+      "name_path": "全国/安徽省/马鞍山市/花山区"
+    },
+    {
+      "code": "340504",
+      "name": "雨山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340500",
+      "year": 0,
+      "name_path": "全国/安徽省/马鞍山市/雨山区"
+    },
+    {
+      "code": "340506",
+      "name": "博望区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340500",
+      "year": 0,
+      "name_path": "全国/安徽省/马鞍山市/博望区"
+    },
+    {
+      "code": "340521",
+      "name": "当涂县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340500",
+      "year": 0,
+      "name_path": "全国/安徽省/马鞍山市/当涂县"
+    },
+    {
+      "code": "340522",
+      "name": "含山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340500",
+      "year": 0,
+      "name_path": "全国/安徽省/马鞍山市/含山县"
+    },
+    {
+      "code": "340523",
+      "name": "和县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340500",
+      "year": 0,
+      "name_path": "全国/安徽省/马鞍山市/和县"
+    }
+  ]
+}

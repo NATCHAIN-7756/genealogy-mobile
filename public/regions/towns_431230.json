@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "431230102",
+      "name": "播阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/播阳镇"
+    },
+    {
+      "code": "431230104",
+      "name": "牙屯堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/牙屯堡镇"
+    },
+    {
+      "code": "431230105",
+      "name": "菁芜洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/菁芜洲镇"
+    },
+    {
+      "code": "431230108",
+      "name": "双江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/双江镇"
+    },
+    {
+      "code": "431230109",
+      "name": "陇城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/陇城镇"
+    },
+    {
+      "code": "431230110",
+      "name": "万佛山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/万佛山镇"
+    },
+    {
+      "code": "431230111",
+      "name": "溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/溪口镇"
+    },
+    {
+      "code": "431230112",
+      "name": "县溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/县溪镇"
+    },
+    {
+      "code": "431230113",
+      "name": "独坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/独坡镇"
+    },
+    {
+      "code": "431230203",
+      "name": "大高坪苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/大高坪苗族乡"
+    },
+    {
+      "code": "431230220",
+      "name": "坪坦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431230",
+      "year": 0,
+      "name_path": "湖南省/怀化市/通道侗族自治县/坪坦乡"
+    }
+  ]
+}

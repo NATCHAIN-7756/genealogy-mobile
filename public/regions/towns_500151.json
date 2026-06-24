@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "code": "500151001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/东城街道"
+    },
+    {
+      "code": "500151002",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/南城街道"
+    },
+    {
+      "code": "500151003",
+      "name": "巴川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/巴川街道"
+    },
+    {
+      "code": "500151004",
+      "name": "蒲吕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/蒲吕街道"
+    },
+    {
+      "code": "500151005",
+      "name": "旧县街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/旧县街道"
+    },
+    {
+      "code": "500151100",
+      "name": "土桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/土桥镇"
+    },
+    {
+      "code": "500151102",
+      "name": "二坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/二坪镇"
+    },
+    {
+      "code": "500151103",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/水口镇"
+    },
+    {
+      "code": "500151104",
+      "name": "安居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/安居镇"
+    },
+    {
+      "code": "500151105",
+      "name": "白羊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/白羊镇"
+    },
+    {
+      "code": "500151106",
+      "name": "平滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/平滩镇"
+    },
+    {
+      "code": "500151107",
+      "name": "虎峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/虎峰镇"
+    },
+    {
+      "code": "500151108",
+      "name": "石鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/石鱼镇"
+    },
+    {
+      "code": "500151109",
+      "name": "福果镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/福果镇"
+    },
+    {
+      "code": "500151110",
+      "name": "少云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/少云镇"
+    },
+    {
+      "code": "500151111",
+      "name": "维新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/维新镇"
+    },
+    {
+      "code": "500151112",
+      "name": "高楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/高楼镇"
+    },
+    {
+      "code": "500151113",
+      "name": "大庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/大庙镇"
+    },
+    {
+      "code": "500151114",
+      "name": "围龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/围龙镇"
+    },
+    {
+      "code": "500151115",
+      "name": "华兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/华兴镇"
+    },
+    {
+      "code": "500151117",
+      "name": "永嘉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/永嘉镇"
+    },
+    {
+      "code": "500151118",
+      "name": "安溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/安溪镇"
+    },
+    {
+      "code": "500151119",
+      "name": "西河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/西河镇"
+    },
+    {
+      "code": "500151120",
+      "name": "侣俸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/侣俸镇"
+    },
+    {
+      "code": "500151121",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/太平镇"
+    },
+    {
+      "code": "500151122",
+      "name": "小林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/小林镇"
+    },
+    {
+      "code": "500151123",
+      "name": "双山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/双山镇"
+    },
+    {
+      "code": "500151124",
+      "name": "庆隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500151",
+      "year": 0,
+      "name_path": "重庆市/铜梁区/庆隆镇"
+    }
+  ]
+}

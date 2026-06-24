@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "370102",
+      "name": "历下区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/历下区"
+    },
+    {
+      "code": "370103",
+      "name": "市中区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/市中区"
+    },
+    {
+      "code": "370104",
+      "name": "槐荫区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/槐荫区"
+    },
+    {
+      "code": "370105",
+      "name": "天桥区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/天桥区"
+    },
+    {
+      "code": "370112",
+      "name": "历城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/历城区"
+    },
+    {
+      "code": "370113",
+      "name": "长清区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/长清区"
+    },
+    {
+      "code": "370114",
+      "name": "章丘区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/章丘区"
+    },
+    {
+      "code": "370115",
+      "name": "济阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/济阳区"
+    },
+    {
+      "code": "370116",
+      "name": "莱芜区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/莱芜区"
+    },
+    {
+      "code": "370117",
+      "name": "钢城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/钢城区"
+    },
+    {
+      "code": "370124",
+      "name": "平阴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/平阴县"
+    },
+    {
+      "code": "370126",
+      "name": "商河县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370100",
+      "year": 0,
+      "name_path": "全国/山东省/济南市/商河县"
+    }
+  ]
+}

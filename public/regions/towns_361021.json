@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "361021100",
+      "name": "建昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/建昌镇"
+    },
+    {
+      "code": "361021101",
+      "name": "上唐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/上唐镇"
+    },
+    {
+      "code": "361021102",
+      "name": "洪门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/洪门镇"
+    },
+    {
+      "code": "361021103",
+      "name": "株良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/株良镇"
+    },
+    {
+      "code": "361021104",
+      "name": "里塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/里塔镇"
+    },
+    {
+      "code": "361021105",
+      "name": "龙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/龙湖镇"
+    },
+    {
+      "code": "361021106",
+      "name": "沙洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/沙洲镇"
+    },
+    {
+      "code": "361021107",
+      "name": "新丰街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/新丰街镇"
+    },
+    {
+      "code": "361021108",
+      "name": "万坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/万坊镇"
+    },
+    {
+      "code": "361021109",
+      "name": "徐家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/徐家镇"
+    },
+    {
+      "code": "361021201",
+      "name": "天井源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/天井源乡"
+    },
+    {
+      "code": "361021203",
+      "name": "浔溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361021",
+      "year": 0,
+      "name_path": "江西省/抚州市/南城县/浔溪乡"
+    }
+  ]
+}

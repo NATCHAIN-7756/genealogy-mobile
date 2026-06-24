@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "210421101",
+      "name": "石文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/石文镇"
+    },
+    {
+      "code": "210421102",
+      "name": "后安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/后安镇"
+    },
+    {
+      "code": "210421103",
+      "name": "救兵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/救兵镇"
+    },
+    {
+      "code": "210421104",
+      "name": "上马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/上马镇"
+    },
+    {
+      "code": "210421204",
+      "name": "马圈子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/马圈子乡"
+    },
+    {
+      "code": "210421209",
+      "name": "峡河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/峡河乡"
+    },
+    {
+      "code": "210421211",
+      "name": "海浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/海浪乡"
+    },
+    {
+      "code": "210421216",
+      "name": "汤图满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210421",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/抚顺县/汤图满族乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "340522100",
+      "name": "环峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/环峰镇"
+    },
+    {
+      "code": "340522101",
+      "name": "运漕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/运漕镇"
+    },
+    {
+      "code": "340522103",
+      "name": "铜闸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/铜闸镇"
+    },
+    {
+      "code": "340522104",
+      "name": "陶厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/陶厂镇"
+    },
+    {
+      "code": "340522105",
+      "name": "林头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/林头镇"
+    },
+    {
+      "code": "340522106",
+      "name": "清溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/清溪镇"
+    },
+    {
+      "code": "340522107",
+      "name": "仙踪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/仙踪镇"
+    },
+    {
+      "code": "340522109",
+      "name": "昭关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340522",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/含山县/昭关镇"
+    }
+  ]
+}

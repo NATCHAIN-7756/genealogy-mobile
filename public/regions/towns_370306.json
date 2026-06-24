@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "370306001",
+      "name": "丝绸路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/丝绸路街道"
+    },
+    {
+      "code": "370306002",
+      "name": "大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/大街街道"
+    },
+    {
+      "code": "370306003",
+      "name": "青年路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/青年路街道"
+    },
+    {
+      "code": "370306004",
+      "name": "永安街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/永安街街道"
+    },
+    {
+      "code": "370306005",
+      "name": "城北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/城北路街道"
+    },
+    {
+      "code": "370306100",
+      "name": "北郊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/北郊镇"
+    },
+    {
+      "code": "370306101",
+      "name": "南郊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/南郊镇"
+    },
+    {
+      "code": "370306102",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/王村镇"
+    },
+    {
+      "code": "370306103",
+      "name": "萌水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/萌水镇"
+    },
+    {
+      "code": "370306104",
+      "name": "商家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370306",
+      "year": 0,
+      "name_path": "山东省/淄博市/周村区/商家镇"
+    }
+  ]
+}

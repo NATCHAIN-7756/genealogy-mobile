@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "510603",
+      "name": "旌阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510600",
+      "year": 0,
+      "name_path": "全国/四川省/德阳市/旌阳区"
+    },
+    {
+      "code": "510604",
+      "name": "罗江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510600",
+      "year": 0,
+      "name_path": "全国/四川省/德阳市/罗江区"
+    },
+    {
+      "code": "510623",
+      "name": "中江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510600",
+      "year": 0,
+      "name_path": "全国/四川省/德阳市/中江县"
+    },
+    {
+      "code": "510681",
+      "name": "广汉市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510600",
+      "year": 0,
+      "name_path": "全国/四川省/德阳市/广汉市"
+    },
+    {
+      "code": "510682",
+      "name": "什邡市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510600",
+      "year": 0,
+      "name_path": "全国/四川省/德阳市/什邡市"
+    },
+    {
+      "code": "510683",
+      "name": "绵竹市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510600",
+      "year": 0,
+      "name_path": "全国/四川省/德阳市/绵竹市"
+    }
+  ]
+}

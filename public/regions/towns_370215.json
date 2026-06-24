@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "370215001",
+      "name": "环秀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/环秀街道"
+    },
+    {
+      "code": "370215002",
+      "name": "潮海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/潮海街道"
+    },
+    {
+      "code": "370215003",
+      "name": "通济街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/通济街道"
+    },
+    {
+      "code": "370215004",
+      "name": "北安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/北安街道"
+    },
+    {
+      "code": "370215005",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/龙山街道"
+    },
+    {
+      "code": "370215006",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/龙泉街道"
+    },
+    {
+      "code": "370215007",
+      "name": "鳌山卫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/鳌山卫街道"
+    },
+    {
+      "code": "370215008",
+      "name": "温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/温泉街道"
+    },
+    {
+      "code": "370215009",
+      "name": "蓝村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/蓝村街道"
+    },
+    {
+      "code": "370215010",
+      "name": "灵山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/灵山街道"
+    },
+    {
+      "code": "370215011",
+      "name": "大信街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/大信街道"
+    },
+    {
+      "code": "370215115",
+      "name": "段泊岚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/段泊岚镇"
+    },
+    {
+      "code": "370215117",
+      "name": "移风店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/移风店镇"
+    },
+    {
+      "code": "370215121",
+      "name": "田横镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/田横镇"
+    },
+    {
+      "code": "370215122",
+      "name": "金口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370215",
+      "year": 0,
+      "name_path": "山东省/青岛市/即墨区/金口镇"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "220722001",
+      "name": "长盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/长盛街道"
+    },
+    {
+      "code": "220722002",
+      "name": "长治街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/长治街道"
+    },
+    {
+      "code": "220722003",
+      "name": "长久街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/长久街道"
+    },
+    {
+      "code": "220722100",
+      "name": "长岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/长岭镇"
+    },
+    {
+      "code": "220722101",
+      "name": "太平川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/太平川镇"
+    },
+    {
+      "code": "220722102",
+      "name": "巨宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/巨宝山镇"
+    },
+    {
+      "code": "220722103",
+      "name": "太平山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/太平山镇"
+    },
+    {
+      "code": "220722104",
+      "name": "前七号镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/前七号镇"
+    },
+    {
+      "code": "220722105",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/新安镇"
+    },
+    {
+      "code": "220722106",
+      "name": "三青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/三青山镇"
+    },
+    {
+      "code": "220722107",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/大兴镇"
+    },
+    {
+      "code": "220722108",
+      "name": "北正镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/北正镇"
+    },
+    {
+      "code": "220722109",
+      "name": "流水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/流水镇"
+    },
+    {
+      "code": "220722110",
+      "name": "永久镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/永久镇"
+    },
+    {
+      "code": "220722111",
+      "name": "利发盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/利发盛镇"
+    },
+    {
+      "code": "220722202",
+      "name": "集体乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/集体乡"
+    },
+    {
+      "code": "220722203",
+      "name": "光明乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/光明乡"
+    },
+    {
+      "code": "220722204",
+      "name": "三县堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/三县堡乡"
+    },
+    {
+      "code": "220722205",
+      "name": "海青乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/海青乡"
+    },
+    {
+      "code": "220722206",
+      "name": "前进乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/前进乡"
+    },
+    {
+      "code": "220722207",
+      "name": "东岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/东岭乡"
+    },
+    {
+      "code": "220722209",
+      "name": "腰坨子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/腰坨子乡"
+    },
+    {
+      "code": "220722210",
+      "name": "八十八乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/八十八乡"
+    },
+    {
+      "code": "220722213",
+      "name": "三团乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/三团乡"
+    },
+    {
+      "code": "220722214",
+      "name": "三十号乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220722",
+      "year": 0,
+      "name_path": "吉林省/松原市/长岭县/三十号乡"
+    }
+  ]
+}

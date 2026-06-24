@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "210904001",
+      "name": "红树街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210904",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/太平区/红树街道"
+    },
+    {
+      "code": "210904006",
+      "name": "孙家湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210904",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/太平区/孙家湾街道"
+    },
+    {
+      "code": "210904007",
+      "name": "高德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210904",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/太平区/高德街道"
+    },
+    {
+      "code": "210904101",
+      "name": "水泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210904",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/太平区/水泉镇"
+    }
+  ]
+}

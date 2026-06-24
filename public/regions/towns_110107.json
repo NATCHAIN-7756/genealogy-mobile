@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "110107001",
+      "name": "八宝山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/八宝山街道"
+    },
+    {
+      "code": "110107002",
+      "name": "老山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/老山街道"
+    },
+    {
+      "code": "110107003",
+      "name": "八角街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/八角街道"
+    },
+    {
+      "code": "110107004",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/古城街道"
+    },
+    {
+      "code": "110107005",
+      "name": "苹果园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/苹果园街道"
+    },
+    {
+      "code": "110107006",
+      "name": "金顶街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/金顶街街道"
+    },
+    {
+      "code": "110107009",
+      "name": "广宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/广宁街道"
+    },
+    {
+      "code": "110107010",
+      "name": "五里坨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/五里坨街道"
+    },
+    {
+      "code": "110107011",
+      "name": "鲁谷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110107",
+      "year": 0,
+      "name_path": "北京市/石景山区/鲁谷街道"
+    }
+  ]
+}

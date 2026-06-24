@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "340603001",
+      "name": "相南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/相南街道"
+    },
+    {
+      "code": "340603002",
+      "name": "相山东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/相山东街道"
+    },
+    {
+      "code": "340603003",
+      "name": "相山西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/相山西街道"
+    },
+    {
+      "code": "340603004",
+      "name": "三堤口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/三堤口街道"
+    },
+    {
+      "code": "340603005",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/东山街道"
+    },
+    {
+      "code": "340603008",
+      "name": "曲阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/曲阳街道"
+    },
+    {
+      "code": "340603009",
+      "name": "南黎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/南黎街道"
+    },
+    {
+      "code": "340603010",
+      "name": "任圩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/任圩街道"
+    },
+    {
+      "code": "340603100",
+      "name": "渠沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340603",
+      "year": 0,
+      "name_path": "安徽省/淮北市/相山区/渠沟镇"
+    }
+  ]
+}

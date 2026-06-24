@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130602001",
+      "name": "先锋街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/先锋街街道"
+    },
+    {
+      "code": "130602002",
+      "name": "新市场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/新市场街道"
+    },
+    {
+      "code": "130602003",
+      "name": "东风路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/东风路街道"
+    },
+    {
+      "code": "130602004",
+      "name": "建设南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/建设南路街道"
+    },
+    {
+      "code": "130602005",
+      "name": "韩村北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/韩村北路街道"
+    },
+    {
+      "code": "130602006",
+      "name": "惠阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/惠阳街道"
+    },
+    {
+      "code": "130602100",
+      "name": "大激店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/大激店镇"
+    },
+    {
+      "code": "130602101",
+      "name": "一亩泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/一亩泉镇"
+    },
+    {
+      "code": "130602200",
+      "name": "颉庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/颉庄乡"
+    },
+    {
+      "code": "130602201",
+      "name": "富昌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/富昌乡"
+    },
+    {
+      "code": "130602202",
+      "name": "韩村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/韩村乡"
+    },
+    {
+      "code": "130602205",
+      "name": "大马坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130602",
+      "year": 0,
+      "name_path": "河北省/保定市/竞秀区/大马坊乡"
+    }
+  ]
+}

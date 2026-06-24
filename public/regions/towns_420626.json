@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "420626100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/城关镇"
+    },
+    {
+      "code": "420626101",
+      "name": "黄堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/黄堡镇"
+    },
+    {
+      "code": "420626102",
+      "name": "后坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/后坪镇"
+    },
+    {
+      "code": "420626103",
+      "name": "龙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/龙坪镇"
+    },
+    {
+      "code": "420626104",
+      "name": "店垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/店垭镇"
+    },
+    {
+      "code": "420626105",
+      "name": "马良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/马良镇"
+    },
+    {
+      "code": "420626106",
+      "name": "歇马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/歇马镇"
+    },
+    {
+      "code": "420626107",
+      "name": "马桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/马桥镇"
+    },
+    {
+      "code": "420626108",
+      "name": "寺坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/寺坪镇"
+    },
+    {
+      "code": "420626109",
+      "name": "过渡湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/过渡湾镇"
+    },
+    {
+      "code": "420626200",
+      "name": "两峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420626",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/保康县/两峪乡"
+    }
+  ]
+}

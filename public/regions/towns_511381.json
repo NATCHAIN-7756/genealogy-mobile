@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "code": "511381001",
+      "name": "保宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/保宁街道"
+    },
+    {
+      "code": "511381002",
+      "name": "七里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/七里街道"
+    },
+    {
+      "code": "511381003",
+      "name": "沙溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/沙溪街道"
+    },
+    {
+      "code": "511381004",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/江南街道"
+    },
+    {
+      "code": "511381005",
+      "name": "河溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/河溪街道"
+    },
+    {
+      "code": "511381103",
+      "name": "彭城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/彭城镇"
+    },
+    {
+      "code": "511381104",
+      "name": "玉台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/玉台镇"
+    },
+    {
+      "code": "511381105",
+      "name": "柏垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/柏垭镇"
+    },
+    {
+      "code": "511381106",
+      "name": "飞凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/飞凤镇"
+    },
+    {
+      "code": "511381107",
+      "name": "思依镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/思依镇"
+    },
+    {
+      "code": "511381108",
+      "name": "文成镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/文成镇"
+    },
+    {
+      "code": "511381109",
+      "name": "二龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/二龙镇"
+    },
+    {
+      "code": "511381110",
+      "name": "石滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/石滩镇"
+    },
+    {
+      "code": "511381111",
+      "name": "老观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/老观镇"
+    },
+    {
+      "code": "511381112",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/龙泉镇"
+    },
+    {
+      "code": "511381113",
+      "name": "千佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/千佛镇"
+    },
+    {
+      "code": "511381114",
+      "name": "望垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/望垭镇"
+    },
+    {
+      "code": "511381116",
+      "name": "妙高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/妙高镇"
+    },
+    {
+      "code": "511381117",
+      "name": "洪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/洪山镇"
+    },
+    {
+      "code": "511381120",
+      "name": "水观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/水观镇"
+    },
+    {
+      "code": "511381121",
+      "name": "金垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/金垭镇"
+    },
+    {
+      "code": "511381124",
+      "name": "五马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/五马镇"
+    },
+    {
+      "code": "511381125",
+      "name": "木兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/木兰镇"
+    },
+    {
+      "code": "511381126",
+      "name": "天宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/天宫镇"
+    },
+    {
+      "code": "511381207",
+      "name": "鹤峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/鹤峰乡"
+    },
+    {
+      "code": "511381212",
+      "name": "桥楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/桥楼乡"
+    },
+    {
+      "code": "511381214",
+      "name": "峰占乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/峰占乡"
+    },
+    {
+      "code": "511381219",
+      "name": "博树回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511381",
+      "year": 0,
+      "name_path": "四川省/南充市/阆中市/博树回族乡"
+    }
+  ]
+}

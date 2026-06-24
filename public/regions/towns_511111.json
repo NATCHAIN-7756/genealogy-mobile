@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "511111002",
+      "name": "铜河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/铜河街道"
+    },
+    {
+      "code": "511111100",
+      "name": "沙湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/沙湾镇"
+    },
+    {
+      "code": "511111101",
+      "name": "嘉农镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/嘉农镇"
+    },
+    {
+      "code": "511111102",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/太平镇"
+    },
+    {
+      "code": "511111103",
+      "name": "福禄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/福禄镇"
+    },
+    {
+      "code": "511111104",
+      "name": "牛石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/牛石镇"
+    },
+    {
+      "code": "511111106",
+      "name": "葫芦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/葫芦镇"
+    },
+    {
+      "code": "511111107",
+      "name": "踏水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/踏水镇"
+    },
+    {
+      "code": "511111108",
+      "name": "轸溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511111",
+      "year": 0,
+      "name_path": "四川省/乐山市/沙湾区/轸溪镇"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "532302100",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/金山镇"
+    },
+    {
+      "code": "532302101",
+      "name": "仁兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/仁兴镇"
+    },
+    {
+      "code": "532302102",
+      "name": "碧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/碧城镇"
+    },
+    {
+      "code": "532302103",
+      "name": "勤丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/勤丰镇"
+    },
+    {
+      "code": "532302104",
+      "name": "一平浪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/一平浪镇"
+    },
+    {
+      "code": "532302105",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/和平镇"
+    },
+    {
+      "code": "532302106",
+      "name": "广通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/广通镇"
+    },
+    {
+      "code": "532302107",
+      "name": "黑井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/黑井镇"
+    },
+    {
+      "code": "532302108",
+      "name": "土官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/土官镇"
+    },
+    {
+      "code": "532302109",
+      "name": "彩云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/彩云镇"
+    },
+    {
+      "code": "532302110",
+      "name": "恐龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/恐龙山镇"
+    },
+    {
+      "code": "532302200",
+      "name": "中村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/中村乡"
+    },
+    {
+      "code": "532302205",
+      "name": "高峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/高峰乡"
+    },
+    {
+      "code": "532302206",
+      "name": "妥安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532302",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/禄丰市/妥安乡"
+    }
+  ]
+}

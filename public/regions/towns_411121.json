@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "411121100",
+      "name": "舞泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/舞泉镇"
+    },
+    {
+      "code": "411121101",
+      "name": "吴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/吴城镇"
+    },
+    {
+      "code": "411121102",
+      "name": "北舞渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/北舞渡镇"
+    },
+    {
+      "code": "411121103",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/莲花镇"
+    },
+    {
+      "code": "411121104",
+      "name": "辛安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/辛安镇"
+    },
+    {
+      "code": "411121105",
+      "name": "孟寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/孟寨镇"
+    },
+    {
+      "code": "411121106",
+      "name": "太尉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/太尉镇"
+    },
+    {
+      "code": "411121107",
+      "name": "侯集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/侯集镇"
+    },
+    {
+      "code": "411121108",
+      "name": "九街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/九街镇"
+    },
+    {
+      "code": "411121109",
+      "name": "章化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/章化镇"
+    },
+    {
+      "code": "411121200",
+      "name": "文峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/文峰乡"
+    },
+    {
+      "code": "411121201",
+      "name": "保和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/保和乡"
+    },
+    {
+      "code": "411121202",
+      "name": "马村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/马村乡"
+    },
+    {
+      "code": "411121204",
+      "name": "姜店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411121",
+      "year": 0,
+      "name_path": "河南省/漯河市/舞阳县/姜店乡"
+    }
+  ]
+}

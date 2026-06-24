@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "code": "210921001",
+      "name": "城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/城区街道"
+    },
+    {
+      "code": "210921100",
+      "name": "阜新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/阜新镇"
+    },
+    {
+      "code": "210921102",
+      "name": "东梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/东梁镇"
+    },
+    {
+      "code": "210921103",
+      "name": "佛寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/佛寺镇"
+    },
+    {
+      "code": "210921104",
+      "name": "伊吗图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/伊吗图镇"
+    },
+    {
+      "code": "210921105",
+      "name": "旧庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/旧庙镇"
+    },
+    {
+      "code": "210921106",
+      "name": "务欢池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/务欢池镇"
+    },
+    {
+      "code": "210921107",
+      "name": "建设镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/建设镇"
+    },
+    {
+      "code": "210921108",
+      "name": "大巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/大巴镇"
+    },
+    {
+      "code": "210921109",
+      "name": "泡子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/泡子镇"
+    },
+    {
+      "code": "210921110",
+      "name": "十家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/十家子镇"
+    },
+    {
+      "code": "210921111",
+      "name": "王府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/王府镇"
+    },
+    {
+      "code": "210921112",
+      "name": "于寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/于寺镇"
+    },
+    {
+      "code": "210921113",
+      "name": "富荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/富荣镇"
+    },
+    {
+      "code": "210921114",
+      "name": "新民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/新民镇"
+    },
+    {
+      "code": "210921115",
+      "name": "福兴地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/福兴地镇"
+    },
+    {
+      "code": "210921116",
+      "name": "平安地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/平安地镇"
+    },
+    {
+      "code": "210921117",
+      "name": "沙拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/沙拉镇"
+    },
+    {
+      "code": "210921118",
+      "name": "大固本镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/大固本镇"
+    },
+    {
+      "code": "210921119",
+      "name": "大五家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/大五家子镇"
+    },
+    {
+      "code": "210921120",
+      "name": "大板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/大板镇"
+    },
+    {
+      "code": "210921121",
+      "name": "招束沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/招束沟镇"
+    },
+    {
+      "code": "210921122",
+      "name": "八家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/八家子镇"
+    },
+    {
+      "code": "210921123",
+      "name": "扎兰营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/扎兰营子镇"
+    },
+    {
+      "code": "210921124",
+      "name": "塔营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/塔营子镇"
+    },
+    {
+      "code": "210921125",
+      "name": "红帽子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/红帽子镇"
+    },
+    {
+      "code": "210921126",
+      "name": "蜘蛛山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/蜘蛛山镇"
+    },
+    {
+      "code": "210921127",
+      "name": "七家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/七家子镇"
+    },
+    {
+      "code": "210921128",
+      "name": "紫都台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/紫都台镇"
+    },
+    {
+      "code": "210921129",
+      "name": "化石戈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/化石戈镇"
+    },
+    {
+      "code": "210921130",
+      "name": "哈达户稍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/哈达户稍镇"
+    },
+    {
+      "code": "210921131",
+      "name": "老河土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/老河土镇"
+    },
+    {
+      "code": "210921132",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/太平镇"
+    },
+    {
+      "code": "210921203",
+      "name": "卧凤沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/卧凤沟乡"
+    },
+    {
+      "code": "210921211",
+      "name": "苍土乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/苍土乡"
+    },
+    {
+      "code": "210921222",
+      "name": "国华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210921",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/阜新蒙古族自治县/国华乡"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "340705007",
+      "name": "东郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340705",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/铜官区/东郊街道"
+    },
+    {
+      "code": "340705008",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340705",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/铜官区/新城街道"
+    },
+    {
+      "code": "340705100",
+      "name": "西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340705",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/铜官区/西湖镇"
+    }
+  ]
+}

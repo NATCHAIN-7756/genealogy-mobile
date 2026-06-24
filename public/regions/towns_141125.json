@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "141125100",
+      "name": "柳林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/柳林镇"
+    },
+    {
+      "code": "141125101",
+      "name": "穆村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/穆村镇"
+    },
+    {
+      "code": "141125102",
+      "name": "薛村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/薛村镇"
+    },
+    {
+      "code": "141125103",
+      "name": "庄上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/庄上镇"
+    },
+    {
+      "code": "141125104",
+      "name": "留誉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/留誉镇"
+    },
+    {
+      "code": "141125105",
+      "name": "下三交镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/下三交镇"
+    },
+    {
+      "code": "141125106",
+      "name": "成家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/成家庄镇"
+    },
+    {
+      "code": "141125107",
+      "name": "孟门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/孟门镇"
+    },
+    {
+      "code": "141125108",
+      "name": "金家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/金家庄镇"
+    },
+    {
+      "code": "141125109",
+      "name": "陈家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/陈家湾镇"
+    },
+    {
+      "code": "141125200",
+      "name": "李家湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/李家湾乡"
+    },
+    {
+      "code": "141125201",
+      "name": "贾家垣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/贾家垣乡"
+    },
+    {
+      "code": "141125204",
+      "name": "高家沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/高家沟乡"
+    },
+    {
+      "code": "141125205",
+      "name": "石西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/石西乡"
+    },
+    {
+      "code": "141125206",
+      "name": "西王家沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141125",
+      "year": 0,
+      "name_path": "山西省/吕梁市/柳林县/西王家沟乡"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "430525001",
+      "name": "文昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/文昌街道"
+    },
+    {
+      "code": "430525002",
+      "name": "雪峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/雪峰街道"
+    },
+    {
+      "code": "430525003",
+      "name": "花古街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/花古街道"
+    },
+    {
+      "code": "430525101",
+      "name": "江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/江口镇"
+    },
+    {
+      "code": "430525102",
+      "name": "毓兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/毓兰镇"
+    },
+    {
+      "code": "430525103",
+      "name": "高沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/高沙镇"
+    },
+    {
+      "code": "430525104",
+      "name": "竹市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/竹市镇"
+    },
+    {
+      "code": "430525105",
+      "name": "石江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/石江镇"
+    },
+    {
+      "code": "430525106",
+      "name": "黄桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/黄桥镇"
+    },
+    {
+      "code": "430525107",
+      "name": "山门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/山门镇"
+    },
+    {
+      "code": "430525108",
+      "name": "醪田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/醪田镇"
+    },
+    {
+      "code": "430525109",
+      "name": "花园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/花园镇"
+    },
+    {
+      "code": "430525110",
+      "name": "岩山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/岩山镇"
+    },
+    {
+      "code": "430525111",
+      "name": "水东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/水东镇"
+    },
+    {
+      "code": "430525112",
+      "name": "杨林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/杨林镇"
+    },
+    {
+      "code": "430525113",
+      "name": "石柱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/石柱镇"
+    },
+    {
+      "code": "430525114",
+      "name": "月溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/月溪镇"
+    },
+    {
+      "code": "430525201",
+      "name": "古楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/古楼乡"
+    },
+    {
+      "code": "430525202",
+      "name": "长塘瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/长塘瑶族乡"
+    },
+    {
+      "code": "430525203",
+      "name": "𦰡溪瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/𦰡溪瑶族乡"
+    },
+    {
+      "code": "430525205",
+      "name": "渣坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/渣坪乡"
+    },
+    {
+      "code": "430525211",
+      "name": "桐山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/桐山乡"
+    },
+    {
+      "code": "430525212",
+      "name": "大屋瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430525",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/洞口县/大屋瑶族乡"
+    }
+  ]
+}

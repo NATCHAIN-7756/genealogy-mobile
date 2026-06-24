@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "640121001",
+      "name": "团结西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/团结西路街道"
+    },
+    {
+      "code": "640121100",
+      "name": "杨和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/杨和镇"
+    },
+    {
+      "code": "640121101",
+      "name": "李俊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/李俊镇"
+    },
+    {
+      "code": "640121102",
+      "name": "望远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/望远镇"
+    },
+    {
+      "code": "640121103",
+      "name": "望洪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/望洪镇"
+    },
+    {
+      "code": "640121104",
+      "name": "闽宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/闽宁镇"
+    },
+    {
+      "code": "640121200",
+      "name": "胜利乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640121",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/永宁县/胜利乡"
+    }
+  ]
+}

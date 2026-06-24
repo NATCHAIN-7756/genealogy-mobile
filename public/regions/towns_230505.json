@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "230505001",
+      "name": "振兴中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230505",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/四方台区/振兴中路街道"
+    },
+    {
+      "code": "230505002",
+      "name": "振兴东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230505",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/四方台区/振兴东路街道"
+    },
+    {
+      "code": "230505004",
+      "name": "集贤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230505",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/四方台区/集贤街道"
+    },
+    {
+      "code": "230505005",
+      "name": "东荣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230505",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/四方台区/东荣街道"
+    },
+    {
+      "code": "230505101",
+      "name": "太保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230505",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/四方台区/太保镇"
+    }
+  ]
+}

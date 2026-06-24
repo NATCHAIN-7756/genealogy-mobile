@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450423100",
+      "name": "蒙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/蒙山镇"
+    },
+    {
+      "code": "450423101",
+      "name": "西河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/西河镇"
+    },
+    {
+      "code": "450423102",
+      "name": "新圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/新圩镇"
+    },
+    {
+      "code": "450423103",
+      "name": "文圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/文圩镇"
+    },
+    {
+      "code": "450423104",
+      "name": "黄村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/黄村镇"
+    },
+    {
+      "code": "450423105",
+      "name": "陈塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/陈塘镇"
+    },
+    {
+      "code": "450423200",
+      "name": "汉豪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/汉豪乡"
+    },
+    {
+      "code": "450423201",
+      "name": "长坪瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/长坪瑶族乡"
+    },
+    {
+      "code": "450423202",
+      "name": "夏宜瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450423",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/蒙山县/夏宜瑶族乡"
+    }
+  ]
+}

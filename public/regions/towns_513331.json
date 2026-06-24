@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "513331100",
+      "name": "建设镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/建设镇"
+    },
+    {
+      "code": "513331101",
+      "name": "阿察镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/阿察镇"
+    },
+    {
+      "code": "513331102",
+      "name": "河坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/河坡镇"
+    },
+    {
+      "code": "513331103",
+      "name": "盖玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/盖玉镇"
+    },
+    {
+      "code": "513331201",
+      "name": "绒盖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/绒盖乡"
+    },
+    {
+      "code": "513331202",
+      "name": "章都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/章都乡"
+    },
+    {
+      "code": "513331203",
+      "name": "麻绒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/麻绒乡"
+    },
+    {
+      "code": "513331205",
+      "name": "热加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/热加乡"
+    },
+    {
+      "code": "513331206",
+      "name": "登龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/登龙乡"
+    },
+    {
+      "code": "513331207",
+      "name": "赠科乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/赠科乡"
+    },
+    {
+      "code": "513331210",
+      "name": "辽西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/辽西乡"
+    },
+    {
+      "code": "513331211",
+      "name": "纳塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/纳塔乡"
+    },
+    {
+      "code": "513331212",
+      "name": "麻邛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/麻邛乡"
+    },
+    {
+      "code": "513331214",
+      "name": "沙马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/沙马乡"
+    },
+    {
+      "code": "513331215",
+      "name": "安孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/安孜乡"
+    },
+    {
+      "code": "513331216",
+      "name": "金沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513331",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/白玉县/金沙乡"
+    }
+  ]
+}

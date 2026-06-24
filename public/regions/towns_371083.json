@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "371083001",
+      "name": "城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/城区街道"
+    },
+    {
+      "code": "371083100",
+      "name": "夏村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/夏村镇"
+    },
+    {
+      "code": "371083101",
+      "name": "乳山口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/乳山口镇"
+    },
+    {
+      "code": "371083102",
+      "name": "海阳所镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/海阳所镇"
+    },
+    {
+      "code": "371083103",
+      "name": "白沙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/白沙滩镇"
+    },
+    {
+      "code": "371083104",
+      "name": "大孤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/大孤山镇"
+    },
+    {
+      "code": "371083105",
+      "name": "南黄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/南黄镇"
+    },
+    {
+      "code": "371083106",
+      "name": "冯家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/冯家镇"
+    },
+    {
+      "code": "371083107",
+      "name": "下初镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/下初镇"
+    },
+    {
+      "code": "371083108",
+      "name": "午极镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/午极镇"
+    },
+    {
+      "code": "371083109",
+      "name": "育黎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/育黎镇"
+    },
+    {
+      "code": "371083110",
+      "name": "崖子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/崖子镇"
+    },
+    {
+      "code": "371083111",
+      "name": "诸往镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/诸往镇"
+    },
+    {
+      "code": "371083112",
+      "name": "乳山寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/乳山寨镇"
+    },
+    {
+      "code": "371083113",
+      "name": "徐家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371083",
+      "year": 0,
+      "name_path": "山东省/威海市/乳山市/徐家镇"
+    }
+  ]
+}

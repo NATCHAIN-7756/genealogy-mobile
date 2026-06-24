@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "500107001",
+      "name": "杨家坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/杨家坪街道"
+    },
+    {
+      "code": "500107002",
+      "name": "黄桷坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/黄桷坪街道"
+    },
+    {
+      "code": "500107003",
+      "name": "谢家湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/谢家湾街道"
+    },
+    {
+      "code": "500107004",
+      "name": "石坪桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/石坪桥街道"
+    },
+    {
+      "code": "500107006",
+      "name": "中梁山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/中梁山街道"
+    },
+    {
+      "code": "500107007",
+      "name": "渝州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/渝州路街道"
+    },
+    {
+      "code": "500107008",
+      "name": "石桥铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/石桥铺街道"
+    },
+    {
+      "code": "500107009",
+      "name": "二郎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/二郎街道"
+    },
+    {
+      "code": "500107010",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/九龙街道"
+    },
+    {
+      "code": "500107102",
+      "name": "华岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/华岩镇"
+    },
+    {
+      "code": "500107103",
+      "name": "含谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/含谷镇"
+    },
+    {
+      "code": "500107104",
+      "name": "金凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/金凤镇"
+    },
+    {
+      "code": "500107105",
+      "name": "白市驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/白市驿镇"
+    },
+    {
+      "code": "500107106",
+      "name": "走马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/走马镇"
+    },
+    {
+      "code": "500107107",
+      "name": "石板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/石板镇"
+    },
+    {
+      "code": "500107108",
+      "name": "巴福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/巴福镇"
+    },
+    {
+      "code": "500107109",
+      "name": "陶家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/陶家镇"
+    },
+    {
+      "code": "500107110",
+      "name": "西彭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/西彭镇"
+    },
+    {
+      "code": "500107111",
+      "name": "铜罐驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500107",
+      "year": 0,
+      "name_path": "重庆市/九龙坡区/铜罐驿镇"
+    }
+  ]
+}

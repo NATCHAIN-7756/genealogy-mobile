@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "632522100",
+      "name": "尕巴松多镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632522",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/同德县/尕巴松多镇"
+    },
+    {
+      "code": "632522101",
+      "name": "唐谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632522",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/同德县/唐谷镇"
+    },
+    {
+      "code": "632522200",
+      "name": "巴沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632522",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/同德县/巴沟乡"
+    },
+    {
+      "code": "632522203",
+      "name": "秀麻乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632522",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/同德县/秀麻乡"
+    },
+    {
+      "code": "632522204",
+      "name": "河北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632522",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/同德县/河北乡"
+    }
+  ]
+}

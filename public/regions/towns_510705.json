@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "510705100",
+      "name": "花荄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/花荄镇"
+    },
+    {
+      "code": "510705102",
+      "name": "桑枣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/桑枣镇"
+    },
+    {
+      "code": "510705103",
+      "name": "黄土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/黄土镇"
+    },
+    {
+      "code": "510705104",
+      "name": "塔水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/塔水镇"
+    },
+    {
+      "code": "510705105",
+      "name": "秀水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/秀水镇"
+    },
+    {
+      "code": "510705106",
+      "name": "河清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/河清镇"
+    },
+    {
+      "code": "510705108",
+      "name": "界牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/界牌镇"
+    },
+    {
+      "code": "510705110",
+      "name": "雎水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/雎水镇"
+    },
+    {
+      "code": "510705116",
+      "name": "千佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/千佛镇"
+    },
+    {
+      "code": "510705204",
+      "name": "高川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510705",
+      "year": 0,
+      "name_path": "四川省/绵阳市/安州区/高川乡"
+    }
+  ]
+}

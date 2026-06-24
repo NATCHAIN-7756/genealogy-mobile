@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "371526001",
+      "name": "鱼邱湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/鱼邱湖街道"
+    },
+    {
+      "code": "371526002",
+      "name": "人和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/人和街道"
+    },
+    {
+      "code": "371526003",
+      "name": "汇鑫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/汇鑫街道"
+    },
+    {
+      "code": "371526101",
+      "name": "梁村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/梁村镇"
+    },
+    {
+      "code": "371526102",
+      "name": "尹集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/尹集镇"
+    },
+    {
+      "code": "371526103",
+      "name": "清平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/清平镇"
+    },
+    {
+      "code": "371526104",
+      "name": "固河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/固河镇"
+    },
+    {
+      "code": "371526105",
+      "name": "三十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/三十里铺镇"
+    },
+    {
+      "code": "371526106",
+      "name": "琉璃寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/琉璃寺镇"
+    },
+    {
+      "code": "371526107",
+      "name": "赵寨子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/赵寨子镇"
+    },
+    {
+      "code": "371526108",
+      "name": "姜店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/姜店镇"
+    },
+    {
+      "code": "371526109",
+      "name": "杨屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371526",
+      "year": 0,
+      "name_path": "山东省/聊城市/高唐县/杨屯镇"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "410522102",
+      "name": "铜冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/铜冶镇"
+    },
+    {
+      "code": "410522106",
+      "name": "白璧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/白璧镇"
+    },
+    {
+      "code": "410522108",
+      "name": "吕村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/吕村镇"
+    },
+    {
+      "code": "410522109",
+      "name": "伦掌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/伦掌镇"
+    },
+    {
+      "code": "410522110",
+      "name": "崔家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/崔家桥镇"
+    },
+    {
+      "code": "410522111",
+      "name": "辛村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/辛村镇"
+    },
+    {
+      "code": "410522113",
+      "name": "韩陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/韩陵镇"
+    },
+    {
+      "code": "410522114",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/永和镇"
+    },
+    {
+      "code": "410522115",
+      "name": "都里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/都里镇"
+    },
+    {
+      "code": "410522116",
+      "name": "高庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/高庄镇"
+    },
+    {
+      "code": "410522117",
+      "name": "瓦店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/瓦店镇"
+    },
+    {
+      "code": "410522203",
+      "name": "磊口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/磊口乡"
+    },
+    {
+      "code": "410522204",
+      "name": "许家沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/许家沟乡"
+    },
+    {
+      "code": "410522210",
+      "name": "安丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/安丰乡"
+    },
+    {
+      "code": "410522211",
+      "name": "洪河屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/洪河屯乡"
+    },
+    {
+      "code": "410522216",
+      "name": "北郭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410522",
+      "year": 0,
+      "name_path": "河南省/安阳市/安阳县/北郭乡"
+    }
+  ]
+}

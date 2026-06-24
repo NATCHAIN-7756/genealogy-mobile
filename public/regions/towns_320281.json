@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "320281001",
+      "name": "澄江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/澄江街道"
+    },
+    {
+      "code": "320281004",
+      "name": "南闸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/南闸街道"
+    },
+    {
+      "code": "320281005",
+      "name": "云亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/云亭街道"
+    },
+    {
+      "code": "320281006",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/城东街道"
+    },
+    {
+      "code": "320281008",
+      "name": "夏港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/夏港街道"
+    },
+    {
+      "code": "320281009",
+      "name": "申港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/申港街道"
+    },
+    {
+      "code": "320281010",
+      "name": "利港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/利港街道"
+    },
+    {
+      "code": "320281101",
+      "name": "璜土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/璜土镇"
+    },
+    {
+      "code": "320281106",
+      "name": "月城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/月城镇"
+    },
+    {
+      "code": "320281107",
+      "name": "青阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/青阳镇"
+    },
+    {
+      "code": "320281108",
+      "name": "徐霞客镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/徐霞客镇"
+    },
+    {
+      "code": "320281113",
+      "name": "华士镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/华士镇"
+    },
+    {
+      "code": "320281114",
+      "name": "周庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/周庄镇"
+    },
+    {
+      "code": "320281115",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/新桥镇"
+    },
+    {
+      "code": "320281116",
+      "name": "长泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/长泾镇"
+    },
+    {
+      "code": "320281117",
+      "name": "顾山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/顾山镇"
+    },
+    {
+      "code": "320281119",
+      "name": "祝塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320281",
+      "year": 0,
+      "name_path": "江苏省/无锡市/江阴市/祝塘镇"
+    }
+  ]
+}

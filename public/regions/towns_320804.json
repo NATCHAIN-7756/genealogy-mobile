@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "320804006",
+      "name": "长江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/长江路街道"
+    },
+    {
+      "code": "320804007",
+      "name": "新渡口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/新渡口街道"
+    },
+    {
+      "code": "320804008",
+      "name": "古清口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/古清口街道"
+    },
+    {
+      "code": "320804009",
+      "name": "王家营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/王家营街道"
+    },
+    {
+      "code": "320804103",
+      "name": "南陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/南陈集镇"
+    },
+    {
+      "code": "320804104",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/马头镇"
+    },
+    {
+      "code": "320804107",
+      "name": "丁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/丁集镇"
+    },
+    {
+      "code": "320804109",
+      "name": "徐溜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/徐溜镇"
+    },
+    {
+      "code": "320804110",
+      "name": "渔沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/渔沟镇"
+    },
+    {
+      "code": "320804114",
+      "name": "三树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/三树镇"
+    },
+    {
+      "code": "320804115",
+      "name": "高家堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/高家堰镇"
+    },
+    {
+      "code": "320804116",
+      "name": "淮高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/淮高镇"
+    },
+    {
+      "code": "320804117",
+      "name": "刘老庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320804",
+      "year": 0,
+      "name_path": "江苏省/淮安市/淮阴区/刘老庄镇"
+    }
+  ]
+}

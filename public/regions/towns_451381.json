@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "451381100",
+      "name": "岭南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451381",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/合山市/岭南镇"
+    },
+    {
+      "code": "451381101",
+      "name": "北泗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451381",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/合山市/北泗镇"
+    },
+    {
+      "code": "451381102",
+      "name": "河里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451381",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/合山市/河里镇"
+    }
+  ]
+}

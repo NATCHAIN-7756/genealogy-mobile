@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "220302",
+      "name": "铁西区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220300",
+      "year": 0,
+      "name_path": "全国/吉林省/四平市/铁西区"
+    },
+    {
+      "code": "220303",
+      "name": "铁东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220300",
+      "year": 0,
+      "name_path": "全国/吉林省/四平市/铁东区"
+    },
+    {
+      "code": "220322",
+      "name": "梨树县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220300",
+      "year": 0,
+      "name_path": "全国/吉林省/四平市/梨树县"
+    },
+    {
+      "code": "220323",
+      "name": "伊通满族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220300",
+      "year": 0,
+      "name_path": "全国/吉林省/四平市/伊通满族自治县"
+    },
+    {
+      "code": "220382",
+      "name": "双辽市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220300",
+      "year": 0,
+      "name_path": "全国/吉林省/四平市/双辽市"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "532503001",
+      "name": "文澜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/文澜街道"
+    },
+    {
+      "code": "532503002",
+      "name": "雨过铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/雨过铺街道"
+    },
+    {
+      "code": "532503003",
+      "name": "观澜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/观澜街道"
+    },
+    {
+      "code": "532503004",
+      "name": "文萃街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/文萃街道"
+    },
+    {
+      "code": "532503005",
+      "name": "新安所街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/新安所街道"
+    },
+    {
+      "code": "532503101",
+      "name": "草坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/草坝镇"
+    },
+    {
+      "code": "532503104",
+      "name": "芷村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/芷村镇"
+    },
+    {
+      "code": "532503106",
+      "name": "鸣鹫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/鸣鹫镇"
+    },
+    {
+      "code": "532503109",
+      "name": "冷泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/冷泉镇"
+    },
+    {
+      "code": "532503200",
+      "name": "期路白苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/期路白苗族乡"
+    },
+    {
+      "code": "532503201",
+      "name": "老寨苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/老寨苗族乡"
+    },
+    {
+      "code": "532503202",
+      "name": "水田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/水田乡"
+    },
+    {
+      "code": "532503203",
+      "name": "西北勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532503",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/蒙自市/西北勒乡"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "320613001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/城东街道"
+    },
+    {
+      "code": "320613002",
+      "name": "和平桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/和平桥街道"
+    },
+    {
+      "code": "320613003",
+      "name": "任港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/任港街道"
+    },
+    {
+      "code": "320613004",
+      "name": "新城桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/新城桥街道"
+    },
+    {
+      "code": "320613005",
+      "name": "虹桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/虹桥街道"
+    },
+    {
+      "code": "320613006",
+      "name": "学田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/学田街道"
+    },
+    {
+      "code": "320613007",
+      "name": "钟秀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/钟秀街道"
+    },
+    {
+      "code": "320613008",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/文峰街道"
+    },
+    {
+      "code": "320613009",
+      "name": "观音山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/观音山街道"
+    },
+    {
+      "code": "320613010",
+      "name": "狼山镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/狼山镇街道"
+    },
+    {
+      "code": "320613011",
+      "name": "新开街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/新开街道"
+    },
+    {
+      "code": "320613012",
+      "name": "中兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/中兴街道"
+    },
+    {
+      "code": "320613013",
+      "name": "小海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/小海街道"
+    },
+    {
+      "code": "320613014",
+      "name": "竹行街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/竹行街道"
+    },
+    {
+      "code": "320613015",
+      "name": "江海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/江海街道"
+    },
+    {
+      "code": "320613016",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/永兴街道"
+    },
+    {
+      "code": "320613017",
+      "name": "唐闸镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/唐闸镇街道"
+    },
+    {
+      "code": "320613018",
+      "name": "天生港镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/天生港镇街道"
+    },
+    {
+      "code": "320613019",
+      "name": "秦灶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/秦灶街道"
+    },
+    {
+      "code": "320613020",
+      "name": "陈桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/陈桥街道"
+    },
+    {
+      "code": "320613021",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320613",
+      "year": 0,
+      "name_path": "江苏省/南通市/崇川区/幸福街道"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "371324001",
+      "name": "卞庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/卞庄街道"
+    },
+    {
+      "code": "371324002",
+      "name": "苍山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/苍山街道"
+    },
+    {
+      "code": "371324101",
+      "name": "大仲村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/大仲村镇"
+    },
+    {
+      "code": "371324102",
+      "name": "兰陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/兰陵镇"
+    },
+    {
+      "code": "371324103",
+      "name": "长城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/长城镇"
+    },
+    {
+      "code": "371324104",
+      "name": "磨山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/磨山镇"
+    },
+    {
+      "code": "371324105",
+      "name": "神山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/神山镇"
+    },
+    {
+      "code": "371324106",
+      "name": "车辋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/车辋镇"
+    },
+    {
+      "code": "371324107",
+      "name": "尚岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/尚岩镇"
+    },
+    {
+      "code": "371324108",
+      "name": "向城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/向城镇"
+    },
+    {
+      "code": "371324109",
+      "name": "新兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/新兴镇"
+    },
+    {
+      "code": "371324110",
+      "name": "南桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/南桥镇"
+    },
+    {
+      "code": "371324112",
+      "name": "庄坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/庄坞镇"
+    },
+    {
+      "code": "371324113",
+      "name": "矿坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/矿坑镇"
+    },
+    {
+      "code": "371324114",
+      "name": "鲁城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/鲁城镇"
+    },
+    {
+      "code": "371324115",
+      "name": "芦柞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/芦柞镇"
+    },
+    {
+      "code": "371324202",
+      "name": "下村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371324",
+      "year": 0,
+      "name_path": "山东省/临沂市/兰陵县/下村乡"
+    }
+  ]
+}

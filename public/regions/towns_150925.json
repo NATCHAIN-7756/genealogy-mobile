@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150925100",
+      "name": "岱海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/岱海镇"
+    },
+    {
+      "code": "150925101",
+      "name": "麦胡图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/麦胡图镇"
+    },
+    {
+      "code": "150925102",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/永兴镇"
+    },
+    {
+      "code": "150925103",
+      "name": "六苏木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/六苏木镇"
+    },
+    {
+      "code": "150925104",
+      "name": "蛮汉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/蛮汉镇"
+    },
+    {
+      "code": "150925105",
+      "name": "鸿茅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/鸿茅镇"
+    },
+    {
+      "code": "150925204",
+      "name": "天成乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/天成乡"
+    },
+    {
+      "code": "150925207",
+      "name": "曹碾满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150925",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/凉城县/曹碾满族乡"
+    }
+  ]
+}

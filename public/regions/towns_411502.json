@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "411502001",
+      "name": "老城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/老城街道"
+    },
+    {
+      "code": "411502002",
+      "name": "民权街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/民权街道"
+    },
+    {
+      "code": "411502003",
+      "name": "车站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/车站街道"
+    },
+    {
+      "code": "411502004",
+      "name": "五里墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/五里墩街道"
+    },
+    {
+      "code": "411502005",
+      "name": "五星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/五星街道"
+    },
+    {
+      "code": "411502006",
+      "name": "金牛山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/金牛山街道"
+    },
+    {
+      "code": "411502007",
+      "name": "南湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/南湾街道"
+    },
+    {
+      "code": "411502008",
+      "name": "湖东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/湖东街道"
+    },
+    {
+      "code": "411502009",
+      "name": "双井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/双井街道"
+    },
+    {
+      "code": "411502101",
+      "name": "吴家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/吴家店镇"
+    },
+    {
+      "code": "411502102",
+      "name": "东双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/东双河镇"
+    },
+    {
+      "code": "411502103",
+      "name": "李家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/李家寨镇"
+    },
+    {
+      "code": "411502104",
+      "name": "董家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/董家河镇"
+    },
+    {
+      "code": "411502105",
+      "name": "浉河港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/浉河港镇"
+    },
+    {
+      "code": "411502106",
+      "name": "游河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/游河镇"
+    },
+    {
+      "code": "411502206",
+      "name": "谭家河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/谭家河乡"
+    },
+    {
+      "code": "411502207",
+      "name": "柳林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/柳林乡"
+    },
+    {
+      "code": "411502208",
+      "name": "十三里桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411502",
+      "year": 0,
+      "name_path": "河南省/信阳市/浉河区/十三里桥乡"
+    }
+  ]
+}

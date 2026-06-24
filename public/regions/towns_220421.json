@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "220421001",
+      "name": "吉鹿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/吉鹿街道"
+    },
+    {
+      "code": "220421002",
+      "name": "祥鹿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/祥鹿街道"
+    },
+    {
+      "code": "220421003",
+      "name": "福鹿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/福鹿街道"
+    },
+    {
+      "code": "220421100",
+      "name": "东丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/东丰镇"
+    },
+    {
+      "code": "220421101",
+      "name": "大阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/大阳镇"
+    },
+    {
+      "code": "220421102",
+      "name": "横道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/横道河镇"
+    },
+    {
+      "code": "220421103",
+      "name": "那丹伯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/那丹伯镇"
+    },
+    {
+      "code": "220421104",
+      "name": "猴石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/猴石镇"
+    },
+    {
+      "code": "220421105",
+      "name": "杨木林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/杨木林镇"
+    },
+    {
+      "code": "220421106",
+      "name": "小四平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/小四平镇"
+    },
+    {
+      "code": "220421107",
+      "name": "黄河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/黄河镇"
+    },
+    {
+      "code": "220421108",
+      "name": "拉拉河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/拉拉河镇"
+    },
+    {
+      "code": "220421109",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/沙河镇"
+    },
+    {
+      "code": "220421110",
+      "name": "南屯基镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/南屯基镇"
+    },
+    {
+      "code": "220421111",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/大兴镇"
+    },
+    {
+      "code": "220421201",
+      "name": "三合满族朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/三合满族朝鲜族乡"
+    },
+    {
+      "code": "220421207",
+      "name": "二龙山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220421",
+      "year": 0,
+      "name_path": "吉林省/辽源市/东丰县/二龙山乡"
+    }
+  ]
+}

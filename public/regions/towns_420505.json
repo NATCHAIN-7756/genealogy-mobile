@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "420505001",
+      "name": "古老背街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420505",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/猇亭区/古老背街道"
+    },
+    {
+      "code": "420505002",
+      "name": "虎牙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420505",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/猇亭区/虎牙街道"
+    },
+    {
+      "code": "420505003",
+      "name": "云池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420505",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/猇亭区/云池街道"
+    }
+  ]
+}

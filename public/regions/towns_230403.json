@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "230403001",
+      "name": "育才路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230403",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/工农区/育才路街道"
+    },
+    {
+      "code": "230403002",
+      "name": "团结路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230403",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/工农区/团结路街道"
+    },
+    {
+      "code": "230403003",
+      "name": "湖滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230403",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/工农区/湖滨街道"
+    },
+    {
+      "code": "230403004",
+      "name": "解放路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230403",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/工农区/解放路街道"
+    },
+    {
+      "code": "230403005",
+      "name": "新南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230403",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/工农区/新南街道"
+    },
+    {
+      "code": "230403006",
+      "name": "红旗路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230403",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/工农区/红旗路街道"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "540124100",
+      "name": "曲水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540124",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/曲水县/曲水镇"
+    },
+    {
+      "code": "540124101",
+      "name": "达嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540124",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/曲水县/达嘎镇"
+    },
+    {
+      "code": "540124102",
+      "name": "才纳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540124",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/曲水县/才纳镇"
+    },
+    {
+      "code": "540124103",
+      "name": "聂当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540124",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/曲水县/聂当镇"
+    },
+    {
+      "code": "540124202",
+      "name": "南木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540124",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/曲水县/南木乡"
+    },
+    {
+      "code": "540124204",
+      "name": "茶巴拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540124",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/曲水县/茶巴拉乡"
+    }
+  ]
+}

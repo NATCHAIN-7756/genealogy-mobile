@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "532301001",
+      "name": "鹿城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/鹿城街道"
+    },
+    {
+      "code": "532301002",
+      "name": "彝海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/彝海街道"
+    },
+    {
+      "code": "532301003",
+      "name": "东瓜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/东瓜街道"
+    },
+    {
+      "code": "532301103",
+      "name": "吕合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/吕合镇"
+    },
+    {
+      "code": "532301104",
+      "name": "东华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/东华镇"
+    },
+    {
+      "code": "532301105",
+      "name": "子午镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/子午镇"
+    },
+    {
+      "code": "532301108",
+      "name": "苍岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/苍岭镇"
+    },
+    {
+      "code": "532301109",
+      "name": "三街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/三街镇"
+    },
+    {
+      "code": "532301110",
+      "name": "中山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/中山镇"
+    },
+    {
+      "code": "532301111",
+      "name": "八角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/八角镇"
+    },
+    {
+      "code": "532301112",
+      "name": "紫溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/紫溪镇"
+    },
+    {
+      "code": "532301113",
+      "name": "新村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/新村镇"
+    },
+    {
+      "code": "532301114",
+      "name": "西舍路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/西舍路镇"
+    },
+    {
+      "code": "532301201",
+      "name": "树苴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/树苴乡"
+    },
+    {
+      "code": "532301203",
+      "name": "大过口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/大过口乡"
+    },
+    {
+      "code": "532301205",
+      "name": "大地基乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532301",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/楚雄市/大地基乡"
+    }
+  ]
+}

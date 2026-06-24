@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "code": "130281001",
+      "name": "华明路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/华明路街道"
+    },
+    {
+      "code": "130281002",
+      "name": "文化路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/文化路街道"
+    },
+    {
+      "code": "130281100",
+      "name": "遵化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/遵化镇"
+    },
+    {
+      "code": "130281101",
+      "name": "堡子店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/堡子店镇"
+    },
+    {
+      "code": "130281102",
+      "name": "马兰峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/马兰峪镇"
+    },
+    {
+      "code": "130281103",
+      "name": "平安城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/平安城镇"
+    },
+    {
+      "code": "130281104",
+      "name": "东新庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/东新庄镇"
+    },
+    {
+      "code": "130281105",
+      "name": "新店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/新店子镇"
+    },
+    {
+      "code": "130281106",
+      "name": "党峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/党峪镇"
+    },
+    {
+      "code": "130281107",
+      "name": "地北头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/地北头镇"
+    },
+    {
+      "code": "130281108",
+      "name": "东旧寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/东旧寨镇"
+    },
+    {
+      "code": "130281109",
+      "name": "铁厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/铁厂镇"
+    },
+    {
+      "code": "130281110",
+      "name": "苏家洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/苏家洼镇"
+    },
+    {
+      "code": "130281111",
+      "name": "建明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/建明镇"
+    },
+    {
+      "code": "130281112",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/石门镇"
+    },
+    {
+      "code": "130281113",
+      "name": "崔家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/崔家庄镇"
+    },
+    {
+      "code": "130281114",
+      "name": "西留村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/西留村镇"
+    },
+    {
+      "code": "130281115",
+      "name": "兴旺寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/兴旺寨镇"
+    },
+    {
+      "code": "130281116",
+      "name": "西三里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/西三里镇"
+    },
+    {
+      "code": "130281117",
+      "name": "团瓢庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/团瓢庄镇"
+    },
+    {
+      "code": "130281118",
+      "name": "娘娘庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/娘娘庄镇"
+    },
+    {
+      "code": "130281119",
+      "name": "侯家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/侯家寨镇"
+    },
+    {
+      "code": "130281203",
+      "name": "西下营满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/西下营满族乡"
+    },
+    {
+      "code": "130281204",
+      "name": "汤泉满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/汤泉满族乡"
+    },
+    {
+      "code": "130281205",
+      "name": "东陵满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/东陵满族乡"
+    },
+    {
+      "code": "130281206",
+      "name": "刘备寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/刘备寨乡"
+    },
+    {
+      "code": "130281211",
+      "name": "小厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130281",
+      "year": 0,
+      "name_path": "河北省/唐山市/遵化市/小厂乡"
+    }
+  ]
+}

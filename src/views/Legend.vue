@@ -2,170 +2,168 @@
   <div class="legend">
     <van-nav-bar title="凡例" left-arrow @click-left="back">
       <template #right>
-        <van-icon name="edit" size="20" @click="editMode = !editMode" />
+        <van-icon name="plus" size="20" @click="showAdd = true" />
       </template>
     </van-nav-bar>
-    
-    <div class="content-card">
+
+    <van-loading v-if="loading" class="loading-center" />
+
+    <div v-else class="content-card">
       <h1 class="title">凡例</h1>
-      
-      <!-- 编纂规则 -->
-      <div class="section">
-        <h2 class="section-title">一、编纂宗旨</h2>
-        <ul class="rule-list">
-          <li>本谱以"传承家族记忆，凝聚族人情感"为宗旨，力求详实准确，实事求是。</li>
-          <li>收录范围：凡我族直系血亲及其配偶，无论男女，均在收录之列。</li>
-          <li>时间跨度：自始迁祖至今，历二十五代，六百余年。</li>
-        </ul>
-      </div>
-      
-      <!-- 世系编排 -->
-      <div class="section">
-        <h2 class="section-title">二、世系编排</h2>
-        <ul class="rule-list">
-          <li>世代顺序：以始迁祖为第一代，向下依次递增。</li>
-          <li>长幼次序：同代成员按长幼排序，长子列前。</li>
-          <li>房系分支：注明长房、二房、三房等分支。</li>
-        </ul>
-      </div>
-      
-      <!-- 符号说明 -->
-      <div class="section">
-        <h2 class="section-title">三、符号说明</h2>
-        <van-cell-group inset>
-          <van-cell title="〇" value="男性成员" />
-          <van-cell title="○" value="女性成员" />
-          <van-cell title="□" value="已故成员" />
-          <van-cell title="→" value="配偶关系" />
-          <van-cell title="↓" value="父子关系" />
-          <van-cell title="♂" value="男性" />
-          <van-cell title="♀" value="女性" />
-        </van-cell-group>
-      </div>
-      
-      <!-- 记录格式 -->
-      <div class="section">
-        <h2 class="section-title">四、记录格式</h2>
-        <ul class="rule-list">
-          <li>姓名：以正式姓名为准，括号内注明别名、字号。</li>
-          <li>生卒：格式为"生于X年X月X日，卒于X年X月X日"。</li>
-          <li>配偶：注明配偶姓名、籍贯、父名。</li>
-          <li>子女：按长幼顺序列出子女姓名。</li>
-          <li>学历：注明最高学历及毕业院校。</li>
-          <li>职业：注明主要职业及工作单位。</li>
-        </ul>
-      </div>
-      
-      <!-- 特殊说明 -->
-      <div class="section">
-        <h2 class="section-title">五、特殊说明</h2>
-        <ul class="rule-list">
-          <li>女性入谱：现代家谱女子与男子同等入谱，注明夫家姓氏。</li>
-          <li>养子入谱：经族委会认可者，注明"养子"身份。</li>
-          <li>失考者：因史料缺失，注明"失考"，待后人补充。</li>
-        </ul>
-      </div>
-      
-      <!-- 编辑弹窗 -->
-      <van-popup v-model:show="editMode" position="bottom" round style="height: 80%">
-        <van-cell-group inset style="margin: 16px">
-          <van-cell title="编辑凡例" />
-          <van-field
-            v-model="legendContent"
-            type="textarea"
-            rows="12"
-            placeholder="输入凡例内容..."
-          />
-          <div style="padding: 16px">
-            <van-button type="primary" block @click="saveLegend">保存</van-button>
+
+      <!-- 章节列表 -->
+      <div v-for="(section, index) in legends" :key="section.id" class="section">
+        <div class="section-header">
+          <h2 class="section-title">{{ section.section }}</h2>
+          <div class="section-actions">
+            <van-icon name="edit" size="18" @click="editSection(index)" />
+            <van-icon name="delete" size="18" color="#ee0a24" @click="deleteSection(section.id)" style="margin-left: 12px" />
           </div>
-        </van-cell-group>
-      </van-popup>
+        </div>
+        <ul class="rule-list">
+          <li v-for="(item, i) in section.content" :key="i">{{ item }}</li>
+        </ul>
+      </div>
+
+      <van-empty v-if="legends.length === 0" description="暂无凡例，点击右上角添加" />
     </div>
-    
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+
+    <!-- 添加/编辑弹窗 -->
+    <van-popup v-model:show="showAdd" position="bottom" round style="height: 80%">
+      <van-cell-group inset style="margin: 16px">
+        <van-cell :title="editingIndex >= 0 ? '编辑章节' : '添加章节'" />
+        <van-field v-model="form.section" label="章节标题" placeholder="如：编纂宗旨" />
+        <van-field
+          v-model="formContentText"
+          type="textarea"
+          rows="10"
+          label="内容（每行一条）"
+          placeholder="每行输入一条规则..."
+        />
+        <van-field v-model.number="form.sort_order" type="digit" label="排序号" placeholder="数字越小越靠前" />
+        <div style="padding: 16px">
+          <van-button type="primary" block @click="saveSection">保存</van-button>
+        </div>
+      </van-cell-group>
+    </van-popup>
+
+    <AppTabbar />
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, computed, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import { showToast } from 'vant'
+import { showToast, showConfirmDialog } from 'vant'
+import api from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
 const familyId = route.params.id
 const activeTabbar = ref(1)
-const editMode = ref(false)
-const legendContent = ref('')
+const loading = ref(true)
+const legends = ref([])
+const showAdd = ref(false)
+const editingIndex = ref(-1)
+const form = ref({ section: '', content: [], sort_order: 0 })
+const token = localStorage.getItem('token')
 
-function back() {
-  router.back()
-}
-
-function saveLegend() {
-  localStorage.setItem(`family_${familyId}_legend`, legendContent.value)
-  showToast('已保存')
-  editMode.value = false
-}
-
-onMounted(() => {
-  const saved = localStorage.getItem(`family_${familyId}_legend`)
-  if (saved) {
-    legendContent.value = saved
-  }
+const formContentText = computed({
+  get: () => form.value.content.join('\n'),
+  set: (val) => { form.value.content = val.split('\n').filter(x => x.trim()) }
 })
+
+function back() { router.back() }
+
+async function loadLegends() {
+  try {
+    const res = await api.get(`/legends/family/${familyId}`, {
+      headers: { Authorization: `Bearer ${token}` }
+    })
+    legends.value = res.data
+  } catch (e) {
+    console.error('加载失败:', e)
+    showToast('加载失败')
+  } finally {
+    loading.value = false
+  }
+}
+
+function editSection(index) {
+  editingIndex.value = index
+  const section = legends.value[index]
+  form.value = {
+    section: section.section,
+    content: [...section.content],
+    sort_order: section.sort_order || index
+  }
+  showAdd.value = true
+}
+
+async function deleteSection(id) {
+  try {
+    await showConfirmDialog({ title: '确认删除', message: '删除此章节？' })
+    await api.delete(`/legends/${id}`, {
+      headers: { Authorization: `Bearer ${token}` }
+    })
+    showToast('已删除')
+    loadLegends()
+  } catch (e) {
+    if (e.message !== 'cancel') {
+      console.error('删除失败:', e)
+      showToast('删除失败')
+    }
+  }
+}
+
+async function saveSection() {
+  if (!form.value.section.trim()) {
+    showToast('请输入章节标题')
+    return
+  }
+  if (form.value.content.length === 0) {
+    showToast('请输入内容')
+    return
+  }
+
+  try {
+    if (editingIndex.value >= 0) {
+      // 更新
+      const id = legends.value[editingIndex.value].id
+      await api.put(`/legends/${id}`, form.value, {
+        headers: { Authorization: `Bearer ${token}` }
+      })
+      showToast('已更新')
+    } else {
+      // 新增
+      await api.post(`/legends/family/${familyId}`, form.value, {
+        headers: { Authorization: `Bearer ${token}` }
+      })
+      showToast('已添加')
+    }
+    showAdd.value = false
+    editingIndex.value = -1
+    form.value = { section: '', content: [], sort_order: 0 }
+    loadLegends()
+  } catch (e) {
+    console.error('保存失败:', e)
+    showToast('保存失败')
+  }
+}
+
+onMounted(() => loadLegends())
 </script>
 
 <style scoped>
-.legend {
-  padding-bottom: 50px;
-  background: #f5f5f5;
-  min-height: 100vh;
-}
-
-.content-card {
-  background: #fff;
-  margin: 16px;
-  padding: 24px;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-}
-
-.title {
-  font-size: 24px;
-  font-weight: bold;
-  text-align: center;
-  color: #333;
-  margin-bottom: 24px;
-  padding-bottom: 16px;
-  border-bottom: 2px solid #667eea;
-}
-
-.section {
-  margin-bottom: 24px;
-}
-
-.section-title {
-  font-size: 16px;
-  font-weight: bold;
-  color: #333;
-  margin-bottom: 12px;
-}
-
-.rule-list {
-  padding-left: 20px;
-  font-size: 14px;
-  line-height: 2;
-  color: #666;
-}
-
-.rule-list li {
-  margin-bottom: 8px;
-}
+.legend { padding-bottom: 50px; background: #f5f5f5; min-height: 100vh; }
+.loading-center { display: flex; justify-content: center; padding-top: 100px; }
+.content-card { background: #fff; margin: 16px; padding: 24px; border-radius: 8px; }
+.title { font-size: 24px; font-weight: bold; text-align: center; color: #333; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 2px solid #667eea; }
+.section { margin-bottom: 24px; }
+.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.section-title { font-size: 16px; font-weight: bold; color: #333; margin: 0; }
+.section-actions { display: flex; align-items: center; }
+.rule-list { padding-left: 20px; font-size: 14px; line-height: 2; color: #666; margin: 0; }
+.rule-list li { margin-bottom: 8px; }
 </style>

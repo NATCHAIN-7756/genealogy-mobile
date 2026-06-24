@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "371724001",
+      "name": "永丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/永丰街道"
+    },
+    {
+      "code": "371724002",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/凤凰街道"
+    },
+    {
+      "code": "371724101",
+      "name": "龙堌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/龙堌镇"
+    },
+    {
+      "code": "371724102",
+      "name": "大义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/大义镇"
+    },
+    {
+      "code": "371724103",
+      "name": "柳林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/柳林镇"
+    },
+    {
+      "code": "371724104",
+      "name": "章缝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/章缝镇"
+    },
+    {
+      "code": "371724105",
+      "name": "大谢集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/大谢集镇"
+    },
+    {
+      "code": "371724106",
+      "name": "独山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/独山镇"
+    },
+    {
+      "code": "371724107",
+      "name": "麒麟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/麒麟镇"
+    },
+    {
+      "code": "371724108",
+      "name": "核桃园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/核桃园镇"
+    },
+    {
+      "code": "371724109",
+      "name": "田庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/田庄镇"
+    },
+    {
+      "code": "371724110",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/太平镇"
+    },
+    {
+      "code": "371724111",
+      "name": "万丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/万丰镇"
+    },
+    {
+      "code": "371724112",
+      "name": "陶庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/陶庙镇"
+    },
+    {
+      "code": "371724113",
+      "name": "董官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/董官屯镇"
+    },
+    {
+      "code": "371724114",
+      "name": "田桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/田桥镇"
+    },
+    {
+      "code": "371724115",
+      "name": "营里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371724",
+      "year": 0,
+      "name_path": "山东省/菏泽市/巨野县/营里镇"
+    }
+  ]
+}

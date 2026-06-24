@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "532901",
+      "name": "大理市",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/大理市"
+    },
+    {
+      "code": "532922",
+      "name": "漾濞彝族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/漾濞彝族自治县"
+    },
+    {
+      "code": "532923",
+      "name": "祥云县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/祥云县"
+    },
+    {
+      "code": "532924",
+      "name": "宾川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/宾川县"
+    },
+    {
+      "code": "532925",
+      "name": "弥渡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/弥渡县"
+    },
+    {
+      "code": "532926",
+      "name": "南涧彝族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/南涧彝族自治县"
+    },
+    {
+      "code": "532927",
+      "name": "巍山彝族回族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/巍山彝族回族自治县"
+    },
+    {
+      "code": "532928",
+      "name": "永平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/永平县"
+    },
+    {
+      "code": "532929",
+      "name": "云龙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/云龙县"
+    },
+    {
+      "code": "532930",
+      "name": "洱源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/洱源县"
+    },
+    {
+      "code": "532931",
+      "name": "剑川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/剑川县"
+    },
+    {
+      "code": "532932",
+      "name": "鹤庆县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532900",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州/鹤庆县"
+    }
+  ]
+}

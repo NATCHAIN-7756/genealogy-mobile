@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "360602001",
+      "name": "江边街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/江边街道"
+    },
+    {
+      "code": "360602002",
+      "name": "交通街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/交通街道"
+    },
+    {
+      "code": "360602003",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/东湖街道"
+    },
+    {
+      "code": "360602004",
+      "name": "梅园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/梅园街道"
+    },
+    {
+      "code": "360602005",
+      "name": "白露街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/白露街道"
+    },
+    {
+      "code": "360602006",
+      "name": "四青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/四青街道"
+    },
+    {
+      "code": "360602007",
+      "name": "夏埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/夏埠街道"
+    },
+    {
+      "code": "360602101",
+      "name": "童家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360602",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/月湖区/童家镇"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "360426100",
+      "name": "蒲亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/蒲亭镇"
+    },
+    {
+      "code": "360426101",
+      "name": "聂桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/聂桥镇"
+    },
+    {
+      "code": "360426102",
+      "name": "车桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/车桥镇"
+    },
+    {
+      "code": "360426103",
+      "name": "丰林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/丰林镇"
+    },
+    {
+      "code": "360426104",
+      "name": "吴山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/吴山镇"
+    },
+    {
+      "code": "360426201",
+      "name": "宝塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/宝塔乡"
+    },
+    {
+      "code": "360426202",
+      "name": "河东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/河东乡"
+    },
+    {
+      "code": "360426204",
+      "name": "高塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/高塘乡"
+    },
+    {
+      "code": "360426205",
+      "name": "林泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/林泉乡"
+    },
+    {
+      "code": "360426208",
+      "name": "磨溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/磨溪乡"
+    },
+    {
+      "code": "360426209",
+      "name": "爱民乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/爱民乡"
+    },
+    {
+      "code": "360426211",
+      "name": "邹桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/邹桥乡"
+    },
+    {
+      "code": "360426212",
+      "name": "塘山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360426",
+      "year": 0,
+      "name_path": "江西省/九江市/德安县/塘山乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "350627100",
+      "name": "山城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/山城镇"
+    },
+    {
+      "code": "350627101",
+      "name": "丰田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/丰田镇"
+    },
+    {
+      "code": "350627102",
+      "name": "靖城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/靖城镇"
+    },
+    {
+      "code": "350627103",
+      "name": "龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/龙山镇"
+    },
+    {
+      "code": "350627104",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/金山镇"
+    },
+    {
+      "code": "350627105",
+      "name": "和溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/和溪镇"
+    },
+    {
+      "code": "350627106",
+      "name": "奎洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/奎洋镇"
+    },
+    {
+      "code": "350627107",
+      "name": "梅林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/梅林镇"
+    },
+    {
+      "code": "350627108",
+      "name": "书洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/书洋镇"
+    },
+    {
+      "code": "350627109",
+      "name": "船场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/船场镇"
+    },
+    {
+      "code": "350627110",
+      "name": "南坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350627",
+      "year": 0,
+      "name_path": "福建省/漳州市/南靖县/南坑镇"
+    }
+  ]
+}

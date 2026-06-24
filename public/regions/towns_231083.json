@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "231083100",
+      "name": "海林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/海林镇"
+    },
+    {
+      "code": "231083101",
+      "name": "长汀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/长汀镇"
+    },
+    {
+      "code": "231083102",
+      "name": "横道河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/横道河子镇"
+    },
+    {
+      "code": "231083103",
+      "name": "山市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/山市镇"
+    },
+    {
+      "code": "231083104",
+      "name": "柴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/柴河镇"
+    },
+    {
+      "code": "231083105",
+      "name": "二道河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/二道河子镇"
+    },
+    {
+      "code": "231083106",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/新安镇"
+    },
+    {
+      "code": "231083107",
+      "name": "三道河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231083",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/海林市/三道河子镇"
+    }
+  ]
+}

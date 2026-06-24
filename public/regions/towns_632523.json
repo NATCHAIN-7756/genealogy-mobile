@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "632523101",
+      "name": "河阴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/河阴镇"
+    },
+    {
+      "code": "632523102",
+      "name": "河西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/河西镇"
+    },
+    {
+      "code": "632523103",
+      "name": "拉西瓦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/拉西瓦镇"
+    },
+    {
+      "code": "632523104",
+      "name": "常牧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/常牧镇"
+    },
+    {
+      "code": "632523201",
+      "name": "河东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/河东乡"
+    },
+    {
+      "code": "632523203",
+      "name": "尕让乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/尕让乡"
+    },
+    {
+      "code": "632523204",
+      "name": "新街回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632523",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵德县/新街回族乡"
+    }
+  ]
+}

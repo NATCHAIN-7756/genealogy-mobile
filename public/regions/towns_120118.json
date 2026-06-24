@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "120118001",
+      "name": "华康街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/华康街道"
+    },
+    {
+      "code": "120118002",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/朝阳街道"
+    },
+    {
+      "code": "120118100",
+      "name": "静海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/静海镇"
+    },
+    {
+      "code": "120118101",
+      "name": "唐官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/唐官屯镇"
+    },
+    {
+      "code": "120118102",
+      "name": "独流镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/独流镇"
+    },
+    {
+      "code": "120118103",
+      "name": "王口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/王口镇"
+    },
+    {
+      "code": "120118104",
+      "name": "台头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/台头镇"
+    },
+    {
+      "code": "120118105",
+      "name": "子牙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/子牙镇"
+    },
+    {
+      "code": "120118106",
+      "name": "陈官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/陈官屯镇"
+    },
+    {
+      "code": "120118107",
+      "name": "中旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/中旺镇"
+    },
+    {
+      "code": "120118108",
+      "name": "大邱庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/大邱庄镇"
+    },
+    {
+      "code": "120118109",
+      "name": "蔡公庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/蔡公庄镇"
+    },
+    {
+      "code": "120118110",
+      "name": "梁头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/梁头镇"
+    },
+    {
+      "code": "120118111",
+      "name": "团泊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/团泊镇"
+    },
+    {
+      "code": "120118112",
+      "name": "双塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/双塘镇"
+    },
+    {
+      "code": "120118113",
+      "name": "大丰堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/大丰堆镇"
+    },
+    {
+      "code": "120118114",
+      "name": "沿庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/沿庄镇"
+    },
+    {
+      "code": "120118115",
+      "name": "西翟庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/西翟庄镇"
+    },
+    {
+      "code": "120118200",
+      "name": "良王庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/良王庄乡"
+    },
+    {
+      "code": "120118201",
+      "name": "杨成庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "120118",
+      "year": 0,
+      "name_path": "天津市/静海区/杨成庄乡"
+    }
+  ]
+}

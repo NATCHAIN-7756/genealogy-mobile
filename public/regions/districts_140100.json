@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140105",
+      "name": "小店区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/小店区"
+    },
+    {
+      "code": "140106",
+      "name": "迎泽区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/迎泽区"
+    },
+    {
+      "code": "140107",
+      "name": "杏花岭区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/杏花岭区"
+    },
+    {
+      "code": "140108",
+      "name": "尖草坪区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/尖草坪区"
+    },
+    {
+      "code": "140109",
+      "name": "万柏林区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/万柏林区"
+    },
+    {
+      "code": "140110",
+      "name": "晋源区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/晋源区"
+    },
+    {
+      "code": "140121",
+      "name": "清徐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/清徐县"
+    },
+    {
+      "code": "140122",
+      "name": "阳曲县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/阳曲县"
+    },
+    {
+      "code": "140123",
+      "name": "娄烦县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/娄烦县"
+    },
+    {
+      "code": "140181",
+      "name": "古交市",
+      "level": 3,
+      "type": null,
+      "parent_code": "140100",
+      "year": 0,
+      "name_path": "全国/山西省/太原市/古交市"
+    }
+  ]
+}

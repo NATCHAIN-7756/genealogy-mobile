@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "360732100",
+      "name": "潋江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/潋江镇"
+    },
+    {
+      "code": "360732101",
+      "name": "江背镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/江背镇"
+    },
+    {
+      "code": "360732102",
+      "name": "古龙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/古龙岗镇"
+    },
+    {
+      "code": "360732103",
+      "name": "梅窖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/梅窖镇"
+    },
+    {
+      "code": "360732104",
+      "name": "高兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/高兴镇"
+    },
+    {
+      "code": "360732105",
+      "name": "良村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/良村镇"
+    },
+    {
+      "code": "360732106",
+      "name": "龙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/龙口镇"
+    },
+    {
+      "code": "360732107",
+      "name": "城岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/城岗镇"
+    },
+    {
+      "code": "360732108",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/永丰镇"
+    },
+    {
+      "code": "360732200",
+      "name": "兴江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/兴江乡"
+    },
+    {
+      "code": "360732201",
+      "name": "樟木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/樟木乡"
+    },
+    {
+      "code": "360732202",
+      "name": "东村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/东村乡"
+    },
+    {
+      "code": "360732203",
+      "name": "兴莲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/兴莲乡"
+    },
+    {
+      "code": "360732204",
+      "name": "杰村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/杰村乡"
+    },
+    {
+      "code": "360732205",
+      "name": "社富乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/社富乡"
+    },
+    {
+      "code": "360732206",
+      "name": "埠头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/埠头乡"
+    },
+    {
+      "code": "360732208",
+      "name": "隆坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/隆坪乡"
+    },
+    {
+      "code": "360732209",
+      "name": "均村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/均村乡"
+    },
+    {
+      "code": "360732210",
+      "name": "茶园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/茶园乡"
+    },
+    {
+      "code": "360732211",
+      "name": "崇贤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/崇贤乡"
+    },
+    {
+      "code": "360732212",
+      "name": "枫边乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/枫边乡"
+    },
+    {
+      "code": "360732213",
+      "name": "南坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/南坑乡"
+    },
+    {
+      "code": "360732215",
+      "name": "方太乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/方太乡"
+    },
+    {
+      "code": "360732216",
+      "name": "鼎龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/鼎龙乡"
+    },
+    {
+      "code": "360732217",
+      "name": "长冈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360732",
+      "year": 0,
+      "name_path": "江西省/赣州市/兴国县/长冈乡"
+    }
+  ]
+}

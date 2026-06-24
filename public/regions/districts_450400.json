@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "450403",
+      "name": "万秀区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/万秀区"
+    },
+    {
+      "code": "450405",
+      "name": "长洲区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/长洲区"
+    },
+    {
+      "code": "450406",
+      "name": "龙圩区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/龙圩区"
+    },
+    {
+      "code": "450421",
+      "name": "苍梧县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/苍梧县"
+    },
+    {
+      "code": "450422",
+      "name": "藤县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/藤县"
+    },
+    {
+      "code": "450423",
+      "name": "蒙山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/蒙山县"
+    },
+    {
+      "code": "450481",
+      "name": "岑溪市",
+      "level": 3,
+      "type": null,
+      "parent_code": "450400",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/梧州市/岑溪市"
+    }
+  ]
+}

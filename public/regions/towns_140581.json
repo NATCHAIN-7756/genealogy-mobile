@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "140581001",
+      "name": "北城街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/北城街街道"
+    },
+    {
+      "code": "140581002",
+      "name": "东城街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/东城街街道"
+    },
+    {
+      "code": "140581003",
+      "name": "南城街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/南城街街道"
+    },
+    {
+      "code": "140581100",
+      "name": "米山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/米山镇"
+    },
+    {
+      "code": "140581101",
+      "name": "三甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/三甲镇"
+    },
+    {
+      "code": "140581102",
+      "name": "陈区镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/陈区镇"
+    },
+    {
+      "code": "140581103",
+      "name": "北诗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/北诗镇"
+    },
+    {
+      "code": "140581104",
+      "name": "河西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/河西镇"
+    },
+    {
+      "code": "140581105",
+      "name": "马村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/马村镇"
+    },
+    {
+      "code": "140581106",
+      "name": "野川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/野川镇"
+    },
+    {
+      "code": "140581107",
+      "name": "寺庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/寺庄镇"
+    },
+    {
+      "code": "140581108",
+      "name": "神农镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/神农镇"
+    },
+    {
+      "code": "140581202",
+      "name": "建宁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/建宁乡"
+    },
+    {
+      "code": "140581204",
+      "name": "石末乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/石末乡"
+    },
+    {
+      "code": "140581207",
+      "name": "原村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140581",
+      "year": 0,
+      "name_path": "山西省/晋城市/高平市/原村乡"
+    }
+  ]
+}

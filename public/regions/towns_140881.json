@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140881001",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/城西街道"
+    },
+    {
+      "code": "140881002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/城北街道"
+    },
+    {
+      "code": "140881003",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/城东街道"
+    },
+    {
+      "code": "140881100",
+      "name": "虞乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/虞乡镇"
+    },
+    {
+      "code": "140881101",
+      "name": "卿头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/卿头镇"
+    },
+    {
+      "code": "140881102",
+      "name": "开张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/开张镇"
+    },
+    {
+      "code": "140881103",
+      "name": "栲栳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/栲栳镇"
+    },
+    {
+      "code": "140881104",
+      "name": "蒲州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/蒲州镇"
+    },
+    {
+      "code": "140881105",
+      "name": "韩阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/韩阳镇"
+    },
+    {
+      "code": "140881106",
+      "name": "张营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140881",
+      "year": 0,
+      "name_path": "山西省/运城市/永济市/张营镇"
+    }
+  ]
+}

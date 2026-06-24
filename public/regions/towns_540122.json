@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "540122100",
+      "name": "当曲卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/当曲卡镇"
+    },
+    {
+      "code": "540122101",
+      "name": "羊八井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/羊八井镇"
+    },
+    {
+      "code": "540122102",
+      "name": "纳木湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/纳木湖镇"
+    },
+    {
+      "code": "540122200",
+      "name": "格达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/格达乡"
+    },
+    {
+      "code": "540122201",
+      "name": "宁中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/宁中乡"
+    },
+    {
+      "code": "540122202",
+      "name": "公塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/公塘乡"
+    },
+    {
+      "code": "540122203",
+      "name": "龙仁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/龙仁乡"
+    },
+    {
+      "code": "540122204",
+      "name": "乌玛塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540122",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/当雄县/乌玛塘乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "511822001",
+      "name": "严道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/严道街道"
+    },
+    {
+      "code": "511822101",
+      "name": "花滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/花滩镇"
+    },
+    {
+      "code": "511822102",
+      "name": "龙苍沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/龙苍沟镇"
+    },
+    {
+      "code": "511822103",
+      "name": "牛背山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/牛背山镇"
+    },
+    {
+      "code": "511822104",
+      "name": "新添镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/新添镇"
+    },
+    {
+      "code": "511822105",
+      "name": "青龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/青龙镇"
+    },
+    {
+      "code": "511822106",
+      "name": "荥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/荥河镇"
+    },
+    {
+      "code": "511822107",
+      "name": "五宪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/五宪镇"
+    },
+    {
+      "code": "511822203",
+      "name": "安靖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/安靖乡"
+    },
+    {
+      "code": "511822205",
+      "name": "民建彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/民建彝族乡"
+    },
+    {
+      "code": "511822209",
+      "name": "泗坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/泗坪乡"
+    },
+    {
+      "code": "511822216",
+      "name": "宝峰彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511822",
+      "year": 0,
+      "name_path": "四川省/雅安市/荥经县/宝峰彝族乡"
+    }
+  ]
+}

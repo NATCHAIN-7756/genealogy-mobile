@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "441521001",
+      "name": "小漠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/小漠街道"
+    },
+    {
+      "code": "441521002",
+      "name": "鹅埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/鹅埠街道"
+    },
+    {
+      "code": "441521003",
+      "name": "赤石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/赤石街道"
+    },
+    {
+      "code": "441521004",
+      "name": "鲘门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/鲘门街道"
+    },
+    {
+      "code": "441521100",
+      "name": "海城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/海城镇"
+    },
+    {
+      "code": "441521101",
+      "name": "梅陇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/梅陇镇"
+    },
+    {
+      "code": "441521106",
+      "name": "联安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/联安镇"
+    },
+    {
+      "code": "441521107",
+      "name": "陶河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/陶河镇"
+    },
+    {
+      "code": "441521108",
+      "name": "赤坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/赤坑镇"
+    },
+    {
+      "code": "441521109",
+      "name": "大湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/大湖镇"
+    },
+    {
+      "code": "441521110",
+      "name": "可塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/可塘镇"
+    },
+    {
+      "code": "441521111",
+      "name": "公平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/公平镇"
+    },
+    {
+      "code": "441521112",
+      "name": "黄羌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/黄羌镇"
+    },
+    {
+      "code": "441521113",
+      "name": "平东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/平东镇"
+    },
+    {
+      "code": "441521114",
+      "name": "附城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/附城镇"
+    },
+    {
+      "code": "441521115",
+      "name": "城东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441521",
+      "year": 0,
+      "name_path": "广东省/汕尾市/海丰县/城东镇"
+    }
+  ]
+}

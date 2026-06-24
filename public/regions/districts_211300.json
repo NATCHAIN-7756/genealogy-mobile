@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "211302",
+      "name": "双塔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/双塔区"
+    },
+    {
+      "code": "211303",
+      "name": "龙城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/龙城区"
+    },
+    {
+      "code": "211321",
+      "name": "朝阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/朝阳县"
+    },
+    {
+      "code": "211322",
+      "name": "建平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/建平县"
+    },
+    {
+      "code": "211324",
+      "name": "喀喇沁左翼蒙古族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/喀喇沁左翼蒙古族自治县"
+    },
+    {
+      "code": "211381",
+      "name": "北票市",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/北票市"
+    },
+    {
+      "code": "211382",
+      "name": "凌源市",
+      "level": 3,
+      "type": null,
+      "parent_code": "211300",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市/凌源市"
+    }
+  ]
+}

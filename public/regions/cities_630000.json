@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "630100",
+      "name": "西宁市",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市"
+    },
+    {
+      "code": "630200",
+      "name": "海东市",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/海东市"
+    },
+    {
+      "code": "632200",
+      "name": "海北藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/海北藏族自治州"
+    },
+    {
+      "code": "632300",
+      "name": "黄南藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/黄南藏族自治州"
+    },
+    {
+      "code": "632500",
+      "name": "海南藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/海南藏族自治州"
+    },
+    {
+      "code": "632600",
+      "name": "果洛藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州"
+    },
+    {
+      "code": "632700",
+      "name": "玉树藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/玉树藏族自治州"
+    },
+    {
+      "code": "632800",
+      "name": "海西蒙古族藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "630000",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州"
+    }
+  ]
+}

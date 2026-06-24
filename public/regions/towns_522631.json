@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "522631001",
+      "name": "德凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/德凤街道"
+    },
+    {
+      "code": "522631002",
+      "name": "高屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/高屯街道"
+    },
+    {
+      "code": "522631003",
+      "name": "龙形街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/龙形街道"
+    },
+    {
+      "code": "522631102",
+      "name": "中潮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/中潮镇"
+    },
+    {
+      "code": "522631103",
+      "name": "孟彦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/孟彦镇"
+    },
+    {
+      "code": "522631104",
+      "name": "敖市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/敖市镇"
+    },
+    {
+      "code": "522631105",
+      "name": "九潮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/九潮镇"
+    },
+    {
+      "code": "522631106",
+      "name": "岩洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/岩洞镇"
+    },
+    {
+      "code": "522631107",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/水口镇"
+    },
+    {
+      "code": "522631108",
+      "name": "洪州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/洪州镇"
+    },
+    {
+      "code": "522631109",
+      "name": "尚重镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/尚重镇"
+    },
+    {
+      "code": "522631110",
+      "name": "肇兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/肇兴镇"
+    },
+    {
+      "code": "522631111",
+      "name": "龙额镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/龙额镇"
+    },
+    {
+      "code": "522631112",
+      "name": "双江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/双江镇"
+    },
+    {
+      "code": "522631113",
+      "name": "永从镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/永从镇"
+    },
+    {
+      "code": "522631114",
+      "name": "茅贡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/茅贡镇"
+    },
+    {
+      "code": "522631115",
+      "name": "地坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/地坪镇"
+    },
+    {
+      "code": "522631200",
+      "name": "顺化瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/顺化瑶族乡"
+    },
+    {
+      "code": "522631201",
+      "name": "雷洞瑶族水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/雷洞瑶族水族乡"
+    },
+    {
+      "code": "522631203",
+      "name": "罗里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/罗里乡"
+    },
+    {
+      "code": "522631205",
+      "name": "坝寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/坝寨乡"
+    },
+    {
+      "code": "522631206",
+      "name": "口江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/口江乡"
+    },
+    {
+      "code": "522631211",
+      "name": "德顺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/德顺乡"
+    },
+    {
+      "code": "522631212",
+      "name": "大稼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/大稼乡"
+    },
+    {
+      "code": "522631213",
+      "name": "平寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/平寨乡"
+    },
+    {
+      "code": "522631214",
+      "name": "德化乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522631",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黎平县/德化乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "360822100",
+      "name": "文峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/文峰镇"
+    },
+    {
+      "code": "360822101",
+      "name": "阜田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/阜田镇"
+    },
+    {
+      "code": "360822102",
+      "name": "八都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/八都镇"
+    },
+    {
+      "code": "360822103",
+      "name": "水南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/水南镇"
+    },
+    {
+      "code": "360822104",
+      "name": "枫江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/枫江镇"
+    },
+    {
+      "code": "360822105",
+      "name": "金滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/金滩镇"
+    },
+    {
+      "code": "360822106",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/白沙镇"
+    },
+    {
+      "code": "360822107",
+      "name": "白水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/白水镇"
+    },
+    {
+      "code": "360822108",
+      "name": "盘谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/盘谷镇"
+    },
+    {
+      "code": "360822109",
+      "name": "双村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/双村镇"
+    },
+    {
+      "code": "360822110",
+      "name": "醪桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/醪桥镇"
+    },
+    {
+      "code": "360822111",
+      "name": "乌江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/乌江镇"
+    },
+    {
+      "code": "360822112",
+      "name": "丁江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/丁江镇"
+    },
+    {
+      "code": "360822113",
+      "name": "黄桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/黄桥镇"
+    },
+    {
+      "code": "360822114",
+      "name": "螺田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/螺田镇"
+    },
+    {
+      "code": "360822200",
+      "name": "尚贤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/尚贤乡"
+    },
+    {
+      "code": "360822203",
+      "name": "水田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/水田乡"
+    },
+    {
+      "code": "360822207",
+      "name": "冠山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360822",
+      "year": 0,
+      "name_path": "江西省/吉安市/吉水县/冠山乡"
+    }
+  ]
+}

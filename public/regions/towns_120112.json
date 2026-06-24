@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "120112001",
+      "name": "双新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/双新街道"
+    },
+    {
+      "code": "120112002",
+      "name": "双林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/双林街道"
+    },
+    {
+      "code": "120112003",
+      "name": "海棠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/海棠街道"
+    },
+    {
+      "code": "120112100",
+      "name": "咸水沽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/咸水沽镇"
+    },
+    {
+      "code": "120112101",
+      "name": "葛沽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/葛沽镇"
+    },
+    {
+      "code": "120112102",
+      "name": "小站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/小站镇"
+    },
+    {
+      "code": "120112103",
+      "name": "双港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/双港镇"
+    },
+    {
+      "code": "120112104",
+      "name": "辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/辛庄镇"
+    },
+    {
+      "code": "120112106",
+      "name": "双桥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/双桥河镇"
+    },
+    {
+      "code": "120112107",
+      "name": "八里台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/八里台镇"
+    },
+    {
+      "code": "120112108",
+      "name": "北闸口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120112",
+      "year": 0,
+      "name_path": "天津市/津南区/北闸口镇"
+    }
+  ]
+}

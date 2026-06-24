@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "341502",
+      "name": "金安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/金安区"
+    },
+    {
+      "code": "341503",
+      "name": "裕安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/裕安区"
+    },
+    {
+      "code": "341504",
+      "name": "叶集区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/叶集区"
+    },
+    {
+      "code": "341522",
+      "name": "霍邱县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/霍邱县"
+    },
+    {
+      "code": "341523",
+      "name": "舒城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/舒城县"
+    },
+    {
+      "code": "341524",
+      "name": "金寨县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/金寨县"
+    },
+    {
+      "code": "341525",
+      "name": "霍山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341500",
+      "year": 0,
+      "name_path": "全国/安徽省/六安市/霍山县"
+    }
+  ]
+}

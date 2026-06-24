@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "350981001",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/城南街道"
+    },
+    {
+      "code": "350981002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/城北街道"
+    },
+    {
+      "code": "350981003",
+      "name": "阳头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/阳头街道"
+    },
+    {
+      "code": "350981004",
+      "name": "罗江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/罗江街道"
+    },
+    {
+      "code": "350981100",
+      "name": "赛岐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/赛岐镇"
+    },
+    {
+      "code": "350981101",
+      "name": "穆阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/穆阳镇"
+    },
+    {
+      "code": "350981102",
+      "name": "上白石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/上白石镇"
+    },
+    {
+      "code": "350981103",
+      "name": "潭头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/潭头镇"
+    },
+    {
+      "code": "350981104",
+      "name": "社口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/社口镇"
+    },
+    {
+      "code": "350981105",
+      "name": "晓阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/晓阳镇"
+    },
+    {
+      "code": "350981106",
+      "name": "溪潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/溪潭镇"
+    },
+    {
+      "code": "350981107",
+      "name": "甘棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/甘棠镇"
+    },
+    {
+      "code": "350981108",
+      "name": "下白石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/下白石镇"
+    },
+    {
+      "code": "350981109",
+      "name": "溪尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/溪尾镇"
+    },
+    {
+      "code": "350981110",
+      "name": "溪柄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/溪柄镇"
+    },
+    {
+      "code": "350981111",
+      "name": "湾坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/湾坞镇"
+    },
+    {
+      "code": "350981112",
+      "name": "城阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/城阳镇"
+    },
+    {
+      "code": "350981201",
+      "name": "坂中畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/坂中畲族乡"
+    },
+    {
+      "code": "350981202",
+      "name": "范坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/范坑乡"
+    },
+    {
+      "code": "350981203",
+      "name": "穆云畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/穆云畲族乡"
+    },
+    {
+      "code": "350981204",
+      "name": "康厝畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/康厝畲族乡"
+    },
+    {
+      "code": "350981206",
+      "name": "松罗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350981",
+      "year": 0,
+      "name_path": "福建省/宁德市/福安市/松罗乡"
+    }
+  ]
+}

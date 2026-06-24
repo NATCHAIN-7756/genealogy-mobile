@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230523100",
+      "name": "宝清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/宝清镇"
+    },
+    {
+      "code": "230523101",
+      "name": "七星泡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/七星泡镇"
+    },
+    {
+      "code": "230523102",
+      "name": "青原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/青原镇"
+    },
+    {
+      "code": "230523103",
+      "name": "夹信子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/夹信子镇"
+    },
+    {
+      "code": "230523104",
+      "name": "龙头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/龙头镇"
+    },
+    {
+      "code": "230523105",
+      "name": "小城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/小城子镇"
+    },
+    {
+      "code": "230523106",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/朝阳镇"
+    },
+    {
+      "code": "230523203",
+      "name": "万金山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/万金山乡"
+    },
+    {
+      "code": "230523204",
+      "name": "尖山子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/尖山子乡"
+    },
+    {
+      "code": "230523209",
+      "name": "七星河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230523",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝清县/七星河乡"
+    }
+  ]
+}

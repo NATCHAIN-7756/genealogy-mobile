@@ -1,0 +1,337 @@
+{
+  "data": [
+    {
+      "code": "510185001",
+      "name": "简城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/简城街道"
+    },
+    {
+      "code": "510185002",
+      "name": "射洪坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/射洪坝街道"
+    },
+    {
+      "code": "510185003",
+      "name": "新市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/新市街道"
+    },
+    {
+      "code": "510185005",
+      "name": "东溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/东溪街道"
+    },
+    {
+      "code": "510185006",
+      "name": "平泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/平泉街道"
+    },
+    {
+      "code": "510185007",
+      "name": "石桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/石桥街道"
+    },
+    {
+      "code": "510185008",
+      "name": "赤水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/赤水街道"
+    },
+    {
+      "code": "510185009",
+      "name": "石盘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/石盘街道"
+    },
+    {
+      "code": "510185010",
+      "name": "养马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/养马街道"
+    },
+    {
+      "code": "510185011",
+      "name": "贾家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/贾家街道"
+    },
+    {
+      "code": "510185012",
+      "name": "石板凳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/石板凳街道"
+    },
+    {
+      "code": "510185013",
+      "name": "三岔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/三岔街道"
+    },
+    {
+      "code": "510185014",
+      "name": "草池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/草池街道"
+    },
+    {
+      "code": "510185015",
+      "name": "福田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/福田街道"
+    },
+    {
+      "code": "510185016",
+      "name": "玉成街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/玉成街道"
+    },
+    {
+      "code": "510185017",
+      "name": "丹景街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/丹景街道"
+    },
+    {
+      "code": "510185101",
+      "name": "杨家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/杨家镇"
+    },
+    {
+      "code": "510185105",
+      "name": "禾丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/禾丰镇"
+    },
+    {
+      "code": "510185106",
+      "name": "云龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/云龙镇"
+    },
+    {
+      "code": "510185107",
+      "name": "三星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/三星镇"
+    },
+    {
+      "code": "510185112",
+      "name": "镇金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/镇金镇"
+    },
+    {
+      "code": "510185113",
+      "name": "石钟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/石钟镇"
+    },
+    {
+      "code": "510185114",
+      "name": "施家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/施家镇"
+    },
+    {
+      "code": "510185115",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/三合镇"
+    },
+    {
+      "code": "510185116",
+      "name": "平武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/平武镇"
+    },
+    {
+      "code": "510185118",
+      "name": "踏水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/踏水镇"
+    },
+    {
+      "code": "510185119",
+      "name": "江源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/江源镇"
+    },
+    {
+      "code": "510185120",
+      "name": "涌泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/涌泉镇"
+    },
+    {
+      "code": "510185121",
+      "name": "芦葭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/芦葭镇"
+    },
+    {
+      "code": "510185124",
+      "name": "青龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/青龙镇"
+    },
+    {
+      "code": "510185126",
+      "name": "高明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/高明镇"
+    },
+    {
+      "code": "510185127",
+      "name": "武庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/武庙镇"
+    },
+    {
+      "code": "510185128",
+      "name": "壮溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/壮溪镇"
+    },
+    {
+      "code": "510185129",
+      "name": "宏缘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/宏缘镇"
+    },
+    {
+      "code": "510185130",
+      "name": "雷家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/雷家镇"
+    },
+    {
+      "code": "510185131",
+      "name": "董家埂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/董家埂镇"
+    },
+    {
+      "code": "510185132",
+      "name": "海螺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510185",
+      "year": 0,
+      "name_path": "四川省/成都市/简阳市/海螺镇"
+    }
+  ]
+}

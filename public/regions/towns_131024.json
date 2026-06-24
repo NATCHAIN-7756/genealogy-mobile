@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "131024100",
+      "name": "淑阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/淑阳镇"
+    },
+    {
+      "code": "131024101",
+      "name": "蒋辛屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/蒋辛屯镇"
+    },
+    {
+      "code": "131024102",
+      "name": "渠口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/渠口镇"
+    },
+    {
+      "code": "131024103",
+      "name": "安头屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/安头屯镇"
+    },
+    {
+      "code": "131024104",
+      "name": "安平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/安平镇"
+    },
+    {
+      "code": "131024105",
+      "name": "刘宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/刘宋镇"
+    },
+    {
+      "code": "131024106",
+      "name": "五百户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/五百户镇"
+    },
+    {
+      "code": "131024107",
+      "name": "钳屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/钳屯镇"
+    },
+    {
+      "code": "131024108",
+      "name": "钱旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131024",
+      "year": 0,
+      "name_path": "河北省/廊坊市/香河县/钱旺镇"
+    }
+  ]
+}

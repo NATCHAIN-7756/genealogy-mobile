@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "540525100",
+      "name": "曲松镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540525",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/曲松县/曲松镇"
+    },
+    {
+      "code": "540525101",
+      "name": "罗布沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540525",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/曲松县/罗布沙镇"
+    },
+    {
+      "code": "540525200",
+      "name": "下江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540525",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/曲松县/下江乡"
+    },
+    {
+      "code": "540525201",
+      "name": "邱多江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540525",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/曲松县/邱多江乡"
+    },
+    {
+      "code": "540525202",
+      "name": "堆随乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540525",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/曲松县/堆随乡"
+    }
+  ]
+}

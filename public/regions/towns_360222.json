@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "360222001",
+      "name": "新平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/新平街道"
+    },
+    {
+      "code": "360222002",
+      "name": "罗家桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/罗家桥街道"
+    },
+    {
+      "code": "360222101",
+      "name": "鹅湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/鹅湖镇"
+    },
+    {
+      "code": "360222102",
+      "name": "经公桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/经公桥镇"
+    },
+    {
+      "code": "360222103",
+      "name": "蛟潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/蛟潭镇"
+    },
+    {
+      "code": "360222104",
+      "name": "湘湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/湘湖镇"
+    },
+    {
+      "code": "360222105",
+      "name": "瑶里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/瑶里镇"
+    },
+    {
+      "code": "360222106",
+      "name": "洪源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/洪源镇"
+    },
+    {
+      "code": "360222107",
+      "name": "寿安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/寿安镇"
+    },
+    {
+      "code": "360222108",
+      "name": "三龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/三龙镇"
+    },
+    {
+      "code": "360222109",
+      "name": "峙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/峙滩镇"
+    },
+    {
+      "code": "360222202",
+      "name": "王港乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/王港乡"
+    },
+    {
+      "code": "360222203",
+      "name": "臧湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/臧湾乡"
+    },
+    {
+      "code": "360222208",
+      "name": "黄坛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/黄坛乡"
+    },
+    {
+      "code": "360222210",
+      "name": "兴田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/兴田乡"
+    },
+    {
+      "code": "360222212",
+      "name": "江村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/江村乡"
+    },
+    {
+      "code": "360222214",
+      "name": "勒功乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/勒功乡"
+    },
+    {
+      "code": "360222215",
+      "name": "西湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360222",
+      "year": 0,
+      "name_path": "江西省/景德镇市/浮梁县/西湖乡"
+    }
+  ]
+}

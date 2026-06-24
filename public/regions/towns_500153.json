@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "500153001",
+      "name": "昌元街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/昌元街道"
+    },
+    {
+      "code": "500153002",
+      "name": "广顺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/广顺街道"
+    },
+    {
+      "code": "500153003",
+      "name": "昌州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/昌州街道"
+    },
+    {
+      "code": "500153004",
+      "name": "峰高街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/峰高街道"
+    },
+    {
+      "code": "500153005",
+      "name": "安富街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/安富街道"
+    },
+    {
+      "code": "500153006",
+      "name": "双河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/双河街道"
+    },
+    {
+      "code": "500153100",
+      "name": "直升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/直升镇"
+    },
+    {
+      "code": "500153101",
+      "name": "万灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/万灵镇"
+    },
+    {
+      "code": "500153102",
+      "name": "清江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/清江镇"
+    },
+    {
+      "code": "500153103",
+      "name": "仁义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/仁义镇"
+    },
+    {
+      "code": "500153104",
+      "name": "河包镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/河包镇"
+    },
+    {
+      "code": "500153105",
+      "name": "古昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/古昌镇"
+    },
+    {
+      "code": "500153106",
+      "name": "吴家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/吴家镇"
+    },
+    {
+      "code": "500153107",
+      "name": "观胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/观胜镇"
+    },
+    {
+      "code": "500153108",
+      "name": "铜鼓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/铜鼓镇"
+    },
+    {
+      "code": "500153109",
+      "name": "清流镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/清流镇"
+    },
+    {
+      "code": "500153110",
+      "name": "盘龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/盘龙镇"
+    },
+    {
+      "code": "500153111",
+      "name": "远觉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/远觉镇"
+    },
+    {
+      "code": "500153112",
+      "name": "清升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/清升镇"
+    },
+    {
+      "code": "500153113",
+      "name": "荣隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/荣隆镇"
+    },
+    {
+      "code": "500153114",
+      "name": "龙集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500153",
+      "year": 0,
+      "name_path": "重庆市/荣昌区/龙集镇"
+    }
+  ]
+}

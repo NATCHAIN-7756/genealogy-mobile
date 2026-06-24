@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "500156001",
+      "name": "凤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/凤山街道"
+    },
+    {
+      "code": "500156002",
+      "name": "芙蓉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/芙蓉街道"
+    },
+    {
+      "code": "500156003",
+      "name": "仙女山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/仙女山街道"
+    },
+    {
+      "code": "500156004",
+      "name": "羊角街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/羊角街道"
+    },
+    {
+      "code": "500156101",
+      "name": "桐梓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/桐梓镇"
+    },
+    {
+      "code": "500156102",
+      "name": "火炉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/火炉镇"
+    },
+    {
+      "code": "500156103",
+      "name": "江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/江口镇"
+    },
+    {
+      "code": "500156106",
+      "name": "长坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/长坝镇"
+    },
+    {
+      "code": "500156107",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/白马镇"
+    },
+    {
+      "code": "500156108",
+      "name": "鸭江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/鸭江镇"
+    },
+    {
+      "code": "500156109",
+      "name": "平桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/平桥镇"
+    },
+    {
+      "code": "500156111",
+      "name": "和顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/和顺镇"
+    },
+    {
+      "code": "500156112",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/双河镇"
+    },
+    {
+      "code": "500156113",
+      "name": "凤来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/凤来镇"
+    },
+    {
+      "code": "500156201",
+      "name": "黄莺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/黄莺乡"
+    },
+    {
+      "code": "500156207",
+      "name": "后坪苗族土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/后坪苗族土家族乡"
+    },
+    {
+      "code": "500156209",
+      "name": "接龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/接龙乡"
+    },
+    {
+      "code": "500156210",
+      "name": "土地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/土地乡"
+    },
+    {
+      "code": "500156213",
+      "name": "沧沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/沧沟乡"
+    },
+    {
+      "code": "500156216",
+      "name": "石桥苗族土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/石桥苗族土家族乡"
+    },
+    {
+      "code": "500156218",
+      "name": "浩口苗族仡佬族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/浩口苗族仡佬族乡"
+    },
+    {
+      "code": "500156219",
+      "name": "文复苗族土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/文复苗族土家族乡"
+    },
+    {
+      "code": "500156225",
+      "name": "赵家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/赵家乡"
+    },
+    {
+      "code": "500156226",
+      "name": "白云乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/白云乡"
+    },
+    {
+      "code": "500156227",
+      "name": "大洞河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/大洞河乡"
+    },
+    {
+      "code": "500156231",
+      "name": "庙垭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500156",
+      "year": 0,
+      "name_path": "重庆市/武隆区/庙垭乡"
+    }
+  ]
+}

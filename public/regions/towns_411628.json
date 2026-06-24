@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "411628001",
+      "name": "卫真街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/卫真街道"
+    },
+    {
+      "code": "411628002",
+      "name": "鸣鹿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/鸣鹿街道"
+    },
+    {
+      "code": "411628003",
+      "name": "谷阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/谷阳街道"
+    },
+    {
+      "code": "411628004",
+      "name": "真源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/真源街道"
+    },
+    {
+      "code": "411628101",
+      "name": "玄武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/玄武镇"
+    },
+    {
+      "code": "411628102",
+      "name": "宋河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/宋河镇"
+    },
+    {
+      "code": "411628103",
+      "name": "太清宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/太清宫镇"
+    },
+    {
+      "code": "411628104",
+      "name": "王皮溜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/王皮溜镇"
+    },
+    {
+      "code": "411628105",
+      "name": "试量镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/试量镇"
+    },
+    {
+      "code": "411628106",
+      "name": "辛集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/辛集镇"
+    },
+    {
+      "code": "411628107",
+      "name": "马铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/马铺镇"
+    },
+    {
+      "code": "411628108",
+      "name": "涡北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/涡北镇"
+    },
+    {
+      "code": "411628109",
+      "name": "杨湖口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/杨湖口镇"
+    },
+    {
+      "code": "411628110",
+      "name": "贾滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/贾滩镇"
+    },
+    {
+      "code": "411628111",
+      "name": "张店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/张店镇"
+    },
+    {
+      "code": "411628112",
+      "name": "观堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/观堂镇"
+    },
+    {
+      "code": "411628114",
+      "name": "生铁冢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/生铁冢镇"
+    },
+    {
+      "code": "411628201",
+      "name": "郑家集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/郑家集乡"
+    },
+    {
+      "code": "411628205",
+      "name": "赵村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/赵村乡"
+    },
+    {
+      "code": "411628206",
+      "name": "任集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/任集乡"
+    },
+    {
+      "code": "411628207",
+      "name": "唐集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/唐集乡"
+    },
+    {
+      "code": "411628208",
+      "name": "高集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/高集乡"
+    },
+    {
+      "code": "411628209",
+      "name": "邱集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/邱集乡"
+    },
+    {
+      "code": "411628210",
+      "name": "穆店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411628",
+      "year": 0,
+      "name_path": "河南省/周口市/鹿邑县/穆店乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "441721100",
+      "name": "织𬕂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/织𬕂镇"
+    },
+    {
+      "code": "441721101",
+      "name": "程村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/程村镇"
+    },
+    {
+      "code": "441721102",
+      "name": "塘口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/塘口镇"
+    },
+    {
+      "code": "441721103",
+      "name": "上洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/上洋镇"
+    },
+    {
+      "code": "441721104",
+      "name": "溪头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/溪头镇"
+    },
+    {
+      "code": "441721106",
+      "name": "儒洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/儒洞镇"
+    },
+    {
+      "code": "441721107",
+      "name": "新墟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/新墟镇"
+    },
+    {
+      "code": "441721108",
+      "name": "沙扒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441721",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳西县/沙扒镇"
+    }
+  ]
+}

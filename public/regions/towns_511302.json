@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "511302001",
+      "name": "中城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/中城街道"
+    },
+    {
+      "code": "511302002",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/北城街道"
+    },
+    {
+      "code": "511302003",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/西城街道"
+    },
+    {
+      "code": "511302004",
+      "name": "东南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/东南街道"
+    },
+    {
+      "code": "511302005",
+      "name": "和平路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/和平路街道"
+    },
+    {
+      "code": "511302006",
+      "name": "舞凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/舞凤街道"
+    },
+    {
+      "code": "511302007",
+      "name": "新建街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/新建街道"
+    },
+    {
+      "code": "511302008",
+      "name": "华凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/华凤街道"
+    },
+    {
+      "code": "511302009",
+      "name": "潆溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/潆溪街道"
+    },
+    {
+      "code": "511302010",
+      "name": "荆溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/荆溪街道"
+    },
+    {
+      "code": "511302011",
+      "name": "西山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/西山街道"
+    },
+    {
+      "code": "511302012",
+      "name": "搬罾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/搬罾街道"
+    },
+    {
+      "code": "511302104",
+      "name": "共兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/共兴镇"
+    },
+    {
+      "code": "511302105",
+      "name": "金台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/金台镇"
+    },
+    {
+      "code": "511302106",
+      "name": "芦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/芦溪镇"
+    },
+    {
+      "code": "511302107",
+      "name": "李家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/李家镇"
+    },
+    {
+      "code": "511302108",
+      "name": "双桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/双桥镇"
+    },
+    {
+      "code": "511302109",
+      "name": "渔溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/渔溪镇"
+    },
+    {
+      "code": "511302200",
+      "name": "新复乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511302",
+      "year": 0,
+      "name_path": "四川省/南充市/顺庆区/新复乡"
+    }
+  ]
+}

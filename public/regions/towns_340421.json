@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "340421100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/城关镇"
+    },
+    {
+      "code": "340421102",
+      "name": "新集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/新集镇"
+    },
+    {
+      "code": "340421103",
+      "name": "朱马店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/朱马店镇"
+    },
+    {
+      "code": "340421104",
+      "name": "岳张集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/岳张集镇"
+    },
+    {
+      "code": "340421106",
+      "name": "顾桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/顾桥镇"
+    },
+    {
+      "code": "340421107",
+      "name": "桂集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/桂集镇"
+    },
+    {
+      "code": "340421108",
+      "name": "凤凰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/凤凰镇"
+    },
+    {
+      "code": "340421109",
+      "name": "杨村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/杨村镇"
+    },
+    {
+      "code": "340421110",
+      "name": "丁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/丁集镇"
+    },
+    {
+      "code": "340421111",
+      "name": "刘集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/刘集镇"
+    },
+    {
+      "code": "340421112",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/大兴镇"
+    },
+    {
+      "code": "340421113",
+      "name": "尚塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/尚塘镇"
+    },
+    {
+      "code": "340421114",
+      "name": "毛集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/毛集镇"
+    },
+    {
+      "code": "340421115",
+      "name": "夏集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/夏集镇"
+    },
+    {
+      "code": "340421116",
+      "name": "焦岗湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/焦岗湖镇"
+    },
+    {
+      "code": "340421205",
+      "name": "古店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/古店乡"
+    },
+    {
+      "code": "340421206",
+      "name": "钱庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/钱庙乡"
+    },
+    {
+      "code": "340421210",
+      "name": "关店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/关店乡"
+    },
+    {
+      "code": "340421212",
+      "name": "李冲回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340421",
+      "year": 0,
+      "name_path": "安徽省/淮南市/凤台县/李冲回族乡"
+    }
+  ]
+}

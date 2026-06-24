@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "130302",
+      "name": "海港区",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/海港区"
+    },
+    {
+      "code": "130303",
+      "name": "山海关区",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/山海关区"
+    },
+    {
+      "code": "130304",
+      "name": "北戴河区",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/北戴河区"
+    },
+    {
+      "code": "130306",
+      "name": "抚宁区",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/抚宁区"
+    },
+    {
+      "code": "130321",
+      "name": "青龙满族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/青龙满族自治县"
+    },
+    {
+      "code": "130322",
+      "name": "昌黎县",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/昌黎县"
+    },
+    {
+      "code": "130324",
+      "name": "卢龙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "130300",
+      "year": 0,
+      "name_path": "全国/河北省/秦皇岛市/卢龙县"
+    }
+  ]
+}

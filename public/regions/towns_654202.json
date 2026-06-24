@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "654202001",
+      "name": "新市区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/新市区街道"
+    },
+    {
+      "code": "654202002",
+      "name": "南苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/南苑街道"
+    },
+    {
+      "code": "654202003",
+      "name": "西城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/西城区街道"
+    },
+    {
+      "code": "654202004",
+      "name": "虹桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/虹桥街道"
+    },
+    {
+      "code": "654202005",
+      "name": "奎河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/奎河街道"
+    },
+    {
+      "code": "654202100",
+      "name": "白杨沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/白杨沟镇"
+    },
+    {
+      "code": "654202101",
+      "name": "哈图布呼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/哈图布呼镇"
+    },
+    {
+      "code": "654202102",
+      "name": "皇宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/皇宫镇"
+    },
+    {
+      "code": "654202103",
+      "name": "车排子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/车排子镇"
+    },
+    {
+      "code": "654202104",
+      "name": "甘河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/甘河子镇"
+    },
+    {
+      "code": "654202105",
+      "name": "百泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/百泉镇"
+    },
+    {
+      "code": "654202106",
+      "name": "四棵树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/四棵树镇"
+    },
+    {
+      "code": "654202107",
+      "name": "古尔图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/古尔图镇"
+    },
+    {
+      "code": "654202108",
+      "name": "西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/西湖镇"
+    },
+    {
+      "code": "654202109",
+      "name": "西大沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/西大沟镇"
+    },
+    {
+      "code": "654202200",
+      "name": "八十四户乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/八十四户乡"
+    },
+    {
+      "code": "654202201",
+      "name": "夹河子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/夹河子乡"
+    },
+    {
+      "code": "654202202",
+      "name": "九间楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/九间楼乡"
+    },
+    {
+      "code": "654202203",
+      "name": "石桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/石桥乡"
+    },
+    {
+      "code": "654202204",
+      "name": "头台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/头台乡"
+    },
+    {
+      "code": "654202205",
+      "name": "吉尔格勒特郭楞蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/吉尔格勒特郭楞蒙古族乡"
+    },
+    {
+      "code": "654202206",
+      "name": "塔布勒合特蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654202",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/塔城地区/乌苏市/塔布勒合特蒙古族乡"
+    }
+  ]
+}

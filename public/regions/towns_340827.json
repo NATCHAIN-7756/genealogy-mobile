@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "340827001",
+      "name": "雷阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/雷阳街道"
+    },
+    {
+      "code": "340827002",
+      "name": "吉水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/吉水街道"
+    },
+    {
+      "code": "340827003",
+      "name": "回龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/回龙街道"
+    },
+    {
+      "code": "340827101",
+      "name": "华阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/华阳镇"
+    },
+    {
+      "code": "340827102",
+      "name": "杨湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/杨湾镇"
+    },
+    {
+      "code": "340827103",
+      "name": "漳湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/漳湖镇"
+    },
+    {
+      "code": "340827104",
+      "name": "赛口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/赛口镇"
+    },
+    {
+      "code": "340827105",
+      "name": "高士镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/高士镇"
+    },
+    {
+      "code": "340827106",
+      "name": "鸦滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/鸦滩镇"
+    },
+    {
+      "code": "340827107",
+      "name": "长岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/长岭镇"
+    },
+    {
+      "code": "340827108",
+      "name": "太慈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/太慈镇"
+    },
+    {
+      "code": "340827109",
+      "name": "雷池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/雷池镇"
+    },
+    {
+      "code": "340827210",
+      "name": "凉泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340827",
+      "year": 0,
+      "name_path": "安徽省/安庆市/望江县/凉泉乡"
+    }
+  ]
+}

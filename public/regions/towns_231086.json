@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "231086100",
+      "name": "东宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231086",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/东宁市/东宁镇"
+    },
+    {
+      "code": "231086101",
+      "name": "三岔口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231086",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/东宁市/三岔口镇"
+    },
+    {
+      "code": "231086102",
+      "name": "大肚川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231086",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/东宁市/大肚川镇"
+    },
+    {
+      "code": "231086103",
+      "name": "老黑山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231086",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/东宁市/老黑山镇"
+    },
+    {
+      "code": "231086104",
+      "name": "道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231086",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/东宁市/道河镇"
+    },
+    {
+      "code": "231086105",
+      "name": "绥阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231086",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/东宁市/绥阳镇"
+    }
+  ]
+}

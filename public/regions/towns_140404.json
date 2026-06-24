@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140404001",
+      "name": "韩店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/韩店街道"
+    },
+    {
+      "code": "140404101",
+      "name": "苏店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/苏店镇"
+    },
+    {
+      "code": "140404102",
+      "name": "荫城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/荫城镇"
+    },
+    {
+      "code": "140404103",
+      "name": "西火镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/西火镇"
+    },
+    {
+      "code": "140404104",
+      "name": "八义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/八义镇"
+    },
+    {
+      "code": "140404106",
+      "name": "郝家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/郝家庄镇"
+    },
+    {
+      "code": "140404107",
+      "name": "南宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/南宋镇"
+    },
+    {
+      "code": "140404201",
+      "name": "西池乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/西池乡"
+    },
+    {
+      "code": "140404202",
+      "name": "北呈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/北呈乡"
+    },
+    {
+      "code": "140404203",
+      "name": "东和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140404",
+      "year": 0,
+      "name_path": "山西省/长治市/上党区/东和乡"
+    }
+  ]
+}

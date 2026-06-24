@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "140303001",
+      "name": "平潭街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140303",
+      "year": 0,
+      "name_path": "山西省/阳泉市/矿区/平潭街街道"
+    },
+    {
+      "code": "140303002",
+      "name": "桥头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140303",
+      "year": 0,
+      "name_path": "山西省/阳泉市/矿区/桥头街道"
+    },
+    {
+      "code": "140303003",
+      "name": "蔡洼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140303",
+      "year": 0,
+      "name_path": "山西省/阳泉市/矿区/蔡洼街道"
+    },
+    {
+      "code": "140303004",
+      "name": "赛鱼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140303",
+      "year": 0,
+      "name_path": "山西省/阳泉市/矿区/赛鱼街道"
+    },
+    {
+      "code": "140303005",
+      "name": "沙坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140303",
+      "year": 0,
+      "name_path": "山西省/阳泉市/矿区/沙坪街道"
+    },
+    {
+      "code": "140303006",
+      "name": "贵石沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140303",
+      "year": 0,
+      "name_path": "山西省/阳泉市/矿区/贵石沟街道"
+    }
+  ]
+}

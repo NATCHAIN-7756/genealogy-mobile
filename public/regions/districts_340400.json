@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "340402",
+      "name": "大通区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/大通区"
+    },
+    {
+      "code": "340403",
+      "name": "田家庵区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/田家庵区"
+    },
+    {
+      "code": "340404",
+      "name": "谢家集区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/谢家集区"
+    },
+    {
+      "code": "340405",
+      "name": "八公山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/八公山区"
+    },
+    {
+      "code": "340406",
+      "name": "潘集区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/潘集区"
+    },
+    {
+      "code": "340421",
+      "name": "凤台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/凤台县"
+    },
+    {
+      "code": "340422",
+      "name": "寿县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340400",
+      "year": 0,
+      "name_path": "全国/安徽省/淮南市/寿县"
+    }
+  ]
+}

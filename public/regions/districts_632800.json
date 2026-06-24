@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "632801",
+      "name": "格尔木市",
+      "level": 3,
+      "type": null,
+      "parent_code": "632800",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州/格尔木市"
+    },
+    {
+      "code": "632802",
+      "name": "德令哈市",
+      "level": 3,
+      "type": null,
+      "parent_code": "632800",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州/德令哈市"
+    },
+    {
+      "code": "632803",
+      "name": "茫崖市",
+      "level": 3,
+      "type": null,
+      "parent_code": "632800",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州/茫崖市"
+    },
+    {
+      "code": "632821",
+      "name": "乌兰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632800",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州/乌兰县"
+    },
+    {
+      "code": "632822",
+      "name": "都兰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632800",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州/都兰县"
+    },
+    {
+      "code": "632823",
+      "name": "天峻县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632800",
+      "year": 0,
+      "name_path": "全国/青海省/海西蒙古族藏族自治州/天峻县"
+    }
+  ]
+}

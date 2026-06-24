@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "450312100",
+      "name": "临桂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/临桂镇"
+    },
+    {
+      "code": "450312101",
+      "name": "六塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/六塘镇"
+    },
+    {
+      "code": "450312102",
+      "name": "会仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/会仙镇"
+    },
+    {
+      "code": "450312103",
+      "name": "两江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/两江镇"
+    },
+    {
+      "code": "450312104",
+      "name": "五通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/五通镇"
+    },
+    {
+      "code": "450312105",
+      "name": "四塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/四塘镇"
+    },
+    {
+      "code": "450312106",
+      "name": "南边山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/南边山镇"
+    },
+    {
+      "code": "450312107",
+      "name": "中庸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/中庸镇"
+    },
+    {
+      "code": "450312108",
+      "name": "茶洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/茶洞镇"
+    },
+    {
+      "code": "450312203",
+      "name": "宛田瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/宛田瑶族乡"
+    },
+    {
+      "code": "450312204",
+      "name": "黄沙瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450312",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/临桂区/黄沙瑶族乡"
+    }
+  ]
+}

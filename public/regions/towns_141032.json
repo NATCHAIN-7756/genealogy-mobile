@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "141032100",
+      "name": "芝河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141032",
+      "year": 0,
+      "name_path": "山西省/临汾市/永和县/芝河镇"
+    },
+    {
+      "code": "141032101",
+      "name": "桑壁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141032",
+      "year": 0,
+      "name_path": "山西省/临汾市/永和县/桑壁镇"
+    },
+    {
+      "code": "141032200",
+      "name": "乾坤湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141032",
+      "year": 0,
+      "name_path": "山西省/临汾市/永和县/乾坤湾乡"
+    },
+    {
+      "code": "141032203",
+      "name": "坡头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141032",
+      "year": 0,
+      "name_path": "山西省/临汾市/永和县/坡头乡"
+    },
+    {
+      "code": "141032204",
+      "name": "楼山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141032",
+      "year": 0,
+      "name_path": "山西省/临汾市/永和县/楼山乡"
+    },
+    {
+      "code": "141032205",
+      "name": "望海寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141032",
+      "year": 0,
+      "name_path": "山西省/临汾市/永和县/望海寺乡"
+    }
+  ]
+}

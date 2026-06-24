@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "610202001",
+      "name": "七一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/七一路街道"
+    },
+    {
+      "code": "610202002",
+      "name": "红旗街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/红旗街街道"
+    },
+    {
+      "code": "610202003",
+      "name": "桃园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/桃园街道"
+    },
+    {
+      "code": "610202004",
+      "name": "青年路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/青年路街道"
+    },
+    {
+      "code": "610202005",
+      "name": "王家河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/王家河街道"
+    },
+    {
+      "code": "610202006",
+      "name": "王益街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/王益街道"
+    },
+    {
+      "code": "610202100",
+      "name": "黄堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610202",
+      "year": 0,
+      "name_path": "陕西省/铜川市/王益区/黄堡镇"
+    }
+  ]
+}

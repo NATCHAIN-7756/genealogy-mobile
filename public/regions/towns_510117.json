@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510117001",
+      "name": "郫筒街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/郫筒街道"
+    },
+    {
+      "code": "510117002",
+      "name": "合作街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/合作街道"
+    },
+    {
+      "code": "510117003",
+      "name": "西园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/西园街道"
+    },
+    {
+      "code": "510117004",
+      "name": "安德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/安德街道"
+    },
+    {
+      "code": "510117005",
+      "name": "红光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/红光街道"
+    },
+    {
+      "code": "510117006",
+      "name": "犀浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/犀浦街道"
+    },
+    {
+      "code": "510117007",
+      "name": "德源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/德源街道"
+    },
+    {
+      "code": "510117008",
+      "name": "安靖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/安靖街道"
+    },
+    {
+      "code": "510117009",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/团结街道"
+    },
+    {
+      "code": "510117104",
+      "name": "唐昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/唐昌镇"
+    },
+    {
+      "code": "510117106",
+      "name": "三道堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/三道堰镇"
+    },
+    {
+      "code": "510117115",
+      "name": "友爱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510117",
+      "year": 0,
+      "name_path": "四川省/成都市/郫都区/友爱镇"
+    }
+  ]
+}

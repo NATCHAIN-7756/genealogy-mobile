@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150221100",
+      "name": "萨拉齐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/萨拉齐镇"
+    },
+    {
+      "code": "150221101",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/双龙镇"
+    },
+    {
+      "code": "150221102",
+      "name": "美岱召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/美岱召镇"
+    },
+    {
+      "code": "150221103",
+      "name": "沟门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/沟门镇"
+    },
+    {
+      "code": "150221104",
+      "name": "将军尧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/将军尧镇"
+    },
+    {
+      "code": "150221202",
+      "name": "明沙淖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/明沙淖乡"
+    },
+    {
+      "code": "150221203",
+      "name": "海子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/海子乡"
+    },
+    {
+      "code": "150221212",
+      "name": "苏波盖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150221",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/土默特右旗/苏波盖乡"
+    }
+  ]
+}

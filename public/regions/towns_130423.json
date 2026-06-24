@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "130423100",
+      "name": "临漳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/临漳镇"
+    },
+    {
+      "code": "130423101",
+      "name": "南东坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/南东坊镇"
+    },
+    {
+      "code": "130423102",
+      "name": "孙陶集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/孙陶集镇"
+    },
+    {
+      "code": "130423103",
+      "name": "柳园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/柳园镇"
+    },
+    {
+      "code": "130423104",
+      "name": "称勾集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/称勾集镇"
+    },
+    {
+      "code": "130423105",
+      "name": "邺城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/邺城镇"
+    },
+    {
+      "code": "130423106",
+      "name": "章里集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/章里集镇"
+    },
+    {
+      "code": "130423107",
+      "name": "张村集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/张村集镇"
+    },
+    {
+      "code": "130423108",
+      "name": "砖寨营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/砖寨营镇"
+    },
+    {
+      "code": "130423109",
+      "name": "习文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/习文镇"
+    },
+    {
+      "code": "130423110",
+      "name": "柏鹤集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/柏鹤集镇"
+    },
+    {
+      "code": "130423111",
+      "name": "杜村集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/杜村集镇"
+    },
+    {
+      "code": "130423200",
+      "name": "狄邱乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/狄邱乡"
+    },
+    {
+      "code": "130423202",
+      "name": "西羊羔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130423",
+      "year": 0,
+      "name_path": "河北省/邯郸市/临漳县/西羊羔乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140406001",
+      "name": "潞华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/潞华街道"
+    },
+    {
+      "code": "140406002",
+      "name": "成家川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/成家川街道"
+    },
+    {
+      "code": "140406003",
+      "name": "翟店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/翟店街道"
+    },
+    {
+      "code": "140406100",
+      "name": "店上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/店上镇"
+    },
+    {
+      "code": "140406101",
+      "name": "微子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/微子镇"
+    },
+    {
+      "code": "140406102",
+      "name": "辛安泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/辛安泉镇"
+    },
+    {
+      "code": "140406104",
+      "name": "史回镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/史回镇"
+    },
+    {
+      "code": "140406201",
+      "name": "黄牛蹄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140406",
+      "year": 0,
+      "name_path": "山西省/长治市/潞城区/黄牛蹄乡"
+    }
+  ]
+}

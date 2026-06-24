@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "420984001",
+      "name": "仙女山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/仙女山街道"
+    },
+    {
+      "code": "420984002",
+      "name": "汈东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/汈东街道"
+    },
+    {
+      "code": "420984101",
+      "name": "马口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/马口镇"
+    },
+    {
+      "code": "420984102",
+      "name": "脉旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/脉旺镇"
+    },
+    {
+      "code": "420984103",
+      "name": "城隍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/城隍镇"
+    },
+    {
+      "code": "420984104",
+      "name": "分水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/分水镇"
+    },
+    {
+      "code": "420984105",
+      "name": "沉湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/沉湖镇"
+    },
+    {
+      "code": "420984106",
+      "name": "田二河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/田二河镇"
+    },
+    {
+      "code": "420984107",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/回龙镇"
+    },
+    {
+      "code": "420984108",
+      "name": "新堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/新堰镇"
+    },
+    {
+      "code": "420984109",
+      "name": "垌塚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/垌塚镇"
+    },
+    {
+      "code": "420984110",
+      "name": "麻河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/麻河镇"
+    },
+    {
+      "code": "420984111",
+      "name": "刘家隔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/刘家隔镇"
+    },
+    {
+      "code": "420984112",
+      "name": "新河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/新河镇"
+    },
+    {
+      "code": "420984113",
+      "name": "庙头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/庙头镇"
+    },
+    {
+      "code": "420984114",
+      "name": "杨林沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/杨林沟镇"
+    },
+    {
+      "code": "420984200",
+      "name": "西江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/西江乡"
+    },
+    {
+      "code": "420984201",
+      "name": "湾潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/湾潭乡"
+    },
+    {
+      "code": "420984202",
+      "name": "南河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/南河乡"
+    },
+    {
+      "code": "420984203",
+      "name": "马鞍乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/马鞍乡"
+    },
+    {
+      "code": "420984204",
+      "name": "里潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/里潭乡"
+    },
+    {
+      "code": "420984205",
+      "name": "韩集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420984",
+      "year": 0,
+      "name_path": "湖北省/孝感市/汉川市/韩集乡"
+    }
+  ]
+}

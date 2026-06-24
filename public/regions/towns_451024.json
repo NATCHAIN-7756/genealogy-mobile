@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "451024100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/城关镇"
+    },
+    {
+      "code": "451024101",
+      "name": "隆桑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/隆桑镇"
+    },
+    {
+      "code": "451024102",
+      "name": "敬德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/敬德镇"
+    },
+    {
+      "code": "451024103",
+      "name": "足荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/足荣镇"
+    },
+    {
+      "code": "451024122",
+      "name": "马隘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/马隘镇"
+    },
+    {
+      "code": "451024123",
+      "name": "东凌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/东凌镇"
+    },
+    {
+      "code": "451024124",
+      "name": "那甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/那甲镇"
+    },
+    {
+      "code": "451024201",
+      "name": "都安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/都安乡"
+    },
+    {
+      "code": "451024205",
+      "name": "荣华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/荣华乡"
+    },
+    {
+      "code": "451024207",
+      "name": "燕峒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/燕峒乡"
+    },
+    {
+      "code": "451024208",
+      "name": "龙光乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/龙光乡"
+    },
+    {
+      "code": "451024210",
+      "name": "巴头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451024",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/德保县/巴头乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "220112001",
+      "name": "云山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/云山街道"
+    },
+    {
+      "code": "220112002",
+      "name": "平湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/平湖街道"
+    },
+    {
+      "code": "220112003",
+      "name": "奢岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/奢岭街道"
+    },
+    {
+      "code": "220112004",
+      "name": "山河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/山河街道"
+    },
+    {
+      "code": "220112101",
+      "name": "鹿乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/鹿乡镇"
+    },
+    {
+      "code": "220112102",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/太平镇"
+    },
+    {
+      "code": "220112104",
+      "name": "齐家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/齐家镇"
+    },
+    {
+      "code": "220112203",
+      "name": "双营子回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220112",
+      "year": 0,
+      "name_path": "吉林省/长春市/双阳区/双营子回族乡"
+    }
+  ]
+}

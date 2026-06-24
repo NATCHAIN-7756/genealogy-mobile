@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "code": "500101001",
+      "name": "高笋塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/高笋塘街道"
+    },
+    {
+      "code": "500101002",
+      "name": "太白街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/太白街道"
+    },
+    {
+      "code": "500101003",
+      "name": "牌楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/牌楼街道"
+    },
+    {
+      "code": "500101004",
+      "name": "双河口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/双河口街道"
+    },
+    {
+      "code": "500101005",
+      "name": "龙都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/龙都街道"
+    },
+    {
+      "code": "500101006",
+      "name": "周家坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/周家坝街道"
+    },
+    {
+      "code": "500101007",
+      "name": "沙河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/沙河街道"
+    },
+    {
+      "code": "500101008",
+      "name": "钟鼓楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/钟鼓楼街道"
+    },
+    {
+      "code": "500101009",
+      "name": "百安坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/百安坝街道"
+    },
+    {
+      "code": "500101010",
+      "name": "五桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/五桥街道"
+    },
+    {
+      "code": "500101011",
+      "name": "陈家坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/陈家坝街道"
+    },
+    {
+      "code": "500101012",
+      "name": "高峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/高峰街道"
+    },
+    {
+      "code": "500101013",
+      "name": "天城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/天城街道"
+    },
+    {
+      "code": "500101014",
+      "name": "九池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/九池街道"
+    },
+    {
+      "code": "500101102",
+      "name": "龙沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/龙沙镇"
+    },
+    {
+      "code": "500101103",
+      "name": "响水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/响水镇"
+    },
+    {
+      "code": "500101104",
+      "name": "武陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/武陵镇"
+    },
+    {
+      "code": "500101105",
+      "name": "瀼渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/瀼渡镇"
+    },
+    {
+      "code": "500101106",
+      "name": "甘宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/甘宁镇"
+    },
+    {
+      "code": "500101108",
+      "name": "熊家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/熊家镇"
+    },
+    {
+      "code": "500101109",
+      "name": "小周镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/小周镇"
+    },
+    {
+      "code": "500101110",
+      "name": "大周镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/大周镇"
+    },
+    {
+      "code": "500101111",
+      "name": "高梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/高梁镇"
+    },
+    {
+      "code": "500101112",
+      "name": "李河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/李河镇"
+    },
+    {
+      "code": "500101113",
+      "name": "分水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/分水镇"
+    },
+    {
+      "code": "500101114",
+      "name": "孙家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/孙家镇"
+    },
+    {
+      "code": "500101115",
+      "name": "余家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/余家镇"
+    },
+    {
+      "code": "500101116",
+      "name": "后山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/后山镇"
+    },
+    {
+      "code": "500101117",
+      "name": "弹子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/弹子镇"
+    },
+    {
+      "code": "500101118",
+      "name": "长岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/长岭镇"
+    },
+    {
+      "code": "500101119",
+      "name": "新田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/新田镇"
+    },
+    {
+      "code": "500101120",
+      "name": "新乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/新乡镇"
+    },
+    {
+      "code": "500101121",
+      "name": "走马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/走马镇"
+    },
+    {
+      "code": "500101122",
+      "name": "罗田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/罗田镇"
+    },
+    {
+      "code": "500101123",
+      "name": "龙驹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/龙驹镇"
+    },
+    {
+      "code": "500101124",
+      "name": "白土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/白土镇"
+    },
+    {
+      "code": "500101125",
+      "name": "长滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/长滩镇"
+    },
+    {
+      "code": "500101126",
+      "name": "太安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/太安镇"
+    },
+    {
+      "code": "500101127",
+      "name": "白羊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/白羊镇"
+    },
+    {
+      "code": "500101128",
+      "name": "太龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/太龙镇"
+    },
+    {
+      "code": "500101129",
+      "name": "郭村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/郭村镇"
+    },
+    {
+      "code": "500101201",
+      "name": "柱山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/柱山乡"
+    },
+    {
+      "code": "500101203",
+      "name": "铁峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/铁峰乡"
+    },
+    {
+      "code": "500101204",
+      "name": "茨竹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/茨竹乡"
+    },
+    {
+      "code": "500101205",
+      "name": "溪口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/溪口乡"
+    },
+    {
+      "code": "500101206",
+      "name": "长坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/长坪乡"
+    },
+    {
+      "code": "500101207",
+      "name": "燕山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/燕山乡"
+    },
+    {
+      "code": "500101208",
+      "name": "梨树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/梨树乡"
+    },
+    {
+      "code": "500101209",
+      "name": "恒合土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/恒合土家族乡"
+    },
+    {
+      "code": "500101210",
+      "name": "普子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/普子乡"
+    },
+    {
+      "code": "500101211",
+      "name": "地宝土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/地宝土家族乡"
+    },
+    {
+      "code": "500101212",
+      "name": "黄柏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500101",
+      "year": 0,
+      "name_path": "重庆市/万州区/黄柏乡"
+    }
+  ]
+}

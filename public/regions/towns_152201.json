@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "152201001",
+      "name": "爱国街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/爱国街道"
+    },
+    {
+      "code": "152201002",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/和平街道"
+    },
+    {
+      "code": "152201003",
+      "name": "兴安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/兴安街道"
+    },
+    {
+      "code": "152201004",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/胜利街道"
+    },
+    {
+      "code": "152201005",
+      "name": "铁西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/铁西街道"
+    },
+    {
+      "code": "152201006",
+      "name": "都林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/都林街道"
+    },
+    {
+      "code": "152201007",
+      "name": "五一街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/五一街道"
+    },
+    {
+      "code": "152201008",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/城郊街道"
+    },
+    {
+      "code": "152201009",
+      "name": "天骄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/天骄街道"
+    },
+    {
+      "code": "152201010",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/新城街道"
+    },
+    {
+      "code": "152201011",
+      "name": "山水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/山水街道"
+    },
+    {
+      "code": "152201101",
+      "name": "乌兰哈达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/乌兰哈达镇"
+    },
+    {
+      "code": "152201102",
+      "name": "葛根庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/葛根庙镇"
+    },
+    {
+      "code": "152201103",
+      "name": "太本站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/太本站镇"
+    },
+    {
+      "code": "152201104",
+      "name": "义勒力特镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152201",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/乌兰浩特市/义勒力特镇"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "350503001",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/东湖街道"
+    },
+    {
+      "code": "350503002",
+      "name": "丰泽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/丰泽街道"
+    },
+    {
+      "code": "350503003",
+      "name": "泉秀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/泉秀街道"
+    },
+    {
+      "code": "350503004",
+      "name": "清源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/清源街道"
+    },
+    {
+      "code": "350503005",
+      "name": "华大街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/华大街道"
+    },
+    {
+      "code": "350503006",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/城东街道"
+    },
+    {
+      "code": "350503007",
+      "name": "东海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/东海街道"
+    },
+    {
+      "code": "350503008",
+      "name": "北峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/北峰街道"
+    },
+    {
+      "code": "350503009",
+      "name": "临海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350503",
+      "year": 0,
+      "name_path": "福建省/泉州市/丰泽区/临海街道"
+    }
+  ]
+}

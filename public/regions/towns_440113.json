@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "440113002",
+      "name": "沙湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/沙湾街道"
+    },
+    {
+      "code": "440113003",
+      "name": "钟村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/钟村街道"
+    },
+    {
+      "code": "440113004",
+      "name": "大石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/大石街道"
+    },
+    {
+      "code": "440113005",
+      "name": "市桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/市桥街道"
+    },
+    {
+      "code": "440113006",
+      "name": "沙头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/沙头街道"
+    },
+    {
+      "code": "440113007",
+      "name": "东环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/东环街道"
+    },
+    {
+      "code": "440113008",
+      "name": "桥南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/桥南街道"
+    },
+    {
+      "code": "440113009",
+      "name": "小谷围街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/小谷围街道"
+    },
+    {
+      "code": "440113010",
+      "name": "洛浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/洛浦街道"
+    },
+    {
+      "code": "440113011",
+      "name": "石壁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/石壁街道"
+    },
+    {
+      "code": "440113012",
+      "name": "大龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/大龙街道"
+    },
+    {
+      "code": "440113102",
+      "name": "石碁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/石碁镇"
+    },
+    {
+      "code": "440113103",
+      "name": "南村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/南村镇"
+    },
+    {
+      "code": "440113104",
+      "name": "新造镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/新造镇"
+    },
+    {
+      "code": "440113105",
+      "name": "化龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/化龙镇"
+    },
+    {
+      "code": "440113106",
+      "name": "石楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440113",
+      "year": 0,
+      "name_path": "广东省/广州市/番禺区/石楼镇"
+    }
+  ]
+}

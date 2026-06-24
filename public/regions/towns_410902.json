@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "410902001",
+      "name": "中原路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/中原路街道"
+    },
+    {
+      "code": "410902002",
+      "name": "胜利路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/胜利路街道"
+    },
+    {
+      "code": "410902003",
+      "name": "建设路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/建设路街道"
+    },
+    {
+      "code": "410902004",
+      "name": "人民路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/人民路街道"
+    },
+    {
+      "code": "410902005",
+      "name": "大庆路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/大庆路街道"
+    },
+    {
+      "code": "410902006",
+      "name": "黄河路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/黄河路街道"
+    },
+    {
+      "code": "410902007",
+      "name": "任丘路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/任丘路街道"
+    },
+    {
+      "code": "410902008",
+      "name": "濮东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/濮东街道"
+    },
+    {
+      "code": "410902009",
+      "name": "昆吾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/昆吾街道"
+    },
+    {
+      "code": "410902010",
+      "name": "长庆路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/长庆路街道"
+    },
+    {
+      "code": "410902011",
+      "name": "皇甫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/皇甫街道"
+    },
+    {
+      "code": "410902012",
+      "name": "开州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/开州街道"
+    },
+    {
+      "code": "410902013",
+      "name": "濮上街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/濮上街道"
+    },
+    {
+      "code": "410902014",
+      "name": "昌湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/昌湖街道"
+    },
+    {
+      "code": "410902100",
+      "name": "王助镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/王助镇"
+    },
+    {
+      "code": "410902101",
+      "name": "岳村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/岳村镇"
+    },
+    {
+      "code": "410902203",
+      "name": "孟轲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/孟轲乡"
+    },
+    {
+      "code": "410902204",
+      "name": "胡村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410902",
+      "year": 0,
+      "name_path": "河南省/濮阳市/华龙区/胡村乡"
+    }
+  ]
+}

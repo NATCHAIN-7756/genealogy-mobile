@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "433125100",
+      "name": "迁陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/迁陵镇"
+    },
+    {
+      "code": "433125101",
+      "name": "水田河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/水田河镇"
+    },
+    {
+      "code": "433125102",
+      "name": "葫芦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/葫芦镇"
+    },
+    {
+      "code": "433125103",
+      "name": "毛沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/毛沟镇"
+    },
+    {
+      "code": "433125104",
+      "name": "普戎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/普戎镇"
+    },
+    {
+      "code": "433125105",
+      "name": "比耳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/比耳镇"
+    },
+    {
+      "code": "433125106",
+      "name": "清水坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/清水坪镇"
+    },
+    {
+      "code": "433125108",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/复兴镇"
+    },
+    {
+      "code": "433125109",
+      "name": "碗米坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/碗米坡镇"
+    },
+    {
+      "code": "433125110",
+      "name": "吕洞山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/吕洞山镇"
+    },
+    {
+      "code": "433125201",
+      "name": "阳朝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/阳朝乡"
+    },
+    {
+      "code": "433125216",
+      "name": "长潭河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433125",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/保靖县/长潭河乡"
+    }
+  ]
+}

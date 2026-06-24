@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "321281001",
+      "name": "昭阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/昭阳街道"
+    },
+    {
+      "code": "321281002",
+      "name": "临城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/临城街道"
+    },
+    {
+      "code": "321281003",
+      "name": "垛田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/垛田街道"
+    },
+    {
+      "code": "321281100",
+      "name": "戴窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/戴窑镇"
+    },
+    {
+      "code": "321281101",
+      "name": "合陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/合陈镇"
+    },
+    {
+      "code": "321281102",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/永丰镇"
+    },
+    {
+      "code": "321281103",
+      "name": "新垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/新垛镇"
+    },
+    {
+      "code": "321281104",
+      "name": "安丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/安丰镇"
+    },
+    {
+      "code": "321281105",
+      "name": "海南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/海南镇"
+    },
+    {
+      "code": "321281106",
+      "name": "钓鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/钓鱼镇"
+    },
+    {
+      "code": "321281107",
+      "name": "大邹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/大邹镇"
+    },
+    {
+      "code": "321281108",
+      "name": "沙沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/沙沟镇"
+    },
+    {
+      "code": "321281109",
+      "name": "中堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/中堡镇"
+    },
+    {
+      "code": "321281114",
+      "name": "竹泓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/竹泓镇"
+    },
+    {
+      "code": "321281115",
+      "name": "沈𫭢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/沈𫭢镇"
+    },
+    {
+      "code": "321281116",
+      "name": "大垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/大垛镇"
+    },
+    {
+      "code": "321281117",
+      "name": "荻垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/荻垛镇"
+    },
+    {
+      "code": "321281118",
+      "name": "陶庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/陶庄镇"
+    },
+    {
+      "code": "321281119",
+      "name": "昌荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/昌荣镇"
+    },
+    {
+      "code": "321281121",
+      "name": "周庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/周庄镇"
+    },
+    {
+      "code": "321281122",
+      "name": "陈堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/陈堡镇"
+    },
+    {
+      "code": "321281126",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/大营镇"
+    },
+    {
+      "code": "321281128",
+      "name": "千垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/千垛镇"
+    },
+    {
+      "code": "321281129",
+      "name": "兴东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/兴东镇"
+    },
+    {
+      "code": "321281130",
+      "name": "戴南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/戴南镇"
+    },
+    {
+      "code": "321281207",
+      "name": "林湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321281",
+      "year": 0,
+      "name_path": "江苏省/泰州市/兴化市/林湖乡"
+    }
+  ]
+}

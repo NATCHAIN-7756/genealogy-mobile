@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "653122100",
+      "name": "疏勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/疏勒镇"
+    },
+    {
+      "code": "653122101",
+      "name": "罕南力克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/罕南力克镇"
+    },
+    {
+      "code": "653122102",
+      "name": "牙甫泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/牙甫泉镇"
+    },
+    {
+      "code": "653122103",
+      "name": "锦安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/锦安镇"
+    },
+    {
+      "code": "653122203",
+      "name": "巴合齐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/巴合齐乡"
+    },
+    {
+      "code": "653122205",
+      "name": "英尔力克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/英尔力克乡"
+    },
+    {
+      "code": "653122206",
+      "name": "库木西力克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/库木西力克乡"
+    },
+    {
+      "code": "653122207",
+      "name": "塔尕尔其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/塔尕尔其乡"
+    },
+    {
+      "code": "653122208",
+      "name": "艾尔木东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/艾尔木东乡"
+    },
+    {
+      "code": "653122209",
+      "name": "阿拉力乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/阿拉力乡"
+    },
+    {
+      "code": "653122210",
+      "name": "阿拉甫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/阿拉甫乡"
+    },
+    {
+      "code": "653122211",
+      "name": "英阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653122",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏勒县/英阿瓦提乡"
+    }
+  ]
+}

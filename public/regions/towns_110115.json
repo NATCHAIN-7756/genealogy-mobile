@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "110115001",
+      "name": "兴丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/兴丰街道"
+    },
+    {
+      "code": "110115002",
+      "name": "林校路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/林校路街道"
+    },
+    {
+      "code": "110115003",
+      "name": "清源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/清源街道"
+    },
+    {
+      "code": "110115004",
+      "name": "亦庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/亦庄镇"
+    },
+    {
+      "code": "110115005",
+      "name": "黄村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/黄村镇"
+    },
+    {
+      "code": "110115006",
+      "name": "旧宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/旧宫镇"
+    },
+    {
+      "code": "110115007",
+      "name": "西红门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/西红门镇"
+    },
+    {
+      "code": "110115008",
+      "name": "瀛海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/瀛海镇"
+    },
+    {
+      "code": "110115009",
+      "name": "观音寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/观音寺街道"
+    },
+    {
+      "code": "110115010",
+      "name": "天宫院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/天宫院街道"
+    },
+    {
+      "code": "110115011",
+      "name": "高米店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/高米店街道"
+    },
+    {
+      "code": "110115012",
+      "name": "荣华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/荣华街道"
+    },
+    {
+      "code": "110115013",
+      "name": "博兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/博兴街道"
+    },
+    {
+      "code": "110115103",
+      "name": "青云店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/青云店镇"
+    },
+    {
+      "code": "110115104",
+      "name": "采育镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/采育镇"
+    },
+    {
+      "code": "110115105",
+      "name": "安定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/安定镇"
+    },
+    {
+      "code": "110115106",
+      "name": "礼贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/礼贤镇"
+    },
+    {
+      "code": "110115107",
+      "name": "榆垡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/榆垡镇"
+    },
+    {
+      "code": "110115108",
+      "name": "庞各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/庞各庄镇"
+    },
+    {
+      "code": "110115109",
+      "name": "北臧村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/北臧村镇"
+    },
+    {
+      "code": "110115110",
+      "name": "魏善庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/魏善庄镇"
+    },
+    {
+      "code": "110115111",
+      "name": "长子营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110115",
+      "year": 0,
+      "name_path": "北京市/大兴区/长子营镇"
+    }
+  ]
+}

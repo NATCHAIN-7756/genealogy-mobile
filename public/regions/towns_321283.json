@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "321283001",
+      "name": "济川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/济川街道"
+    },
+    {
+      "code": "321283002",
+      "name": "延令街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/延令街道"
+    },
+    {
+      "code": "321283003",
+      "name": "姚王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/姚王街道"
+    },
+    {
+      "code": "321283101",
+      "name": "黄桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/黄桥镇"
+    },
+    {
+      "code": "321283102",
+      "name": "珊瑚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/珊瑚镇"
+    },
+    {
+      "code": "321283103",
+      "name": "广陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/广陵镇"
+    },
+    {
+      "code": "321283106",
+      "name": "古溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/古溪镇"
+    },
+    {
+      "code": "321283107",
+      "name": "元竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/元竹镇"
+    },
+    {
+      "code": "321283108",
+      "name": "张桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/张桥镇"
+    },
+    {
+      "code": "321283109",
+      "name": "曲霞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/曲霞镇"
+    },
+    {
+      "code": "321283110",
+      "name": "河失镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/河失镇"
+    },
+    {
+      "code": "321283113",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/新街镇"
+    },
+    {
+      "code": "321283115",
+      "name": "宣堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/宣堡镇"
+    },
+    {
+      "code": "321283122",
+      "name": "分界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/分界镇"
+    },
+    {
+      "code": "321283123",
+      "name": "滨江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/滨江镇"
+    },
+    {
+      "code": "321283124",
+      "name": "虹桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/虹桥镇"
+    },
+    {
+      "code": "321283201",
+      "name": "根思乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321283",
+      "year": 0,
+      "name_path": "江苏省/泰州市/泰兴市/根思乡"
+    }
+  ]
+}

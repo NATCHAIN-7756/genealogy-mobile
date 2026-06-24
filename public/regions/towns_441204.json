@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "441204001",
+      "name": "南岸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/南岸街道"
+    },
+    {
+      "code": "441204100",
+      "name": "河台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/河台镇"
+    },
+    {
+      "code": "441204101",
+      "name": "乐城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/乐城镇"
+    },
+    {
+      "code": "441204102",
+      "name": "水南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/水南镇"
+    },
+    {
+      "code": "441204103",
+      "name": "禄步镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/禄步镇"
+    },
+    {
+      "code": "441204104",
+      "name": "小湘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/小湘镇"
+    },
+    {
+      "code": "441204105",
+      "name": "大湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/大湾镇"
+    },
+    {
+      "code": "441204106",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/新桥镇"
+    },
+    {
+      "code": "441204107",
+      "name": "白诸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/白诸镇"
+    },
+    {
+      "code": "441204108",
+      "name": "莲塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/莲塘镇"
+    },
+    {
+      "code": "441204109",
+      "name": "活道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/活道镇"
+    },
+    {
+      "code": "441204110",
+      "name": "蛟塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/蛟塘镇"
+    },
+    {
+      "code": "441204111",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/回龙镇"
+    },
+    {
+      "code": "441204112",
+      "name": "白土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/白土镇"
+    },
+    {
+      "code": "441204113",
+      "name": "金渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/金渡镇"
+    },
+    {
+      "code": "441204114",
+      "name": "金利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/金利镇"
+    },
+    {
+      "code": "441204115",
+      "name": "蚬岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441204",
+      "year": 0,
+      "name_path": "广东省/肇庆市/高要区/蚬岗镇"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "150623105",
+      "name": "敖勒召其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150623",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/鄂托克前旗/敖勒召其镇"
+    },
+    {
+      "code": "150623106",
+      "name": "上海庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150623",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/鄂托克前旗/上海庙镇"
+    },
+    {
+      "code": "150623107",
+      "name": "昂素镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150623",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/鄂托克前旗/昂素镇"
+    },
+    {
+      "code": "150623108",
+      "name": "城川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150623",
+      "year": 0,
+      "name_path": "内蒙古自治区/鄂尔多斯市/鄂托克前旗/城川镇"
+    }
+  ]
+}

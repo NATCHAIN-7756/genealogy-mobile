@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "640381001",
+      "name": "裕民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/裕民街道"
+    },
+    {
+      "code": "640381100",
+      "name": "小坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/小坝镇"
+    },
+    {
+      "code": "640381101",
+      "name": "大坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/大坝镇"
+    },
+    {
+      "code": "640381102",
+      "name": "青铜峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/青铜峡镇"
+    },
+    {
+      "code": "640381103",
+      "name": "叶盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/叶盛镇"
+    },
+    {
+      "code": "640381104",
+      "name": "瞿靖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/瞿靖镇"
+    },
+    {
+      "code": "640381105",
+      "name": "峡口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/峡口镇"
+    },
+    {
+      "code": "640381106",
+      "name": "邵岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/邵岗镇"
+    },
+    {
+      "code": "640381107",
+      "name": "陈袁滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640381",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/青铜峡市/陈袁滩镇"
+    }
+  ]
+}

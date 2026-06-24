@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "371702001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/东城街道"
+    },
+    {
+      "code": "371702002",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/西城街道"
+    },
+    {
+      "code": "371702003",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/南城街道"
+    },
+    {
+      "code": "371702004",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/北城街道"
+    },
+    {
+      "code": "371702005",
+      "name": "牡丹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/牡丹街道"
+    },
+    {
+      "code": "371702009",
+      "name": "万福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/万福街道"
+    },
+    {
+      "code": "371702010",
+      "name": "何楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/何楼街道"
+    },
+    {
+      "code": "371702011",
+      "name": "丹阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/丹阳街道"
+    },
+    {
+      "code": "371702012",
+      "name": "岳程街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/岳程街道"
+    },
+    {
+      "code": "371702013",
+      "name": "佃户屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/佃户屯街道"
+    },
+    {
+      "code": "371702014",
+      "name": "皇镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/皇镇街道"
+    },
+    {
+      "code": "371702100",
+      "name": "沙土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/沙土镇"
+    },
+    {
+      "code": "371702101",
+      "name": "吴店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/吴店镇"
+    },
+    {
+      "code": "371702102",
+      "name": "王浩屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/王浩屯镇"
+    },
+    {
+      "code": "371702103",
+      "name": "黄堽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/黄堽镇"
+    },
+    {
+      "code": "371702104",
+      "name": "都司镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/都司镇"
+    },
+    {
+      "code": "371702105",
+      "name": "高庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/高庄镇"
+    },
+    {
+      "code": "371702106",
+      "name": "小留镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/小留镇"
+    },
+    {
+      "code": "371702107",
+      "name": "李村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/李村镇"
+    },
+    {
+      "code": "371702108",
+      "name": "马岭岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/马岭岗镇"
+    },
+    {
+      "code": "371702109",
+      "name": "安兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/安兴镇"
+    },
+    {
+      "code": "371702110",
+      "name": "大黄集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/大黄集镇"
+    },
+    {
+      "code": "371702112",
+      "name": "胡集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/胡集镇"
+    },
+    {
+      "code": "371702113",
+      "name": "吕陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371702",
+      "year": 0,
+      "name_path": "山东省/菏泽市/牡丹区/吕陵镇"
+    }
+  ]
+}

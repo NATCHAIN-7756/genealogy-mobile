@@ -43,7 +43,7 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import axios from 'axios'
+import api from '../api'
 
 const router = useRouter()
 const phone = ref('')
@@ -54,9 +54,8 @@ const successMsg = ref('')
 
 onMounted(() => {
   const token = localStorage.getItem('token')
-  const user = localStorage.getItem('user')
-  if (token && user) {
-    router.replace('/profile')
+  if (token) {
+    window.location.href = '/m/'
   }
 })
 
@@ -72,18 +71,10 @@ async function onLogin() {
   loading.value = true
   
   try {
-    console.log('开始登录...')
-    
-    // 直接使用 axios，避免封装问题
-    const response = await axios.post('http://45.207.215.95/api/auth/login', {
+    const response = await api.post('/auth/login', {
       phone: phone.value,
       password: password.value
-    }, {
-      headers: { 'Content-Type': 'application/json' }
     })
-    
-    console.log('登录响应:', response)
-    console.log('响应数据:', response.data)
     
     const data = response.data
     
@@ -91,14 +82,11 @@ async function onLogin() {
       localStorage.setItem('token', data.access_token)
       localStorage.setItem('user', JSON.stringify(data.user))
       
-      console.log('Token已保存:', localStorage.getItem('token'))
-      console.log('User已保存:', localStorage.getItem('user'))
+      successMsg.value = '登录成功'
+      loading.value = false
       
-      successMsg.value = '登录成功，正在跳转...'
-      
-      setTimeout(() => {
-        router.push('/profile')
-      }, 500)
+      // 直接跳转首页，使用window.location确保跳转
+      window.location.href = '/m/'
     } else {
       errorMsg.value = '登录失败：服务器响应异常'
       loading.value = false

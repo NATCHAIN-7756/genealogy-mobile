@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "340811055",
+      "name": "大桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/大桥街道"
+    },
+    {
+      "code": "340811056",
+      "name": "菱北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/菱北街道"
+    },
+    {
+      "code": "340811100",
+      "name": "杨桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/杨桥镇"
+    },
+    {
+      "code": "340811101",
+      "name": "大龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/大龙山镇"
+    },
+    {
+      "code": "340811102",
+      "name": "罗岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/罗岭镇"
+    },
+    {
+      "code": "340811200",
+      "name": "白泽湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/白泽湖乡"
+    },
+    {
+      "code": "340811201",
+      "name": "五横乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340811",
+      "year": 0,
+      "name_path": "安徽省/安庆市/宜秀区/五横乡"
+    }
+  ]
+}

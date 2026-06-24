@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "420625100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/城关镇"
+    },
+    {
+      "code": "420625101",
+      "name": "石花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/石花镇"
+    },
+    {
+      "code": "420625102",
+      "name": "盛𡐓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/盛𡐓镇"
+    },
+    {
+      "code": "420625103",
+      "name": "庙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/庙滩镇"
+    },
+    {
+      "code": "420625104",
+      "name": "茨河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/茨河镇"
+    },
+    {
+      "code": "420625105",
+      "name": "南河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/南河镇"
+    },
+    {
+      "code": "420625106",
+      "name": "紫金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/紫金镇"
+    },
+    {
+      "code": "420625107",
+      "name": "冷集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/冷集镇"
+    },
+    {
+      "code": "420625108",
+      "name": "五山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/五山镇"
+    },
+    {
+      "code": "420625200",
+      "name": "赵湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420625",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/谷城县/赵湾乡"
+    }
+  ]
+}

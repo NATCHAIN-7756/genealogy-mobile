@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "511302",
+      "name": "顺庆区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/顺庆区"
+    },
+    {
+      "code": "511303",
+      "name": "高坪区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/高坪区"
+    },
+    {
+      "code": "511304",
+      "name": "嘉陵区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/嘉陵区"
+    },
+    {
+      "code": "511321",
+      "name": "南部县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/南部县"
+    },
+    {
+      "code": "511322",
+      "name": "营山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/营山县"
+    },
+    {
+      "code": "511323",
+      "name": "蓬安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/蓬安县"
+    },
+    {
+      "code": "511324",
+      "name": "仪陇县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/仪陇县"
+    },
+    {
+      "code": "511325",
+      "name": "西充县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/西充县"
+    },
+    {
+      "code": "511381",
+      "name": "阆中市",
+      "level": 3,
+      "type": null,
+      "parent_code": "511300",
+      "year": 0,
+      "name_path": "全国/四川省/南充市/阆中市"
+    }
+  ]
+}

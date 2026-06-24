@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "620100",
+      "name": "兰州市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/兰州市"
+    },
+    {
+      "code": "620200",
+      "name": "嘉峪关市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/嘉峪关市"
+    },
+    {
+      "code": "620300",
+      "name": "金昌市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/金昌市"
+    },
+    {
+      "code": "620400",
+      "name": "白银市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/白银市"
+    },
+    {
+      "code": "620500",
+      "name": "天水市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/天水市"
+    },
+    {
+      "code": "620600",
+      "name": "武威市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/武威市"
+    },
+    {
+      "code": "620700",
+      "name": "张掖市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/张掖市"
+    },
+    {
+      "code": "620800",
+      "name": "平凉市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市"
+    },
+    {
+      "code": "620900",
+      "name": "酒泉市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/酒泉市"
+    },
+    {
+      "code": "621000",
+      "name": "庆阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/庆阳市"
+    },
+    {
+      "code": "621100",
+      "name": "定西市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市"
+    },
+    {
+      "code": "621200",
+      "name": "陇南市",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/陇南市"
+    },
+    {
+      "code": "622900",
+      "name": "临夏回族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/临夏回族自治州"
+    },
+    {
+      "code": "623000",
+      "name": "甘南藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "620000",
+      "year": 0,
+      "name_path": "全国/甘肃省/甘南藏族自治州"
+    }
+  ]
+}

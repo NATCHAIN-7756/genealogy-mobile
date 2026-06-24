@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "522630001",
+      "name": "台拱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/台拱街道"
+    },
+    {
+      "code": "522630002",
+      "name": "萃文街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/萃文街道"
+    },
+    {
+      "code": "522630101",
+      "name": "施洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/施洞镇"
+    },
+    {
+      "code": "522630102",
+      "name": "南宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/南宫镇"
+    },
+    {
+      "code": "522630103",
+      "name": "革一镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/革一镇"
+    },
+    {
+      "code": "522630104",
+      "name": "方召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/方召镇"
+    },
+    {
+      "code": "522630201",
+      "name": "排羊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/排羊乡"
+    },
+    {
+      "code": "522630202",
+      "name": "台盘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/台盘乡"
+    },
+    {
+      "code": "522630204",
+      "name": "老屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522630",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/台江县/老屯乡"
+    }
+  ]
+}

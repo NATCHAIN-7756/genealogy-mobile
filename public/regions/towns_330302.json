@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "330302002",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/滨江街道"
+    },
+    {
+      "code": "330302014",
+      "name": "松台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/松台街道"
+    },
+    {
+      "code": "330302018",
+      "name": "五马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/五马街道"
+    },
+    {
+      "code": "330302021",
+      "name": "南汇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/南汇街道"
+    },
+    {
+      "code": "330302022",
+      "name": "双屿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/双屿街道"
+    },
+    {
+      "code": "330302023",
+      "name": "仰义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/仰义街道"
+    },
+    {
+      "code": "330302024",
+      "name": "七都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/七都街道"
+    },
+    {
+      "code": "330302025",
+      "name": "蒲鞋市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/蒲鞋市街道"
+    },
+    {
+      "code": "330302026",
+      "name": "广化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/广化街道"
+    },
+    {
+      "code": "330302027",
+      "name": "大南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/大南街道"
+    },
+    {
+      "code": "330302028",
+      "name": "南郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/南郊街道"
+    },
+    {
+      "code": "330302029",
+      "name": "丰门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/丰门街道"
+    },
+    {
+      "code": "330302100",
+      "name": "藤桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/藤桥镇"
+    },
+    {
+      "code": "330302101",
+      "name": "山福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330302",
+      "year": 0,
+      "name_path": "浙江省/温州市/鹿城区/山福镇"
+    }
+  ]
+}

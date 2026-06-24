@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230722100",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/朝阳镇"
+    },
+    {
+      "code": "230722101",
+      "name": "乌云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/乌云镇"
+    },
+    {
+      "code": "230722102",
+      "name": "乌拉嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/乌拉嘎镇"
+    },
+    {
+      "code": "230722103",
+      "name": "保兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/保兴镇"
+    },
+    {
+      "code": "230722200",
+      "name": "常胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/常胜乡"
+    },
+    {
+      "code": "230722201",
+      "name": "向阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/向阳乡"
+    },
+    {
+      "code": "230722202",
+      "name": "沪嘉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/沪嘉乡"
+    },
+    {
+      "code": "230722203",
+      "name": "红光乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/红光乡"
+    },
+    {
+      "code": "230722205",
+      "name": "青山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230722",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/嘉荫县/青山乡"
+    }
+  ]
+}

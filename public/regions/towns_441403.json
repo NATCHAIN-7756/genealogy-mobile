@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "441403100",
+      "name": "松口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/松口镇"
+    },
+    {
+      "code": "441403101",
+      "name": "城东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/城东镇"
+    },
+    {
+      "code": "441403102",
+      "name": "石扇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/石扇镇"
+    },
+    {
+      "code": "441403103",
+      "name": "梅西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/梅西镇"
+    },
+    {
+      "code": "441403104",
+      "name": "大坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/大坪镇"
+    },
+    {
+      "code": "441403105",
+      "name": "石坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/石坑镇"
+    },
+    {
+      "code": "441403106",
+      "name": "南口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/南口镇"
+    },
+    {
+      "code": "441403107",
+      "name": "畲江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/畲江镇"
+    },
+    {
+      "code": "441403108",
+      "name": "水车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/水车镇"
+    },
+    {
+      "code": "441403109",
+      "name": "梅南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/梅南镇"
+    },
+    {
+      "code": "441403110",
+      "name": "丙村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/丙村镇"
+    },
+    {
+      "code": "441403111",
+      "name": "雁洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/雁洋镇"
+    },
+    {
+      "code": "441403112",
+      "name": "白渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/白渡镇"
+    },
+    {
+      "code": "441403113",
+      "name": "松源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/松源镇"
+    },
+    {
+      "code": "441403114",
+      "name": "隆文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/隆文镇"
+    },
+    {
+      "code": "441403115",
+      "name": "桃尧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/桃尧镇"
+    },
+    {
+      "code": "441403116",
+      "name": "程江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441403",
+      "year": 0,
+      "name_path": "广东省/梅州市/梅县区/程江镇"
+    }
+  ]
+}

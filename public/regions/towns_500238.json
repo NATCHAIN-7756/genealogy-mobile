@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "500238001",
+      "name": "宁河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/宁河街道"
+    },
+    {
+      "code": "500238002",
+      "name": "柏杨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/柏杨街道"
+    },
+    {
+      "code": "500238003",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/凤凰街道"
+    },
+    {
+      "code": "500238100",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/城厢镇"
+    },
+    {
+      "code": "500238102",
+      "name": "宁厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/宁厂镇"
+    },
+    {
+      "code": "500238103",
+      "name": "上磺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/上磺镇"
+    },
+    {
+      "code": "500238104",
+      "name": "古路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/古路镇"
+    },
+    {
+      "code": "500238105",
+      "name": "文峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/文峰镇"
+    },
+    {
+      "code": "500238106",
+      "name": "徐家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/徐家镇"
+    },
+    {
+      "code": "500238107",
+      "name": "白鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/白鹿镇"
+    },
+    {
+      "code": "500238108",
+      "name": "尖山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/尖山镇"
+    },
+    {
+      "code": "500238109",
+      "name": "下堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/下堡镇"
+    },
+    {
+      "code": "500238110",
+      "name": "峰灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/峰灵镇"
+    },
+    {
+      "code": "500238111",
+      "name": "塘坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/塘坊镇"
+    },
+    {
+      "code": "500238112",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/朝阳镇"
+    },
+    {
+      "code": "500238113",
+      "name": "田坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/田坝镇"
+    },
+    {
+      "code": "500238114",
+      "name": "通城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/通城镇"
+    },
+    {
+      "code": "500238115",
+      "name": "土城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/土城镇"
+    },
+    {
+      "code": "500238116",
+      "name": "菱角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/菱角镇"
+    },
+    {
+      "code": "500238117",
+      "name": "蒲莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/蒲莲镇"
+    },
+    {
+      "code": "500238118",
+      "name": "红池坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/红池坝镇"
+    },
+    {
+      "code": "500238200",
+      "name": "胜利乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/胜利乡"
+    },
+    {
+      "code": "500238202",
+      "name": "大河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/大河乡"
+    },
+    {
+      "code": "500238203",
+      "name": "天星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/天星乡"
+    },
+    {
+      "code": "500238204",
+      "name": "长桂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/长桂乡"
+    },
+    {
+      "code": "500238209",
+      "name": "鱼鳞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/鱼鳞乡"
+    },
+    {
+      "code": "500238210",
+      "name": "乌龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/乌龙乡"
+    },
+    {
+      "code": "500238214",
+      "name": "花台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/花台乡"
+    },
+    {
+      "code": "500238215",
+      "name": "兰英乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/兰英乡"
+    },
+    {
+      "code": "500238216",
+      "name": "双阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/双阳乡"
+    },
+    {
+      "code": "500238217",
+      "name": "中梁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/中梁乡"
+    },
+    {
+      "code": "500238218",
+      "name": "天元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500238",
+      "year": 0,
+      "name_path": "重庆市/巫溪县/天元乡"
+    }
+  ]
+}

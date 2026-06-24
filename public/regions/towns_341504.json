@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "341504001",
+      "name": "史河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341504",
+      "year": 0,
+      "name_path": "安徽省/六安市/叶集区/史河街道"
+    },
+    {
+      "code": "341504002",
+      "name": "平岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341504",
+      "year": 0,
+      "name_path": "安徽省/六安市/叶集区/平岗街道"
+    },
+    {
+      "code": "341504100",
+      "name": "三元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341504",
+      "year": 0,
+      "name_path": "安徽省/六安市/叶集区/三元镇"
+    },
+    {
+      "code": "341504102",
+      "name": "洪集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341504",
+      "year": 0,
+      "name_path": "安徽省/六安市/叶集区/洪集镇"
+    },
+    {
+      "code": "341504103",
+      "name": "姚李镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341504",
+      "year": 0,
+      "name_path": "安徽省/六安市/叶集区/姚李镇"
+    },
+    {
+      "code": "341504200",
+      "name": "孙岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341504",
+      "year": 0,
+      "name_path": "安徽省/六安市/叶集区/孙岗乡"
+    }
+  ]
+}

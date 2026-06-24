@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "430902001",
+      "name": "大码头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/大码头街道"
+    },
+    {
+      "code": "430902003",
+      "name": "汽车路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/汽车路街道"
+    },
+    {
+      "code": "430902100",
+      "name": "长春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/长春镇"
+    },
+    {
+      "code": "430902101",
+      "name": "新桥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/新桥河镇"
+    },
+    {
+      "code": "430902102",
+      "name": "迎风桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/迎风桥镇"
+    },
+    {
+      "code": "430902104",
+      "name": "沙头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/沙头镇"
+    },
+    {
+      "code": "430902105",
+      "name": "茈湖口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/茈湖口镇"
+    },
+    {
+      "code": "430902203",
+      "name": "张家塞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430902",
+      "year": 0,
+      "name_path": "湖南省/益阳市/资阳区/张家塞乡"
+    }
+  ]
+}

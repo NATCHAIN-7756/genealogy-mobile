@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "140825100",
+      "name": "龙兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/龙兴镇"
+    },
+    {
+      "code": "140825101",
+      "name": "三泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/三泉镇"
+    },
+    {
+      "code": "140825102",
+      "name": "泽掌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/泽掌镇"
+    },
+    {
+      "code": "140825103",
+      "name": "北张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/北张镇"
+    },
+    {
+      "code": "140825104",
+      "name": "古交镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/古交镇"
+    },
+    {
+      "code": "140825105",
+      "name": "万安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/万安镇"
+    },
+    {
+      "code": "140825106",
+      "name": "阳王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/阳王镇"
+    },
+    {
+      "code": "140825107",
+      "name": "泉掌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/泉掌镇"
+    },
+    {
+      "code": "140825108",
+      "name": "横桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140825",
+      "year": 0,
+      "name_path": "山西省/运城市/新绛县/横桥镇"
+    }
+  ]
+}

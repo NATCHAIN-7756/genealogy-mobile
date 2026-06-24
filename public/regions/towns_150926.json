@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150926100",
+      "name": "土贵乌拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/土贵乌拉镇"
+    },
+    {
+      "code": "150926101",
+      "name": "平地泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/平地泉镇"
+    },
+    {
+      "code": "150926102",
+      "name": "玫瑰营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/玫瑰营镇"
+    },
+    {
+      "code": "150926104",
+      "name": "巴音塔拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/巴音塔拉镇"
+    },
+    {
+      "code": "150926105",
+      "name": "黄旗海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/黄旗海镇"
+    },
+    {
+      "code": "150926202",
+      "name": "乌拉哈乌拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/乌拉哈乌拉乡"
+    },
+    {
+      "code": "150926203",
+      "name": "黄茂营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/黄茂营乡"
+    },
+    {
+      "code": "150926208",
+      "name": "三岔口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/三岔口乡"
+    },
+    {
+      "code": "150926209",
+      "name": "老圈沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150926",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼前旗/老圈沟乡"
+    }
+  ]
+}

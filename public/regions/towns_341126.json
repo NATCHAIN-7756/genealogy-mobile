@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "341126001",
+      "name": "中都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/中都街道"
+    },
+    {
+      "code": "341126002",
+      "name": "玄武街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/玄武街道"
+    },
+    {
+      "code": "341126100",
+      "name": "府城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/府城镇"
+    },
+    {
+      "code": "341126101",
+      "name": "临淮关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/临淮关镇"
+    },
+    {
+      "code": "341126103",
+      "name": "武店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/武店镇"
+    },
+    {
+      "code": "341126104",
+      "name": "西泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/西泉镇"
+    },
+    {
+      "code": "341126105",
+      "name": "刘府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/刘府镇"
+    },
+    {
+      "code": "341126106",
+      "name": "大庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/大庙镇"
+    },
+    {
+      "code": "341126107",
+      "name": "殷涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/殷涧镇"
+    },
+    {
+      "code": "341126109",
+      "name": "总铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/总铺镇"
+    },
+    {
+      "code": "341126110",
+      "name": "红心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/红心镇"
+    },
+    {
+      "code": "341126111",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/板桥镇"
+    },
+    {
+      "code": "341126112",
+      "name": "大溪河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/大溪河镇"
+    },
+    {
+      "code": "341126114",
+      "name": "小溪河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/小溪河镇"
+    },
+    {
+      "code": "341126118",
+      "name": "枣巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/枣巷镇"
+    },
+    {
+      "code": "341126119",
+      "name": "官塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/官塘镇"
+    },
+    {
+      "code": "341126207",
+      "name": "黄湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341126",
+      "year": 0,
+      "name_path": "安徽省/滁州市/凤阳县/黄湾乡"
+    }
+  ]
+}

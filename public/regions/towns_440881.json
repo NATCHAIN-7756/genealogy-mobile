@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "440881001",
+      "name": "罗州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/罗州街道"
+    },
+    {
+      "code": "440881002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/城北街道"
+    },
+    {
+      "code": "440881003",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/城南街道"
+    },
+    {
+      "code": "440881101",
+      "name": "石城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/石城镇"
+    },
+    {
+      "code": "440881102",
+      "name": "新民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/新民镇"
+    },
+    {
+      "code": "440881103",
+      "name": "吉水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/吉水镇"
+    },
+    {
+      "code": "440881104",
+      "name": "河唇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/河唇镇"
+    },
+    {
+      "code": "440881105",
+      "name": "石角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/石角镇"
+    },
+    {
+      "code": "440881106",
+      "name": "良垌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/良垌镇"
+    },
+    {
+      "code": "440881109",
+      "name": "横山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/横山镇"
+    },
+    {
+      "code": "440881110",
+      "name": "安铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/安铺镇"
+    },
+    {
+      "code": "440881111",
+      "name": "营仔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/营仔镇"
+    },
+    {
+      "code": "440881112",
+      "name": "青平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/青平镇"
+    },
+    {
+      "code": "440881113",
+      "name": "车板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/车板镇"
+    },
+    {
+      "code": "440881114",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/高桥镇"
+    },
+    {
+      "code": "440881115",
+      "name": "石岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/石岭镇"
+    },
+    {
+      "code": "440881117",
+      "name": "雅塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/雅塘镇"
+    },
+    {
+      "code": "440881118",
+      "name": "石颈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/石颈镇"
+    },
+    {
+      "code": "440881119",
+      "name": "长山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/长山镇"
+    },
+    {
+      "code": "440881120",
+      "name": "塘蓬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/塘蓬镇"
+    },
+    {
+      "code": "440881121",
+      "name": "和寮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440881",
+      "year": 0,
+      "name_path": "广东省/湛江市/廉江市/和寮镇"
+    }
+  ]
+}

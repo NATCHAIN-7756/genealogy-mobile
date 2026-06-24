@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "370702001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370702",
+      "year": 0,
+      "name_path": "山东省/潍坊市/潍城区/城关街道"
+    },
+    {
+      "code": "370702002",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370702",
+      "year": 0,
+      "name_path": "山东省/潍坊市/潍城区/南关街道"
+    },
+    {
+      "code": "370702003",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370702",
+      "year": 0,
+      "name_path": "山东省/潍坊市/潍城区/西关街道"
+    },
+    {
+      "code": "370702004",
+      "name": "北关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370702",
+      "year": 0,
+      "name_path": "山东省/潍坊市/潍城区/北关街道"
+    },
+    {
+      "code": "370702005",
+      "name": "于河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370702",
+      "year": 0,
+      "name_path": "山东省/潍坊市/潍城区/于河街道"
+    },
+    {
+      "code": "370702006",
+      "name": "望留街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370702",
+      "year": 0,
+      "name_path": "山东省/潍坊市/潍城区/望留街道"
+    }
+  ]
+}

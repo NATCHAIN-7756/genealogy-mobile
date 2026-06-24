@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "440605001",
+      "name": "桂城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/桂城街道"
+    },
+    {
+      "code": "440605100",
+      "name": "里水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/里水镇"
+    },
+    {
+      "code": "440605101",
+      "name": "九江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/九江镇"
+    },
+    {
+      "code": "440605102",
+      "name": "丹灶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/丹灶镇"
+    },
+    {
+      "code": "440605104",
+      "name": "西樵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/西樵镇"
+    },
+    {
+      "code": "440605105",
+      "name": "大沥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/大沥镇"
+    },
+    {
+      "code": "440605106",
+      "name": "狮山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440605",
+      "year": 0,
+      "name_path": "广东省/佛山市/南海区/狮山镇"
+    }
+  ]
+}

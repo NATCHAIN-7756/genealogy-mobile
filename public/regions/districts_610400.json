@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "610402",
+      "name": "秦都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/秦都区"
+    },
+    {
+      "code": "610403",
+      "name": "杨陵区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/杨陵区"
+    },
+    {
+      "code": "610404",
+      "name": "渭城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/渭城区"
+    },
+    {
+      "code": "610422",
+      "name": "三原县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/三原县"
+    },
+    {
+      "code": "610423",
+      "name": "泾阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/泾阳县"
+    },
+    {
+      "code": "610424",
+      "name": "乾县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/乾县"
+    },
+    {
+      "code": "610425",
+      "name": "礼泉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/礼泉县"
+    },
+    {
+      "code": "610426",
+      "name": "永寿县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/永寿县"
+    },
+    {
+      "code": "610428",
+      "name": "长武县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/长武县"
+    },
+    {
+      "code": "610429",
+      "name": "旬邑县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/旬邑县"
+    },
+    {
+      "code": "610430",
+      "name": "淳化县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/淳化县"
+    },
+    {
+      "code": "610431",
+      "name": "武功县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/武功县"
+    },
+    {
+      "code": "610481",
+      "name": "兴平市",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/兴平市"
+    },
+    {
+      "code": "610482",
+      "name": "彬州市",
+      "level": 3,
+      "type": null,
+      "parent_code": "610400",
+      "year": 0,
+      "name_path": "全国/陕西省/咸阳市/彬州市"
+    }
+  ]
+}

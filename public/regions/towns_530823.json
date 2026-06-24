@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "530823100",
+      "name": "锦屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/锦屏镇"
+    },
+    {
+      "code": "530823101",
+      "name": "文井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/文井镇"
+    },
+    {
+      "code": "530823102",
+      "name": "漫湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/漫湾镇"
+    },
+    {
+      "code": "530823103",
+      "name": "大朝山东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/大朝山东镇"
+    },
+    {
+      "code": "530823104",
+      "name": "花山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/花山镇"
+    },
+    {
+      "code": "530823105",
+      "name": "大街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/大街镇"
+    },
+    {
+      "code": "530823106",
+      "name": "安定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/安定镇"
+    },
+    {
+      "code": "530823107",
+      "name": "太忠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/太忠镇"
+    },
+    {
+      "code": "530823108",
+      "name": "文龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/文龙镇"
+    },
+    {
+      "code": "530823109",
+      "name": "景福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/景福镇"
+    },
+    {
+      "code": "530823204",
+      "name": "龙街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/龙街乡"
+    },
+    {
+      "code": "530823207",
+      "name": "林街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/林街乡"
+    },
+    {
+      "code": "530823209",
+      "name": "曼等乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530823",
+      "year": 0,
+      "name_path": "云南省/普洱市/景东彝族自治县/曼等乡"
+    }
+  ]
+}

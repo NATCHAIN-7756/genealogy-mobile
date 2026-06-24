@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540581100",
+      "name": "错那镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/错那镇"
+    },
+    {
+      "code": "540581200",
+      "name": "卡达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/卡达乡"
+    },
+    {
+      "code": "540581201",
+      "name": "觉拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/觉拉乡"
+    },
+    {
+      "code": "540581202",
+      "name": "浪坡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/浪坡乡"
+    },
+    {
+      "code": "540581203",
+      "name": "曲卓木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/曲卓木乡"
+    },
+    {
+      "code": "540581204",
+      "name": "库局乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/库局乡"
+    },
+    {
+      "code": "540581205",
+      "name": "麻麻门巴民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/麻麻门巴民族乡"
+    },
+    {
+      "code": "540581206",
+      "name": "贡日门巴民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/贡日门巴民族乡"
+    },
+    {
+      "code": "540581207",
+      "name": "吉巴门巴民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/吉巴门巴民族乡"
+    },
+    {
+      "code": "540581208",
+      "name": "勒门巴民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540581",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/错那市/勒门巴民族乡"
+    }
+  ]
+}

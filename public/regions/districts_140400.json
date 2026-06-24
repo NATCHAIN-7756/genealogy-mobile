@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140403",
+      "name": "潞州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/潞州区"
+    },
+    {
+      "code": "140404",
+      "name": "上党区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/上党区"
+    },
+    {
+      "code": "140405",
+      "name": "屯留区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/屯留区"
+    },
+    {
+      "code": "140406",
+      "name": "潞城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/潞城区"
+    },
+    {
+      "code": "140423",
+      "name": "襄垣县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/襄垣县"
+    },
+    {
+      "code": "140425",
+      "name": "平顺县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/平顺县"
+    },
+    {
+      "code": "140426",
+      "name": "黎城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/黎城县"
+    },
+    {
+      "code": "140427",
+      "name": "壶关县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/壶关县"
+    },
+    {
+      "code": "140428",
+      "name": "长子县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/长子县"
+    },
+    {
+      "code": "140429",
+      "name": "武乡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/武乡县"
+    },
+    {
+      "code": "140430",
+      "name": "沁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/沁县"
+    },
+    {
+      "code": "140431",
+      "name": "沁源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140400",
+      "year": 0,
+      "name_path": "全国/山西省/长治市/沁源县"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "330112001",
+      "name": "锦城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/锦城街道"
+    },
+    {
+      "code": "330112002",
+      "name": "玲珑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/玲珑街道"
+    },
+    {
+      "code": "330112003",
+      "name": "青山湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/青山湖街道"
+    },
+    {
+      "code": "330112004",
+      "name": "锦南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/锦南街道"
+    },
+    {
+      "code": "330112005",
+      "name": "锦北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/锦北街道"
+    },
+    {
+      "code": "330112100",
+      "name": "高虹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/高虹镇"
+    },
+    {
+      "code": "330112101",
+      "name": "太湖源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/太湖源镇"
+    },
+    {
+      "code": "330112102",
+      "name": "於潜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/於潜镇"
+    },
+    {
+      "code": "330112103",
+      "name": "天目山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/天目山镇"
+    },
+    {
+      "code": "330112104",
+      "name": "太阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/太阳镇"
+    },
+    {
+      "code": "330112105",
+      "name": "潜川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/潜川镇"
+    },
+    {
+      "code": "330112106",
+      "name": "昌化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/昌化镇"
+    },
+    {
+      "code": "330112107",
+      "name": "河桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/河桥镇"
+    },
+    {
+      "code": "330112108",
+      "name": "龙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/龙岗镇"
+    },
+    {
+      "code": "330112109",
+      "name": "湍口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/湍口镇"
+    },
+    {
+      "code": "330112110",
+      "name": "清凉峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/清凉峰镇"
+    },
+    {
+      "code": "330112111",
+      "name": "岛石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/岛石镇"
+    },
+    {
+      "code": "330112112",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330112",
+      "year": 0,
+      "name_path": "浙江省/杭州市/临安区/板桥镇"
+    }
+  ]
+}

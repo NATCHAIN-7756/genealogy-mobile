@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "623026101",
+      "name": "郎木寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/郎木寺镇"
+    },
+    {
+      "code": "623026102",
+      "name": "玛艾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/玛艾镇"
+    },
+    {
+      "code": "623026103",
+      "name": "尕海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/尕海镇"
+    },
+    {
+      "code": "623026104",
+      "name": "西仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/西仓镇"
+    },
+    {
+      "code": "623026105",
+      "name": "双岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/双岔镇"
+    },
+    {
+      "code": "623026203",
+      "name": "拉仁关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/拉仁关乡"
+    },
+    {
+      "code": "623026205",
+      "name": "阿拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623026",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/碌曲县/阿拉乡"
+    }
+  ]
+}

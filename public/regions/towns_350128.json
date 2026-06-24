@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "350128001",
+      "name": "海坛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/海坛街道"
+    },
+    {
+      "code": "350128107",
+      "name": "金井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/金井镇"
+    },
+    {
+      "code": "350128108",
+      "name": "君山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/君山镇"
+    },
+    {
+      "code": "350128109",
+      "name": "苏平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/苏平镇"
+    },
+    {
+      "code": "350128201",
+      "name": "屿头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/屿头乡"
+    },
+    {
+      "code": "350128205",
+      "name": "东庠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/东庠乡"
+    },
+    {
+      "code": "350128207",
+      "name": "南海乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350128",
+      "year": 0,
+      "name_path": "福建省/福州市/平潭县/南海乡"
+    }
+  ]
+}

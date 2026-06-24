@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "532927100",
+      "name": "南诏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/南诏镇"
+    },
+    {
+      "code": "532927101",
+      "name": "庙街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/庙街镇"
+    },
+    {
+      "code": "532927102",
+      "name": "大仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/大仓镇"
+    },
+    {
+      "code": "532927103",
+      "name": "永建镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/永建镇"
+    },
+    {
+      "code": "532927200",
+      "name": "巍宝山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/巍宝山乡"
+    },
+    {
+      "code": "532927201",
+      "name": "马鞍山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/马鞍山乡"
+    },
+    {
+      "code": "532927202",
+      "name": "紫金乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/紫金乡"
+    },
+    {
+      "code": "532927203",
+      "name": "五印乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/五印乡"
+    },
+    {
+      "code": "532927204",
+      "name": "牛街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/牛街乡"
+    },
+    {
+      "code": "532927206",
+      "name": "青华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532927",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/巍山彝族回族自治县/青华乡"
+    }
+  ]
+}

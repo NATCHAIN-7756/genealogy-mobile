@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "350628100",
+      "name": "小溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/小溪镇"
+    },
+    {
+      "code": "350628101",
+      "name": "山格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/山格镇"
+    },
+    {
+      "code": "350628102",
+      "name": "文峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/文峰镇"
+    },
+    {
+      "code": "350628103",
+      "name": "南胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/南胜镇"
+    },
+    {
+      "code": "350628104",
+      "name": "坂仔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/坂仔镇"
+    },
+    {
+      "code": "350628105",
+      "name": "安厚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/安厚镇"
+    },
+    {
+      "code": "350628106",
+      "name": "大溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/大溪镇"
+    },
+    {
+      "code": "350628107",
+      "name": "霞寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/霞寨镇"
+    },
+    {
+      "code": "350628108",
+      "name": "九峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/九峰镇"
+    },
+    {
+      "code": "350628109",
+      "name": "芦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/芦溪镇"
+    },
+    {
+      "code": "350628200",
+      "name": "五寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/五寨乡"
+    },
+    {
+      "code": "350628201",
+      "name": "国强乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/国强乡"
+    },
+    {
+      "code": "350628202",
+      "name": "崎岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/崎岭乡"
+    },
+    {
+      "code": "350628203",
+      "name": "长乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/长乐乡"
+    },
+    {
+      "code": "350628204",
+      "name": "秀峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350628",
+      "year": 0,
+      "name_path": "福建省/漳州市/平和县/秀峰乡"
+    }
+  ]
+}

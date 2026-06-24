@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140321100",
+      "name": "冠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/冠山镇"
+    },
+    {
+      "code": "140321101",
+      "name": "冶西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/冶西镇"
+    },
+    {
+      "code": "140321102",
+      "name": "锁簧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/锁簧镇"
+    },
+    {
+      "code": "140321103",
+      "name": "张庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/张庄镇"
+    },
+    {
+      "code": "140321104",
+      "name": "东回镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/东回镇"
+    },
+    {
+      "code": "140321105",
+      "name": "柏井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/柏井镇"
+    },
+    {
+      "code": "140321106",
+      "name": "娘子关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/娘子关镇"
+    },
+    {
+      "code": "140321107",
+      "name": "巨城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/巨城镇"
+    },
+    {
+      "code": "140321200",
+      "name": "石门口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/石门口乡"
+    },
+    {
+      "code": "140321201",
+      "name": "岔口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140321",
+      "year": 0,
+      "name_path": "山西省/阳泉市/平定县/岔口乡"
+    }
+  ]
+}

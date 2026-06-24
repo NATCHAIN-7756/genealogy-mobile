@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510311001",
+      "name": "卫坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/卫坪街道"
+    },
+    {
+      "code": "510311002",
+      "name": "邓关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/邓关街道"
+    },
+    {
+      "code": "510311100",
+      "name": "沿滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/沿滩镇"
+    },
+    {
+      "code": "510311102",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/兴隆镇"
+    },
+    {
+      "code": "510311105",
+      "name": "富全镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/富全镇"
+    },
+    {
+      "code": "510311106",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/永安镇"
+    },
+    {
+      "code": "510311107",
+      "name": "联络镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/联络镇"
+    },
+    {
+      "code": "510311109",
+      "name": "王井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/王井镇"
+    },
+    {
+      "code": "510311110",
+      "name": "黄市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/黄市镇"
+    },
+    {
+      "code": "510311111",
+      "name": "瓦市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/瓦市镇"
+    },
+    {
+      "code": "510311112",
+      "name": "仙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/仙市镇"
+    },
+    {
+      "code": "510311204",
+      "name": "九洪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510311",
+      "year": 0,
+      "name_path": "四川省/自贡市/沿滩区/九洪乡"
+    }
+  ]
+}

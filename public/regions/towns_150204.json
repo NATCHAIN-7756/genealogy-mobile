@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "150204001",
+      "name": "先锋道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/先锋道街道"
+    },
+    {
+      "code": "150204002",
+      "name": "幸福路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/幸福路街道"
+    },
+    {
+      "code": "150204003",
+      "name": "万青路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/万青路街道"
+    },
+    {
+      "code": "150204004",
+      "name": "富强路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/富强路街道"
+    },
+    {
+      "code": "150204005",
+      "name": "科学路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/科学路街道"
+    },
+    {
+      "code": "150204006",
+      "name": "青山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/青山路街道"
+    },
+    {
+      "code": "150204007",
+      "name": "自由路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/自由路街道"
+    },
+    {
+      "code": "150204008",
+      "name": "乌素图街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/乌素图街道"
+    },
+    {
+      "code": "150204100",
+      "name": "青福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/青福镇"
+    },
+    {
+      "code": "150204101",
+      "name": "兴胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150204",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/青山区/兴胜镇"
+    }
+  ]
+}

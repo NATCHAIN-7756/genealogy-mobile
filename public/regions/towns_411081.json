@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "411081001",
+      "name": "颍川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/颍川街道"
+    },
+    {
+      "code": "411081002",
+      "name": "夏都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/夏都街道"
+    },
+    {
+      "code": "411081003",
+      "name": "韩城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/韩城街道"
+    },
+    {
+      "code": "411081004",
+      "name": "钧台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/钧台街道"
+    },
+    {
+      "code": "411081005",
+      "name": "褚河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/褚河街道"
+    },
+    {
+      "code": "411081100",
+      "name": "火龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/火龙镇"
+    },
+    {
+      "code": "411081101",
+      "name": "顺店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/顺店镇"
+    },
+    {
+      "code": "411081102",
+      "name": "方山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/方山镇"
+    },
+    {
+      "code": "411081103",
+      "name": "神垕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/神垕镇"
+    },
+    {
+      "code": "411081104",
+      "name": "鸿畅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/鸿畅镇"
+    },
+    {
+      "code": "411081105",
+      "name": "梁北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/梁北镇"
+    },
+    {
+      "code": "411081106",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/古城镇"
+    },
+    {
+      "code": "411081107",
+      "name": "无梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/无梁镇"
+    },
+    {
+      "code": "411081108",
+      "name": "文殊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/文殊镇"
+    },
+    {
+      "code": "411081109",
+      "name": "鸠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/鸠山镇"
+    },
+    {
+      "code": "411081111",
+      "name": "郭连镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/郭连镇"
+    },
+    {
+      "code": "411081112",
+      "name": "范坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/范坡镇"
+    },
+    {
+      "code": "411081113",
+      "name": "朱阁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/朱阁镇"
+    },
+    {
+      "code": "411081114",
+      "name": "浅井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/浅井镇"
+    },
+    {
+      "code": "411081115",
+      "name": "方岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/方岗镇"
+    },
+    {
+      "code": "411081116",
+      "name": "花石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/花石镇"
+    },
+    {
+      "code": "411081117",
+      "name": "张得镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/张得镇"
+    },
+    {
+      "code": "411081118",
+      "name": "苌庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/苌庄镇"
+    },
+    {
+      "code": "411081119",
+      "name": "小吕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/小吕镇"
+    },
+    {
+      "code": "411081204",
+      "name": "磨街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/磨街乡"
+    },
+    {
+      "code": "411081210",
+      "name": "山货回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411081",
+      "year": 0,
+      "name_path": "河南省/许昌市/禹州市/山货回族乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610430001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/城关街道"
+    },
+    {
+      "code": "610430101",
+      "name": "官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/官庄镇"
+    },
+    {
+      "code": "610430103",
+      "name": "方里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/方里镇"
+    },
+    {
+      "code": "610430104",
+      "name": "润镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/润镇"
+    },
+    {
+      "code": "610430105",
+      "name": "车坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/车坞镇"
+    },
+    {
+      "code": "610430106",
+      "name": "铁王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/铁王镇"
+    },
+    {
+      "code": "610430107",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/石桥镇"
+    },
+    {
+      "code": "610430109",
+      "name": "十里塬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610430",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/淳化县/十里塬镇"
+    }
+  ]
+}

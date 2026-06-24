@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "420114001",
+      "name": "蔡甸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/蔡甸街道"
+    },
+    {
+      "code": "420114002",
+      "name": "奓山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/奓山街道"
+    },
+    {
+      "code": "420114003",
+      "name": "永安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/永安街道"
+    },
+    {
+      "code": "420114004",
+      "name": "侏儒山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/侏儒山街道"
+    },
+    {
+      "code": "420114005",
+      "name": "大集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/大集街道"
+    },
+    {
+      "code": "420114006",
+      "name": "张湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/张湾街道"
+    },
+    {
+      "code": "420114007",
+      "name": "索河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/索河街道"
+    },
+    {
+      "code": "420114008",
+      "name": "沌口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/沌口街道"
+    },
+    {
+      "code": "420114009",
+      "name": "军山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/军山街道"
+    },
+    {
+      "code": "420114010",
+      "name": "沌阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/沌阳街道"
+    },
+    {
+      "code": "420114011",
+      "name": "玉贤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/玉贤街道"
+    },
+    {
+      "code": "420114200",
+      "name": "消泗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420114",
+      "year": 0,
+      "name_path": "湖北省/武汉市/蔡甸区/消泗乡"
+    }
+  ]
+}

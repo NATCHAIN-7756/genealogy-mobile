@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "341122100",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/新安镇"
+    },
+    {
+      "code": "341122101",
+      "name": "半塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/半塔镇"
+    },
+    {
+      "code": "341122102",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/水口镇"
+    },
+    {
+      "code": "341122103",
+      "name": "独山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/独山镇"
+    },
+    {
+      "code": "341122104",
+      "name": "汊河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/汊河镇"
+    },
+    {
+      "code": "341122105",
+      "name": "大英镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/大英镇"
+    },
+    {
+      "code": "341122106",
+      "name": "雷官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/雷官镇"
+    },
+    {
+      "code": "341122107",
+      "name": "施官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/施官镇"
+    },
+    {
+      "code": "341122108",
+      "name": "舜山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/舜山镇"
+    },
+    {
+      "code": "341122109",
+      "name": "张山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/张山镇"
+    },
+    {
+      "code": "341122110",
+      "name": "三城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/三城镇"
+    },
+    {
+      "code": "341122207",
+      "name": "杨郢乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341122",
+      "year": 0,
+      "name_path": "安徽省/滁州市/来安县/杨郢乡"
+    }
+  ]
+}

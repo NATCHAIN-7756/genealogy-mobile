@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "371002",
+      "name": "环翠区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371000",
+      "year": 0,
+      "name_path": "全国/山东省/威海市/环翠区"
+    },
+    {
+      "code": "371003",
+      "name": "文登区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371000",
+      "year": 0,
+      "name_path": "全国/山东省/威海市/文登区"
+    },
+    {
+      "code": "371082",
+      "name": "荣成市",
+      "level": 3,
+      "type": null,
+      "parent_code": "371000",
+      "year": 0,
+      "name_path": "全国/山东省/威海市/荣成市"
+    },
+    {
+      "code": "371083",
+      "name": "乳山市",
+      "level": 3,
+      "type": null,
+      "parent_code": "371000",
+      "year": 0,
+      "name_path": "全国/山东省/威海市/乳山市"
+    }
+  ]
+}

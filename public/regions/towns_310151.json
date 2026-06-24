@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "310151100",
+      "name": "城桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/城桥镇"
+    },
+    {
+      "code": "310151101",
+      "name": "堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/堡镇"
+    },
+    {
+      "code": "310151102",
+      "name": "新河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/新河镇"
+    },
+    {
+      "code": "310151103",
+      "name": "庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/庙镇"
+    },
+    {
+      "code": "310151104",
+      "name": "竖新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/竖新镇"
+    },
+    {
+      "code": "310151105",
+      "name": "向化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/向化镇"
+    },
+    {
+      "code": "310151106",
+      "name": "三星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/三星镇"
+    },
+    {
+      "code": "310151107",
+      "name": "港沿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/港沿镇"
+    },
+    {
+      "code": "310151108",
+      "name": "中兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/中兴镇"
+    },
+    {
+      "code": "310151109",
+      "name": "陈家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/陈家镇"
+    },
+    {
+      "code": "310151110",
+      "name": "绿华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/绿华镇"
+    },
+    {
+      "code": "310151111",
+      "name": "港西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/港西镇"
+    },
+    {
+      "code": "310151112",
+      "name": "建设镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/建设镇"
+    },
+    {
+      "code": "310151113",
+      "name": "新海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/新海镇"
+    },
+    {
+      "code": "310151114",
+      "name": "东平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/东平镇"
+    },
+    {
+      "code": "310151115",
+      "name": "长兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/长兴镇"
+    },
+    {
+      "code": "310151200",
+      "name": "新村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/新村乡"
+    },
+    {
+      "code": "310151201",
+      "name": "横沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "310151",
+      "year": 0,
+      "name_path": "上海市/崇明区/横沙乡"
+    }
+  ]
+}

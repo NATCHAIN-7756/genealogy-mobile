@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "440511006",
+      "name": "𬶍莲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/𬶍莲街道"
+    },
+    {
+      "code": "440511007",
+      "name": "𬶍江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/𬶍江街道"
+    },
+    {
+      "code": "440511009",
+      "name": "大华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/大华街道"
+    },
+    {
+      "code": "440511010",
+      "name": "石炮台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/石炮台街道"
+    },
+    {
+      "code": "440511011",
+      "name": "东方街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/东方街道"
+    },
+    {
+      "code": "440511013",
+      "name": "金砂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/金砂街道"
+    },
+    {
+      "code": "440511015",
+      "name": "广厦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/广厦街道"
+    },
+    {
+      "code": "440511016",
+      "name": "岐山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/岐山街道"
+    },
+    {
+      "code": "440511017",
+      "name": "月浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/月浦街道"
+    },
+    {
+      "code": "440511018",
+      "name": "小公园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/小公园街道"
+    },
+    {
+      "code": "440511019",
+      "name": "金东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/金东街道"
+    },
+    {
+      "code": "440511020",
+      "name": "光华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440511",
+      "year": 0,
+      "name_path": "广东省/汕头市/金平区/光华街道"
+    }
+  ]
+}

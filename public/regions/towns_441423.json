@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "441423100",
+      "name": "汤坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/汤坑镇"
+    },
+    {
+      "code": "441423103",
+      "name": "北斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/北斗镇"
+    },
+    {
+      "code": "441423104",
+      "name": "汤西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/汤西镇"
+    },
+    {
+      "code": "441423105",
+      "name": "汤南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/汤南镇"
+    },
+    {
+      "code": "441423106",
+      "name": "埔寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/埔寨镇"
+    },
+    {
+      "code": "441423108",
+      "name": "八乡山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/八乡山镇"
+    },
+    {
+      "code": "441423109",
+      "name": "丰良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/丰良镇"
+    },
+    {
+      "code": "441423110",
+      "name": "建桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/建桥镇"
+    },
+    {
+      "code": "441423111",
+      "name": "龙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/龙岗镇"
+    },
+    {
+      "code": "441423112",
+      "name": "潘田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/潘田镇"
+    },
+    {
+      "code": "441423114",
+      "name": "黄金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/黄金镇"
+    },
+    {
+      "code": "441423115",
+      "name": "𨻧隍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/𨻧隍镇"
+    },
+    {
+      "code": "441423118",
+      "name": "大龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/大龙华镇"
+    },
+    {
+      "code": "441423120",
+      "name": "潭江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/潭江镇"
+    },
+    {
+      "code": "441423122",
+      "name": "小胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/小胜镇"
+    },
+    {
+      "code": "441423123",
+      "name": "砂田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441423",
+      "year": 0,
+      "name_path": "广东省/梅州市/丰顺县/砂田镇"
+    }
+  ]
+}

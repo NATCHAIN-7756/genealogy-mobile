@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "320411003",
+      "name": "龙虎塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/龙虎塘街道"
+    },
+    {
+      "code": "320411004",
+      "name": "新桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/新桥街道"
+    },
+    {
+      "code": "320411005",
+      "name": "春江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/春江街道"
+    },
+    {
+      "code": "320411006",
+      "name": "魏村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/魏村街道"
+    },
+    {
+      "code": "320411007",
+      "name": "三井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/三井街道"
+    },
+    {
+      "code": "320411102",
+      "name": "孟河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/孟河镇"
+    },
+    {
+      "code": "320411104",
+      "name": "薛家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/薛家镇"
+    },
+    {
+      "code": "320411105",
+      "name": "罗溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/罗溪镇"
+    },
+    {
+      "code": "320411106",
+      "name": "西夏墅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/西夏墅镇"
+    },
+    {
+      "code": "320411107",
+      "name": "奔牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320411",
+      "year": 0,
+      "name_path": "江苏省/常州市/新北区/奔牛镇"
+    }
+  ]
+}

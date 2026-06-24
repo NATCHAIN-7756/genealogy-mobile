@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "522723001",
+      "name": "宝山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/宝山街道"
+    },
+    {
+      "code": "522723002",
+      "name": "金南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/金南街道"
+    },
+    {
+      "code": "522723101",
+      "name": "德新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/德新镇"
+    },
+    {
+      "code": "522723102",
+      "name": "新巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/新巴镇"
+    },
+    {
+      "code": "522723103",
+      "name": "盘江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/盘江镇"
+    },
+    {
+      "code": "522723104",
+      "name": "沿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/沿山镇"
+    },
+    {
+      "code": "522723106",
+      "name": "昌明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/昌明镇"
+    },
+    {
+      "code": "522723107",
+      "name": "云雾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522723",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/贵定县/云雾镇"
+    }
+  ]
+}

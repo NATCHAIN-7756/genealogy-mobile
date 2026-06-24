@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "450110100",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/城厢镇"
+    },
+    {
+      "code": "450110102",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/太平镇"
+    },
+    {
+      "code": "450110103",
+      "name": "双桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/双桥镇"
+    },
+    {
+      "code": "450110104",
+      "name": "宁武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/宁武镇"
+    },
+    {
+      "code": "450110105",
+      "name": "锣圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/锣圩镇"
+    },
+    {
+      "code": "450110106",
+      "name": "仙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/仙湖镇"
+    },
+    {
+      "code": "450110107",
+      "name": "府城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/府城镇"
+    },
+    {
+      "code": "450110108",
+      "name": "陆斡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/陆斡镇"
+    },
+    {
+      "code": "450110109",
+      "name": "两江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/两江镇"
+    },
+    {
+      "code": "450110110",
+      "name": "罗波镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/罗波镇"
+    },
+    {
+      "code": "450110111",
+      "name": "灵马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/灵马镇"
+    },
+    {
+      "code": "450110112",
+      "name": "甘圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/甘圩镇"
+    },
+    {
+      "code": "450110113",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450110",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/武鸣区/马头镇"
+    }
+  ]
+}

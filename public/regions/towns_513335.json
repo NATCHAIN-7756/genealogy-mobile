@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "513335100",
+      "name": "夏邛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/夏邛镇"
+    },
+    {
+      "code": "513335101",
+      "name": "中咱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/中咱镇"
+    },
+    {
+      "code": "513335102",
+      "name": "措拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/措拉镇"
+    },
+    {
+      "code": "513335103",
+      "name": "甲英镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/甲英镇"
+    },
+    {
+      "code": "513335104",
+      "name": "地巫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/地巫镇"
+    },
+    {
+      "code": "513335200",
+      "name": "拉哇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/拉哇乡"
+    },
+    {
+      "code": "513335202",
+      "name": "竹巴龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/竹巴龙乡"
+    },
+    {
+      "code": "513335204",
+      "name": "苏哇龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/苏哇龙乡"
+    },
+    {
+      "code": "513335205",
+      "name": "昌波乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/昌波乡"
+    },
+    {
+      "code": "513335208",
+      "name": "亚日贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/亚日贡乡"
+    },
+    {
+      "code": "513335209",
+      "name": "波密乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/波密乡"
+    },
+    {
+      "code": "513335210",
+      "name": "莫多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/莫多乡"
+    },
+    {
+      "code": "513335211",
+      "name": "松多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/松多乡"
+    },
+    {
+      "code": "513335212",
+      "name": "波戈溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/波戈溪乡"
+    },
+    {
+      "code": "513335215",
+      "name": "茶洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/茶洛乡"
+    },
+    {
+      "code": "513335216",
+      "name": "列衣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/列衣乡"
+    },
+    {
+      "code": "513335217",
+      "name": "德达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513335",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/巴塘县/德达乡"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "659012100",
+      "name": "小白杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659012",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/白杨市/小白杨镇"
+    },
+    {
+      "code": "659012101",
+      "name": "富兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659012",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/白杨市/富兴镇"
+    },
+    {
+      "code": "659012102",
+      "name": "金玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659012",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/白杨市/金玉镇"
+    },
+    {
+      "code": "659012103",
+      "name": "锦绣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659012",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/白杨市/锦绣镇"
+    }
+  ]
+}

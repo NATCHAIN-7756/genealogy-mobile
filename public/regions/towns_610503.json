@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "610503001",
+      "name": "华州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/华州街道"
+    },
+    {
+      "code": "610503100",
+      "name": "杏林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/杏林镇"
+    },
+    {
+      "code": "610503101",
+      "name": "赤水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/赤水镇"
+    },
+    {
+      "code": "610503102",
+      "name": "高塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/高塘镇"
+    },
+    {
+      "code": "610503103",
+      "name": "大明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/大明镇"
+    },
+    {
+      "code": "610503104",
+      "name": "瓜坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/瓜坡镇"
+    },
+    {
+      "code": "610503105",
+      "name": "莲花寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/莲花寺镇"
+    },
+    {
+      "code": "610503106",
+      "name": "柳枝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/柳枝镇"
+    },
+    {
+      "code": "610503107",
+      "name": "下庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/下庙镇"
+    },
+    {
+      "code": "610503108",
+      "name": "金堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610503",
+      "year": 0,
+      "name_path": "陕西省/渭南市/华州区/金堆镇"
+    }
+  ]
+}

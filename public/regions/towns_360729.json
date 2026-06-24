@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "360729100",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/城厢镇"
+    },
+    {
+      "code": "360729101",
+      "name": "大吉山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/大吉山镇"
+    },
+    {
+      "code": "360729102",
+      "name": "陂头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/陂头镇"
+    },
+    {
+      "code": "360729103",
+      "name": "金龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/金龙镇"
+    },
+    {
+      "code": "360729104",
+      "name": "南迳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/南迳镇"
+    },
+    {
+      "code": "360729105",
+      "name": "龙源坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/龙源坝镇"
+    },
+    {
+      "code": "360729200",
+      "name": "中寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/中寨乡"
+    },
+    {
+      "code": "360729201",
+      "name": "社迳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/社迳乡"
+    },
+    {
+      "code": "360729202",
+      "name": "龙下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360729",
+      "year": 0,
+      "name_path": "江西省/赣州市/全南县/龙下乡"
+    }
+  ]
+}

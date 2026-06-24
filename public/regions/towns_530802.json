@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530802001",
+      "name": "思茅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/思茅街道"
+    },
+    {
+      "code": "530802101",
+      "name": "南屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/南屏镇"
+    },
+    {
+      "code": "530802102",
+      "name": "倚象镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/倚象镇"
+    },
+    {
+      "code": "530802103",
+      "name": "思茅港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/思茅港镇"
+    },
+    {
+      "code": "530802104",
+      "name": "六顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/六顺镇"
+    },
+    {
+      "code": "530802200",
+      "name": "龙潭彝族傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/龙潭彝族傣族乡"
+    },
+    {
+      "code": "530802201",
+      "name": "云仙彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530802",
+      "year": 0,
+      "name_path": "云南省/普洱市/思茅区/云仙彝族乡"
+    }
+  ]
+}

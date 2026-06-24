@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "532924100",
+      "name": "金牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/金牛镇"
+    },
+    {
+      "code": "532924101",
+      "name": "宾居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/宾居镇"
+    },
+    {
+      "code": "532924102",
+      "name": "州城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/州城镇"
+    },
+    {
+      "code": "532924104",
+      "name": "鸡足山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/鸡足山镇"
+    },
+    {
+      "code": "532924105",
+      "name": "力角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/力角镇"
+    },
+    {
+      "code": "532924107",
+      "name": "乔甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/乔甸镇"
+    },
+    {
+      "code": "532924108",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/大营镇"
+    },
+    {
+      "code": "532924109",
+      "name": "平川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/平川镇"
+    },
+    {
+      "code": "532924200",
+      "name": "钟英傈僳族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/钟英傈僳族彝族乡"
+    },
+    {
+      "code": "532924202",
+      "name": "拉乌彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532924",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/宾川县/拉乌彝族乡"
+    }
+  ]
+}

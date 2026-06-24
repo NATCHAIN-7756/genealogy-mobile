@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "513301001",
+      "name": "榆林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/榆林街道"
+    },
+    {
+      "code": "513301002",
+      "name": "炉城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/炉城街道"
+    },
+    {
+      "code": "513301101",
+      "name": "姑咱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/姑咱镇"
+    },
+    {
+      "code": "513301102",
+      "name": "新都桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/新都桥镇"
+    },
+    {
+      "code": "513301103",
+      "name": "金汤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/金汤镇"
+    },
+    {
+      "code": "513301104",
+      "name": "沙德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/沙德镇"
+    },
+    {
+      "code": "513301105",
+      "name": "塔公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/塔公镇"
+    },
+    {
+      "code": "513301106",
+      "name": "甲根坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/甲根坝镇"
+    },
+    {
+      "code": "513301107",
+      "name": "贡嘎山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/贡嘎山镇"
+    },
+    {
+      "code": "513301108",
+      "name": "鱼通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/鱼通镇"
+    },
+    {
+      "code": "513301200",
+      "name": "雅拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/雅拉乡"
+    },
+    {
+      "code": "513301204",
+      "name": "麦崩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/麦崩乡"
+    },
+    {
+      "code": "513301206",
+      "name": "捧塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/捧塔乡"
+    },
+    {
+      "code": "513301208",
+      "name": "普沙绒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/普沙绒乡"
+    },
+    {
+      "code": "513301209",
+      "name": "吉居乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/吉居乡"
+    },
+    {
+      "code": "513301211",
+      "name": "呷巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/呷巴乡"
+    },
+    {
+      "code": "513301214",
+      "name": "孔玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513301",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/康定市/孔玉乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "451322100",
+      "name": "象州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/象州镇"
+    },
+    {
+      "code": "451322101",
+      "name": "石龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/石龙镇"
+    },
+    {
+      "code": "451322102",
+      "name": "运江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/运江镇"
+    },
+    {
+      "code": "451322103",
+      "name": "寺村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/寺村镇"
+    },
+    {
+      "code": "451322104",
+      "name": "中平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/中平镇"
+    },
+    {
+      "code": "451322105",
+      "name": "罗秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/罗秀镇"
+    },
+    {
+      "code": "451322106",
+      "name": "大乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/大乐镇"
+    },
+    {
+      "code": "451322107",
+      "name": "马坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/马坪镇"
+    },
+    {
+      "code": "451322201",
+      "name": "妙皇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/妙皇乡"
+    },
+    {
+      "code": "451322202",
+      "name": "百丈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/百丈乡"
+    },
+    {
+      "code": "451322203",
+      "name": "水晶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451322",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/象州县/水晶乡"
+    }
+  ]
+}

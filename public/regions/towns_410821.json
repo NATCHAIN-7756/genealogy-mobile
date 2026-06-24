@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "410821100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/城关镇"
+    },
+    {
+      "code": "410821101",
+      "name": "七贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/七贤镇"
+    },
+    {
+      "code": "410821102",
+      "name": "郇封镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/郇封镇"
+    },
+    {
+      "code": "410821103",
+      "name": "周庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/周庄镇"
+    },
+    {
+      "code": "410821104",
+      "name": "云台山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/云台山镇"
+    },
+    {
+      "code": "410821202",
+      "name": "王屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/王屯乡"
+    },
+    {
+      "code": "410821204",
+      "name": "五里源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/五里源乡"
+    },
+    {
+      "code": "410821206",
+      "name": "西村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410821",
+      "year": 0,
+      "name_path": "河南省/焦作市/修武县/西村乡"
+    }
+  ]
+}

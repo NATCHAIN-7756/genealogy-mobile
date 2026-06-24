@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "231102001",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/花园街道"
+    },
+    {
+      "code": "231102002",
+      "name": "兴安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/兴安街道"
+    },
+    {
+      "code": "231102003",
+      "name": "海兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/海兰街道"
+    },
+    {
+      "code": "231102004",
+      "name": "西兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/西兴街道"
+    },
+    {
+      "code": "231102101",
+      "name": "西岗子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/西岗子镇"
+    },
+    {
+      "code": "231102102",
+      "name": "瑷珲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/瑷珲镇"
+    },
+    {
+      "code": "231102103",
+      "name": "罕达汽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/罕达汽镇"
+    },
+    {
+      "code": "231102104",
+      "name": "上马厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/上马厂镇"
+    },
+    {
+      "code": "231102200",
+      "name": "幸福乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/幸福乡"
+    },
+    {
+      "code": "231102201",
+      "name": "四嘉子满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/四嘉子满族乡"
+    },
+    {
+      "code": "231102202",
+      "name": "坤河达斡尔族满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/坤河达斡尔族满族乡"
+    },
+    {
+      "code": "231102204",
+      "name": "张地营子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/张地营子乡"
+    },
+    {
+      "code": "231102205",
+      "name": "西峰山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/西峰山乡"
+    },
+    {
+      "code": "231102206",
+      "name": "新生鄂伦春族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/新生鄂伦春族乡"
+    },
+    {
+      "code": "231102207",
+      "name": "二站乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231102",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/爱辉区/二站乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "230803007",
+      "name": "西林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230803",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/向阳区/西林街道"
+    },
+    {
+      "code": "230803008",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230803",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/向阳区/建设街道"
+    },
+    {
+      "code": "230803009",
+      "name": "长安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230803",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/向阳区/长安街道"
+    },
+    {
+      "code": "230803010",
+      "name": "学府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230803",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/向阳区/学府街道"
+    },
+    {
+      "code": "230803011",
+      "name": "桥南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230803",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/向阳区/桥南街道"
+    }
+  ]
+}

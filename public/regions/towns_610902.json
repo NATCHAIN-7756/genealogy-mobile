@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "code": "610902001",
+      "name": "老城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/老城街道"
+    },
+    {
+      "code": "610902002",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/新城街道"
+    },
+    {
+      "code": "610902003",
+      "name": "江北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/江北街道"
+    },
+    {
+      "code": "610902004",
+      "name": "建民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/建民街道"
+    },
+    {
+      "code": "610902100",
+      "name": "关庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/关庙镇"
+    },
+    {
+      "code": "610902101",
+      "name": "张滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/张滩镇"
+    },
+    {
+      "code": "610902102",
+      "name": "瀛湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/瀛湖镇"
+    },
+    {
+      "code": "610902104",
+      "name": "五里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/五里镇"
+    },
+    {
+      "code": "610902107",
+      "name": "恒口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/恒口镇"
+    },
+    {
+      "code": "610902109",
+      "name": "吉河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/吉河镇"
+    },
+    {
+      "code": "610902110",
+      "name": "流水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/流水镇"
+    },
+    {
+      "code": "610902111",
+      "name": "大竹园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/大竹园镇"
+    },
+    {
+      "code": "610902112",
+      "name": "洪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/洪山镇"
+    },
+    {
+      "code": "610902114",
+      "name": "茨沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/茨沟镇"
+    },
+    {
+      "code": "610902115",
+      "name": "大河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/大河镇"
+    },
+    {
+      "code": "610902116",
+      "name": "沈坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/沈坝镇"
+    },
+    {
+      "code": "610902117",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/双龙镇"
+    },
+    {
+      "code": "610902118",
+      "name": "叶坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/叶坪镇"
+    },
+    {
+      "code": "610902119",
+      "name": "中原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/中原镇"
+    },
+    {
+      "code": "610902120",
+      "name": "早阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/早阳镇"
+    },
+    {
+      "code": "610902122",
+      "name": "石梯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/石梯镇"
+    },
+    {
+      "code": "610902123",
+      "name": "关家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/关家镇"
+    },
+    {
+      "code": "610902124",
+      "name": "县河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/县河镇"
+    },
+    {
+      "code": "610902126",
+      "name": "晏坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/晏坝镇"
+    },
+    {
+      "code": "610902128",
+      "name": "谭坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/谭坝镇"
+    },
+    {
+      "code": "610902129",
+      "name": "坝河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/坝河镇"
+    },
+    {
+      "code": "610902131",
+      "name": "牛蹄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/牛蹄镇"
+    },
+    {
+      "code": "610902132",
+      "name": "紫荆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610902",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉滨区/紫荆镇"
+    }
+  ]
+}

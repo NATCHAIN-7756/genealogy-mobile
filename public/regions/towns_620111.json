@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "620111001",
+      "name": "窑街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/窑街街道"
+    },
+    {
+      "code": "620111003",
+      "name": "矿区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/矿区街道"
+    },
+    {
+      "code": "620111004",
+      "name": "华龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/华龙街道"
+    },
+    {
+      "code": "620111100",
+      "name": "海石湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/海石湾镇"
+    },
+    {
+      "code": "620111101",
+      "name": "花庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/花庄镇"
+    },
+    {
+      "code": "620111102",
+      "name": "平安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/平安镇"
+    },
+    {
+      "code": "620111103",
+      "name": "红古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620111",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/红古区/红古镇"
+    }
+  ]
+}

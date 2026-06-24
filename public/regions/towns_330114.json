@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "330114001",
+      "name": "下沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/下沙街道"
+    },
+    {
+      "code": "330114002",
+      "name": "白杨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/白杨街道"
+    },
+    {
+      "code": "330114003",
+      "name": "河庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/河庄街道"
+    },
+    {
+      "code": "330114004",
+      "name": "义蓬街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/义蓬街道"
+    },
+    {
+      "code": "330114005",
+      "name": "新湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/新湾街道"
+    },
+    {
+      "code": "330114006",
+      "name": "临江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/临江街道"
+    },
+    {
+      "code": "330114007",
+      "name": "前进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330114",
+      "year": 0,
+      "name_path": "浙江省/杭州市/钱塘区/前进街道"
+    }
+  ]
+}

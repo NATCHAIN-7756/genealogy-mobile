@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "130524100",
+      "name": "柏乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130524",
+      "year": 0,
+      "name_path": "河北省/邢台市/柏乡县/柏乡镇"
+    },
+    {
+      "code": "130524101",
+      "name": "固城店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130524",
+      "year": 0,
+      "name_path": "河北省/邢台市/柏乡县/固城店镇"
+    },
+    {
+      "code": "130524102",
+      "name": "西汪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130524",
+      "year": 0,
+      "name_path": "河北省/邢台市/柏乡县/西汪镇"
+    },
+    {
+      "code": "130524103",
+      "name": "龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130524",
+      "year": 0,
+      "name_path": "河北省/邢台市/柏乡县/龙华镇"
+    },
+    {
+      "code": "130524200",
+      "name": "王家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130524",
+      "year": 0,
+      "name_path": "河北省/邢台市/柏乡县/王家庄乡"
+    },
+    {
+      "code": "130524203",
+      "name": "内步乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130524",
+      "year": 0,
+      "name_path": "河北省/邢台市/柏乡县/内步乡"
+    }
+  ]
+}

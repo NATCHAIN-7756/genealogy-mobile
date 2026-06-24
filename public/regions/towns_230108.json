@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230108001",
+      "name": "兴建街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/兴建街道"
+    },
+    {
+      "code": "230108002",
+      "name": "保国街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/保国街道"
+    },
+    {
+      "code": "230108003",
+      "name": "联盟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/联盟街道"
+    },
+    {
+      "code": "230108004",
+      "name": "友协街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/友协街道"
+    },
+    {
+      "code": "230108005",
+      "name": "新疆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/新疆街道"
+    },
+    {
+      "code": "230108006",
+      "name": "新伟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/新伟街道"
+    },
+    {
+      "code": "230108007",
+      "name": "平新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/平新街道"
+    },
+    {
+      "code": "230108008",
+      "name": "平盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/平盛街道"
+    },
+    {
+      "code": "230108009",
+      "name": "建安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/建安街道"
+    },
+    {
+      "code": "230108101",
+      "name": "平房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230108",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/平房区/平房镇"
+    }
+  ]
+}

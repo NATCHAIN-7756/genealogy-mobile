@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "632621",
+      "name": "玛沁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632600",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州/玛沁县"
+    },
+    {
+      "code": "632622",
+      "name": "班玛县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632600",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州/班玛县"
+    },
+    {
+      "code": "632623",
+      "name": "甘德县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632600",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州/甘德县"
+    },
+    {
+      "code": "632624",
+      "name": "达日县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632600",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州/达日县"
+    },
+    {
+      "code": "632625",
+      "name": "久治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632600",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州/久治县"
+    },
+    {
+      "code": "632626",
+      "name": "玛多县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632600",
+      "year": 0,
+      "name_path": "全国/青海省/果洛藏族自治州/玛多县"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "130503001",
+      "name": "钢铁路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/钢铁路街道"
+    },
+    {
+      "code": "130503002",
+      "name": "中兴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/中兴路街道"
+    },
+    {
+      "code": "130503003",
+      "name": "达活泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/达活泉街道"
+    },
+    {
+      "code": "130503004",
+      "name": "张宽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/张宽街道"
+    },
+    {
+      "code": "130503005",
+      "name": "章村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/章村街道"
+    },
+    {
+      "code": "130503006",
+      "name": "中华大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/中华大街街道"
+    },
+    {
+      "code": "130503007",
+      "name": "团结路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/团结路街道"
+    },
+    {
+      "code": "130503008",
+      "name": "泉西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/泉西街道"
+    },
+    {
+      "code": "130503100",
+      "name": "南大郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/南大郭镇"
+    },
+    {
+      "code": "130503101",
+      "name": "李村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/李村镇"
+    },
+    {
+      "code": "130503102",
+      "name": "南石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/南石门镇"
+    },
+    {
+      "code": "130503103",
+      "name": "羊范镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/羊范镇"
+    },
+    {
+      "code": "130503104",
+      "name": "皇寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/皇寺镇"
+    },
+    {
+      "code": "130503105",
+      "name": "会宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/会宁镇"
+    },
+    {
+      "code": "130503106",
+      "name": "西黄村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/西黄村镇"
+    },
+    {
+      "code": "130503107",
+      "name": "路罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/路罗镇"
+    },
+    {
+      "code": "130503108",
+      "name": "将军墓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/将军墓镇"
+    },
+    {
+      "code": "130503109",
+      "name": "浆水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/浆水镇"
+    },
+    {
+      "code": "130503110",
+      "name": "宋家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/宋家庄镇"
+    },
+    {
+      "code": "130503202",
+      "name": "太子井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/太子井乡"
+    },
+    {
+      "code": "130503203",
+      "name": "龙泉寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/龙泉寺乡"
+    },
+    {
+      "code": "130503204",
+      "name": "北小庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/北小庄乡"
+    },
+    {
+      "code": "130503205",
+      "name": "城计头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/城计头乡"
+    },
+    {
+      "code": "130503206",
+      "name": "白岸乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/白岸乡"
+    },
+    {
+      "code": "130503207",
+      "name": "冀家村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130503",
+      "year": 0,
+      "name_path": "河北省/邢台市/信都区/冀家村乡"
+    }
+  ]
+}

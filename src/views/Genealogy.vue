@@ -83,12 +83,7 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -97,6 +92,7 @@ import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
 import { familyApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -104,6 +100,9 @@ const familyId = route.params.id
 const familyName = ref('家族')
 const activeTabbar = ref(1)
 const showMenu = ref(false)
+const showSearch = ref(false)
+const searchKeyword = ref()
+const searchResults = ref({ members: [], stories: [], events: [] })
 
 const chapters = ref([
   { id: 'about', title: '关于电子家谱', desc: '功能介绍与使用指南', icon: 'question-o', route: `/family/${familyId}/about` },

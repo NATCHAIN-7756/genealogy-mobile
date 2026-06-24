@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "520112001",
+      "name": "龙广路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/龙广路街道"
+    },
+    {
+      "code": "520112002",
+      "name": "新创路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/新创路街道"
+    },
+    {
+      "code": "520112003",
+      "name": "观溪路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/观溪路街道"
+    },
+    {
+      "code": "520112004",
+      "name": "新光路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/新光路街道"
+    },
+    {
+      "code": "520112005",
+      "name": "高新路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/高新路街道"
+    },
+    {
+      "code": "520112101",
+      "name": "东风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/东风镇"
+    },
+    {
+      "code": "520112102",
+      "name": "水田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/水田镇"
+    },
+    {
+      "code": "520112103",
+      "name": "羊昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/羊昌镇"
+    },
+    {
+      "code": "520112104",
+      "name": "新场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/新场镇"
+    },
+    {
+      "code": "520112105",
+      "name": "下坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/下坝镇"
+    },
+    {
+      "code": "520112106",
+      "name": "百宜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/百宜镇"
+    },
+    {
+      "code": "520112203",
+      "name": "新堡布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/新堡布依族乡"
+    },
+    {
+      "code": "520112206",
+      "name": "偏坡布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520112",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/乌当区/偏坡布依族乡"
+    }
+  ]
+}

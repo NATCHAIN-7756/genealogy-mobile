@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "440507001",
+      "name": "金霞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/金霞街道"
+    },
+    {
+      "code": "440507002",
+      "name": "龙祥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/龙祥街道"
+    },
+    {
+      "code": "440507003",
+      "name": "鸥汀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/鸥汀街道"
+    },
+    {
+      "code": "440507004",
+      "name": "新津街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/新津街道"
+    },
+    {
+      "code": "440507006",
+      "name": "龙华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/龙华街道"
+    },
+    {
+      "code": "440507007",
+      "name": "外砂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/外砂街道"
+    },
+    {
+      "code": "440507008",
+      "name": "珠池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/珠池街道"
+    },
+    {
+      "code": "440507009",
+      "name": "新溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/新溪街道"
+    },
+    {
+      "code": "440507010",
+      "name": "新海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/新海街道"
+    },
+    {
+      "code": "440507011",
+      "name": "龙腾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440507",
+      "year": 0,
+      "name_path": "广东省/汕头市/龙湖区/龙腾街道"
+    }
+  ]
+}

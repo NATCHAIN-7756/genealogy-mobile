@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130683001",
+      "name": "药都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/药都街道"
+    },
+    {
+      "code": "130683002",
+      "name": "祁州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/祁州路街道"
+    },
+    {
+      "code": "130683101",
+      "name": "伍仁桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/伍仁桥镇"
+    },
+    {
+      "code": "130683102",
+      "name": "石佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/石佛镇"
+    },
+    {
+      "code": "130683103",
+      "name": "郑章镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/郑章镇"
+    },
+    {
+      "code": "130683104",
+      "name": "大五女镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/大五女镇"
+    },
+    {
+      "code": "130683105",
+      "name": "西佛落镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/西佛落镇"
+    },
+    {
+      "code": "130683106",
+      "name": "西城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/西城镇"
+    },
+    {
+      "code": "130683200",
+      "name": "明官店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/明官店乡"
+    },
+    {
+      "code": "130683201",
+      "name": "南娄底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/南娄底乡"
+    },
+    {
+      "code": "130683204",
+      "name": "北段村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130683",
+      "year": 0,
+      "name_path": "河北省/保定市/安国市/北段村乡"
+    }
+  ]
+}

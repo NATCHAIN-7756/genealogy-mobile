@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "430621001",
+      "name": "荣家湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/荣家湾街道"
+    },
+    {
+      "code": "430621002",
+      "name": "麻塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/麻塘街道"
+    },
+    {
+      "code": "430621104",
+      "name": "黄沙街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/黄沙街镇"
+    },
+    {
+      "code": "430621105",
+      "name": "新墙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/新墙镇"
+    },
+    {
+      "code": "430621106",
+      "name": "柏祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/柏祥镇"
+    },
+    {
+      "code": "430621107",
+      "name": "筻口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/筻口镇"
+    },
+    {
+      "code": "430621108",
+      "name": "公田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/公田镇"
+    },
+    {
+      "code": "430621109",
+      "name": "毛田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/毛田镇"
+    },
+    {
+      "code": "430621110",
+      "name": "月田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/月田镇"
+    },
+    {
+      "code": "430621111",
+      "name": "张谷英镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/张谷英镇"
+    },
+    {
+      "code": "430621112",
+      "name": "新开镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/新开镇"
+    },
+    {
+      "code": "430621113",
+      "name": "步仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/步仙镇"
+    },
+    {
+      "code": "430621114",
+      "name": "杨林街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/杨林街镇"
+    },
+    {
+      "code": "430621202",
+      "name": "中洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/中洲乡"
+    },
+    {
+      "code": "430621203",
+      "name": "长湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430621",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/岳阳县/长湖乡"
+    }
+  ]
+}

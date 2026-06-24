@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "510303001",
+      "name": "筱溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/筱溪街道"
+    },
+    {
+      "code": "510303002",
+      "name": "贡井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/贡井街道"
+    },
+    {
+      "code": "510303003",
+      "name": "长土街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/长土街道"
+    },
+    {
+      "code": "510303100",
+      "name": "艾叶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/艾叶镇"
+    },
+    {
+      "code": "510303101",
+      "name": "建设镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/建设镇"
+    },
+    {
+      "code": "510303103",
+      "name": "成佳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/成佳镇"
+    },
+    {
+      "code": "510303105",
+      "name": "龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/龙潭镇"
+    },
+    {
+      "code": "510303106",
+      "name": "五宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/五宝镇"
+    },
+    {
+      "code": "510303107",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/桥头镇"
+    },
+    {
+      "code": "510303108",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510303",
+      "year": 0,
+      "name_path": "四川省/自贡市/贡井区/莲花镇"
+    }
+  ]
+}

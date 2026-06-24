@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140703101",
+      "name": "胡村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/胡村镇"
+    },
+    {
+      "code": "140703102",
+      "name": "范村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/范村镇"
+    },
+    {
+      "code": "140703103",
+      "name": "水秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/水秀镇"
+    },
+    {
+      "code": "140703200",
+      "name": "侯城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/侯城乡"
+    },
+    {
+      "code": "140703201",
+      "name": "北洸乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/北洸乡"
+    },
+    {
+      "code": "140703203",
+      "name": "阳邑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/阳邑乡"
+    },
+    {
+      "code": "140703204",
+      "name": "小白乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/小白乡"
+    },
+    {
+      "code": "140703205",
+      "name": "任村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140703",
+      "year": 0,
+      "name_path": "山西省/晋中市/太谷区/任村乡"
+    }
+  ]
+}

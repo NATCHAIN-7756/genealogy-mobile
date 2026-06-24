@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "371322001",
+      "name": "郯城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/郯城街道"
+    },
+    {
+      "code": "371322101",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/马头镇"
+    },
+    {
+      "code": "371322102",
+      "name": "重坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/重坊镇"
+    },
+    {
+      "code": "371322103",
+      "name": "李庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/李庄镇"
+    },
+    {
+      "code": "371322105",
+      "name": "杨集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/杨集镇"
+    },
+    {
+      "code": "371322107",
+      "name": "港上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/港上镇"
+    },
+    {
+      "code": "371322108",
+      "name": "高峰头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/高峰头镇"
+    },
+    {
+      "code": "371322109",
+      "name": "庙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/庙山镇"
+    },
+    {
+      "code": "371322111",
+      "name": "胜利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/胜利镇"
+    },
+    {
+      "code": "371322112",
+      "name": "红花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/红花镇"
+    },
+    {
+      "code": "371322113",
+      "name": "花园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/花园镇"
+    },
+    {
+      "code": "371322114",
+      "name": "泉源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/泉源镇"
+    },
+    {
+      "code": "371322203",
+      "name": "归昌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371322",
+      "year": 0,
+      "name_path": "山东省/临沂市/郯城县/归昌乡"
+    }
+  ]
+}

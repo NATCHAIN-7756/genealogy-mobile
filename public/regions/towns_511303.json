@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "511303001",
+      "name": "白塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/白塔街道"
+    },
+    {
+      "code": "511303002",
+      "name": "清溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/清溪街道"
+    },
+    {
+      "code": "511303004",
+      "name": "小龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/小龙街道"
+    },
+    {
+      "code": "511303005",
+      "name": "青莲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/青莲街道"
+    },
+    {
+      "code": "511303006",
+      "name": "龙门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/龙门街道"
+    },
+    {
+      "code": "511303007",
+      "name": "都京街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/都京街道"
+    },
+    {
+      "code": "511303008",
+      "name": "螺溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/螺溪街道"
+    },
+    {
+      "code": "511303009",
+      "name": "老君街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/老君街道"
+    },
+    {
+      "code": "511303103",
+      "name": "江陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/江陵镇"
+    },
+    {
+      "code": "511303104",
+      "name": "擦耳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/擦耳镇"
+    },
+    {
+      "code": "511303106",
+      "name": "东观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/东观镇"
+    },
+    {
+      "code": "511303107",
+      "name": "长乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/长乐镇"
+    },
+    {
+      "code": "511303108",
+      "name": "胜观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/胜观镇"
+    },
+    {
+      "code": "511303110",
+      "name": "阙家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/阙家镇"
+    },
+    {
+      "code": "511303111",
+      "name": "石圭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/石圭镇"
+    },
+    {
+      "code": "511303112",
+      "name": "青居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/青居镇"
+    },
+    {
+      "code": "511303115",
+      "name": "会龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/会龙镇"
+    },
+    {
+      "code": "511303117",
+      "name": "走马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/走马镇"
+    },
+    {
+      "code": "511303211",
+      "name": "佛门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511303",
+      "year": 0,
+      "name_path": "四川省/南充市/高坪区/佛门乡"
+    }
+  ]
+}

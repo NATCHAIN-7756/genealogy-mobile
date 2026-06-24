@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "431202001",
+      "name": "城中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/城中街道"
+    },
+    {
+      "code": "431202002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/城北街道"
+    },
+    {
+      "code": "431202003",
+      "name": "红星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/红星街道"
+    },
+    {
+      "code": "431202004",
+      "name": "迎丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/迎丰街道"
+    },
+    {
+      "code": "431202006",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/河西街道"
+    },
+    {
+      "code": "431202008",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/城南街道"
+    },
+    {
+      "code": "431202009",
+      "name": "坨院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/坨院街道"
+    },
+    {
+      "code": "431202010",
+      "name": "盈口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/盈口街道"
+    },
+    {
+      "code": "431202102",
+      "name": "黄金坳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/黄金坳镇"
+    },
+    {
+      "code": "431202206",
+      "name": "凉亭坳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431202",
+      "year": 0,
+      "name_path": "湖南省/怀化市/鹤城区/凉亭坳乡"
+    }
+  ]
+}

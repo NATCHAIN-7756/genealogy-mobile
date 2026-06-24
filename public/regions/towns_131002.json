@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "131002001",
+      "name": "银河南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/银河南路街道"
+    },
+    {
+      "code": "131002002",
+      "name": "光明西道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/光明西道街道"
+    },
+    {
+      "code": "131002003",
+      "name": "永华道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/永华道街道"
+    },
+    {
+      "code": "131002100",
+      "name": "落垡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/落垡镇"
+    },
+    {
+      "code": "131002101",
+      "name": "码头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/码头镇"
+    },
+    {
+      "code": "131002102",
+      "name": "葛渔城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/葛渔城镇"
+    },
+    {
+      "code": "131002103",
+      "name": "东沽港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/东沽港镇"
+    },
+    {
+      "code": "131002104",
+      "name": "杨税务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/杨税务镇"
+    },
+    {
+      "code": "131002105",
+      "name": "北史家务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/北史家务镇"
+    },
+    {
+      "code": "131002106",
+      "name": "调河头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/调河头镇"
+    },
+    {
+      "code": "131002107",
+      "name": "仇庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131002",
+      "year": 0,
+      "name_path": "河北省/廊坊市/安次区/仇庄镇"
+    }
+  ]
+}

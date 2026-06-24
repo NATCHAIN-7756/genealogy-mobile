@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "371482001",
+      "name": "市中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/市中街道"
+    },
+    {
+      "code": "371482003",
+      "name": "禹兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/禹兴街道"
+    },
+    {
+      "code": "371482100",
+      "name": "伦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/伦镇"
+    },
+    {
+      "code": "371482101",
+      "name": "房寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/房寺镇"
+    },
+    {
+      "code": "371482102",
+      "name": "张庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/张庄镇"
+    },
+    {
+      "code": "371482103",
+      "name": "辛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/辛店镇"
+    },
+    {
+      "code": "371482104",
+      "name": "安仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/安仁镇"
+    },
+    {
+      "code": "371482105",
+      "name": "辛寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/辛寨镇"
+    },
+    {
+      "code": "371482106",
+      "name": "梁家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/梁家镇"
+    },
+    {
+      "code": "371482107",
+      "name": "十里望回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/十里望回族镇"
+    },
+    {
+      "code": "371482108",
+      "name": "莒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371482",
+      "year": 0,
+      "name_path": "山东省/德州市/禹城市/莒镇"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "510802",
+      "name": "利州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/利州区"
+    },
+    {
+      "code": "510811",
+      "name": "昭化区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/昭化区"
+    },
+    {
+      "code": "510812",
+      "name": "朝天区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/朝天区"
+    },
+    {
+      "code": "510821",
+      "name": "旺苍县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/旺苍县"
+    },
+    {
+      "code": "510822",
+      "name": "青川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/青川县"
+    },
+    {
+      "code": "510823",
+      "name": "剑阁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/剑阁县"
+    },
+    {
+      "code": "510824",
+      "name": "苍溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510800",
+      "year": 0,
+      "name_path": "全国/四川省/广元市/苍溪县"
+    }
+  ]
+}

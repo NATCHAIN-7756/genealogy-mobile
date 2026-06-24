@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "621125101",
+      "name": "武阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/武阳镇"
+    },
+    {
+      "code": "621125102",
+      "name": "三岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/三岔镇"
+    },
+    {
+      "code": "621125103",
+      "name": "新寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/新寺镇"
+    },
+    {
+      "code": "621125104",
+      "name": "金钟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/金钟镇"
+    },
+    {
+      "code": "621125105",
+      "name": "盐井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/盐井镇"
+    },
+    {
+      "code": "621125106",
+      "name": "殪虎桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/殪虎桥镇"
+    },
+    {
+      "code": "621125107",
+      "name": "大草滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/大草滩镇"
+    },
+    {
+      "code": "621125108",
+      "name": "四族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/四族镇"
+    },
+    {
+      "code": "621125109",
+      "name": "石川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/石川镇"
+    },
+    {
+      "code": "621125110",
+      "name": "贵清山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/贵清山镇"
+    },
+    {
+      "code": "621125204",
+      "name": "马泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/马泉乡"
+    },
+    {
+      "code": "621125208",
+      "name": "武当乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/武当乡"
+    },
+    {
+      "code": "621125209",
+      "name": "东泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621125",
+      "year": 0,
+      "name_path": "甘肃省/定西市/漳县/东泉乡"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "130930100",
+      "name": "孟村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130930",
+      "year": 0,
+      "name_path": "河北省/沧州市/孟村回族自治县/孟村镇"
+    },
+    {
+      "code": "130930101",
+      "name": "新县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130930",
+      "year": 0,
+      "name_path": "河北省/沧州市/孟村回族自治县/新县镇"
+    },
+    {
+      "code": "130930102",
+      "name": "辛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130930",
+      "year": 0,
+      "name_path": "河北省/沧州市/孟村回族自治县/辛店镇"
+    },
+    {
+      "code": "130930103",
+      "name": "高寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130930",
+      "year": 0,
+      "name_path": "河北省/沧州市/孟村回族自治县/高寨镇"
+    },
+    {
+      "code": "130930104",
+      "name": "牛进庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130930",
+      "year": 0,
+      "name_path": "河北省/沧州市/孟村回族自治县/牛进庄镇"
+    },
+    {
+      "code": "130930200",
+      "name": "宋庄子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130930",
+      "year": 0,
+      "name_path": "河北省/沧州市/孟村回族自治县/宋庄子乡"
+    }
+  ]
+}

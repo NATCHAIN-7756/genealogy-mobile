@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "532923100",
+      "name": "祥城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/祥城镇"
+    },
+    {
+      "code": "532923101",
+      "name": "云南驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/云南驿镇"
+    },
+    {
+      "code": "532923102",
+      "name": "下庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/下庄镇"
+    },
+    {
+      "code": "532923103",
+      "name": "刘厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/刘厂镇"
+    },
+    {
+      "code": "532923104",
+      "name": "禾甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/禾甸镇"
+    },
+    {
+      "code": "532923105",
+      "name": "沙龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/沙龙镇"
+    },
+    {
+      "code": "532923106",
+      "name": "米甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/米甸镇"
+    },
+    {
+      "code": "532923107",
+      "name": "普淜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/普淜镇"
+    },
+    {
+      "code": "532923203",
+      "name": "鹿鸣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/鹿鸣乡"
+    },
+    {
+      "code": "532923204",
+      "name": "东山彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532923",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/祥云县/东山彝族乡"
+    }
+  ]
+}

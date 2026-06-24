@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "530426001",
+      "name": "双江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/双江街道"
+    },
+    {
+      "code": "530426002",
+      "name": "小街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/小街街道"
+    },
+    {
+      "code": "530426102",
+      "name": "甸中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/甸中镇"
+    },
+    {
+      "code": "530426103",
+      "name": "化念镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/化念镇"
+    },
+    {
+      "code": "530426104",
+      "name": "塔甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/塔甸镇"
+    },
+    {
+      "code": "530426200",
+      "name": "岔河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/岔河乡"
+    },
+    {
+      "code": "530426201",
+      "name": "大龙潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/大龙潭乡"
+    },
+    {
+      "code": "530426202",
+      "name": "富良棚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530426",
+      "year": 0,
+      "name_path": "云南省/玉溪市/峨山彝族自治县/富良棚乡"
+    }
+  ]
+}

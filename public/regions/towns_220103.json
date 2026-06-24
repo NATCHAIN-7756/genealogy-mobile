@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "220103002",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/站前街道"
+    },
+    {
+      "code": "220103005",
+      "name": "群英街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/群英街道"
+    },
+    {
+      "code": "220103006",
+      "name": "兴业街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/兴业街道"
+    },
+    {
+      "code": "220103007",
+      "name": "凯旋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/凯旋街道"
+    },
+    {
+      "code": "220103008",
+      "name": "团山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/团山街道"
+    },
+    {
+      "code": "220103009",
+      "name": "柳影街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/柳影街道"
+    },
+    {
+      "code": "220103010",
+      "name": "欣园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/欣园街道"
+    },
+    {
+      "code": "220103011",
+      "name": "北湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/北湖街道"
+    },
+    {
+      "code": "220103012",
+      "name": "长德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/长德街道"
+    },
+    {
+      "code": "220103013",
+      "name": "新广街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/新广街道"
+    },
+    {
+      "code": "220103014",
+      "name": "新隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/新隆街道"
+    },
+    {
+      "code": "220103015",
+      "name": "长新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/长新街道"
+    },
+    {
+      "code": "220103101",
+      "name": "兰家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/兰家镇"
+    },
+    {
+      "code": "220103102",
+      "name": "兴隆山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/兴隆山镇"
+    },
+    {
+      "code": "220103103",
+      "name": "米沙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/米沙子镇"
+    },
+    {
+      "code": "220103104",
+      "name": "万宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/万宝镇"
+    },
+    {
+      "code": "220103105",
+      "name": "合隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/合隆镇"
+    },
+    {
+      "code": "220103200",
+      "name": "奋进乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220103",
+      "year": 0,
+      "name_path": "吉林省/长春市/宽城区/奋进乡"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "450521100",
+      "name": "廉州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/廉州镇"
+    },
+    {
+      "code": "450521101",
+      "name": "党江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/党江镇"
+    },
+    {
+      "code": "450521102",
+      "name": "西场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/西场镇"
+    },
+    {
+      "code": "450521103",
+      "name": "沙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/沙岗镇"
+    },
+    {
+      "code": "450521104",
+      "name": "乌家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/乌家镇"
+    },
+    {
+      "code": "450521105",
+      "name": "闸口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/闸口镇"
+    },
+    {
+      "code": "450521106",
+      "name": "公馆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/公馆镇"
+    },
+    {
+      "code": "450521107",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/白沙镇"
+    },
+    {
+      "code": "450521108",
+      "name": "山口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/山口镇"
+    },
+    {
+      "code": "450521109",
+      "name": "沙田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/沙田镇"
+    },
+    {
+      "code": "450521110",
+      "name": "石湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/石湾镇"
+    },
+    {
+      "code": "450521111",
+      "name": "石康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/石康镇"
+    },
+    {
+      "code": "450521112",
+      "name": "常乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/常乐镇"
+    },
+    {
+      "code": "450521113",
+      "name": "星岛湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/星岛湖镇"
+    },
+    {
+      "code": "450521200",
+      "name": "曲樟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450521",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/合浦县/曲樟乡"
+    }
+  ]
+}

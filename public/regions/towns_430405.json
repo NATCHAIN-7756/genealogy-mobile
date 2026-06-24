@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "430405001",
+      "name": "广东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/广东路街道"
+    },
+    {
+      "code": "430405002",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/东风街道"
+    },
+    {
+      "code": "430405003",
+      "name": "冶金街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/冶金街道"
+    },
+    {
+      "code": "430405004",
+      "name": "苗圃街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/苗圃街道"
+    },
+    {
+      "code": "430405005",
+      "name": "粤汉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/粤汉街道"
+    },
+    {
+      "code": "430405007",
+      "name": "衡州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/衡州路街道"
+    },
+    {
+      "code": "430405008",
+      "name": "东阳渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/东阳渡街道"
+    },
+    {
+      "code": "430405100",
+      "name": "茶山坳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/茶山坳镇"
+    },
+    {
+      "code": "430405200",
+      "name": "和平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/和平乡"
+    },
+    {
+      "code": "430405201",
+      "name": "酃湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430405",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/珠晖区/酃湖乡"
+    }
+  ]
+}

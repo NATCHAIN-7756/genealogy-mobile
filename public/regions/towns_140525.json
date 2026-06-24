@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "140525100",
+      "name": "南村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/南村镇"
+    },
+    {
+      "code": "140525101",
+      "name": "下村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/下村镇"
+    },
+    {
+      "code": "140525102",
+      "name": "大东沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/大东沟镇"
+    },
+    {
+      "code": "140525103",
+      "name": "周村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/周村镇"
+    },
+    {
+      "code": "140525104",
+      "name": "犁川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/犁川镇"
+    },
+    {
+      "code": "140525105",
+      "name": "晋庙铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/晋庙铺镇"
+    },
+    {
+      "code": "140525106",
+      "name": "金村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/金村镇"
+    },
+    {
+      "code": "140525107",
+      "name": "高都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/高都镇"
+    },
+    {
+      "code": "140525108",
+      "name": "巴公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/巴公镇"
+    },
+    {
+      "code": "140525109",
+      "name": "大阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/大阳镇"
+    },
+    {
+      "code": "140525110",
+      "name": "山河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/山河镇"
+    },
+    {
+      "code": "140525111",
+      "name": "大箕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/大箕镇"
+    },
+    {
+      "code": "140525112",
+      "name": "柳树口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/柳树口镇"
+    },
+    {
+      "code": "140525113",
+      "name": "北义城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/北义城镇"
+    },
+    {
+      "code": "140525114",
+      "name": "川底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/川底镇"
+    },
+    {
+      "code": "140525115",
+      "name": "南岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140525",
+      "year": 0,
+      "name_path": "山西省/晋城市/泽州县/南岭镇"
+    }
+  ]
+}

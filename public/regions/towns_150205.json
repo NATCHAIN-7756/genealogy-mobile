@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150205001",
+      "name": "石拐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/石拐街道"
+    },
+    {
+      "code": "150205002",
+      "name": "大发街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/大发街道"
+    },
+    {
+      "code": "150205003",
+      "name": "大磁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/大磁街道"
+    },
+    {
+      "code": "150205004",
+      "name": "五当沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/五当沟街道"
+    },
+    {
+      "code": "150205005",
+      "name": "白狐沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/白狐沟街道"
+    },
+    {
+      "code": "150205006",
+      "name": "大德恒街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/大德恒街道"
+    },
+    {
+      "code": "150205100",
+      "name": "五当召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/五当召镇"
+    },
+    {
+      "code": "150205200",
+      "name": "吉忽伦图苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150205",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/石拐区/吉忽伦图苏木"
+    }
+  ]
+}

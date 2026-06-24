@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "130532001",
+      "name": "中华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/中华路街道"
+    },
+    {
+      "code": "130532101",
+      "name": "平乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/平乡镇"
+    },
+    {
+      "code": "130532102",
+      "name": "河古庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/河古庙镇"
+    },
+    {
+      "code": "130532103",
+      "name": "田付村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/田付村镇"
+    },
+    {
+      "code": "130532104",
+      "name": "节固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/节固镇"
+    },
+    {
+      "code": "130532201",
+      "name": "油召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/油召乡"
+    },
+    {
+      "code": "130532203",
+      "name": "寻召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130532",
+      "year": 0,
+      "name_path": "河北省/邢台市/平乡县/寻召乡"
+    }
+  ]
+}

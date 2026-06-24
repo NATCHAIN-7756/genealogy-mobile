@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "511502006",
+      "name": "西郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/西郊街道"
+    },
+    {
+      "code": "511502007",
+      "name": "安阜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/安阜街道"
+    },
+    {
+      "code": "511502008",
+      "name": "白沙湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/白沙湾街道"
+    },
+    {
+      "code": "511502009",
+      "name": "象鼻街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/象鼻街道"
+    },
+    {
+      "code": "511502011",
+      "name": "沙坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/沙坪街道"
+    },
+    {
+      "code": "511502013",
+      "name": "双城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/双城街道"
+    },
+    {
+      "code": "511502014",
+      "name": "合江门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/合江门街道"
+    },
+    {
+      "code": "511502015",
+      "name": "大观楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/大观楼街道"
+    },
+    {
+      "code": "511502101",
+      "name": "李庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/李庄镇"
+    },
+    {
+      "code": "511502102",
+      "name": "菜坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/菜坝镇"
+    },
+    {
+      "code": "511502104",
+      "name": "金坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/金坪镇"
+    },
+    {
+      "code": "511502108",
+      "name": "牟坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/牟坪镇"
+    },
+    {
+      "code": "511502109",
+      "name": "李端镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/李端镇"
+    },
+    {
+      "code": "511502110",
+      "name": "宗场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/宗场镇"
+    },
+    {
+      "code": "511502112",
+      "name": "宋家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/宋家镇"
+    },
+    {
+      "code": "511502113",
+      "name": "思坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/思坡镇"
+    },
+    {
+      "code": "511502118",
+      "name": "白花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/白花镇"
+    },
+    {
+      "code": "511502119",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/永兴镇"
+    },
+    {
+      "code": "511502120",
+      "name": "双谊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/双谊镇"
+    },
+    {
+      "code": "511502121",
+      "name": "金秋湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511502",
+      "year": 0,
+      "name_path": "四川省/宜宾市/翠屏区/金秋湖镇"
+    }
+  ]
+}

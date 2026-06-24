@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510683001",
+      "name": "剑南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/剑南街道"
+    },
+    {
+      "code": "510683002",
+      "name": "紫岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/紫岩街道"
+    },
+    {
+      "code": "510683104",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/九龙镇"
+    },
+    {
+      "code": "510683106",
+      "name": "汉旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/汉旺镇"
+    },
+    {
+      "code": "510683109",
+      "name": "麓棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/麓棠镇"
+    },
+    {
+      "code": "510683110",
+      "name": "广济镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/广济镇"
+    },
+    {
+      "code": "510683112",
+      "name": "玉泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/玉泉镇"
+    },
+    {
+      "code": "510683115",
+      "name": "新市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/新市镇"
+    },
+    {
+      "code": "510683116",
+      "name": "孝德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/孝德镇"
+    },
+    {
+      "code": "510683119",
+      "name": "富新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/富新镇"
+    },
+    {
+      "code": "510683122",
+      "name": "什地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/什地镇"
+    },
+    {
+      "code": "510683124",
+      "name": "清平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510683",
+      "year": 0,
+      "name_path": "四川省/德阳市/绵竹市/清平镇"
+    }
+  ]
+}

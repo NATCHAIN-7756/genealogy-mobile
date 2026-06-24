@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "445102007",
+      "name": "桥东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/桥东街道"
+    },
+    {
+      "code": "445102008",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/城西街道"
+    },
+    {
+      "code": "445102009",
+      "name": "凤新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/凤新街道"
+    },
+    {
+      "code": "445102010",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/太平街道"
+    },
+    {
+      "code": "445102011",
+      "name": "西新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/西新街道"
+    },
+    {
+      "code": "445102100",
+      "name": "意溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/意溪镇"
+    },
+    {
+      "code": "445102101",
+      "name": "磷溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/磷溪镇"
+    },
+    {
+      "code": "445102102",
+      "name": "官塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/官塘镇"
+    },
+    {
+      "code": "445102103",
+      "name": "铁铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445102",
+      "year": 0,
+      "name_path": "广东省/潮州市/湘桥区/铁铺镇"
+    }
+  ]
+}

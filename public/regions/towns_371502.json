@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "371502001",
+      "name": "古楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/古楼街道"
+    },
+    {
+      "code": "371502002",
+      "name": "新区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/新区街道"
+    },
+    {
+      "code": "371502003",
+      "name": "柳园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/柳园街道"
+    },
+    {
+      "code": "371502004",
+      "name": "湖西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/湖西街道"
+    },
+    {
+      "code": "371502005",
+      "name": "李海务街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/李海务街道"
+    },
+    {
+      "code": "371502006",
+      "name": "闫寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/闫寺街道"
+    },
+    {
+      "code": "371502008",
+      "name": "道口铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/道口铺街道"
+    },
+    {
+      "code": "371502009",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/东城街道"
+    },
+    {
+      "code": "371502010",
+      "name": "蒋官屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/蒋官屯街道"
+    },
+    {
+      "code": "371502011",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/北城街道"
+    },
+    {
+      "code": "371502012",
+      "name": "九州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/九州街道"
+    },
+    {
+      "code": "371502102",
+      "name": "沙镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/沙镇镇"
+    },
+    {
+      "code": "371502103",
+      "name": "侯营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/侯营镇"
+    },
+    {
+      "code": "371502104",
+      "name": "堂邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/堂邑镇"
+    },
+    {
+      "code": "371502105",
+      "name": "梁水镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/梁水镇镇"
+    },
+    {
+      "code": "371502106",
+      "name": "斗虎屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/斗虎屯镇"
+    },
+    {
+      "code": "371502108",
+      "name": "张炉集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/张炉集镇"
+    },
+    {
+      "code": "371502109",
+      "name": "于集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/于集镇"
+    },
+    {
+      "code": "371502110",
+      "name": "郑家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/郑家镇"
+    },
+    {
+      "code": "371502112",
+      "name": "朱老庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/朱老庄镇"
+    },
+    {
+      "code": "371502113",
+      "name": "许营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/许营镇"
+    },
+    {
+      "code": "371502114",
+      "name": "顾官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/顾官屯镇"
+    },
+    {
+      "code": "371502115",
+      "name": "韩集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/韩集镇"
+    },
+    {
+      "code": "371502116",
+      "name": "广平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371502",
+      "year": 0,
+      "name_path": "山东省/聊城市/东昌府区/广平镇"
+    }
+  ]
+}

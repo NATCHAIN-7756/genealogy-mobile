@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "530827100",
+      "name": "娜允镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530827",
+      "year": 0,
+      "name_path": "云南省/普洱市/孟连傣族拉祜族佤族自治县/娜允镇"
+    },
+    {
+      "code": "530827101",
+      "name": "勐马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530827",
+      "year": 0,
+      "name_path": "云南省/普洱市/孟连傣族拉祜族佤族自治县/勐马镇"
+    },
+    {
+      "code": "530827102",
+      "name": "芒信镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530827",
+      "year": 0,
+      "name_path": "云南省/普洱市/孟连傣族拉祜族佤族自治县/芒信镇"
+    },
+    {
+      "code": "530827103",
+      "name": "富岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530827",
+      "year": 0,
+      "name_path": "云南省/普洱市/孟连傣族拉祜族佤族自治县/富岩镇"
+    },
+    {
+      "code": "530827200",
+      "name": "景信乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530827",
+      "year": 0,
+      "name_path": "云南省/普洱市/孟连傣族拉祜族佤族自治县/景信乡"
+    },
+    {
+      "code": "530827203",
+      "name": "公信乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530827",
+      "year": 0,
+      "name_path": "云南省/普洱市/孟连傣族拉祜族佤族自治县/公信乡"
+    }
+  ]
+}

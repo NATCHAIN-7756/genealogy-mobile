@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "410184001",
+      "name": "新建路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/新建路街道"
+    },
+    {
+      "code": "410184002",
+      "name": "新华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/新华路街道"
+    },
+    {
+      "code": "410184003",
+      "name": "新烟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/新烟街道"
+    },
+    {
+      "code": "410184004",
+      "name": "龙湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/龙湖街道"
+    },
+    {
+      "code": "410184101",
+      "name": "新村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/新村镇"
+    },
+    {
+      "code": "410184102",
+      "name": "辛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/辛店镇"
+    },
+    {
+      "code": "410184103",
+      "name": "观音寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/观音寺镇"
+    },
+    {
+      "code": "410184104",
+      "name": "梨河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/梨河镇"
+    },
+    {
+      "code": "410184105",
+      "name": "和庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/和庄镇"
+    },
+    {
+      "code": "410184106",
+      "name": "薛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/薛店镇"
+    },
+    {
+      "code": "410184107",
+      "name": "孟庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/孟庄镇"
+    },
+    {
+      "code": "410184108",
+      "name": "郭店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/郭店镇"
+    },
+    {
+      "code": "410184200",
+      "name": "城关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/城关乡"
+    },
+    {
+      "code": "410184202",
+      "name": "八千乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/八千乡"
+    },
+    {
+      "code": "410184203",
+      "name": "龙王乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/龙王乡"
+    },
+    {
+      "code": "410184204",
+      "name": "大马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/大马乡"
+    },
+    {
+      "code": "410184205",
+      "name": "岗李乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410184",
+      "year": 0,
+      "name_path": "河南省/郑州市/新郑市/岗李乡"
+    }
+  ]
+}

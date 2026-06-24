@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "540502",
+      "name": "乃东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/乃东区"
+    },
+    {
+      "code": "540521",
+      "name": "扎囊县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/扎囊县"
+    },
+    {
+      "code": "540522",
+      "name": "贡嘎县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/贡嘎县"
+    },
+    {
+      "code": "540523",
+      "name": "桑日县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/桑日县"
+    },
+    {
+      "code": "540524",
+      "name": "琼结县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/琼结县"
+    },
+    {
+      "code": "540525",
+      "name": "曲松县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/曲松县"
+    },
+    {
+      "code": "540526",
+      "name": "措美县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/措美县"
+    },
+    {
+      "code": "540527",
+      "name": "洛扎县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/洛扎县"
+    },
+    {
+      "code": "540528",
+      "name": "加查县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/加查县"
+    },
+    {
+      "code": "540529",
+      "name": "隆子县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/隆子县"
+    },
+    {
+      "code": "540531",
+      "name": "浪卡子县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/浪卡子县"
+    },
+    {
+      "code": "540581",
+      "name": "错那市",
+      "level": 3,
+      "type": null,
+      "parent_code": "540500",
+      "year": 0,
+      "name_path": "全国/西藏自治区/山南市/错那市"
+    }
+  ]
+}

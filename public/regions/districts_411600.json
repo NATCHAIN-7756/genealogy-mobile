@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "411602",
+      "name": "川汇区",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/川汇区"
+    },
+    {
+      "code": "411603",
+      "name": "淮阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/淮阳区"
+    },
+    {
+      "code": "411621",
+      "name": "扶沟县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/扶沟县"
+    },
+    {
+      "code": "411622",
+      "name": "西华县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/西华县"
+    },
+    {
+      "code": "411623",
+      "name": "商水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/商水县"
+    },
+    {
+      "code": "411624",
+      "name": "沈丘县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/沈丘县"
+    },
+    {
+      "code": "411625",
+      "name": "郸城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/郸城县"
+    },
+    {
+      "code": "411627",
+      "name": "太康县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/太康县"
+    },
+    {
+      "code": "411628",
+      "name": "鹿邑县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/鹿邑县"
+    },
+    {
+      "code": "411681",
+      "name": "项城市",
+      "level": 3,
+      "type": null,
+      "parent_code": "411600",
+      "year": 0,
+      "name_path": "全国/河南省/周口市/项城市"
+    }
+  ]
+}

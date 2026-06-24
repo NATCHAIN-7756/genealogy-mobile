@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "340705",
+      "name": "铜官区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340700",
+      "year": 0,
+      "name_path": "全国/安徽省/铜陵市/铜官区"
+    },
+    {
+      "code": "340706",
+      "name": "义安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340700",
+      "year": 0,
+      "name_path": "全国/安徽省/铜陵市/义安区"
+    },
+    {
+      "code": "340711",
+      "name": "郊区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340700",
+      "year": 0,
+      "name_path": "全国/安徽省/铜陵市/郊区"
+    },
+    {
+      "code": "340722",
+      "name": "枞阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340700",
+      "year": 0,
+      "name_path": "全国/安徽省/铜陵市/枞阳县"
+    }
+  ]
+}

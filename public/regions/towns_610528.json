@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "610528001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/城关街道"
+    },
+    {
+      "code": "610528101",
+      "name": "庄里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/庄里镇"
+    },
+    {
+      "code": "610528102",
+      "name": "张桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/张桥镇"
+    },
+    {
+      "code": "610528103",
+      "name": "美原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/美原镇"
+    },
+    {
+      "code": "610528105",
+      "name": "淡村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/淡村镇"
+    },
+    {
+      "code": "610528107",
+      "name": "留古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/留古镇"
+    },
+    {
+      "code": "610528108",
+      "name": "老庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/老庙镇"
+    },
+    {
+      "code": "610528109",
+      "name": "薛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/薛镇"
+    },
+    {
+      "code": "610528111",
+      "name": "曹村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/曹村镇"
+    },
+    {
+      "code": "610528112",
+      "name": "宫里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/宫里镇"
+    },
+    {
+      "code": "610528113",
+      "name": "梅家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/梅家坪镇"
+    },
+    {
+      "code": "610528114",
+      "name": "刘集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/刘集镇"
+    },
+    {
+      "code": "610528115",
+      "name": "齐村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/齐村镇"
+    },
+    {
+      "code": "610528118",
+      "name": "到贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/到贤镇"
+    },
+    {
+      "code": "610528119",
+      "name": "流曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610528",
+      "year": 0,
+      "name_path": "陕西省/渭南市/富平县/流曲镇"
+    }
+  ]
+}

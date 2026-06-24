@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "210603002",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/站前街道"
+    },
+    {
+      "code": "210603003",
+      "name": "临江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/临江街道"
+    },
+    {
+      "code": "210603005",
+      "name": "帽盔山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/帽盔山街道"
+    },
+    {
+      "code": "210603006",
+      "name": "纤维街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/纤维街道"
+    },
+    {
+      "code": "210603007",
+      "name": "永昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/永昌街道"
+    },
+    {
+      "code": "210603008",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/花园街道"
+    },
+    {
+      "code": "210603009",
+      "name": "江海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/江海街道"
+    },
+    {
+      "code": "210603101",
+      "name": "浪头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/浪头镇"
+    },
+    {
+      "code": "210603102",
+      "name": "安民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210603",
+      "year": 0,
+      "name_path": "辽宁省/丹东市/振兴区/安民镇"
+    }
+  ]
+}

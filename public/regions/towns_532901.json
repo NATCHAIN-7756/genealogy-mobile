@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "532901001",
+      "name": "下关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/下关街道"
+    },
+    {
+      "code": "532901002",
+      "name": "太和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/太和街道"
+    },
+    {
+      "code": "532901003",
+      "name": "满江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/满江街道"
+    },
+    {
+      "code": "532901101",
+      "name": "大理镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/大理镇"
+    },
+    {
+      "code": "532901102",
+      "name": "凤仪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/凤仪镇"
+    },
+    {
+      "code": "532901103",
+      "name": "喜洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/喜洲镇"
+    },
+    {
+      "code": "532901104",
+      "name": "海东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/海东镇"
+    },
+    {
+      "code": "532901105",
+      "name": "挖色镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/挖色镇"
+    },
+    {
+      "code": "532901106",
+      "name": "湾桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/湾桥镇"
+    },
+    {
+      "code": "532901107",
+      "name": "银桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/银桥镇"
+    },
+    {
+      "code": "532901109",
+      "name": "双廊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/双廊镇"
+    },
+    {
+      "code": "532901110",
+      "name": "上关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/上关镇"
+    },
+    {
+      "code": "532901200",
+      "name": "太邑彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532901",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/大理市/太邑彝族乡"
+    }
+  ]
+}

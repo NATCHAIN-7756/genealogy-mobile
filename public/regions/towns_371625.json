@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "371625001",
+      "name": "博昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/博昌街道"
+    },
+    {
+      "code": "371625002",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/城东街道"
+    },
+    {
+      "code": "371625003",
+      "name": "锦秋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/锦秋街道"
+    },
+    {
+      "code": "371625101",
+      "name": "曹王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/曹王镇"
+    },
+    {
+      "code": "371625102",
+      "name": "兴福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/兴福镇"
+    },
+    {
+      "code": "371625103",
+      "name": "陈户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/陈户镇"
+    },
+    {
+      "code": "371625104",
+      "name": "湖滨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/湖滨镇"
+    },
+    {
+      "code": "371625106",
+      "name": "店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/店子镇"
+    },
+    {
+      "code": "371625107",
+      "name": "吕艺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/吕艺镇"
+    },
+    {
+      "code": "371625108",
+      "name": "纯化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/纯化镇"
+    },
+    {
+      "code": "371625109",
+      "name": "庞家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/庞家镇"
+    },
+    {
+      "code": "371625110",
+      "name": "乔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371625",
+      "year": 0,
+      "name_path": "山东省/滨州市/博兴县/乔庄镇"
+    }
+  ]
+}

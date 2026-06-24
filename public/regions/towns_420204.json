@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "420204001",
+      "name": "新下陆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420204",
+      "year": 0,
+      "name_path": "湖北省/黄石市/下陆区/新下陆街道"
+    },
+    {
+      "code": "420204002",
+      "name": "老下陆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420204",
+      "year": 0,
+      "name_path": "湖北省/黄石市/下陆区/老下陆街道"
+    },
+    {
+      "code": "420204003",
+      "name": "东方山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420204",
+      "year": 0,
+      "name_path": "湖北省/黄石市/下陆区/东方山街道"
+    },
+    {
+      "code": "420204004",
+      "name": "团城山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420204",
+      "year": 0,
+      "name_path": "湖北省/黄石市/下陆区/团城山街道"
+    }
+  ]
+}

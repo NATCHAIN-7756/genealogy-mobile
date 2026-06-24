@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "430922100",
+      "name": "桃花江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/桃花江镇"
+    },
+    {
+      "code": "430922101",
+      "name": "修山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/修山镇"
+    },
+    {
+      "code": "430922102",
+      "name": "三堂街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/三堂街镇"
+    },
+    {
+      "code": "430922103",
+      "name": "鸬鹚渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/鸬鹚渡镇"
+    },
+    {
+      "code": "430922104",
+      "name": "大栗港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/大栗港镇"
+    },
+    {
+      "code": "430922105",
+      "name": "武潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/武潭镇"
+    },
+    {
+      "code": "430922106",
+      "name": "马迹塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/马迹塘镇"
+    },
+    {
+      "code": "430922107",
+      "name": "石牛江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/石牛江镇"
+    },
+    {
+      "code": "430922108",
+      "name": "牛田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/牛田镇"
+    },
+    {
+      "code": "430922109",
+      "name": "松木塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/松木塘镇"
+    },
+    {
+      "code": "430922111",
+      "name": "灰山港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/灰山港镇"
+    },
+    {
+      "code": "430922112",
+      "name": "沾溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/沾溪镇"
+    },
+    {
+      "code": "430922119",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/高桥镇"
+    },
+    {
+      "code": "430922202",
+      "name": "浮邱山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/浮邱山乡"
+    },
+    {
+      "code": "430922208",
+      "name": "鲊埠回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430922",
+      "year": 0,
+      "name_path": "湖南省/益阳市/桃江县/鲊埠回族乡"
+    }
+  ]
+}

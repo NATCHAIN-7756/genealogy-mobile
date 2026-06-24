@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "360430100",
+      "name": "龙城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/龙城镇"
+    },
+    {
+      "code": "360430101",
+      "name": "棉船镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/棉船镇"
+    },
+    {
+      "code": "360430102",
+      "name": "马垱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/马垱镇"
+    },
+    {
+      "code": "360430104",
+      "name": "芙蓉墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/芙蓉墩镇"
+    },
+    {
+      "code": "360430105",
+      "name": "定山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/定山镇"
+    },
+    {
+      "code": "360430106",
+      "name": "天红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/天红镇"
+    },
+    {
+      "code": "360430107",
+      "name": "杨梓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/杨梓镇"
+    },
+    {
+      "code": "360430108",
+      "name": "东升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/东升镇"
+    },
+    {
+      "code": "360430109",
+      "name": "瀼溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/瀼溪镇"
+    },
+    {
+      "code": "360430110",
+      "name": "黄花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/黄花镇"
+    },
+    {
+      "code": "360430201",
+      "name": "太平关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/太平关乡"
+    },
+    {
+      "code": "360430203",
+      "name": "浩山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/浩山乡"
+    },
+    {
+      "code": "360430206",
+      "name": "黄岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360430",
+      "year": 0,
+      "name_path": "江西省/九江市/彭泽县/黄岭乡"
+    }
+  ]
+}

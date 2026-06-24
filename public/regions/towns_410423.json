@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "410423001",
+      "name": "露峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/露峰街道"
+    },
+    {
+      "code": "410423002",
+      "name": "琴台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/琴台街道"
+    },
+    {
+      "code": "410423003",
+      "name": "鲁阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/鲁阳街道"
+    },
+    {
+      "code": "410423004",
+      "name": "汇源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/汇源街道"
+    },
+    {
+      "code": "410423101",
+      "name": "下汤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/下汤镇"
+    },
+    {
+      "code": "410423102",
+      "name": "梁洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/梁洼镇"
+    },
+    {
+      "code": "410423103",
+      "name": "张官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/张官营镇"
+    },
+    {
+      "code": "410423104",
+      "name": "张良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/张良镇"
+    },
+    {
+      "code": "410423105",
+      "name": "尧山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/尧山镇"
+    },
+    {
+      "code": "410423106",
+      "name": "赵村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/赵村镇"
+    },
+    {
+      "code": "410423107",
+      "name": "瓦屋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/瓦屋镇"
+    },
+    {
+      "code": "410423108",
+      "name": "辛集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/辛集镇"
+    },
+    {
+      "code": "410423201",
+      "name": "四棵树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/四棵树乡"
+    },
+    {
+      "code": "410423202",
+      "name": "团城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/团城乡"
+    },
+    {
+      "code": "410423203",
+      "name": "熊背乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/熊背乡"
+    },
+    {
+      "code": "410423204",
+      "name": "瀼河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/瀼河乡"
+    },
+    {
+      "code": "410423206",
+      "name": "观音寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/观音寺乡"
+    },
+    {
+      "code": "410423208",
+      "name": "背孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/背孜乡"
+    },
+    {
+      "code": "410423209",
+      "name": "仓头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/仓头乡"
+    },
+    {
+      "code": "410423210",
+      "name": "董周乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/董周乡"
+    },
+    {
+      "code": "410423211",
+      "name": "张店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/张店乡"
+    },
+    {
+      "code": "410423213",
+      "name": "磙子营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/磙子营乡"
+    },
+    {
+      "code": "410423214",
+      "name": "马楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/马楼乡"
+    },
+    {
+      "code": "410423215",
+      "name": "昭平台库区乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410423",
+      "year": 0,
+      "name_path": "河南省/平顶山市/鲁山县/昭平台库区乡"
+    }
+  ]
+}

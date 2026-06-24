@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "220503001",
+      "name": "桃园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220503",
+      "year": 0,
+      "name_path": "吉林省/通化市/二道江区/桃园街道"
+    },
+    {
+      "code": "220503002",
+      "name": "东通化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220503",
+      "year": 0,
+      "name_path": "吉林省/通化市/二道江区/东通化街道"
+    },
+    {
+      "code": "220503100",
+      "name": "鸭园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220503",
+      "year": 0,
+      "name_path": "吉林省/通化市/二道江区/鸭园镇"
+    },
+    {
+      "code": "220503101",
+      "name": "铁厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220503",
+      "year": 0,
+      "name_path": "吉林省/通化市/二道江区/铁厂镇"
+    },
+    {
+      "code": "220503102",
+      "name": "五道江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220503",
+      "year": 0,
+      "name_path": "吉林省/通化市/二道江区/五道江镇"
+    },
+    {
+      "code": "220503200",
+      "name": "二道江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220503",
+      "year": 0,
+      "name_path": "吉林省/通化市/二道江区/二道江乡"
+    }
+  ]
+}

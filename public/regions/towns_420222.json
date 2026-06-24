@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "420222100",
+      "name": "兴国镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/兴国镇"
+    },
+    {
+      "code": "420222101",
+      "name": "富池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/富池镇"
+    },
+    {
+      "code": "420222102",
+      "name": "黄颡口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/黄颡口镇"
+    },
+    {
+      "code": "420222103",
+      "name": "𣲗源口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/𣲗源口镇"
+    },
+    {
+      "code": "420222104",
+      "name": "太子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/太子镇"
+    },
+    {
+      "code": "420222105",
+      "name": "大王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/大王镇"
+    },
+    {
+      "code": "420222106",
+      "name": "陶港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/陶港镇"
+    },
+    {
+      "code": "420222107",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/白沙镇"
+    },
+    {
+      "code": "420222108",
+      "name": "浮屠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/浮屠镇"
+    },
+    {
+      "code": "420222109",
+      "name": "三溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/三溪镇"
+    },
+    {
+      "code": "420222110",
+      "name": "龙港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/龙港镇"
+    },
+    {
+      "code": "420222111",
+      "name": "洋港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/洋港镇"
+    },
+    {
+      "code": "420222112",
+      "name": "排市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/排市镇"
+    },
+    {
+      "code": "420222113",
+      "name": "木港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/木港镇"
+    },
+    {
+      "code": "420222114",
+      "name": "枫林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/枫林镇"
+    },
+    {
+      "code": "420222115",
+      "name": "王英镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420222",
+      "year": 0,
+      "name_path": "湖北省/黄石市/阳新县/王英镇"
+    }
+  ]
+}

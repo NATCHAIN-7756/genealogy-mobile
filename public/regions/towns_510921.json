@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "510921001",
+      "name": "普安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/普安街道"
+    },
+    {
+      "code": "510921100",
+      "name": "赤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/赤城镇"
+    },
+    {
+      "code": "510921101",
+      "name": "新会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/新会镇"
+    },
+    {
+      "code": "510921102",
+      "name": "文井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/文井镇"
+    },
+    {
+      "code": "510921103",
+      "name": "明月镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/明月镇"
+    },
+    {
+      "code": "510921104",
+      "name": "常乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/常乐镇"
+    },
+    {
+      "code": "510921105",
+      "name": "天福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/天福镇"
+    },
+    {
+      "code": "510921106",
+      "name": "红江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/红江镇"
+    },
+    {
+      "code": "510921107",
+      "name": "宝梵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/宝梵镇"
+    },
+    {
+      "code": "510921108",
+      "name": "大石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/大石镇"
+    },
+    {
+      "code": "510921109",
+      "name": "吉祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/吉祥镇"
+    },
+    {
+      "code": "510921110",
+      "name": "鸣凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/鸣凤镇"
+    },
+    {
+      "code": "510921111",
+      "name": "任隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/任隆镇"
+    },
+    {
+      "code": "510921112",
+      "name": "三凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/三凤镇"
+    },
+    {
+      "code": "510921114",
+      "name": "蓬南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/蓬南镇"
+    },
+    {
+      "code": "510921115",
+      "name": "群利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/群利镇"
+    },
+    {
+      "code": "510921117",
+      "name": "金桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/金桥镇"
+    },
+    {
+      "code": "510921118",
+      "name": "槐花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/槐花镇"
+    },
+    {
+      "code": "510921207",
+      "name": "荷叶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/荷叶乡"
+    },
+    {
+      "code": "510921213",
+      "name": "高升乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510921",
+      "year": 0,
+      "name_path": "四川省/遂宁市/蓬溪县/高升乡"
+    }
+  ]
+}

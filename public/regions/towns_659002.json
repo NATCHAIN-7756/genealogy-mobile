@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "659002001",
+      "name": "幸福路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/幸福路街道"
+    },
+    {
+      "code": "659002002",
+      "name": "金银川路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/金银川路街道"
+    },
+    {
+      "code": "659002003",
+      "name": "青松路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/青松路街道"
+    },
+    {
+      "code": "659002004",
+      "name": "南口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/南口街道"
+    },
+    {
+      "code": "659002100",
+      "name": "金银川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/金银川镇"
+    },
+    {
+      "code": "659002101",
+      "name": "双城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/双城镇"
+    },
+    {
+      "code": "659002102",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/沙河镇"
+    },
+    {
+      "code": "659002103",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/永宁镇"
+    },
+    {
+      "code": "659002104",
+      "name": "新井子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/新井子镇"
+    },
+    {
+      "code": "659002105",
+      "name": "甘泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/甘泉镇"
+    },
+    {
+      "code": "659002106",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/花桥镇"
+    },
+    {
+      "code": "659002107",
+      "name": "幸福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/幸福镇"
+    },
+    {
+      "code": "659002108",
+      "name": "金杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/金杨镇"
+    },
+    {
+      "code": "659002109",
+      "name": "玛滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/玛滩镇"
+    },
+    {
+      "code": "659002110",
+      "name": "塔门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/塔门镇"
+    },
+    {
+      "code": "659002111",
+      "name": "梨花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/梨花镇"
+    },
+    {
+      "code": "659002112",
+      "name": "昌安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/昌安镇"
+    },
+    {
+      "code": "659002113",
+      "name": "塔南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/塔南镇"
+    },
+    {
+      "code": "659002114",
+      "name": "新开岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/新开岭镇"
+    },
+    {
+      "code": "659002201",
+      "name": "托喀依乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "659002",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿拉尔市/托喀依乡"
+    }
+  ]
+}

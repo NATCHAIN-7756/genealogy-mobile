@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "430581001",
+      "name": "辕门口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/辕门口街道"
+    },
+    {
+      "code": "430581002",
+      "name": "迎春亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/迎春亭街道"
+    },
+    {
+      "code": "430581003",
+      "name": "法相岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/法相岩街道"
+    },
+    {
+      "code": "430581004",
+      "name": "水西门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/水西门街道"
+    },
+    {
+      "code": "430581100",
+      "name": "邓元泰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/邓元泰镇"
+    },
+    {
+      "code": "430581101",
+      "name": "湾头桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/湾头桥镇"
+    },
+    {
+      "code": "430581102",
+      "name": "文坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/文坪镇"
+    },
+    {
+      "code": "430581103",
+      "name": "荆竹铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/荆竹铺镇"
+    },
+    {
+      "code": "430581104",
+      "name": "稠树塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/稠树塘镇"
+    },
+    {
+      "code": "430581105",
+      "name": "邓家铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/邓家铺镇"
+    },
+    {
+      "code": "430581106",
+      "name": "龙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/龙溪镇"
+    },
+    {
+      "code": "430581107",
+      "name": "司马冲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/司马冲镇"
+    },
+    {
+      "code": "430581108",
+      "name": "秦桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/秦桥镇"
+    },
+    {
+      "code": "430581109",
+      "name": "大甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/大甸镇"
+    },
+    {
+      "code": "430581110",
+      "name": "双牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/双牌镇"
+    },
+    {
+      "code": "430581204",
+      "name": "马坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/马坪乡"
+    },
+    {
+      "code": "430581205",
+      "name": "晏田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/晏田乡"
+    },
+    {
+      "code": "430581207",
+      "name": "水浸坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430581",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/武冈市/水浸坪乡"
+    }
+  ]
+}

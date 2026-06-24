@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "320506003",
+      "name": "长桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/长桥街道"
+    },
+    {
+      "code": "320506004",
+      "name": "郭巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/郭巷街道"
+    },
+    {
+      "code": "320506005",
+      "name": "横泾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/横泾街道"
+    },
+    {
+      "code": "320506006",
+      "name": "越溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/越溪街道"
+    },
+    {
+      "code": "320506007",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/城南街道"
+    },
+    {
+      "code": "320506008",
+      "name": "香山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/香山街道"
+    },
+    {
+      "code": "320506009",
+      "name": "唯亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/唯亭街道"
+    },
+    {
+      "code": "320506010",
+      "name": "胜浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/胜浦街道"
+    },
+    {
+      "code": "320506011",
+      "name": "太湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/太湖街道"
+    },
+    {
+      "code": "320506012",
+      "name": "金鸡湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/金鸡湖街道"
+    },
+    {
+      "code": "320506101",
+      "name": "甪直镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/甪直镇"
+    },
+    {
+      "code": "320506104",
+      "name": "光福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/光福镇"
+    },
+    {
+      "code": "320506108",
+      "name": "木渎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/木渎镇"
+    },
+    {
+      "code": "320506109",
+      "name": "胥口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/胥口镇"
+    },
+    {
+      "code": "320506111",
+      "name": "临湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/临湖镇"
+    },
+    {
+      "code": "320506113",
+      "name": "东山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/东山镇"
+    },
+    {
+      "code": "320506114",
+      "name": "金庭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320506",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴中区/金庭镇"
+    }
+  ]
+}

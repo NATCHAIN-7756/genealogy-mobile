@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "210905005",
+      "name": "清河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210905",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/清河门区/清河街道"
+    },
+    {
+      "code": "210905006",
+      "name": "新北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210905",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/清河门区/新北街道"
+    },
+    {
+      "code": "210905101",
+      "name": "河西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210905",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/清河门区/河西镇"
+    },
+    {
+      "code": "210905102",
+      "name": "乌龙坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210905",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/清河门区/乌龙坝镇"
+    }
+  ]
+}

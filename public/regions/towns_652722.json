@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "652722100",
+      "name": "精河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652722",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/博尔塔拉蒙古自治州/精河县/精河镇"
+    },
+    {
+      "code": "652722101",
+      "name": "大河沿子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652722",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/博尔塔拉蒙古自治州/精河县/大河沿子镇"
+    },
+    {
+      "code": "652722102",
+      "name": "托里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652722",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/博尔塔拉蒙古自治州/精河县/托里镇"
+    },
+    {
+      "code": "652722103",
+      "name": "托托镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652722",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/博尔塔拉蒙古自治州/精河县/托托镇"
+    },
+    {
+      "code": "652722200",
+      "name": "茫丁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652722",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/博尔塔拉蒙古自治州/精河县/茫丁乡"
+    }
+  ]
+}

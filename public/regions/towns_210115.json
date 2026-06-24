@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "210115001",
+      "name": "蒲西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/蒲西街道"
+    },
+    {
+      "code": "210115002",
+      "name": "蒲东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/蒲东街道"
+    },
+    {
+      "code": "210115003",
+      "name": "茨榆坨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/茨榆坨街道"
+    },
+    {
+      "code": "210115004",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/城郊街道"
+    },
+    {
+      "code": "210115101",
+      "name": "于家房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/于家房镇"
+    },
+    {
+      "code": "210115102",
+      "name": "朱家房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/朱家房镇"
+    },
+    {
+      "code": "210115103",
+      "name": "冷子堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/冷子堡镇"
+    },
+    {
+      "code": "210115104",
+      "name": "刘二堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/刘二堡镇"
+    },
+    {
+      "code": "210115107",
+      "name": "满都户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/满都户镇"
+    },
+    {
+      "code": "210115108",
+      "name": "杨士岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/杨士岗镇"
+    },
+    {
+      "code": "210115109",
+      "name": "肖寨门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/肖寨门镇"
+    },
+    {
+      "code": "210115110",
+      "name": "六间房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/六间房镇"
+    },
+    {
+      "code": "210115111",
+      "name": "养士堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/养士堡镇"
+    },
+    {
+      "code": "210115112",
+      "name": "潘家堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/潘家堡镇"
+    },
+    {
+      "code": "210115118",
+      "name": "老大房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/老大房镇"
+    },
+    {
+      "code": "210115119",
+      "name": "大黑岗子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/大黑岗子镇"
+    },
+    {
+      "code": "210115120",
+      "name": "牛心坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/牛心坨镇"
+    },
+    {
+      "code": "210115121",
+      "name": "四方台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/四方台镇"
+    },
+    {
+      "code": "210115122",
+      "name": "长滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/长滩镇"
+    },
+    {
+      "code": "210115123",
+      "name": "新民屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210115",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/辽中区/新民屯镇"
+    }
+  ]
+}

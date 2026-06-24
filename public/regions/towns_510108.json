@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "510108001",
+      "name": "府青路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/府青路街道"
+    },
+    {
+      "code": "510108003",
+      "name": "双水碾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/双水碾街道"
+    },
+    {
+      "code": "510108005",
+      "name": "万年场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/万年场街道"
+    },
+    {
+      "code": "510108006",
+      "name": "双桥子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/双桥子街道"
+    },
+    {
+      "code": "510108007",
+      "name": "猛追湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/猛追湾街道"
+    },
+    {
+      "code": "510108008",
+      "name": "跳蹬河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/跳蹬河街道"
+    },
+    {
+      "code": "510108009",
+      "name": "二仙桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/二仙桥街道"
+    },
+    {
+      "code": "510108012",
+      "name": "保和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/保和街道"
+    },
+    {
+      "code": "510108013",
+      "name": "青龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/青龙街道"
+    },
+    {
+      "code": "510108014",
+      "name": "龙潭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/龙潭街道"
+    },
+    {
+      "code": "510108015",
+      "name": "白莲池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510108",
+      "year": 0,
+      "name_path": "四川省/成都市/成华区/白莲池街道"
+    }
+  ]
+}

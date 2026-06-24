@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "451424100",
+      "name": "桃城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/桃城镇"
+    },
+    {
+      "code": "451424101",
+      "name": "全茗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/全茗镇"
+    },
+    {
+      "code": "451424102",
+      "name": "雷平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/雷平镇"
+    },
+    {
+      "code": "451424103",
+      "name": "硕龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/硕龙镇"
+    },
+    {
+      "code": "451424104",
+      "name": "下雷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/下雷镇"
+    },
+    {
+      "code": "451424200",
+      "name": "五山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/五山乡"
+    },
+    {
+      "code": "451424201",
+      "name": "龙门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/龙门乡"
+    },
+    {
+      "code": "451424202",
+      "name": "昌明乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/昌明乡"
+    },
+    {
+      "code": "451424203",
+      "name": "福隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/福隆乡"
+    },
+    {
+      "code": "451424204",
+      "name": "那岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/那岭乡"
+    },
+    {
+      "code": "451424205",
+      "name": "恩城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/恩城乡"
+    },
+    {
+      "code": "451424206",
+      "name": "榄圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/榄圩乡"
+    },
+    {
+      "code": "451424207",
+      "name": "宝圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/宝圩乡"
+    },
+    {
+      "code": "451424208",
+      "name": "堪圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451424",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/大新县/堪圩乡"
+    }
+  ]
+}

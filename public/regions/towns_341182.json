@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "341182001",
+      "name": "明西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/明西街道"
+    },
+    {
+      "code": "341182002",
+      "name": "明光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/明光街道"
+    },
+    {
+      "code": "341182003",
+      "name": "明南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/明南街道"
+    },
+    {
+      "code": "341182004",
+      "name": "明东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/明东街道"
+    },
+    {
+      "code": "341182101",
+      "name": "张八岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/张八岭镇"
+    },
+    {
+      "code": "341182102",
+      "name": "三界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/三界镇"
+    },
+    {
+      "code": "341182103",
+      "name": "管店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/管店镇"
+    },
+    {
+      "code": "341182104",
+      "name": "自来桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/自来桥镇"
+    },
+    {
+      "code": "341182105",
+      "name": "涧溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/涧溪镇"
+    },
+    {
+      "code": "341182106",
+      "name": "石坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/石坝镇"
+    },
+    {
+      "code": "341182108",
+      "name": "苏巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/苏巷镇"
+    },
+    {
+      "code": "341182109",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/桥头镇"
+    },
+    {
+      "code": "341182110",
+      "name": "女山湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/女山湖镇"
+    },
+    {
+      "code": "341182111",
+      "name": "古沛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/古沛镇"
+    },
+    {
+      "code": "341182112",
+      "name": "潘村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/潘村镇"
+    },
+    {
+      "code": "341182113",
+      "name": "柳巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/柳巷镇"
+    },
+    {
+      "code": "341182212",
+      "name": "泊岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341182",
+      "year": 0,
+      "name_path": "安徽省/滁州市/明光市/泊岗乡"
+    }
+  ]
+}

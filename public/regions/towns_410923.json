@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "410923100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/城关镇"
+    },
+    {
+      "code": "410923101",
+      "name": "韩张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/韩张镇"
+    },
+    {
+      "code": "410923102",
+      "name": "元村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/元村镇"
+    },
+    {
+      "code": "410923103",
+      "name": "福堪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/福堪镇"
+    },
+    {
+      "code": "410923104",
+      "name": "张果屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/张果屯镇"
+    },
+    {
+      "code": "410923105",
+      "name": "千口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/千口镇"
+    },
+    {
+      "code": "410923106",
+      "name": "谷金楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/谷金楼镇"
+    },
+    {
+      "code": "410923107",
+      "name": "近德固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/近德固镇"
+    },
+    {
+      "code": "410923200",
+      "name": "杨村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/杨村乡"
+    },
+    {
+      "code": "410923205",
+      "name": "西邵乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/西邵乡"
+    },
+    {
+      "code": "410923206",
+      "name": "寺庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/寺庄乡"
+    },
+    {
+      "code": "410923207",
+      "name": "梁村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410923",
+      "year": 0,
+      "name_path": "河南省/濮阳市/南乐县/梁村乡"
+    }
+  ]
+}

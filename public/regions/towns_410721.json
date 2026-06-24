@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "410721101",
+      "name": "翟坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/翟坡镇"
+    },
+    {
+      "code": "410721102",
+      "name": "小冀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/小冀镇"
+    },
+    {
+      "code": "410721103",
+      "name": "七里营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/七里营镇"
+    },
+    {
+      "code": "410721104",
+      "name": "朗公庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/朗公庙镇"
+    },
+    {
+      "code": "410721105",
+      "name": "古固寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/古固寨镇"
+    },
+    {
+      "code": "410721107",
+      "name": "大召营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/大召营镇"
+    },
+    {
+      "code": "410721200",
+      "name": "合河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410721",
+      "year": 0,
+      "name_path": "河南省/新乡市/新乡县/合河乡"
+    }
+  ]
+}

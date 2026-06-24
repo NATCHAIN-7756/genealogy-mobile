@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "433126101",
+      "name": "默戎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/默戎镇"
+    },
+    {
+      "code": "433126103",
+      "name": "红石林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/红石林镇"
+    },
+    {
+      "code": "433126105",
+      "name": "断龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/断龙山镇"
+    },
+    {
+      "code": "433126106",
+      "name": "古阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/古阳镇"
+    },
+    {
+      "code": "433126107",
+      "name": "岩头寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/岩头寨镇"
+    },
+    {
+      "code": "433126108",
+      "name": "高峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/高峰镇"
+    },
+    {
+      "code": "433126109",
+      "name": "坪坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433126",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/古丈县/坪坝镇"
+    }
+  ]
+}

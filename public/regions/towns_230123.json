@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230123100",
+      "name": "依兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/依兰镇"
+    },
+    {
+      "code": "230123101",
+      "name": "达连河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/达连河镇"
+    },
+    {
+      "code": "230123102",
+      "name": "江湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/江湾镇"
+    },
+    {
+      "code": "230123103",
+      "name": "三道岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/三道岗镇"
+    },
+    {
+      "code": "230123104",
+      "name": "道台桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/道台桥镇"
+    },
+    {
+      "code": "230123105",
+      "name": "宏克力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/宏克力镇"
+    },
+    {
+      "code": "230123205",
+      "name": "团山子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/团山子乡"
+    },
+    {
+      "code": "230123206",
+      "name": "愚公乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/愚公乡"
+    },
+    {
+      "code": "230123210",
+      "name": "迎兰朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230123",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/依兰县/迎兰朝鲜族乡"
+    }
+  ]
+}

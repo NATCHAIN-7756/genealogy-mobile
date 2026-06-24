@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "152526100",
+      "name": "巴拉嘎尔高勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/巴拉嘎尔高勒镇"
+    },
+    {
+      "code": "152526101",
+      "name": "巴彦花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/巴彦花镇"
+    },
+    {
+      "code": "152526102",
+      "name": "吉仁高勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/吉仁高勒镇"
+    },
+    {
+      "code": "152526103",
+      "name": "浩勒图高勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/浩勒图高勒镇"
+    },
+    {
+      "code": "152526104",
+      "name": "高日罕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/高日罕镇"
+    },
+    {
+      "code": "152526200",
+      "name": "巴彦胡舒苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/巴彦胡舒苏木"
+    },
+    {
+      "code": "152526201",
+      "name": "乌兰哈拉嘎苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152526",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗/乌兰哈拉嘎苏木"
+    }
+  ]
+}

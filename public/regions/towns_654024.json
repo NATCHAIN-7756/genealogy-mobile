@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "654024100",
+      "name": "巩留镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/巩留镇"
+    },
+    {
+      "code": "654024101",
+      "name": "阿克吐别克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/阿克吐别克镇"
+    },
+    {
+      "code": "654024102",
+      "name": "库尔德宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/库尔德宁镇"
+    },
+    {
+      "code": "654024103",
+      "name": "阿尕尔森镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/阿尕尔森镇"
+    },
+    {
+      "code": "654024104",
+      "name": "东买里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/东买里镇"
+    },
+    {
+      "code": "654024105",
+      "name": "提克阿热克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/提克阿热克镇"
+    },
+    {
+      "code": "654024201",
+      "name": "吉尔格郎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/吉尔格郎乡"
+    },
+    {
+      "code": "654024204",
+      "name": "塔斯托别乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654024",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/巩留县/塔斯托别乡"
+    }
+  ]
+}

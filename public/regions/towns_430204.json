@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "430204001",
+      "name": "田心街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/田心街道"
+    },
+    {
+      "code": "430204002",
+      "name": "响石岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/响石岭街道"
+    },
+    {
+      "code": "430204003",
+      "name": "清水塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/清水塘街道"
+    },
+    {
+      "code": "430204004",
+      "name": "铜塘湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/铜塘湾街道"
+    },
+    {
+      "code": "430204005",
+      "name": "井龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/井龙街道"
+    },
+    {
+      "code": "430204006",
+      "name": "学林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/学林街道"
+    },
+    {
+      "code": "430204007",
+      "name": "龙头铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/龙头铺街道"
+    },
+    {
+      "code": "430204101",
+      "name": "云田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430204",
+      "year": 0,
+      "name_path": "湖南省/株洲市/石峰区/云田镇"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "320612",
+      "name": "通州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/通州区"
+    },
+    {
+      "code": "320613",
+      "name": "崇川区",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/崇川区"
+    },
+    {
+      "code": "320614",
+      "name": "海门区",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/海门区"
+    },
+    {
+      "code": "320623",
+      "name": "如东县",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/如东县"
+    },
+    {
+      "code": "320681",
+      "name": "启东市",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/启东市"
+    },
+    {
+      "code": "320682",
+      "name": "如皋市",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/如皋市"
+    },
+    {
+      "code": "320685",
+      "name": "海安市",
+      "level": 3,
+      "type": null,
+      "parent_code": "320600",
+      "year": 0,
+      "name_path": "全国/江苏省/南通市/海安市"
+    }
+  ]
+}

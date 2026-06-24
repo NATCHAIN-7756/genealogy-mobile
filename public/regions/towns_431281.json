@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "431281001",
+      "name": "河滨路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/河滨路街道"
+    },
+    {
+      "code": "431281002",
+      "name": "沅江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/沅江路街道"
+    },
+    {
+      "code": "431281003",
+      "name": "新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/新街街道"
+    },
+    {
+      "code": "431281004",
+      "name": "高坡街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/高坡街街道"
+    },
+    {
+      "code": "431281101",
+      "name": "黔城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/黔城镇"
+    },
+    {
+      "code": "431281102",
+      "name": "安江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/安江镇"
+    },
+    {
+      "code": "431281103",
+      "name": "托口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/托口镇"
+    },
+    {
+      "code": "431281104",
+      "name": "雪峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/雪峰镇"
+    },
+    {
+      "code": "431281106",
+      "name": "江市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/江市镇"
+    },
+    {
+      "code": "431281107",
+      "name": "沅河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/沅河镇"
+    },
+    {
+      "code": "431281108",
+      "name": "塘湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/塘湾镇"
+    },
+    {
+      "code": "431281202",
+      "name": "岔头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/岔头乡"
+    },
+    {
+      "code": "431281203",
+      "name": "茅渡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/茅渡乡"
+    },
+    {
+      "code": "431281204",
+      "name": "大崇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/大崇乡"
+    },
+    {
+      "code": "431281205",
+      "name": "熟坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/熟坪乡"
+    },
+    {
+      "code": "431281206",
+      "name": "铁山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/铁山乡"
+    },
+    {
+      "code": "431281207",
+      "name": "群峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/群峰乡"
+    },
+    {
+      "code": "431281208",
+      "name": "湾溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/湾溪乡"
+    },
+    {
+      "code": "431281209",
+      "name": "洗马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/洗马乡"
+    },
+    {
+      "code": "431281211",
+      "name": "沙湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/沙湾乡"
+    },
+    {
+      "code": "431281212",
+      "name": "深渡苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/深渡苗族乡"
+    },
+    {
+      "code": "431281213",
+      "name": "龙船塘瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/龙船塘瑶族乡"
+    },
+    {
+      "code": "431281214",
+      "name": "太平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/太平乡"
+    },
+    {
+      "code": "431281217",
+      "name": "岩垅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/岩垅乡"
+    },
+    {
+      "code": "431281218",
+      "name": "横岩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/横岩乡"
+    },
+    {
+      "code": "431281220",
+      "name": "桂花园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431281",
+      "year": 0,
+      "name_path": "湖南省/怀化市/洪江市/桂花园乡"
+    }
+  ]
+}

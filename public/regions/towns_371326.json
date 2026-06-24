@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "371326001",
+      "name": "平邑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/平邑街道"
+    },
+    {
+      "code": "371326101",
+      "name": "仲村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/仲村镇"
+    },
+    {
+      "code": "371326102",
+      "name": "武台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/武台镇"
+    },
+    {
+      "code": "371326103",
+      "name": "保太镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/保太镇"
+    },
+    {
+      "code": "371326104",
+      "name": "柏林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/柏林镇"
+    },
+    {
+      "code": "371326105",
+      "name": "卞桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/卞桥镇"
+    },
+    {
+      "code": "371326106",
+      "name": "地方镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/地方镇"
+    },
+    {
+      "code": "371326107",
+      "name": "铜石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/铜石镇"
+    },
+    {
+      "code": "371326108",
+      "name": "温水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/温水镇"
+    },
+    {
+      "code": "371326109",
+      "name": "流峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/流峪镇"
+    },
+    {
+      "code": "371326110",
+      "name": "郑城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/郑城镇"
+    },
+    {
+      "code": "371326111",
+      "name": "白彦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/白彦镇"
+    },
+    {
+      "code": "371326112",
+      "name": "临涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/临涧镇"
+    },
+    {
+      "code": "371326113",
+      "name": "丰阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371326",
+      "year": 0,
+      "name_path": "山东省/临沂市/平邑县/丰阳镇"
+    }
+  ]
+}

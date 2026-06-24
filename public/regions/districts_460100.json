@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "460105",
+      "name": "秀英区",
+      "level": 3,
+      "type": null,
+      "parent_code": "460100",
+      "year": 0,
+      "name_path": "全国/海南省/海口市/秀英区"
+    },
+    {
+      "code": "460106",
+      "name": "龙华区",
+      "level": 3,
+      "type": null,
+      "parent_code": "460100",
+      "year": 0,
+      "name_path": "全国/海南省/海口市/龙华区"
+    },
+    {
+      "code": "460107",
+      "name": "琼山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "460100",
+      "year": 0,
+      "name_path": "全国/海南省/海口市/琼山区"
+    },
+    {
+      "code": "460108",
+      "name": "美兰区",
+      "level": 3,
+      "type": null,
+      "parent_code": "460100",
+      "year": 0,
+      "name_path": "全国/海南省/海口市/美兰区"
+    }
+  ]
+}

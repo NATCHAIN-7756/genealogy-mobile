@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "451229100",
+      "name": "大化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/大化镇"
+    },
+    {
+      "code": "451229101",
+      "name": "都阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/都阳镇"
+    },
+    {
+      "code": "451229102",
+      "name": "岩滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/岩滩镇"
+    },
+    {
+      "code": "451229103",
+      "name": "北景镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/北景镇"
+    },
+    {
+      "code": "451229200",
+      "name": "共和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/共和乡"
+    },
+    {
+      "code": "451229201",
+      "name": "贡川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/贡川乡"
+    },
+    {
+      "code": "451229202",
+      "name": "百马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/百马乡"
+    },
+    {
+      "code": "451229203",
+      "name": "古河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/古河乡"
+    },
+    {
+      "code": "451229204",
+      "name": "古文乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/古文乡"
+    },
+    {
+      "code": "451229205",
+      "name": "江南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/江南乡"
+    },
+    {
+      "code": "451229206",
+      "name": "羌圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/羌圩乡"
+    },
+    {
+      "code": "451229207",
+      "name": "乙圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/乙圩乡"
+    },
+    {
+      "code": "451229210",
+      "name": "板升乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/板升乡"
+    },
+    {
+      "code": "451229211",
+      "name": "七百弄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/七百弄乡"
+    },
+    {
+      "code": "451229213",
+      "name": "雅龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/雅龙乡"
+    },
+    {
+      "code": "451229214",
+      "name": "六也乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451229",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/大化瑶族自治县/六也乡"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "431321001",
+      "name": "永丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/永丰街道"
+    },
+    {
+      "code": "431321002",
+      "name": "金开街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/金开街道"
+    },
+    {
+      "code": "431321101",
+      "name": "荷叶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/荷叶镇"
+    },
+    {
+      "code": "431321102",
+      "name": "井字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/井字镇"
+    },
+    {
+      "code": "431321103",
+      "name": "梓门桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/梓门桥镇"
+    },
+    {
+      "code": "431321104",
+      "name": "杏子铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/杏子铺镇"
+    },
+    {
+      "code": "431321105",
+      "name": "走马街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/走马街镇"
+    },
+    {
+      "code": "431321107",
+      "name": "洪山殿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/洪山殿镇"
+    },
+    {
+      "code": "431321108",
+      "name": "甘棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/甘棠镇"
+    },
+    {
+      "code": "431321109",
+      "name": "三塘铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/三塘铺镇"
+    },
+    {
+      "code": "431321110",
+      "name": "青树坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/青树坪镇"
+    },
+    {
+      "code": "431321111",
+      "name": "花门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/花门镇"
+    },
+    {
+      "code": "431321112",
+      "name": "锁石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/锁石镇"
+    },
+    {
+      "code": "431321200",
+      "name": "石牛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/石牛乡"
+    },
+    {
+      "code": "431321201",
+      "name": "沙塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/沙塘乡"
+    },
+    {
+      "code": "431321202",
+      "name": "印塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431321",
+      "year": 0,
+      "name_path": "湖南省/娄底市/双峰县/印塘乡"
+    }
+  ]
+}

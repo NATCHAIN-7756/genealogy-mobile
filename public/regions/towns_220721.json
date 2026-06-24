@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "220721001",
+      "name": "阿穆尔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/阿穆尔街道"
+    },
+    {
+      "code": "220721002",
+      "name": "萨日朗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/萨日朗街道"
+    },
+    {
+      "code": "220721003",
+      "name": "哈达街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/哈达街道"
+    },
+    {
+      "code": "220721100",
+      "name": "前郭尔罗斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/前郭尔罗斯镇"
+    },
+    {
+      "code": "220721102",
+      "name": "长山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/长山镇"
+    },
+    {
+      "code": "220721103",
+      "name": "海勃日戈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/海勃日戈镇"
+    },
+    {
+      "code": "220721104",
+      "name": "乌兰图嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/乌兰图嘎镇"
+    },
+    {
+      "code": "220721105",
+      "name": "查干花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/查干花镇"
+    },
+    {
+      "code": "220721106",
+      "name": "王府站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/王府站镇"
+    },
+    {
+      "code": "220721107",
+      "name": "八郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/八郎镇"
+    },
+    {
+      "code": "220721108",
+      "name": "哈拉毛都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/哈拉毛都镇"
+    },
+    {
+      "code": "220721109",
+      "name": "查干湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/查干湖镇"
+    },
+    {
+      "code": "220721200",
+      "name": "宝甸乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/宝甸乡"
+    },
+    {
+      "code": "220721201",
+      "name": "平凤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/平凤乡"
+    },
+    {
+      "code": "220721205",
+      "name": "达里巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/达里巴乡"
+    },
+    {
+      "code": "220721206",
+      "name": "吉拉吐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/吉拉吐乡"
+    },
+    {
+      "code": "220721207",
+      "name": "白依拉嘎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/白依拉嘎乡"
+    },
+    {
+      "code": "220721208",
+      "name": "洪泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/洪泉乡"
+    },
+    {
+      "code": "220721209",
+      "name": "额如乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/额如乡"
+    },
+    {
+      "code": "220721210",
+      "name": "套浩太乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/套浩太乡"
+    },
+    {
+      "code": "220721211",
+      "name": "长龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/长龙乡"
+    },
+    {
+      "code": "220721212",
+      "name": "乌兰塔拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/乌兰塔拉乡"
+    },
+    {
+      "code": "220721213",
+      "name": "东三家子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/东三家子乡"
+    },
+    {
+      "code": "220721214",
+      "name": "浩特芒哈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/浩特芒哈乡"
+    },
+    {
+      "code": "220721215",
+      "name": "乌兰敖都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220721",
+      "year": 0,
+      "name_path": "吉林省/松原市/前郭尔罗斯蒙古族自治县/乌兰敖都乡"
+    }
+  ]
+}

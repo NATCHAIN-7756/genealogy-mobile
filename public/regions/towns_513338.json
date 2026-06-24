@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "513338101",
+      "name": "瓦卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/瓦卡镇"
+    },
+    {
+      "code": "513338102",
+      "name": "白松镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/白松镇"
+    },
+    {
+      "code": "513338103",
+      "name": "日雨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/日雨镇"
+    },
+    {
+      "code": "513338104",
+      "name": "太阳谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/太阳谷镇"
+    },
+    {
+      "code": "513338201",
+      "name": "徐龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/徐龙乡"
+    },
+    {
+      "code": "513338204",
+      "name": "奔都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/奔都乡"
+    },
+    {
+      "code": "513338205",
+      "name": "八日乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/八日乡"
+    },
+    {
+      "code": "513338206",
+      "name": "古学乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/古学乡"
+    },
+    {
+      "code": "513338208",
+      "name": "贡波乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/贡波乡"
+    },
+    {
+      "code": "513338210",
+      "name": "茨巫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513338",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/得荣县/茨巫乡"
+    }
+  ]
+}

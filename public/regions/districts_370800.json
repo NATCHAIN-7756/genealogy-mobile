@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "370811",
+      "name": "任城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/任城区"
+    },
+    {
+      "code": "370812",
+      "name": "兖州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/兖州区"
+    },
+    {
+      "code": "370826",
+      "name": "微山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/微山县"
+    },
+    {
+      "code": "370827",
+      "name": "鱼台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/鱼台县"
+    },
+    {
+      "code": "370828",
+      "name": "金乡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/金乡县"
+    },
+    {
+      "code": "370829",
+      "name": "嘉祥县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/嘉祥县"
+    },
+    {
+      "code": "370830",
+      "name": "汶上县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/汶上县"
+    },
+    {
+      "code": "370831",
+      "name": "泗水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/泗水县"
+    },
+    {
+      "code": "370832",
+      "name": "梁山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/梁山县"
+    },
+    {
+      "code": "370881",
+      "name": "曲阜市",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/曲阜市"
+    },
+    {
+      "code": "370883",
+      "name": "邹城市",
+      "level": 3,
+      "type": null,
+      "parent_code": "370800",
+      "year": 0,
+      "name_path": "全国/山东省/济宁市/邹城市"
+    }
+  ]
+}

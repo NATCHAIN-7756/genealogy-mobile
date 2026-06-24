@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "430304001",
+      "name": "岳塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/岳塘街道"
+    },
+    {
+      "code": "430304002",
+      "name": "东坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/东坪街道"
+    },
+    {
+      "code": "430304004",
+      "name": "书院路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/书院路街道"
+    },
+    {
+      "code": "430304005",
+      "name": "下摄司街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/下摄司街道"
+    },
+    {
+      "code": "430304006",
+      "name": "建设路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/建设路街道"
+    },
+    {
+      "code": "430304008",
+      "name": "五里堆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/五里堆街道"
+    },
+    {
+      "code": "430304010",
+      "name": "宝塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/宝塔街道"
+    },
+    {
+      "code": "430304012",
+      "name": "霞城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/霞城街道"
+    },
+    {
+      "code": "430304013",
+      "name": "荷塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/荷塘街道"
+    },
+    {
+      "code": "430304014",
+      "name": "板塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/板塘街道"
+    },
+    {
+      "code": "430304015",
+      "name": "双马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/双马街道"
+    },
+    {
+      "code": "430304101",
+      "name": "昭山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430304",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/岳塘区/昭山镇"
+    }
+  ]
+}

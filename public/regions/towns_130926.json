@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "130926100",
+      "name": "肃宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/肃宁镇"
+    },
+    {
+      "code": "130926101",
+      "name": "梁家村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/梁家村镇"
+    },
+    {
+      "code": "130926102",
+      "name": "窝北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/窝北镇"
+    },
+    {
+      "code": "130926103",
+      "name": "尚村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/尚村镇"
+    },
+    {
+      "code": "130926104",
+      "name": "万里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/万里镇"
+    },
+    {
+      "code": "130926105",
+      "name": "师素镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/师素镇"
+    },
+    {
+      "code": "130926106",
+      "name": "河北留善寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/河北留善寺镇"
+    },
+    {
+      "code": "130926107",
+      "name": "付家佐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/付家佐镇"
+    },
+    {
+      "code": "130926205",
+      "name": "邵庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130926",
+      "year": 0,
+      "name_path": "河北省/沧州市/肃宁县/邵庄乡"
+    }
+  ]
+}

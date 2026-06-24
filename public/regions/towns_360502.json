@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "360502001",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/城南街道"
+    },
+    {
+      "code": "360502002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/城北街道"
+    },
+    {
+      "code": "360502003",
+      "name": "袁河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/袁河街道"
+    },
+    {
+      "code": "360502004",
+      "name": "新钢街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/新钢街道"
+    },
+    {
+      "code": "360502005",
+      "name": "孔目江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/孔目江街道"
+    },
+    {
+      "code": "360502101",
+      "name": "罗坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/罗坊镇"
+    },
+    {
+      "code": "360502102",
+      "name": "水北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/水北镇"
+    },
+    {
+      "code": "360502103",
+      "name": "良山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/良山镇"
+    },
+    {
+      "code": "360502105",
+      "name": "姚圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/姚圩镇"
+    },
+    {
+      "code": "360502106",
+      "name": "下村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/下村镇"
+    },
+    {
+      "code": "360502107",
+      "name": "珠珊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/珠珊镇"
+    },
+    {
+      "code": "360502109",
+      "name": "观巢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/观巢镇"
+    },
+    {
+      "code": "360502110",
+      "name": "欧里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/欧里镇"
+    },
+    {
+      "code": "360502111",
+      "name": "河下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/河下镇"
+    },
+    {
+      "code": "360502112",
+      "name": "水西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/水西镇"
+    },
+    {
+      "code": "360502113",
+      "name": "鹄山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/鹄山镇"
+    },
+    {
+      "code": "360502114",
+      "name": "人和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/人和镇"
+    },
+    {
+      "code": "360502202",
+      "name": "南安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/南安乡"
+    },
+    {
+      "code": "360502206",
+      "name": "新溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/新溪乡"
+    },
+    {
+      "code": "360502211",
+      "name": "界水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/界水乡"
+    },
+    {
+      "code": "360502212",
+      "name": "九龙山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360502",
+      "year": 0,
+      "name_path": "江西省/新余市/渝水区/九龙山乡"
+    }
+  ]
+}

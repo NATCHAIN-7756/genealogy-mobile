@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "420322100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/城关镇"
+    },
+    {
+      "code": "420322101",
+      "name": "土门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/土门镇"
+    },
+    {
+      "code": "420322102",
+      "name": "上津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/上津镇"
+    },
+    {
+      "code": "420322103",
+      "name": "店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/店子镇"
+    },
+    {
+      "code": "420322104",
+      "name": "夹河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/夹河镇"
+    },
+    {
+      "code": "420322105",
+      "name": "羊尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/羊尾镇"
+    },
+    {
+      "code": "420322106",
+      "name": "观音镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/观音镇"
+    },
+    {
+      "code": "420322107",
+      "name": "马安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/马安镇"
+    },
+    {
+      "code": "420322108",
+      "name": "河夹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/河夹镇"
+    },
+    {
+      "code": "420322200",
+      "name": "香口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/香口乡"
+    },
+    {
+      "code": "420322201",
+      "name": "关防乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/关防乡"
+    },
+    {
+      "code": "420322202",
+      "name": "湖北口回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/湖北口回族乡"
+    },
+    {
+      "code": "420322203",
+      "name": "景阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/景阳乡"
+    },
+    {
+      "code": "420322204",
+      "name": "六郎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/六郎乡"
+    },
+    {
+      "code": "420322205",
+      "name": "涧池乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/涧池乡"
+    },
+    {
+      "code": "420322206",
+      "name": "安家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420322",
+      "year": 0,
+      "name_path": "湖北省/十堰市/郧西县/安家乡"
+    }
+  ]
+}

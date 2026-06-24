@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "654025100",
+      "name": "新源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/新源镇"
+    },
+    {
+      "code": "654025102",
+      "name": "阿热勒托别镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/阿热勒托别镇"
+    },
+    {
+      "code": "654025103",
+      "name": "塔勒德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/塔勒德镇"
+    },
+    {
+      "code": "654025104",
+      "name": "那拉提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/那拉提镇"
+    },
+    {
+      "code": "654025105",
+      "name": "肖尔布拉克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/肖尔布拉克镇"
+    },
+    {
+      "code": "654025106",
+      "name": "喀拉布拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/喀拉布拉镇"
+    },
+    {
+      "code": "654025107",
+      "name": "阿勒玛勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/阿勒玛勒镇"
+    },
+    {
+      "code": "654025108",
+      "name": "坎苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/坎苏镇"
+    },
+    {
+      "code": "654025204",
+      "name": "吐尔根乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654025",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/新源县/吐尔根乡"
+    }
+  ]
+}

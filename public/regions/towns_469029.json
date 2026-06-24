@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "469029100",
+      "name": "保城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/保城镇"
+    },
+    {
+      "code": "469029101",
+      "name": "什玲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/什玲镇"
+    },
+    {
+      "code": "469029102",
+      "name": "加茂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/加茂镇"
+    },
+    {
+      "code": "469029103",
+      "name": "响水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/响水镇"
+    },
+    {
+      "code": "469029104",
+      "name": "新政镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/新政镇"
+    },
+    {
+      "code": "469029105",
+      "name": "三道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/三道镇"
+    },
+    {
+      "code": "469029200",
+      "name": "六弓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/六弓乡"
+    },
+    {
+      "code": "469029201",
+      "name": "南林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/南林乡"
+    },
+    {
+      "code": "469029202",
+      "name": "毛感乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469029",
+      "year": 0,
+      "name_path": "海南省/保亭黎族苗族自治县/毛感乡"
+    }
+  ]
+}

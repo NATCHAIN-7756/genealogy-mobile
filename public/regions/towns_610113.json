@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "610113001",
+      "name": "小寨路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/小寨路街道"
+    },
+    {
+      "code": "610113002",
+      "name": "大雁塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/大雁塔街道"
+    },
+    {
+      "code": "610113003",
+      "name": "长延堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/长延堡街道"
+    },
+    {
+      "code": "610113004",
+      "name": "电子城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/电子城街道"
+    },
+    {
+      "code": "610113005",
+      "name": "等驾坡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/等驾坡街道"
+    },
+    {
+      "code": "610113006",
+      "name": "鱼化寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/鱼化寨街道"
+    },
+    {
+      "code": "610113007",
+      "name": "丈八街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/丈八街道"
+    },
+    {
+      "code": "610113008",
+      "name": "曲江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/曲江街道"
+    },
+    {
+      "code": "610113009",
+      "name": "杜城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/杜城街道"
+    },
+    {
+      "code": "610113010",
+      "name": "漳浒寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610113",
+      "year": 0,
+      "name_path": "陕西省/西安市/雁塔区/漳浒寨街道"
+    }
+  ]
+}

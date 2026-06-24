@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "150104001",
+      "name": "大南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/大南街街道"
+    },
+    {
+      "code": "150104002",
+      "name": "小召前街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/小召前街街道"
+    },
+    {
+      "code": "150104003",
+      "name": "鄂尔多斯路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/鄂尔多斯路街道"
+    },
+    {
+      "code": "150104004",
+      "name": "兴隆巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/兴隆巷街道"
+    },
+    {
+      "code": "150104006",
+      "name": "石东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/石东路街道"
+    },
+    {
+      "code": "150104007",
+      "name": "西菜园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/西菜园街道"
+    },
+    {
+      "code": "150104009",
+      "name": "昭君路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/昭君路街道"
+    },
+    {
+      "code": "150104010",
+      "name": "云中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/云中路街道"
+    },
+    {
+      "code": "150104011",
+      "name": "银河南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/银河南街街道"
+    },
+    {
+      "code": "150104100",
+      "name": "小黑河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150104",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/玉泉区/小黑河镇"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "340506100",
+      "name": "博望镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340506",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/博望区/博望镇"
+    },
+    {
+      "code": "340506101",
+      "name": "丹阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340506",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/博望区/丹阳镇"
+    },
+    {
+      "code": "340506102",
+      "name": "新市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340506",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/博望区/新市镇"
+    }
+  ]
+}

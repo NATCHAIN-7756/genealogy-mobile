@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "441502001",
+      "name": "新港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/新港街道"
+    },
+    {
+      "code": "441502002",
+      "name": "香洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/香洲街道"
+    },
+    {
+      "code": "441502003",
+      "name": "凤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/凤山街道"
+    },
+    {
+      "code": "441502004",
+      "name": "田墘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/田墘街道"
+    },
+    {
+      "code": "441502006",
+      "name": "遮浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/遮浪街道"
+    },
+    {
+      "code": "441502007",
+      "name": "马宫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/马宫街道"
+    },
+    {
+      "code": "441502100",
+      "name": "红草镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/红草镇"
+    },
+    {
+      "code": "441502102",
+      "name": "东涌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/东涌镇"
+    },
+    {
+      "code": "441502103",
+      "name": "捷胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441502",
+      "year": 0,
+      "name_path": "广东省/汕尾市/城区/捷胜镇"
+    }
+  ]
+}

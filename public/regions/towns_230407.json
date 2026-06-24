@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "230407001",
+      "name": "沟南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230407",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴山区/沟南街道"
+    },
+    {
+      "code": "230407002",
+      "name": "沟北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230407",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴山区/沟北街道"
+    },
+    {
+      "code": "230407003",
+      "name": "岭南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230407",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴山区/岭南街道"
+    },
+    {
+      "code": "230407004",
+      "name": "岭北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230407",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/兴山区/岭北街道"
+    }
+  ]
+}

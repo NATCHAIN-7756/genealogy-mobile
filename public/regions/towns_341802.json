@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "341802001",
+      "name": "西林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/西林街道"
+    },
+    {
+      "code": "341802002",
+      "name": "澄江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/澄江街道"
+    },
+    {
+      "code": "341802003",
+      "name": "鳌峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/鳌峰街道"
+    },
+    {
+      "code": "341802004",
+      "name": "济川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/济川街道"
+    },
+    {
+      "code": "341802005",
+      "name": "敬亭山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/敬亭山街道"
+    },
+    {
+      "code": "341802006",
+      "name": "飞彩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/飞彩街道"
+    },
+    {
+      "code": "341802007",
+      "name": "双桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/双桥街道"
+    },
+    {
+      "code": "341802008",
+      "name": "金坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/金坝街道"
+    },
+    {
+      "code": "341802009",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/向阳街道"
+    },
+    {
+      "code": "341802101",
+      "name": "古泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/古泉镇"
+    },
+    {
+      "code": "341802103",
+      "name": "文昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/文昌镇"
+    },
+    {
+      "code": "341802104",
+      "name": "杨柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/杨柳镇"
+    },
+    {
+      "code": "341802105",
+      "name": "溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/溪口镇"
+    },
+    {
+      "code": "341802106",
+      "name": "新田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/新田镇"
+    },
+    {
+      "code": "341802108",
+      "name": "洪林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/洪林镇"
+    },
+    {
+      "code": "341802109",
+      "name": "沈村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/沈村镇"
+    },
+    {
+      "code": "341802111",
+      "name": "水阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/水阳镇"
+    },
+    {
+      "code": "341802112",
+      "name": "水东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/水东镇"
+    },
+    {
+      "code": "341802113",
+      "name": "孙埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/孙埠镇"
+    },
+    {
+      "code": "341802114",
+      "name": "周王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/周王镇"
+    },
+    {
+      "code": "341802115",
+      "name": "狸桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/狸桥镇"
+    },
+    {
+      "code": "341802204",
+      "name": "黄渡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/黄渡乡"
+    },
+    {
+      "code": "341802209",
+      "name": "青湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/青湖乡"
+    },
+    {
+      "code": "341802211",
+      "name": "养贤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341802",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宣州区/养贤乡"
+    }
+  ]
+}

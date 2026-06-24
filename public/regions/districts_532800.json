@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "532801",
+      "name": "景洪市",
+      "level": 3,
+      "type": null,
+      "parent_code": "532800",
+      "year": 0,
+      "name_path": "全国/云南省/西双版纳傣族自治州/景洪市"
+    },
+    {
+      "code": "532822",
+      "name": "勐海县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532800",
+      "year": 0,
+      "name_path": "全国/云南省/西双版纳傣族自治州/勐海县"
+    },
+    {
+      "code": "532823",
+      "name": "勐腊县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532800",
+      "year": 0,
+      "name_path": "全国/云南省/西双版纳傣族自治州/勐腊县"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "410922100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/城关镇"
+    },
+    {
+      "code": "410922101",
+      "name": "马庄桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/马庄桥镇"
+    },
+    {
+      "code": "410922102",
+      "name": "瓦屋头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/瓦屋头镇"
+    },
+    {
+      "code": "410922103",
+      "name": "柳格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/柳格镇"
+    },
+    {
+      "code": "410922104",
+      "name": "仙庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/仙庄镇"
+    },
+    {
+      "code": "410922105",
+      "name": "韩村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/韩村镇"
+    },
+    {
+      "code": "410922106",
+      "name": "阳邵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/阳邵镇"
+    },
+    {
+      "code": "410922107",
+      "name": "固城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/固城镇"
+    },
+    {
+      "code": "410922108",
+      "name": "六塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/六塔镇"
+    },
+    {
+      "code": "410922202",
+      "name": "巩营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/巩营乡"
+    },
+    {
+      "code": "410922203",
+      "name": "马村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/马村乡"
+    },
+    {
+      "code": "410922204",
+      "name": "高堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/高堡乡"
+    },
+    {
+      "code": "410922205",
+      "name": "古城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/古城乡"
+    },
+    {
+      "code": "410922206",
+      "name": "大流乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/大流乡"
+    },
+    {
+      "code": "410922208",
+      "name": "大屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/大屯乡"
+    },
+    {
+      "code": "410922212",
+      "name": "双庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/双庙乡"
+    },
+    {
+      "code": "410922213",
+      "name": "纸房乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410922",
+      "year": 0,
+      "name_path": "河南省/濮阳市/清丰县/纸房乡"
+    }
+  ]
+}

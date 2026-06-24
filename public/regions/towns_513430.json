@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "513430100",
+      "name": "天地坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/天地坝镇"
+    },
+    {
+      "code": "513430101",
+      "name": "派来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/派来镇"
+    },
+    {
+      "code": "513430102",
+      "name": "芦稿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/芦稿镇"
+    },
+    {
+      "code": "513430103",
+      "name": "对坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/对坪镇"
+    },
+    {
+      "code": "513430104",
+      "name": "南瓦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/南瓦镇"
+    },
+    {
+      "code": "513430105",
+      "name": "百草坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/百草坡镇"
+    },
+    {
+      "code": "513430106",
+      "name": "洛觉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/洛觉镇"
+    },
+    {
+      "code": "513430107",
+      "name": "德溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/德溪镇"
+    },
+    {
+      "code": "513430108",
+      "name": "丙底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/丙底镇"
+    },
+    {
+      "code": "513430201",
+      "name": "热水河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/热水河乡"
+    },
+    {
+      "code": "513430206",
+      "name": "甲依乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/甲依乡"
+    },
+    {
+      "code": "513430210",
+      "name": "基觉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/基觉乡"
+    },
+    {
+      "code": "513430211",
+      "name": "小银木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/小银木乡"
+    },
+    {
+      "code": "513430214",
+      "name": "青松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/青松乡"
+    },
+    {
+      "code": "513430217",
+      "name": "山江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513430",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/金阳县/山江乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "340210100",
+      "name": "湾沚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340210",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/湾沚区/湾沚镇"
+    },
+    {
+      "code": "340210101",
+      "name": "陶辛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340210",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/湾沚区/陶辛镇"
+    },
+    {
+      "code": "340210102",
+      "name": "六郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340210",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/湾沚区/六郎镇"
+    },
+    {
+      "code": "340210103",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340210",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/湾沚区/花桥镇"
+    },
+    {
+      "code": "340210104",
+      "name": "红杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340210",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/湾沚区/红杨镇"
+    }
+  ]
+}

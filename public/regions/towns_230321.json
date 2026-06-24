@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "230321100",
+      "name": "鸡东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/鸡东镇"
+    },
+    {
+      "code": "230321101",
+      "name": "平阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/平阳镇"
+    },
+    {
+      "code": "230321102",
+      "name": "向阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/向阳镇"
+    },
+    {
+      "code": "230321103",
+      "name": "哈达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/哈达镇"
+    },
+    {
+      "code": "230321104",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/永安镇"
+    },
+    {
+      "code": "230321105",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/永和镇"
+    },
+    {
+      "code": "230321106",
+      "name": "东海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/东海镇"
+    },
+    {
+      "code": "230321107",
+      "name": "兴农镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/兴农镇"
+    },
+    {
+      "code": "230321200",
+      "name": "鸡林朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/鸡林朝鲜族乡"
+    },
+    {
+      "code": "230321205",
+      "name": "明德朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/明德朝鲜族乡"
+    },
+    {
+      "code": "230321206",
+      "name": "下亮子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230321",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/鸡东县/下亮子乡"
+    }
+  ]
+}

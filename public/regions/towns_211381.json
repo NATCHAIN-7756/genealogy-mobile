@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "code": "211381001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/城关街道"
+    },
+    {
+      "code": "211381002",
+      "name": "南山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/南山街道"
+    },
+    {
+      "code": "211381003",
+      "name": "冠山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/冠山街道"
+    },
+    {
+      "code": "211381006",
+      "name": "台吉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/台吉街道"
+    },
+    {
+      "code": "211381101",
+      "name": "西官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/西官营镇"
+    },
+    {
+      "code": "211381102",
+      "name": "大板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/大板镇"
+    },
+    {
+      "code": "211381103",
+      "name": "上园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/上园镇"
+    },
+    {
+      "code": "211381104",
+      "name": "宝国老镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/宝国老镇"
+    },
+    {
+      "code": "211381105",
+      "name": "黑城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/黑城子镇"
+    },
+    {
+      "code": "211381107",
+      "name": "五间房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/五间房镇"
+    },
+    {
+      "code": "211381108",
+      "name": "台吉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/台吉镇"
+    },
+    {
+      "code": "211381109",
+      "name": "东官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/东官营镇"
+    },
+    {
+      "code": "211381110",
+      "name": "龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/龙潭镇"
+    },
+    {
+      "code": "211381111",
+      "name": "北塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/北塔镇"
+    },
+    {
+      "code": "211381112",
+      "name": "蒙古营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/蒙古营镇"
+    },
+    {
+      "code": "211381113",
+      "name": "大三家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/大三家镇"
+    },
+    {
+      "code": "211381201",
+      "name": "长皋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/长皋乡"
+    },
+    {
+      "code": "211381202",
+      "name": "常河营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/常河营乡"
+    },
+    {
+      "code": "211381203",
+      "name": "小塔子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/小塔子乡"
+    },
+    {
+      "code": "211381204",
+      "name": "马友营蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/马友营蒙古族乡"
+    },
+    {
+      "code": "211381206",
+      "name": "泉巨永乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/泉巨永乡"
+    },
+    {
+      "code": "211381212",
+      "name": "哈尔脑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/哈尔脑乡"
+    },
+    {
+      "code": "211381213",
+      "name": "南八家子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/南八家子乡"
+    },
+    {
+      "code": "211381214",
+      "name": "章吉营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/章吉营乡"
+    },
+    {
+      "code": "211381215",
+      "name": "三宝营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/三宝营乡"
+    },
+    {
+      "code": "211381216",
+      "name": "巴图营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/巴图营乡"
+    },
+    {
+      "code": "211381218",
+      "name": "台吉营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/台吉营乡"
+    },
+    {
+      "code": "211381220",
+      "name": "娄家店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/娄家店乡"
+    },
+    {
+      "code": "211381221",
+      "name": "北四家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/北四家乡"
+    },
+    {
+      "code": "211381223",
+      "name": "凉水河蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/凉水河蒙古族乡"
+    },
+    {
+      "code": "211381228",
+      "name": "三宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211381",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/北票市/三宝乡"
+    }
+  ]
+}

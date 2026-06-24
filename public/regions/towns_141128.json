@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "141128100",
+      "name": "圪洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141128",
+      "year": 0,
+      "name_path": "山西省/吕梁市/方山县/圪洞镇"
+    },
+    {
+      "code": "141128101",
+      "name": "马坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141128",
+      "year": 0,
+      "name_path": "山西省/吕梁市/方山县/马坊镇"
+    },
+    {
+      "code": "141128102",
+      "name": "峪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141128",
+      "year": 0,
+      "name_path": "山西省/吕梁市/方山县/峪口镇"
+    },
+    {
+      "code": "141128103",
+      "name": "大武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141128",
+      "year": 0,
+      "name_path": "山西省/吕梁市/方山县/大武镇"
+    },
+    {
+      "code": "141128104",
+      "name": "北武当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141128",
+      "year": 0,
+      "name_path": "山西省/吕梁市/方山县/北武当镇"
+    },
+    {
+      "code": "141128105",
+      "name": "积翠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141128",
+      "year": 0,
+      "name_path": "山西省/吕梁市/方山县/积翠镇"
+    }
+  ]
+}

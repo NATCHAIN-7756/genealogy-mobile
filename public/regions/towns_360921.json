@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "360921100",
+      "name": "冯川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/冯川镇"
+    },
+    {
+      "code": "360921101",
+      "name": "上富镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/上富镇"
+    },
+    {
+      "code": "360921102",
+      "name": "干洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/干洲镇"
+    },
+    {
+      "code": "360921103",
+      "name": "罗市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/罗市镇"
+    },
+    {
+      "code": "360921104",
+      "name": "赤田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/赤田镇"
+    },
+    {
+      "code": "360921105",
+      "name": "宋埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/宋埠镇"
+    },
+    {
+      "code": "360921106",
+      "name": "澡下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/澡下镇"
+    },
+    {
+      "code": "360921107",
+      "name": "甘坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/甘坊镇"
+    },
+    {
+      "code": "360921108",
+      "name": "会埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/会埠镇"
+    },
+    {
+      "code": "360921109",
+      "name": "赤岸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/赤岸镇"
+    },
+    {
+      "code": "360921206",
+      "name": "仰山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/仰山乡"
+    },
+    {
+      "code": "360921207",
+      "name": "澡溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/澡溪乡"
+    },
+    {
+      "code": "360921210",
+      "name": "柳溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360921",
+      "year": 0,
+      "name_path": "江西省/宜春市/奉新县/柳溪乡"
+    }
+  ]
+}

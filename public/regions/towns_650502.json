@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "650502001",
+      "name": "东河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/东河街道"
+    },
+    {
+      "code": "650502002",
+      "name": "西河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/西河街道"
+    },
+    {
+      "code": "650502003",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/城北街道"
+    },
+    {
+      "code": "650502004",
+      "name": "丽园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/丽园街道"
+    },
+    {
+      "code": "650502005",
+      "name": "石油新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/石油新城街道"
+    },
+    {
+      "code": "650502100",
+      "name": "雅满苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/雅满苏镇"
+    },
+    {
+      "code": "650502101",
+      "name": "七角井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/七角井镇"
+    },
+    {
+      "code": "650502102",
+      "name": "星星峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/星星峡镇"
+    },
+    {
+      "code": "650502103",
+      "name": "二堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/二堡镇"
+    },
+    {
+      "code": "650502104",
+      "name": "五堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/五堡镇"
+    },
+    {
+      "code": "650502105",
+      "name": "陶家宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/陶家宫镇"
+    },
+    {
+      "code": "650502106",
+      "name": "三道岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/三道岭镇"
+    },
+    {
+      "code": "650502200",
+      "name": "沁城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/沁城乡"
+    },
+    {
+      "code": "650502201",
+      "name": "乌拉台哈萨克族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/乌拉台哈萨克族乡"
+    },
+    {
+      "code": "650502202",
+      "name": "双井子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/双井子乡"
+    },
+    {
+      "code": "650502203",
+      "name": "大泉湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/大泉湾乡"
+    },
+    {
+      "code": "650502205",
+      "name": "回城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/回城乡"
+    },
+    {
+      "code": "650502206",
+      "name": "花园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/花园乡"
+    },
+    {
+      "code": "650502207",
+      "name": "南湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/南湖乡"
+    },
+    {
+      "code": "650502209",
+      "name": "德外里都如克哈萨克族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/德外里都如克哈萨克族乡"
+    },
+    {
+      "code": "650502210",
+      "name": "西山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/西山乡"
+    },
+    {
+      "code": "650502211",
+      "name": "天山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/天山乡"
+    },
+    {
+      "code": "650502212",
+      "name": "白石头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/白石头乡"
+    },
+    {
+      "code": "650502214",
+      "name": "柳树沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650502",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/哈密市/伊州区/柳树沟乡"
+    }
+  ]
+}

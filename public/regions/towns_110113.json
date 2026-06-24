@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "110113001",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/胜利街道"
+    },
+    {
+      "code": "110113002",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/光明街道"
+    },
+    {
+      "code": "110113003",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/仁和镇"
+    },
+    {
+      "code": "110113004",
+      "name": "后沙峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/后沙峪镇"
+    },
+    {
+      "code": "110113005",
+      "name": "天竺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/天竺镇"
+    },
+    {
+      "code": "110113006",
+      "name": "杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/杨镇"
+    },
+    {
+      "code": "110113007",
+      "name": "牛栏山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/牛栏山镇"
+    },
+    {
+      "code": "110113008",
+      "name": "南法信镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/南法信镇"
+    },
+    {
+      "code": "110113009",
+      "name": "马坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/马坡镇"
+    },
+    {
+      "code": "110113010",
+      "name": "石园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/石园街道"
+    },
+    {
+      "code": "110113011",
+      "name": "空港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/空港街道"
+    },
+    {
+      "code": "110113012",
+      "name": "双丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/双丰街道"
+    },
+    {
+      "code": "110113013",
+      "name": "旺泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/旺泉街道"
+    },
+    {
+      "code": "110113101",
+      "name": "高丽营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/高丽营镇"
+    },
+    {
+      "code": "110113104",
+      "name": "李桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/李桥镇"
+    },
+    {
+      "code": "110113105",
+      "name": "李遂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/李遂镇"
+    },
+    {
+      "code": "110113106",
+      "name": "南彩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/南彩镇"
+    },
+    {
+      "code": "110113108",
+      "name": "北务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/北务镇"
+    },
+    {
+      "code": "110113109",
+      "name": "大孙各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/大孙各庄镇"
+    },
+    {
+      "code": "110113110",
+      "name": "张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/张镇"
+    },
+    {
+      "code": "110113111",
+      "name": "龙湾屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/龙湾屯镇"
+    },
+    {
+      "code": "110113112",
+      "name": "木林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/木林镇"
+    },
+    {
+      "code": "110113113",
+      "name": "北小营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/北小营镇"
+    },
+    {
+      "code": "110113115",
+      "name": "北石槽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/北石槽镇"
+    },
+    {
+      "code": "110113116",
+      "name": "赵全营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110113",
+      "year": 0,
+      "name_path": "北京市/顺义区/赵全营镇"
+    }
+  ]
+}

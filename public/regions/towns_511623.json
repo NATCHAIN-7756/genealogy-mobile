@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "511623100",
+      "name": "鼎屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/鼎屏镇"
+    },
+    {
+      "code": "511623101",
+      "name": "城北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/城北镇"
+    },
+    {
+      "code": "511623102",
+      "name": "城南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/城南镇"
+    },
+    {
+      "code": "511623103",
+      "name": "柑子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/柑子镇"
+    },
+    {
+      "code": "511623105",
+      "name": "观音桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/观音桥镇"
+    },
+    {
+      "code": "511623106",
+      "name": "牟家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/牟家镇"
+    },
+    {
+      "code": "511623107",
+      "name": "合流镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/合流镇"
+    },
+    {
+      "code": "511623108",
+      "name": "坛同镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/坛同镇"
+    },
+    {
+      "code": "511623109",
+      "name": "高滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/高滩镇"
+    },
+    {
+      "code": "511623110",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/九龙镇"
+    },
+    {
+      "code": "511623111",
+      "name": "御临镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/御临镇"
+    },
+    {
+      "code": "511623112",
+      "name": "袁市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/袁市镇"
+    },
+    {
+      "code": "511623113",
+      "name": "丰禾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/丰禾镇"
+    },
+    {
+      "code": "511623114",
+      "name": "八耳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/八耳镇"
+    },
+    {
+      "code": "511623115",
+      "name": "石永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/石永镇"
+    },
+    {
+      "code": "511623116",
+      "name": "兴仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/兴仁镇"
+    },
+    {
+      "code": "511623117",
+      "name": "王家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/王家镇"
+    },
+    {
+      "code": "511623118",
+      "name": "石滓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/石滓镇"
+    },
+    {
+      "code": "511623119",
+      "name": "三古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/三古镇"
+    },
+    {
+      "code": "511623120",
+      "name": "两河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/两河镇"
+    },
+    {
+      "code": "511623121",
+      "name": "太和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/太和镇"
+    },
+    {
+      "code": "511623122",
+      "name": "椿木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/椿木镇"
+    },
+    {
+      "code": "511623123",
+      "name": "梁板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/梁板镇"
+    },
+    {
+      "code": "511623124",
+      "name": "复盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/复盛镇"
+    },
+    {
+      "code": "511623125",
+      "name": "黎家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511623",
+      "year": 0,
+      "name_path": "四川省/广安市/邻水县/黎家镇"
+    }
+  ]
+}

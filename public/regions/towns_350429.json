@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "350429100",
+      "name": "杉城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/杉城镇"
+    },
+    {
+      "code": "350429101",
+      "name": "朱口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/朱口镇"
+    },
+    {
+      "code": "350429102",
+      "name": "下渠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/下渠镇"
+    },
+    {
+      "code": "350429200",
+      "name": "新桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/新桥乡"
+    },
+    {
+      "code": "350429201",
+      "name": "上青乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/上青乡"
+    },
+    {
+      "code": "350429202",
+      "name": "大田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/大田乡"
+    },
+    {
+      "code": "350429203",
+      "name": "梅口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/梅口乡"
+    },
+    {
+      "code": "350429205",
+      "name": "开善乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/开善乡"
+    },
+    {
+      "code": "350429206",
+      "name": "大龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350429",
+      "year": 0,
+      "name_path": "福建省/三明市/泰宁县/大龙乡"
+    }
+  ]
+}

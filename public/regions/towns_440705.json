@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "440705001",
+      "name": "会城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/会城街道"
+    },
+    {
+      "code": "440705101",
+      "name": "大泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/大泽镇"
+    },
+    {
+      "code": "440705103",
+      "name": "司前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/司前镇"
+    },
+    {
+      "code": "440705110",
+      "name": "沙堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/沙堆镇"
+    },
+    {
+      "code": "440705111",
+      "name": "古井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/古井镇"
+    },
+    {
+      "code": "440705112",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/三江镇"
+    },
+    {
+      "code": "440705113",
+      "name": "睦洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/睦洲镇"
+    },
+    {
+      "code": "440705114",
+      "name": "大鳌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/大鳌镇"
+    },
+    {
+      "code": "440705119",
+      "name": "罗坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/罗坑镇"
+    },
+    {
+      "code": "440705120",
+      "name": "双水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/双水镇"
+    },
+    {
+      "code": "440705121",
+      "name": "崖门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440705",
+      "year": 0,
+      "name_path": "广东省/江门市/新会区/崖门镇"
+    }
+  ]
+}

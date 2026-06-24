@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "431002",
+      "name": "北湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/北湖区"
+    },
+    {
+      "code": "431003",
+      "name": "苏仙区",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/苏仙区"
+    },
+    {
+      "code": "431021",
+      "name": "桂阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/桂阳县"
+    },
+    {
+      "code": "431022",
+      "name": "宜章县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/宜章县"
+    },
+    {
+      "code": "431023",
+      "name": "永兴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/永兴县"
+    },
+    {
+      "code": "431024",
+      "name": "嘉禾县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/嘉禾县"
+    },
+    {
+      "code": "431025",
+      "name": "临武县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/临武县"
+    },
+    {
+      "code": "431026",
+      "name": "汝城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/汝城县"
+    },
+    {
+      "code": "431027",
+      "name": "桂东县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/桂东县"
+    },
+    {
+      "code": "431028",
+      "name": "安仁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/安仁县"
+    },
+    {
+      "code": "431081",
+      "name": "资兴市",
+      "level": 3,
+      "type": null,
+      "parent_code": "431000",
+      "year": 0,
+      "name_path": "全国/湖南省/郴州市/资兴市"
+    }
+  ]
+}

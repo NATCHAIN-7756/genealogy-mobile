@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "330327103",
+      "name": "宜山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/宜山镇"
+    },
+    {
+      "code": "330327104",
+      "name": "大渔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/大渔镇"
+    },
+    {
+      "code": "330327105",
+      "name": "炎亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/炎亭镇"
+    },
+    {
+      "code": "330327106",
+      "name": "望里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/望里镇"
+    },
+    {
+      "code": "330327107",
+      "name": "莒溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/莒溪镇"
+    },
+    {
+      "code": "330327108",
+      "name": "南宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/南宋镇"
+    },
+    {
+      "code": "330327109",
+      "name": "霞关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/霞关镇"
+    },
+    {
+      "code": "330327110",
+      "name": "沿浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/沿浦镇"
+    },
+    {
+      "code": "330327112",
+      "name": "藻溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/藻溪镇"
+    },
+    {
+      "code": "330327122",
+      "name": "灵溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/灵溪镇"
+    },
+    {
+      "code": "330327124",
+      "name": "金乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/金乡镇"
+    },
+    {
+      "code": "330327125",
+      "name": "钱库镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/钱库镇"
+    },
+    {
+      "code": "330327126",
+      "name": "马站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/马站镇"
+    },
+    {
+      "code": "330327127",
+      "name": "矾山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/矾山镇"
+    },
+    {
+      "code": "330327128",
+      "name": "桥墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/桥墩镇"
+    },
+    {
+      "code": "330327129",
+      "name": "赤溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/赤溪镇"
+    },
+    {
+      "code": "330327216",
+      "name": "凤阳畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/凤阳畲族乡"
+    },
+    {
+      "code": "330327218",
+      "name": "岱岭畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330327",
+      "year": 0,
+      "name_path": "浙江省/温州市/苍南县/岱岭畲族乡"
+    }
+  ]
+}

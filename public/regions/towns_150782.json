@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "150782001",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/胜利街道"
+    },
+    {
+      "code": "150782002",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/红旗街道"
+    },
+    {
+      "code": "150782003",
+      "name": "新工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/新工街道"
+    },
+    {
+      "code": "150782004",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/永兴街道"
+    },
+    {
+      "code": "150782005",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/建设街道"
+    },
+    {
+      "code": "150782006",
+      "name": "暖泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/暖泉街道"
+    },
+    {
+      "code": "150782101",
+      "name": "免渡河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/免渡河镇"
+    },
+    {
+      "code": "150782103",
+      "name": "博克图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/博克图镇"
+    },
+    {
+      "code": "150782105",
+      "name": "绰河源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/绰河源镇"
+    },
+    {
+      "code": "150782108",
+      "name": "乌尔其汉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/乌尔其汉镇"
+    },
+    {
+      "code": "150782109",
+      "name": "库都尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/库都尔镇"
+    },
+    {
+      "code": "150782110",
+      "name": "图里河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/图里河镇"
+    },
+    {
+      "code": "150782111",
+      "name": "乌奴耳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/乌奴耳镇"
+    },
+    {
+      "code": "150782112",
+      "name": "塔尔气镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/塔尔气镇"
+    },
+    {
+      "code": "150782113",
+      "name": "伊图里河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/伊图里河镇"
+    },
+    {
+      "code": "150782114",
+      "name": "牧原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150782",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/牙克石市/牧原镇"
+    }
+  ]
+}

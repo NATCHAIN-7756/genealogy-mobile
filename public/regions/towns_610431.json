@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610431001",
+      "name": "普集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/普集街道"
+    },
+    {
+      "code": "610431101",
+      "name": "苏坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/苏坊镇"
+    },
+    {
+      "code": "610431102",
+      "name": "武功镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/武功镇"
+    },
+    {
+      "code": "610431103",
+      "name": "游凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/游凤镇"
+    },
+    {
+      "code": "610431104",
+      "name": "贞元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/贞元镇"
+    },
+    {
+      "code": "610431105",
+      "name": "长宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/长宁镇"
+    },
+    {
+      "code": "610431106",
+      "name": "小村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/小村镇"
+    },
+    {
+      "code": "610431107",
+      "name": "大庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610431",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/武功县/大庄镇"
+    }
+  ]
+}

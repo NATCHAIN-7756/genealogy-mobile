@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "331023001",
+      "name": "赤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/赤城街道"
+    },
+    {
+      "code": "331023002",
+      "name": "福溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/福溪街道"
+    },
+    {
+      "code": "331023003",
+      "name": "始丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/始丰街道"
+    },
+    {
+      "code": "331023101",
+      "name": "白鹤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/白鹤镇"
+    },
+    {
+      "code": "331023102",
+      "name": "石梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/石梁镇"
+    },
+    {
+      "code": "331023104",
+      "name": "街头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/街头镇"
+    },
+    {
+      "code": "331023105",
+      "name": "平桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/平桥镇"
+    },
+    {
+      "code": "331023106",
+      "name": "坦头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/坦头镇"
+    },
+    {
+      "code": "331023107",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/三合镇"
+    },
+    {
+      "code": "331023108",
+      "name": "洪畴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/洪畴镇"
+    },
+    {
+      "code": "331023200",
+      "name": "三州乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/三州乡"
+    },
+    {
+      "code": "331023203",
+      "name": "龙溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/龙溪乡"
+    },
+    {
+      "code": "331023204",
+      "name": "雷峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/雷峰乡"
+    },
+    {
+      "code": "331023207",
+      "name": "南屏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/南屏乡"
+    },
+    {
+      "code": "331023209",
+      "name": "泳溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331023",
+      "year": 0,
+      "name_path": "浙江省/台州市/天台县/泳溪乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "320585001",
+      "name": "娄东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/娄东街道"
+    },
+    {
+      "code": "320585002",
+      "name": "陆渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/陆渡街道"
+    },
+    {
+      "code": "320585100",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/城厢镇"
+    },
+    {
+      "code": "320585103",
+      "name": "浮桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/浮桥镇"
+    },
+    {
+      "code": "320585105",
+      "name": "璜泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/璜泾镇"
+    },
+    {
+      "code": "320585109",
+      "name": "双凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/双凤镇"
+    },
+    {
+      "code": "320585110",
+      "name": "沙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/沙溪镇"
+    },
+    {
+      "code": "320585111",
+      "name": "浏河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320585",
+      "year": 0,
+      "name_path": "江苏省/苏州市/太仓市/浏河镇"
+    }
+  ]
+}

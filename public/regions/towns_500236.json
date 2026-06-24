@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "code": "500236001",
+      "name": "夔门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/夔门街道"
+    },
+    {
+      "code": "500236002",
+      "name": "鱼复街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/鱼复街道"
+    },
+    {
+      "code": "500236003",
+      "name": "永安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/永安街道"
+    },
+    {
+      "code": "500236004",
+      "name": "夔州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/夔州街道"
+    },
+    {
+      "code": "500236101",
+      "name": "白帝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/白帝镇"
+    },
+    {
+      "code": "500236102",
+      "name": "草堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/草堂镇"
+    },
+    {
+      "code": "500236103",
+      "name": "汾河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/汾河镇"
+    },
+    {
+      "code": "500236104",
+      "name": "康乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/康乐镇"
+    },
+    {
+      "code": "500236105",
+      "name": "大树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/大树镇"
+    },
+    {
+      "code": "500236106",
+      "name": "竹园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/竹园镇"
+    },
+    {
+      "code": "500236107",
+      "name": "公平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/公平镇"
+    },
+    {
+      "code": "500236108",
+      "name": "朱衣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/朱衣镇"
+    },
+    {
+      "code": "500236109",
+      "name": "甲高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/甲高镇"
+    },
+    {
+      "code": "500236110",
+      "name": "羊市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/羊市镇"
+    },
+    {
+      "code": "500236111",
+      "name": "吐祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/吐祥镇"
+    },
+    {
+      "code": "500236112",
+      "name": "青龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/青龙镇"
+    },
+    {
+      "code": "500236113",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/兴隆镇"
+    },
+    {
+      "code": "500236114",
+      "name": "新民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/新民镇"
+    },
+    {
+      "code": "500236115",
+      "name": "永乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/永乐镇"
+    },
+    {
+      "code": "500236116",
+      "name": "青莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/青莲镇"
+    },
+    {
+      "code": "500236117",
+      "name": "五马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/五马镇"
+    },
+    {
+      "code": "500236118",
+      "name": "安坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/安坪镇"
+    },
+    {
+      "code": "500236200",
+      "name": "红土乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/红土乡"
+    },
+    {
+      "code": "500236201",
+      "name": "平安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/平安乡"
+    },
+    {
+      "code": "500236203",
+      "name": "岩湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/岩湾乡"
+    },
+    {
+      "code": "500236204",
+      "name": "石岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/石岗乡"
+    },
+    {
+      "code": "500236205",
+      "name": "康坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/康坪乡"
+    },
+    {
+      "code": "500236207",
+      "name": "云雾土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/云雾土家族乡"
+    },
+    {
+      "code": "500236208",
+      "name": "太和土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/太和土家族乡"
+    },
+    {
+      "code": "500236209",
+      "name": "龙桥土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/龙桥土家族乡"
+    },
+    {
+      "code": "500236210",
+      "name": "长安土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/长安土家族乡"
+    },
+    {
+      "code": "500236211",
+      "name": "冯坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/冯坪乡"
+    },
+    {
+      "code": "500236213",
+      "name": "鹤峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500236",
+      "year": 0,
+      "name_path": "重庆市/奉节县/鹤峰乡"
+    }
+  ]
+}

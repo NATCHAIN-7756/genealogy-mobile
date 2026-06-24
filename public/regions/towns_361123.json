@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "361123001",
+      "name": "冰溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/冰溪街道"
+    },
+    {
+      "code": "361123002",
+      "name": "文成街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/文成街道"
+    },
+    {
+      "code": "361123101",
+      "name": "仙岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/仙岩镇"
+    },
+    {
+      "code": "361123102",
+      "name": "下镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/下镇镇"
+    },
+    {
+      "code": "361123103",
+      "name": "岩瑞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/岩瑞镇"
+    },
+    {
+      "code": "361123105",
+      "name": "临湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/临湖镇"
+    },
+    {
+      "code": "361123106",
+      "name": "双明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/双明镇"
+    },
+    {
+      "code": "361123107",
+      "name": "樟村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/樟村镇"
+    },
+    {
+      "code": "361123108",
+      "name": "横街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/横街镇"
+    },
+    {
+      "code": "361123110",
+      "name": "紫湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/紫湖镇"
+    },
+    {
+      "code": "361123111",
+      "name": "必姆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/必姆镇"
+    },
+    {
+      "code": "361123112",
+      "name": "枫林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/枫林镇"
+    },
+    {
+      "code": "361123200",
+      "name": "下塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/下塘乡"
+    },
+    {
+      "code": "361123201",
+      "name": "四股桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/四股桥乡"
+    },
+    {
+      "code": "361123203",
+      "name": "南山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/南山乡"
+    },
+    {
+      "code": "361123205",
+      "name": "怀玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/怀玉乡"
+    },
+    {
+      "code": "361123207",
+      "name": "六都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/六都乡"
+    },
+    {
+      "code": "361123209",
+      "name": "三清乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361123",
+      "year": 0,
+      "name_path": "江西省/上饶市/玉山县/三清乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "510129001",
+      "name": "晋原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/晋原街道"
+    },
+    {
+      "code": "510129002",
+      "name": "沙渠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/沙渠街道"
+    },
+    {
+      "code": "510129003",
+      "name": "青霞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/青霞街道"
+    },
+    {
+      "code": "510129101",
+      "name": "王泗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/王泗镇"
+    },
+    {
+      "code": "510129103",
+      "name": "新场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/新场镇"
+    },
+    {
+      "code": "510129104",
+      "name": "悦来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/悦来镇"
+    },
+    {
+      "code": "510129105",
+      "name": "安仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/安仁镇"
+    },
+    {
+      "code": "510129106",
+      "name": "䢺江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/䢺江镇"
+    },
+    {
+      "code": "510129108",
+      "name": "西岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/西岭镇"
+    },
+    {
+      "code": "510129118",
+      "name": "花水湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/花水湾镇"
+    },
+    {
+      "code": "510129119",
+      "name": "鹤鸣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510129",
+      "year": 0,
+      "name_path": "四川省/成都市/大邑县/鹤鸣镇"
+    }
+  ]
+}

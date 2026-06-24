@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "340302001",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/解放街道"
+    },
+    {
+      "code": "340302002",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/东风街道"
+    },
+    {
+      "code": "340302003",
+      "name": "治淮街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/治淮街道"
+    },
+    {
+      "code": "340302004",
+      "name": "东升街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/东升街道"
+    },
+    {
+      "code": "340302006",
+      "name": "曹山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/曹山街道"
+    },
+    {
+      "code": "340302008",
+      "name": "延安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/延安街道"
+    },
+    {
+      "code": "340302100",
+      "name": "长淮卫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/长淮卫镇"
+    },
+    {
+      "code": "340302200",
+      "name": "李楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340302",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/龙子湖区/李楼乡"
+    }
+  ]
+}

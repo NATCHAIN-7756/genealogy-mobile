@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "532626100",
+      "name": "锦屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/锦屏镇"
+    },
+    {
+      "code": "532626101",
+      "name": "曰者镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/曰者镇"
+    },
+    {
+      "code": "532626102",
+      "name": "双龙营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/双龙营镇"
+    },
+    {
+      "code": "532626200",
+      "name": "八道哨彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/八道哨彝族乡"
+    },
+    {
+      "code": "532626201",
+      "name": "天星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/天星乡"
+    },
+    {
+      "code": "532626202",
+      "name": "平寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/平寨乡"
+    },
+    {
+      "code": "532626203",
+      "name": "树皮彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/树皮彝族乡"
+    },
+    {
+      "code": "532626204",
+      "name": "腻脚彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/腻脚彝族乡"
+    },
+    {
+      "code": "532626205",
+      "name": "新店彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/新店彝族乡"
+    },
+    {
+      "code": "532626206",
+      "name": "舍得彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/舍得彝族乡"
+    },
+    {
+      "code": "532626207",
+      "name": "官寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/官寨乡"
+    },
+    {
+      "code": "532626209",
+      "name": "温浏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532626",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/丘北县/温浏乡"
+    }
+  ]
+}

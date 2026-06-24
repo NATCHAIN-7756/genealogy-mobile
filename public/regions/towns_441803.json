@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "441803102",
+      "name": "太和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/太和镇"
+    },
+    {
+      "code": "441803104",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/太平镇"
+    },
+    {
+      "code": "441803105",
+      "name": "山塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/山塘镇"
+    },
+    {
+      "code": "441803106",
+      "name": "三坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/三坑镇"
+    },
+    {
+      "code": "441803112",
+      "name": "龙颈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/龙颈镇"
+    },
+    {
+      "code": "441803113",
+      "name": "禾云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/禾云镇"
+    },
+    {
+      "code": "441803117",
+      "name": "浸潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/浸潭镇"
+    },
+    {
+      "code": "441803118",
+      "name": "石潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441803",
+      "year": 0,
+      "name_path": "广东省/清远市/清新区/石潭镇"
+    }
+  ]
+}

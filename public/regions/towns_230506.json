@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "230506001",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/红旗街道"
+    },
+    {
+      "code": "230506002",
+      "name": "跃进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/跃进街道"
+    },
+    {
+      "code": "230506003",
+      "name": "东保卫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/东保卫街道"
+    },
+    {
+      "code": "230506004",
+      "name": "七星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/七星街道"
+    },
+    {
+      "code": "230506005",
+      "name": "双阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/双阳街道"
+    },
+    {
+      "code": "230506006",
+      "name": "新安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/新安街道"
+    },
+    {
+      "code": "230506008",
+      "name": "农场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/农场街道"
+    },
+    {
+      "code": "230506101",
+      "name": "七星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230506",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/宝山区/七星镇"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "231283100",
+      "name": "海伦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/海伦镇"
+    },
+    {
+      "code": "231283101",
+      "name": "海北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/海北镇"
+    },
+    {
+      "code": "231283102",
+      "name": "伦河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/伦河镇"
+    },
+    {
+      "code": "231283103",
+      "name": "共合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/共合镇"
+    },
+    {
+      "code": "231283104",
+      "name": "海兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/海兴镇"
+    },
+    {
+      "code": "231283105",
+      "name": "祥富镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/祥富镇"
+    },
+    {
+      "code": "231283106",
+      "name": "东风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/东风镇"
+    },
+    {
+      "code": "231283107",
+      "name": "百祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/百祥镇"
+    },
+    {
+      "code": "231283108",
+      "name": "向荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/向荣镇"
+    },
+    {
+      "code": "231283109",
+      "name": "长发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/长发镇"
+    },
+    {
+      "code": "231283110",
+      "name": "永富镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/永富镇"
+    },
+    {
+      "code": "231283111",
+      "name": "前进镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/前进镇"
+    },
+    {
+      "code": "231283112",
+      "name": "联发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/联发镇"
+    },
+    {
+      "code": "231283113",
+      "name": "共荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/共荣镇"
+    },
+    {
+      "code": "231283114",
+      "name": "东林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/东林镇"
+    },
+    {
+      "code": "231283115",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/永和镇"
+    },
+    {
+      "code": "231283208",
+      "name": "海南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/海南乡"
+    },
+    {
+      "code": "231283210",
+      "name": "乐业乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/乐业乡"
+    },
+    {
+      "code": "231283211",
+      "name": "福民乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/福民乡"
+    },
+    {
+      "code": "231283212",
+      "name": "丰山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/丰山乡"
+    },
+    {
+      "code": "231283218",
+      "name": "爱民乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/爱民乡"
+    },
+    {
+      "code": "231283220",
+      "name": "扎音河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/扎音河乡"
+    },
+    {
+      "code": "231283221",
+      "name": "双录乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231283",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/海伦市/双录乡"
+    }
+  ]
+}

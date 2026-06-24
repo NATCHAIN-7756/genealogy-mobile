@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "360733100",
+      "name": "文武坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/文武坝镇"
+    },
+    {
+      "code": "360733101",
+      "name": "筠门岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/筠门岭镇"
+    },
+    {
+      "code": "360733102",
+      "name": "西江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/西江镇"
+    },
+    {
+      "code": "360733103",
+      "name": "周田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/周田镇"
+    },
+    {
+      "code": "360733104",
+      "name": "麻州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/麻州镇"
+    },
+    {
+      "code": "360733105",
+      "name": "庄口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/庄口镇"
+    },
+    {
+      "code": "360733201",
+      "name": "清溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/清溪乡"
+    },
+    {
+      "code": "360733202",
+      "name": "右水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/右水乡"
+    },
+    {
+      "code": "360733203",
+      "name": "高排乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/高排乡"
+    },
+    {
+      "code": "360733204",
+      "name": "晓龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/晓龙乡"
+    },
+    {
+      "code": "360733205",
+      "name": "珠兰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/珠兰乡"
+    },
+    {
+      "code": "360733206",
+      "name": "洞头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/洞头乡"
+    },
+    {
+      "code": "360733207",
+      "name": "中村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/中村乡"
+    },
+    {
+      "code": "360733208",
+      "name": "站塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/站塘乡"
+    },
+    {
+      "code": "360733209",
+      "name": "永隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/永隆乡"
+    },
+    {
+      "code": "360733210",
+      "name": "富城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/富城乡"
+    },
+    {
+      "code": "360733211",
+      "name": "小密乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/小密乡"
+    },
+    {
+      "code": "360733213",
+      "name": "庄埠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/庄埠乡"
+    },
+    {
+      "code": "360733214",
+      "name": "白鹅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360733",
+      "year": 0,
+      "name_path": "江西省/赣州市/会昌县/白鹅乡"
+    }
+  ]
+}

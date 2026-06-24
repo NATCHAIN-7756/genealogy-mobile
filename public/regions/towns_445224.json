@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "445224100",
+      "name": "惠城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/惠城镇"
+    },
+    {
+      "code": "445224101",
+      "name": "靖海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/靖海镇"
+    },
+    {
+      "code": "445224102",
+      "name": "神泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/神泉镇"
+    },
+    {
+      "code": "445224103",
+      "name": "仙庵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/仙庵镇"
+    },
+    {
+      "code": "445224104",
+      "name": "周田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/周田镇"
+    },
+    {
+      "code": "445224105",
+      "name": "华湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/华湖镇"
+    },
+    {
+      "code": "445224106",
+      "name": "前詹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/前詹镇"
+    },
+    {
+      "code": "445224107",
+      "name": "葵潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/葵潭镇"
+    },
+    {
+      "code": "445224108",
+      "name": "隆江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/隆江镇"
+    },
+    {
+      "code": "445224109",
+      "name": "溪西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/溪西镇"
+    },
+    {
+      "code": "445224110",
+      "name": "鳌江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/鳌江镇"
+    },
+    {
+      "code": "445224111",
+      "name": "东港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/东港镇"
+    },
+    {
+      "code": "445224112",
+      "name": "东陇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/东陇镇"
+    },
+    {
+      "code": "445224113",
+      "name": "岐石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/岐石镇"
+    },
+    {
+      "code": "445224114",
+      "name": "侨园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445224",
+      "year": 0,
+      "name_path": "广东省/揭阳市/惠来县/侨园镇"
+    }
+  ]
+}

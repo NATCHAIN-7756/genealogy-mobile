@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "632301",
+      "name": "同仁市",
+      "level": 3,
+      "type": null,
+      "parent_code": "632300",
+      "year": 0,
+      "name_path": "全国/青海省/黄南藏族自治州/同仁市"
+    },
+    {
+      "code": "632322",
+      "name": "尖扎县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632300",
+      "year": 0,
+      "name_path": "全国/青海省/黄南藏族自治州/尖扎县"
+    },
+    {
+      "code": "632323",
+      "name": "泽库县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632300",
+      "year": 0,
+      "name_path": "全国/青海省/黄南藏族自治州/泽库县"
+    },
+    {
+      "code": "632324",
+      "name": "河南蒙古族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632300",
+      "year": 0,
+      "name_path": "全国/青海省/黄南藏族自治州/河南蒙古族自治县"
+    }
+  ]
+}

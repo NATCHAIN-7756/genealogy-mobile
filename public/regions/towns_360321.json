@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "360321100",
+      "name": "琴亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/琴亭镇"
+    },
+    {
+      "code": "360321101",
+      "name": "坊楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/坊楼镇"
+    },
+    {
+      "code": "360321102",
+      "name": "升坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/升坊镇"
+    },
+    {
+      "code": "360321104",
+      "name": "良坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/良坊镇"
+    },
+    {
+      "code": "360321105",
+      "name": "路口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/路口镇"
+    },
+    {
+      "code": "360321204",
+      "name": "神泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/神泉乡"
+    },
+    {
+      "code": "360321205",
+      "name": "三板桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/三板桥乡"
+    },
+    {
+      "code": "360321206",
+      "name": "南岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/南岭乡"
+    },
+    {
+      "code": "360321207",
+      "name": "荷塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/荷塘乡"
+    },
+    {
+      "code": "360321209",
+      "name": "高洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/高洲乡"
+    },
+    {
+      "code": "360321210",
+      "name": "六市乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/六市乡"
+    },
+    {
+      "code": "360321213",
+      "name": "湖上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/湖上乡"
+    },
+    {
+      "code": "360321215",
+      "name": "闪石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360321",
+      "year": 0,
+      "name_path": "江西省/萍乡市/莲花县/闪石乡"
+    }
+  ]
+}

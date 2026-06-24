@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "411724001",
+      "name": "真阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/真阳街道"
+    },
+    {
+      "code": "411724002",
+      "name": "清源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/清源街道"
+    },
+    {
+      "code": "411724101",
+      "name": "寒冻镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/寒冻镇"
+    },
+    {
+      "code": "411724102",
+      "name": "汝南埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/汝南埠镇"
+    },
+    {
+      "code": "411724103",
+      "name": "铜钟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/铜钟镇"
+    },
+    {
+      "code": "411724104",
+      "name": "陡沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/陡沟镇"
+    },
+    {
+      "code": "411724105",
+      "name": "熊寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/熊寨镇"
+    },
+    {
+      "code": "411724106",
+      "name": "大林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/大林镇"
+    },
+    {
+      "code": "411724107",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/永兴镇"
+    },
+    {
+      "code": "411724108",
+      "name": "袁寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/袁寨镇"
+    },
+    {
+      "code": "411724109",
+      "name": "雷寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/雷寨镇"
+    },
+    {
+      "code": "411724110",
+      "name": "兰青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/兰青镇"
+    },
+    {
+      "code": "411724200",
+      "name": "慎水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/慎水乡"
+    },
+    {
+      "code": "411724201",
+      "name": "傅寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/傅寨乡"
+    },
+    {
+      "code": "411724203",
+      "name": "新阮店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/新阮店乡"
+    },
+    {
+      "code": "411724204",
+      "name": "油坊店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/油坊店乡"
+    },
+    {
+      "code": "411724208",
+      "name": "王勿桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/王勿桥乡"
+    },
+    {
+      "code": "411724210",
+      "name": "闾河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/闾河乡"
+    },
+    {
+      "code": "411724212",
+      "name": "皮店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/皮店乡"
+    },
+    {
+      "code": "411724213",
+      "name": "彭桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411724",
+      "year": 0,
+      "name_path": "河南省/驻马店市/正阳县/彭桥乡"
+    }
+  ]
+}

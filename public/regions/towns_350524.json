@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "350524100",
+      "name": "凤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/凤城镇"
+    },
+    {
+      "code": "350524101",
+      "name": "蓬莱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/蓬莱镇"
+    },
+    {
+      "code": "350524102",
+      "name": "湖头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/湖头镇"
+    },
+    {
+      "code": "350524103",
+      "name": "官桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/官桥镇"
+    },
+    {
+      "code": "350524104",
+      "name": "剑斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/剑斗镇"
+    },
+    {
+      "code": "350524105",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/城厢镇"
+    },
+    {
+      "code": "350524106",
+      "name": "金谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/金谷镇"
+    },
+    {
+      "code": "350524107",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/龙门镇"
+    },
+    {
+      "code": "350524108",
+      "name": "虎邱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/虎邱镇"
+    },
+    {
+      "code": "350524109",
+      "name": "芦田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/芦田镇"
+    },
+    {
+      "code": "350524110",
+      "name": "感德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/感德镇"
+    },
+    {
+      "code": "350524111",
+      "name": "魁斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/魁斗镇"
+    },
+    {
+      "code": "350524112",
+      "name": "西坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/西坪镇"
+    },
+    {
+      "code": "350524113",
+      "name": "参内镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/参内镇"
+    },
+    {
+      "code": "350524114",
+      "name": "长卿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/长卿镇"
+    },
+    {
+      "code": "350524115",
+      "name": "龙涓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/龙涓镇"
+    },
+    {
+      "code": "350524116",
+      "name": "尚卿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/尚卿镇"
+    },
+    {
+      "code": "350524117",
+      "name": "蓝田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/蓝田镇"
+    },
+    {
+      "code": "350524201",
+      "name": "白濑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/白濑乡"
+    },
+    {
+      "code": "350524202",
+      "name": "湖上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/湖上乡"
+    },
+    {
+      "code": "350524204",
+      "name": "大坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/大坪乡"
+    },
+    {
+      "code": "350524208",
+      "name": "祥华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/祥华乡"
+    },
+    {
+      "code": "350524209",
+      "name": "桃舟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/桃舟乡"
+    },
+    {
+      "code": "350524210",
+      "name": "福田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350524",
+      "year": 0,
+      "name_path": "福建省/泉州市/安溪县/福田乡"
+    }
+  ]
+}

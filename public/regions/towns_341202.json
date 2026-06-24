@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "341202001",
+      "name": "鼓楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/鼓楼街道"
+    },
+    {
+      "code": "341202002",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/文峰街道"
+    },
+    {
+      "code": "341202003",
+      "name": "清河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/清河街道"
+    },
+    {
+      "code": "341202004",
+      "name": "颍西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/颍西街道"
+    },
+    {
+      "code": "341202005",
+      "name": "京九路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/京九路街道"
+    },
+    {
+      "code": "341202100",
+      "name": "王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/王店镇"
+    },
+    {
+      "code": "341202101",
+      "name": "程集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/程集镇"
+    },
+    {
+      "code": "341202102",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/三合镇"
+    },
+    {
+      "code": "341202103",
+      "name": "西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/西湖镇"
+    },
+    {
+      "code": "341202104",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/九龙镇"
+    },
+    {
+      "code": "341202105",
+      "name": "三十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/三十里铺镇"
+    },
+    {
+      "code": "341202106",
+      "name": "袁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/袁集镇"
+    },
+    {
+      "code": "341202107",
+      "name": "三塔集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/三塔集镇"
+    },
+    {
+      "code": "341202108",
+      "name": "马寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341202",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/颍州区/马寨镇"
+    }
+  ]
+}

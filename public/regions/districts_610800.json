@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "610802",
+      "name": "榆阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/榆阳区"
+    },
+    {
+      "code": "610803",
+      "name": "横山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/横山区"
+    },
+    {
+      "code": "610822",
+      "name": "府谷县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/府谷县"
+    },
+    {
+      "code": "610824",
+      "name": "靖边县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/靖边县"
+    },
+    {
+      "code": "610825",
+      "name": "定边县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/定边县"
+    },
+    {
+      "code": "610826",
+      "name": "绥德县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/绥德县"
+    },
+    {
+      "code": "610827",
+      "name": "米脂县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/米脂县"
+    },
+    {
+      "code": "610828",
+      "name": "佳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/佳县"
+    },
+    {
+      "code": "610829",
+      "name": "吴堡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/吴堡县"
+    },
+    {
+      "code": "610830",
+      "name": "清涧县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/清涧县"
+    },
+    {
+      "code": "610831",
+      "name": "子洲县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/子洲县"
+    },
+    {
+      "code": "610881",
+      "name": "神木市",
+      "level": 3,
+      "type": null,
+      "parent_code": "610800",
+      "year": 0,
+      "name_path": "全国/陕西省/榆林市/神木市"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "632626100",
+      "name": "玛查理镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632626",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛多县/玛查理镇"
+    },
+    {
+      "code": "632626101",
+      "name": "花石峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632626",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛多县/花石峡镇"
+    },
+    {
+      "code": "632626200",
+      "name": "黄河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632626",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛多县/黄河乡"
+    },
+    {
+      "code": "632626201",
+      "name": "扎陵湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632626",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛多县/扎陵湖乡"
+    }
+  ]
+}

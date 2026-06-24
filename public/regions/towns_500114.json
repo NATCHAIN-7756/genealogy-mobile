@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "code": "500114001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/城东街道"
+    },
+    {
+      "code": "500114002",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/城南街道"
+    },
+    {
+      "code": "500114003",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/城西街道"
+    },
+    {
+      "code": "500114004",
+      "name": "正阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/正阳街道"
+    },
+    {
+      "code": "500114005",
+      "name": "舟白街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/舟白街道"
+    },
+    {
+      "code": "500114006",
+      "name": "冯家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/冯家街道"
+    },
+    {
+      "code": "500114102",
+      "name": "小南海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/小南海镇"
+    },
+    {
+      "code": "500114104",
+      "name": "邻鄂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/邻鄂镇"
+    },
+    {
+      "code": "500114105",
+      "name": "阿蓬江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/阿蓬江镇"
+    },
+    {
+      "code": "500114106",
+      "name": "石会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/石会镇"
+    },
+    {
+      "code": "500114107",
+      "name": "黑溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/黑溪镇"
+    },
+    {
+      "code": "500114108",
+      "name": "黄溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/黄溪镇"
+    },
+    {
+      "code": "500114109",
+      "name": "黎水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/黎水镇"
+    },
+    {
+      "code": "500114110",
+      "name": "金溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/金溪镇"
+    },
+    {
+      "code": "500114111",
+      "name": "马喇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/马喇镇"
+    },
+    {
+      "code": "500114112",
+      "name": "濯水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/濯水镇"
+    },
+    {
+      "code": "500114113",
+      "name": "石家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/石家镇"
+    },
+    {
+      "code": "500114114",
+      "name": "鹅池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/鹅池镇"
+    },
+    {
+      "code": "500114115",
+      "name": "中塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/中塘镇"
+    },
+    {
+      "code": "500114116",
+      "name": "沙坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/沙坝镇"
+    },
+    {
+      "code": "500114117",
+      "name": "白石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/白石镇"
+    },
+    {
+      "code": "500114118",
+      "name": "太极镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/太极镇"
+    },
+    {
+      "code": "500114119",
+      "name": "五里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/五里镇"
+    },
+    {
+      "code": "500114120",
+      "name": "水市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/水市镇"
+    },
+    {
+      "code": "500114201",
+      "name": "蓬东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/蓬东乡"
+    },
+    {
+      "code": "500114204",
+      "name": "杉岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/杉岭乡"
+    },
+    {
+      "code": "500114206",
+      "name": "水田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/水田乡"
+    },
+    {
+      "code": "500114207",
+      "name": "白土乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/白土乡"
+    },
+    {
+      "code": "500114208",
+      "name": "金洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/金洞乡"
+    },
+    {
+      "code": "500114211",
+      "name": "新华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500114",
+      "year": 0,
+      "name_path": "重庆市/黔江区/新华乡"
+    }
+  ]
+}

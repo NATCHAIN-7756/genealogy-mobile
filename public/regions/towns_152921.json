@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "152921100",
+      "name": "巴彦浩特镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/巴彦浩特镇"
+    },
+    {
+      "code": "152921101",
+      "name": "嘉尔嘎勒赛汉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/嘉尔嘎勒赛汉镇"
+    },
+    {
+      "code": "152921102",
+      "name": "温都尔勒图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/温都尔勒图镇"
+    },
+    {
+      "code": "152921103",
+      "name": "吉兰泰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/吉兰泰镇"
+    },
+    {
+      "code": "152921104",
+      "name": "乌斯太镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/乌斯太镇"
+    },
+    {
+      "code": "152921105",
+      "name": "巴润别立镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/巴润别立镇"
+    },
+    {
+      "code": "152921107",
+      "name": "宗别立镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/宗别立镇"
+    },
+    {
+      "code": "152921108",
+      "name": "敖伦布拉格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/敖伦布拉格镇"
+    },
+    {
+      "code": "152921109",
+      "name": "腾格里额里斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/腾格里额里斯镇"
+    },
+    {
+      "code": "152921203",
+      "name": "巴彦木仁苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/巴彦木仁苏木"
+    },
+    {
+      "code": "152921207",
+      "name": "乌力吉苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/乌力吉苏木"
+    },
+    {
+      "code": "152921210",
+      "name": "额尔克哈什哈苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/额尔克哈什哈苏木"
+    },
+    {
+      "code": "152921212",
+      "name": "巴彦诺日公苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/巴彦诺日公苏木"
+    },
+    {
+      "code": "152921213",
+      "name": "银根苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/银根苏木"
+    },
+    {
+      "code": "152921214",
+      "name": "超格图呼热苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152921",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善左旗/超格图呼热苏木"
+    }
+  ]
+}

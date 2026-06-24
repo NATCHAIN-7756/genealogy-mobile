@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "371102",
+      "name": "东港区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371100",
+      "year": 0,
+      "name_path": "全国/山东省/日照市/东港区"
+    },
+    {
+      "code": "371103",
+      "name": "岚山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371100",
+      "year": 0,
+      "name_path": "全国/山东省/日照市/岚山区"
+    },
+    {
+      "code": "371121",
+      "name": "五莲县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371100",
+      "year": 0,
+      "name_path": "全国/山东省/日照市/五莲县"
+    },
+    {
+      "code": "371122",
+      "name": "莒县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371100",
+      "year": 0,
+      "name_path": "全国/山东省/日照市/莒县"
+    }
+  ]
+}

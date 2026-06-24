@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "370902",
+      "name": "泰山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370900",
+      "year": 0,
+      "name_path": "全国/山东省/泰安市/泰山区"
+    },
+    {
+      "code": "370911",
+      "name": "岱岳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "370900",
+      "year": 0,
+      "name_path": "全国/山东省/泰安市/岱岳区"
+    },
+    {
+      "code": "370921",
+      "name": "宁阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370900",
+      "year": 0,
+      "name_path": "全国/山东省/泰安市/宁阳县"
+    },
+    {
+      "code": "370923",
+      "name": "东平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "370900",
+      "year": 0,
+      "name_path": "全国/山东省/泰安市/东平县"
+    },
+    {
+      "code": "370982",
+      "name": "新泰市",
+      "level": 3,
+      "type": null,
+      "parent_code": "370900",
+      "year": 0,
+      "name_path": "全国/山东省/泰安市/新泰市"
+    },
+    {
+      "code": "370983",
+      "name": "肥城市",
+      "level": 3,
+      "type": null,
+      "parent_code": "370900",
+      "year": 0,
+      "name_path": "全国/山东省/泰安市/肥城市"
+    }
+  ]
+}

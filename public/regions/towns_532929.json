@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "532929100",
+      "name": "诺邓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/诺邓镇"
+    },
+    {
+      "code": "532929101",
+      "name": "功果桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/功果桥镇"
+    },
+    {
+      "code": "532929102",
+      "name": "漕涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/漕涧镇"
+    },
+    {
+      "code": "532929103",
+      "name": "白石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/白石镇"
+    },
+    {
+      "code": "532929201",
+      "name": "宝丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/宝丰乡"
+    },
+    {
+      "code": "532929202",
+      "name": "关坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/关坪乡"
+    },
+    {
+      "code": "532929203",
+      "name": "团结彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/团结彝族乡"
+    },
+    {
+      "code": "532929204",
+      "name": "长新乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/长新乡"
+    },
+    {
+      "code": "532929205",
+      "name": "检槽乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/检槽乡"
+    },
+    {
+      "code": "532929206",
+      "name": "苗尾傈僳族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/苗尾傈僳族乡"
+    },
+    {
+      "code": "532929207",
+      "name": "民建乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532929",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/云龙县/民建乡"
+    }
+  ]
+}

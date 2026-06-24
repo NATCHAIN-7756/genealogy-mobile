@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "350303001",
+      "name": "涵东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/涵东街道"
+    },
+    {
+      "code": "350303002",
+      "name": "涵西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/涵西街道"
+    },
+    {
+      "code": "350303100",
+      "name": "三江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/三江口镇"
+    },
+    {
+      "code": "350303101",
+      "name": "白塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/白塘镇"
+    },
+    {
+      "code": "350303102",
+      "name": "国欢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/国欢镇"
+    },
+    {
+      "code": "350303103",
+      "name": "梧塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/梧塘镇"
+    },
+    {
+      "code": "350303104",
+      "name": "江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/江口镇"
+    },
+    {
+      "code": "350303105",
+      "name": "萩芦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/萩芦镇"
+    },
+    {
+      "code": "350303106",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/白沙镇"
+    },
+    {
+      "code": "350303107",
+      "name": "庄边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/庄边镇"
+    },
+    {
+      "code": "350303108",
+      "name": "新县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/新县镇"
+    },
+    {
+      "code": "350303200",
+      "name": "大洋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350303",
+      "year": 0,
+      "name_path": "福建省/莆田市/涵江区/大洋乡"
+    }
+  ]
+}

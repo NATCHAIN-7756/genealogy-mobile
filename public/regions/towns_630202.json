@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "630202001",
+      "name": "碾伯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/碾伯街道"
+    },
+    {
+      "code": "630202002",
+      "name": "岗沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/岗沟街道"
+    },
+    {
+      "code": "630202101",
+      "name": "高庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/高庙镇"
+    },
+    {
+      "code": "630202102",
+      "name": "瞿昙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/瞿昙镇"
+    },
+    {
+      "code": "630202103",
+      "name": "洪水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/洪水镇"
+    },
+    {
+      "code": "630202104",
+      "name": "雨润镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/雨润镇"
+    },
+    {
+      "code": "630202105",
+      "name": "高店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/高店镇"
+    },
+    {
+      "code": "630202106",
+      "name": "寿乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/寿乐镇"
+    },
+    {
+      "code": "630202200",
+      "name": "下营藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/下营藏族乡"
+    },
+    {
+      "code": "630202201",
+      "name": "城台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/城台乡"
+    },
+    {
+      "code": "630202202",
+      "name": "峰堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/峰堆乡"
+    },
+    {
+      "code": "630202203",
+      "name": "达拉土族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/达拉土族乡"
+    },
+    {
+      "code": "630202204",
+      "name": "共和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/共和乡"
+    },
+    {
+      "code": "630202205",
+      "name": "中岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/中岭乡"
+    },
+    {
+      "code": "630202206",
+      "name": "李家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/李家乡"
+    },
+    {
+      "code": "630202207",
+      "name": "芦花乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/芦花乡"
+    },
+    {
+      "code": "630202208",
+      "name": "马营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/马营乡"
+    },
+    {
+      "code": "630202209",
+      "name": "马厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/马厂乡"
+    },
+    {
+      "code": "630202210",
+      "name": "中坝藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/中坝藏族乡"
+    },
+    {
+      "code": "630202211",
+      "name": "蒲台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630202",
+      "year": 0,
+      "name_path": "青海省/海东市/乐都区/蒲台乡"
+    }
+  ]
+}

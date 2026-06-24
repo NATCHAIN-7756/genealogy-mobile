@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "331002001",
+      "name": "海门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/海门街道"
+    },
+    {
+      "code": "331002002",
+      "name": "白云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/白云街道"
+    },
+    {
+      "code": "331002003",
+      "name": "葭沚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/葭沚街道"
+    },
+    {
+      "code": "331002004",
+      "name": "洪家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/洪家街道"
+    },
+    {
+      "code": "331002005",
+      "name": "三甲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/三甲街道"
+    },
+    {
+      "code": "331002006",
+      "name": "下陈街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/下陈街道"
+    },
+    {
+      "code": "331002007",
+      "name": "前所街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/前所街道"
+    },
+    {
+      "code": "331002008",
+      "name": "章安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/章安街道"
+    },
+    {
+      "code": "331002009",
+      "name": "海虹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/海虹街道"
+    },
+    {
+      "code": "331002101",
+      "name": "大陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331002",
+      "year": 0,
+      "name_path": "浙江省/台州市/椒江区/大陈镇"
+    }
+  ]
+}

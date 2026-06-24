@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "360102",
+      "name": "东湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/东湖区"
+    },
+    {
+      "code": "360103",
+      "name": "西湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/西湖区"
+    },
+    {
+      "code": "360104",
+      "name": "青云谱区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/青云谱区"
+    },
+    {
+      "code": "360111",
+      "name": "青山湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/青山湖区"
+    },
+    {
+      "code": "360112",
+      "name": "新建区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/新建区"
+    },
+    {
+      "code": "360113",
+      "name": "红谷滩区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/红谷滩区"
+    },
+    {
+      "code": "360121",
+      "name": "南昌县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/南昌县"
+    },
+    {
+      "code": "360123",
+      "name": "安义县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/安义县"
+    },
+    {
+      "code": "360124",
+      "name": "进贤县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360100",
+      "year": 0,
+      "name_path": "全国/江西省/南昌市/进贤县"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "530427001",
+      "name": "桂山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/桂山街道"
+    },
+    {
+      "code": "530427002",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/古城街道"
+    },
+    {
+      "code": "530427101",
+      "name": "扬武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/扬武镇"
+    },
+    {
+      "code": "530427102",
+      "name": "漠沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/漠沙镇"
+    },
+    {
+      "code": "530427103",
+      "name": "戛洒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/戛洒镇"
+    },
+    {
+      "code": "530427104",
+      "name": "水塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/水塘镇"
+    },
+    {
+      "code": "530427200",
+      "name": "平甸乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/平甸乡"
+    },
+    {
+      "code": "530427201",
+      "name": "新化乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/新化乡"
+    },
+    {
+      "code": "530427202",
+      "name": "建兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/建兴乡"
+    },
+    {
+      "code": "530427203",
+      "name": "老厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/老厂乡"
+    },
+    {
+      "code": "530427204",
+      "name": "者竜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/者竜乡"
+    },
+    {
+      "code": "530427205",
+      "name": "平掌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530427",
+      "year": 0,
+      "name_path": "云南省/玉溪市/新平彝族傣族自治县/平掌乡"
+    }
+  ]
+}

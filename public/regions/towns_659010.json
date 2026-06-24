@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "659010001",
+      "name": "胡杨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659010",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/胡杨河市/胡杨街道"
+    },
+    {
+      "code": "659010100",
+      "name": "共青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659010",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/胡杨河市/共青镇"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150821100",
+      "name": "隆兴昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/隆兴昌镇"
+    },
+    {
+      "code": "150821101",
+      "name": "塔尔湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/塔尔湖镇"
+    },
+    {
+      "code": "150821102",
+      "name": "巴彦套海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/巴彦套海镇"
+    },
+    {
+      "code": "150821104",
+      "name": "新公中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/新公中镇"
+    },
+    {
+      "code": "150821105",
+      "name": "天吉泰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/天吉泰镇"
+    },
+    {
+      "code": "150821106",
+      "name": "胜丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/胜丰镇"
+    },
+    {
+      "code": "150821107",
+      "name": "银定图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/银定图镇"
+    },
+    {
+      "code": "150821108",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/复兴镇"
+    },
+    {
+      "code": "150821200",
+      "name": "和胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150821",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/五原县/和胜乡"
+    }
+  ]
+}

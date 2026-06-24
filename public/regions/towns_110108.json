@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "code": "110108001",
+      "name": "万寿路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/万寿路街道"
+    },
+    {
+      "code": "110108002",
+      "name": "永定路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/永定路街道"
+    },
+    {
+      "code": "110108003",
+      "name": "羊坊店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/羊坊店街道"
+    },
+    {
+      "code": "110108004",
+      "name": "甘家口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/甘家口街道"
+    },
+    {
+      "code": "110108005",
+      "name": "八里庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/八里庄街道"
+    },
+    {
+      "code": "110108006",
+      "name": "紫竹院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/紫竹院街道"
+    },
+    {
+      "code": "110108007",
+      "name": "北下关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/北下关街道"
+    },
+    {
+      "code": "110108008",
+      "name": "北太平庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/北太平庄街道"
+    },
+    {
+      "code": "110108010",
+      "name": "学院路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/学院路街道"
+    },
+    {
+      "code": "110108011",
+      "name": "中关村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/中关村街道"
+    },
+    {
+      "code": "110108012",
+      "name": "海淀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/海淀街道"
+    },
+    {
+      "code": "110108013",
+      "name": "青龙桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/青龙桥街道"
+    },
+    {
+      "code": "110108014",
+      "name": "清华园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/清华园街道"
+    },
+    {
+      "code": "110108015",
+      "name": "燕园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/燕园街道"
+    },
+    {
+      "code": "110108016",
+      "name": "香山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/香山街道"
+    },
+    {
+      "code": "110108017",
+      "name": "清河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/清河街道"
+    },
+    {
+      "code": "110108018",
+      "name": "花园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/花园路街道"
+    },
+    {
+      "code": "110108019",
+      "name": "西三旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/西三旗街道"
+    },
+    {
+      "code": "110108020",
+      "name": "马连洼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/马连洼街道"
+    },
+    {
+      "code": "110108021",
+      "name": "田村路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/田村路街道"
+    },
+    {
+      "code": "110108022",
+      "name": "上地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/上地街道"
+    },
+    {
+      "code": "110108023",
+      "name": "海淀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/海淀镇"
+    },
+    {
+      "code": "110108024",
+      "name": "东升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/东升镇"
+    },
+    {
+      "code": "110108025",
+      "name": "曙光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/曙光街道"
+    },
+    {
+      "code": "110108026",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/温泉镇"
+    },
+    {
+      "code": "110108027",
+      "name": "四季青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/四季青镇"
+    },
+    {
+      "code": "110108028",
+      "name": "西北旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/西北旺镇"
+    },
+    {
+      "code": "110108029",
+      "name": "苏家坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/苏家坨镇"
+    },
+    {
+      "code": "110108030",
+      "name": "上庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110108",
+      "year": 0,
+      "name_path": "北京市/海淀区/上庄镇"
+    }
+  ]
+}

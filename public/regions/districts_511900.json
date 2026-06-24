@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "511902",
+      "name": "巴州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511900",
+      "year": 0,
+      "name_path": "全国/四川省/巴中市/巴州区"
+    },
+    {
+      "code": "511903",
+      "name": "恩阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511900",
+      "year": 0,
+      "name_path": "全国/四川省/巴中市/恩阳区"
+    },
+    {
+      "code": "511921",
+      "name": "通江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511900",
+      "year": 0,
+      "name_path": "全国/四川省/巴中市/通江县"
+    },
+    {
+      "code": "511922",
+      "name": "南江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511900",
+      "year": 0,
+      "name_path": "全国/四川省/巴中市/南江县"
+    },
+    {
+      "code": "511923",
+      "name": "平昌县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511900",
+      "year": 0,
+      "name_path": "全国/四川省/巴中市/平昌县"
+    }
+  ]
+}

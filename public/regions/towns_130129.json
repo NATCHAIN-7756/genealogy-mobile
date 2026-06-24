@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130129100",
+      "name": "赞皇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/赞皇镇"
+    },
+    {
+      "code": "130129101",
+      "name": "院头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/院头镇"
+    },
+    {
+      "code": "130129102",
+      "name": "南邢郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/南邢郭镇"
+    },
+    {
+      "code": "130129103",
+      "name": "嶂石岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/嶂石岩镇"
+    },
+    {
+      "code": "130129104",
+      "name": "西龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/西龙门镇"
+    },
+    {
+      "code": "130129105",
+      "name": "西阳泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/西阳泽镇"
+    },
+    {
+      "code": "130129106",
+      "name": "许亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/许亭镇"
+    },
+    {
+      "code": "130129202",
+      "name": "南清河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/南清河乡"
+    },
+    {
+      "code": "130129204",
+      "name": "土门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/土门乡"
+    },
+    {
+      "code": "130129205",
+      "name": "黄北坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/黄北坪乡"
+    },
+    {
+      "code": "130129208",
+      "name": "张楞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130129",
+      "year": 0,
+      "name_path": "河北省/石家庄市/赞皇县/张楞乡"
+    }
+  ]
+}

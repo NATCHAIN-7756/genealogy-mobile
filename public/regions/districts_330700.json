@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "330702",
+      "name": "婺城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/婺城区"
+    },
+    {
+      "code": "330703",
+      "name": "金东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/金东区"
+    },
+    {
+      "code": "330723",
+      "name": "武义县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/武义县"
+    },
+    {
+      "code": "330726",
+      "name": "浦江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/浦江县"
+    },
+    {
+      "code": "330727",
+      "name": "磐安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/磐安县"
+    },
+    {
+      "code": "330781",
+      "name": "兰溪市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/兰溪市"
+    },
+    {
+      "code": "330782",
+      "name": "义乌市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/义乌市"
+    },
+    {
+      "code": "330783",
+      "name": "东阳市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/东阳市"
+    },
+    {
+      "code": "330784",
+      "name": "永康市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330700",
+      "year": 0,
+      "name_path": "全国/浙江省/金华市/永康市"
+    }
+  ]
+}

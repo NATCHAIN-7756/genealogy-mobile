@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "632525100",
+      "name": "茫曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632525",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵南县/茫曲镇"
+    },
+    {
+      "code": "632525101",
+      "name": "过马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632525",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵南县/过马营镇"
+    },
+    {
+      "code": "632525102",
+      "name": "森多镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632525",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵南县/森多镇"
+    },
+    {
+      "code": "632525200",
+      "name": "沙沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632525",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵南县/沙沟乡"
+    },
+    {
+      "code": "632525202",
+      "name": "茫拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632525",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵南县/茫拉乡"
+    },
+    {
+      "code": "632525203",
+      "name": "塔秀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632525",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/贵南县/塔秀乡"
+    }
+  ]
+}

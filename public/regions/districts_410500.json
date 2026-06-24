@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "410502",
+      "name": "文峰区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/文峰区"
+    },
+    {
+      "code": "410503",
+      "name": "北关区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/北关区"
+    },
+    {
+      "code": "410505",
+      "name": "殷都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/殷都区"
+    },
+    {
+      "code": "410506",
+      "name": "龙安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/龙安区"
+    },
+    {
+      "code": "410522",
+      "name": "安阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/安阳县"
+    },
+    {
+      "code": "410523",
+      "name": "汤阴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/汤阴县"
+    },
+    {
+      "code": "410526",
+      "name": "滑县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/滑县"
+    },
+    {
+      "code": "410527",
+      "name": "内黄县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/内黄县"
+    },
+    {
+      "code": "410581",
+      "name": "林州市",
+      "level": 3,
+      "type": null,
+      "parent_code": "410500",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市/林州市"
+    }
+  ]
+}

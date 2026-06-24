@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "532322100",
+      "name": "妥甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/妥甸镇"
+    },
+    {
+      "code": "532322101",
+      "name": "大庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/大庄镇"
+    },
+    {
+      "code": "532322102",
+      "name": "法脿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/法脿镇"
+    },
+    {
+      "code": "532322103",
+      "name": "𥔲嘉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/𥔲嘉镇"
+    },
+    {
+      "code": "532322104",
+      "name": "大麦地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/大麦地镇"
+    },
+    {
+      "code": "532322204",
+      "name": "安龙堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/安龙堡乡"
+    },
+    {
+      "code": "532322206",
+      "name": "爱尼山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/爱尼山乡"
+    },
+    {
+      "code": "532322207",
+      "name": "独田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532322",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/双柏县/独田乡"
+    }
+  ]
+}

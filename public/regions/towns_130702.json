@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130702001",
+      "name": "红旗楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/红旗楼街道"
+    },
+    {
+      "code": "130702002",
+      "name": "胜利北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/胜利北路街道"
+    },
+    {
+      "code": "130702003",
+      "name": "五一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/五一路街道"
+    },
+    {
+      "code": "130702004",
+      "name": "花园街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/花园街街道"
+    },
+    {
+      "code": "130702005",
+      "name": "工业路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/工业路街道"
+    },
+    {
+      "code": "130702006",
+      "name": "南站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/南站街道"
+    },
+    {
+      "code": "130702007",
+      "name": "马路东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/马路东街道"
+    },
+    {
+      "code": "130702100",
+      "name": "老鸦庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/老鸦庄镇"
+    },
+    {
+      "code": "130702101",
+      "name": "姚家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/姚家庄镇"
+    },
+    {
+      "code": "130702102",
+      "name": "大仓盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/大仓盖镇"
+    },
+    {
+      "code": "130702202",
+      "name": "东望山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130702",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥东区/东望山乡"
+    }
+  ]
+}

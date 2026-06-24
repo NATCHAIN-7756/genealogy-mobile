@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "220303001",
+      "name": "平东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/平东街道"
+    },
+    {
+      "code": "220303002",
+      "name": "北市场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/北市场街道"
+    },
+    {
+      "code": "220303003",
+      "name": "黄土坑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/黄土坑街道"
+    },
+    {
+      "code": "220303004",
+      "name": "七马路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/七马路街道"
+    },
+    {
+      "code": "220303005",
+      "name": "四马路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/四马路街道"
+    },
+    {
+      "code": "220303006",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/解放街道"
+    },
+    {
+      "code": "220303007",
+      "name": "北门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/北门街道"
+    },
+    {
+      "code": "220303008",
+      "name": "平南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/平南街道"
+    },
+    {
+      "code": "220303100",
+      "name": "山门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/山门镇"
+    },
+    {
+      "code": "220303103",
+      "name": "石岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/石岭镇"
+    },
+    {
+      "code": "220303110",
+      "name": "叶赫满族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/叶赫满族镇"
+    },
+    {
+      "code": "220303200",
+      "name": "城东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220303",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁东区/城东乡"
+    }
+  ]
+}

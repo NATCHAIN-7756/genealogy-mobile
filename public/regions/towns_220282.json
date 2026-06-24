@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "220282001",
+      "name": "明桦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/明桦街道"
+    },
+    {
+      "code": "220282002",
+      "name": "永吉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/永吉街道"
+    },
+    {
+      "code": "220282003",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/胜利街道"
+    },
+    {
+      "code": "220282004",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/新华街道"
+    },
+    {
+      "code": "220282005",
+      "name": "启新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/启新街道"
+    },
+    {
+      "code": "220282100",
+      "name": "夹皮沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/夹皮沟镇"
+    },
+    {
+      "code": "220282102",
+      "name": "二道甸子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/二道甸子镇"
+    },
+    {
+      "code": "220282103",
+      "name": "红石砬子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/红石砬子镇"
+    },
+    {
+      "code": "220282104",
+      "name": "八道河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/八道河子镇"
+    },
+    {
+      "code": "220282106",
+      "name": "常山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/常山镇"
+    },
+    {
+      "code": "220282107",
+      "name": "金沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/金沙镇"
+    },
+    {
+      "code": "220282200",
+      "name": "桦郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/桦郊乡"
+    },
+    {
+      "code": "220282202",
+      "name": "横道河子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/横道河子乡"
+    },
+    {
+      "code": "220282205",
+      "name": "公吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220282",
+      "year": 0,
+      "name_path": "吉林省/吉林市/桦甸市/公吉乡"
+    }
+  ]
+}

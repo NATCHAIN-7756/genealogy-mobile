@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "131124100",
+      "name": "饶阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/饶阳镇"
+    },
+    {
+      "code": "131124101",
+      "name": "大尹村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/大尹村镇"
+    },
+    {
+      "code": "131124102",
+      "name": "五公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/五公镇"
+    },
+    {
+      "code": "131124103",
+      "name": "大官亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/大官亭镇"
+    },
+    {
+      "code": "131124104",
+      "name": "王同岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/王同岳镇"
+    },
+    {
+      "code": "131124105",
+      "name": "东里满镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/东里满镇"
+    },
+    {
+      "code": "131124106",
+      "name": "留楚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131124",
+      "year": 0,
+      "name_path": "河北省/衡水市/饶阳县/留楚镇"
+    }
+  ]
+}

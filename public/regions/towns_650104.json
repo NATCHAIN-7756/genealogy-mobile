@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "650104001",
+      "name": "北京路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/北京路街道"
+    },
+    {
+      "code": "650104002",
+      "name": "二工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/二工街道"
+    },
+    {
+      "code": "650104003",
+      "name": "三工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/三工街道"
+    },
+    {
+      "code": "650104004",
+      "name": "石油新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/石油新村街道"
+    },
+    {
+      "code": "650104005",
+      "name": "迎宾路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/迎宾路街道"
+    },
+    {
+      "code": "650104006",
+      "name": "喀什东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/喀什东路街道"
+    },
+    {
+      "code": "650104009",
+      "name": "南纬路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/南纬路街道"
+    },
+    {
+      "code": "650104010",
+      "name": "杭州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/杭州路街道"
+    },
+    {
+      "code": "650104011",
+      "name": "天津路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/天津路街道"
+    },
+    {
+      "code": "650104012",
+      "name": "银川路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/银川路街道"
+    },
+    {
+      "code": "650104013",
+      "name": "高新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/高新街街道"
+    },
+    {
+      "code": "650104014",
+      "name": "长春中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/长春中路街道"
+    },
+    {
+      "code": "650104017",
+      "name": "友谊路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/友谊路街道"
+    },
+    {
+      "code": "650104019",
+      "name": "百园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/百园路街道"
+    },
+    {
+      "code": "650104021",
+      "name": "正扬路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/正扬路街道"
+    },
+    {
+      "code": "650104022",
+      "name": "鲤鱼山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/鲤鱼山街道"
+    },
+    {
+      "code": "650104023",
+      "name": "天山机场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/天山机场街道"
+    },
+    {
+      "code": "650104100",
+      "name": "安宁渠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/安宁渠镇"
+    },
+    {
+      "code": "650104200",
+      "name": "二工乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/二工乡"
+    },
+    {
+      "code": "650104201",
+      "name": "地窝堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/地窝堡乡"
+    },
+    {
+      "code": "650104202",
+      "name": "六十户乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/六十户乡"
+    },
+    {
+      "code": "650104203",
+      "name": "青格达湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650104",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/新市区/青格达湖乡"
+    }
+  ]
+}

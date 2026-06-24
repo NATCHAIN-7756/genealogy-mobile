@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "340121100",
+      "name": "水湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/水湖镇"
+    },
+    {
+      "code": "340121103",
+      "name": "庄墓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/庄墓镇"
+    },
+    {
+      "code": "340121104",
+      "name": "杨庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/杨庙镇"
+    },
+    {
+      "code": "340121105",
+      "name": "吴山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/吴山镇"
+    },
+    {
+      "code": "340121106",
+      "name": "岗集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/岗集镇"
+    },
+    {
+      "code": "340121107",
+      "name": "双墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/双墩镇"
+    },
+    {
+      "code": "340121108",
+      "name": "下塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/下塘镇"
+    },
+    {
+      "code": "340121109",
+      "name": "朱巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/朱巷镇"
+    },
+    {
+      "code": "340121110",
+      "name": "陶楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/陶楼镇"
+    },
+    {
+      "code": "340121111",
+      "name": "杜集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/杜集镇"
+    },
+    {
+      "code": "340121112",
+      "name": "义井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/义井镇"
+    },
+    {
+      "code": "340121113",
+      "name": "左店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/左店镇"
+    },
+    {
+      "code": "340121114",
+      "name": "罗塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/罗塘镇"
+    },
+    {
+      "code": "340121115",
+      "name": "造甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340121",
+      "year": 0,
+      "name_path": "安徽省/合肥市/长丰县/造甲镇"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "430212100",
+      "name": "渌口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/渌口镇"
+    },
+    {
+      "code": "430212101",
+      "name": "朱亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/朱亭镇"
+    },
+    {
+      "code": "430212102",
+      "name": "淦田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/淦田镇"
+    },
+    {
+      "code": "430212103",
+      "name": "古岳峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/古岳峰镇"
+    },
+    {
+      "code": "430212104",
+      "name": "南洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/南洲镇"
+    },
+    {
+      "code": "430212105",
+      "name": "龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/龙潭镇"
+    },
+    {
+      "code": "430212106",
+      "name": "龙船镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/龙船镇"
+    },
+    {
+      "code": "430212107",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430212",
+      "year": 0,
+      "name_path": "湖南省/株洲市/渌口区/龙门镇"
+    }
+  ]
+}

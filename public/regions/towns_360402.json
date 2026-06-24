@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "360402001",
+      "name": "十里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/十里街道"
+    },
+    {
+      "code": "360402002",
+      "name": "五里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/五里街道"
+    },
+    {
+      "code": "360402003",
+      "name": "七里湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/七里湖街道"
+    },
+    {
+      "code": "360402101",
+      "name": "威家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/威家镇"
+    },
+    {
+      "code": "360402102",
+      "name": "新港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/新港镇"
+    },
+    {
+      "code": "360402103",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/莲花镇"
+    },
+    {
+      "code": "360402105",
+      "name": "赛阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/赛阳镇"
+    },
+    {
+      "code": "360402106",
+      "name": "姑塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/姑塘镇"
+    },
+    {
+      "code": "360402202",
+      "name": "虞家河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/虞家河乡"
+    },
+    {
+      "code": "360402203",
+      "name": "高垅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360402",
+      "year": 0,
+      "name_path": "江西省/九江市/濂溪区/高垅乡"
+    }
+  ]
+}

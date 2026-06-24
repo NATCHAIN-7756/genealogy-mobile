@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "140821100",
+      "name": "猗氏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/猗氏镇"
+    },
+    {
+      "code": "140821101",
+      "name": "嵋阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/嵋阳镇"
+    },
+    {
+      "code": "140821102",
+      "name": "临晋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/临晋镇"
+    },
+    {
+      "code": "140821103",
+      "name": "七级镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/七级镇"
+    },
+    {
+      "code": "140821104",
+      "name": "东张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/东张镇"
+    },
+    {
+      "code": "140821105",
+      "name": "孙吉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/孙吉镇"
+    },
+    {
+      "code": "140821106",
+      "name": "三管镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/三管镇"
+    },
+    {
+      "code": "140821107",
+      "name": "牛杜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/牛杜镇"
+    },
+    {
+      "code": "140821108",
+      "name": "耽子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/耽子镇"
+    },
+    {
+      "code": "140821109",
+      "name": "角杯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/角杯镇"
+    },
+    {
+      "code": "140821200",
+      "name": "楚侯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/楚侯乡"
+    },
+    {
+      "code": "140821201",
+      "name": "庙上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/庙上乡"
+    },
+    {
+      "code": "140821203",
+      "name": "北辛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/北辛乡"
+    },
+    {
+      "code": "140821205",
+      "name": "北景乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140821",
+      "year": 0,
+      "name_path": "山西省/运城市/临猗县/北景乡"
+    }
+  ]
+}

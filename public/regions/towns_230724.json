@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "230724100",
+      "name": "新青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230724",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/丰林县/新青镇"
+    },
+    {
+      "code": "230724101",
+      "name": "红星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230724",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/丰林县/红星镇"
+    },
+    {
+      "code": "230724102",
+      "name": "五营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230724",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/丰林县/五营镇"
+    }
+  ]
+}

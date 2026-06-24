@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "620981001",
+      "name": "新市区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/新市区街道"
+    },
+    {
+      "code": "620981101",
+      "name": "玉门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/玉门镇"
+    },
+    {
+      "code": "620981102",
+      "name": "赤金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/赤金镇"
+    },
+    {
+      "code": "620981103",
+      "name": "花海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/花海镇"
+    },
+    {
+      "code": "620981104",
+      "name": "老君庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/老君庙镇"
+    },
+    {
+      "code": "620981105",
+      "name": "柳河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/柳河镇"
+    },
+    {
+      "code": "620981106",
+      "name": "黄闸湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/黄闸湾镇"
+    },
+    {
+      "code": "620981107",
+      "name": "下西号镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/下西号镇"
+    },
+    {
+      "code": "620981108",
+      "name": "柳湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/柳湖镇"
+    },
+    {
+      "code": "620981109",
+      "name": "昌马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/昌马镇"
+    },
+    {
+      "code": "620981110",
+      "name": "六墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/六墩镇"
+    },
+    {
+      "code": "620981206",
+      "name": "小金湾东乡族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/小金湾东乡族乡"
+    },
+    {
+      "code": "620981208",
+      "name": "独山子东乡族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620981",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/玉门市/独山子东乡族乡"
+    }
+  ]
+}

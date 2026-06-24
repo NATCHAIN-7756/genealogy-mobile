@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "522731001",
+      "name": "涟江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/涟江街道"
+    },
+    {
+      "code": "522731002",
+      "name": "濛江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/濛江街道"
+    },
+    {
+      "code": "522731003",
+      "name": "明田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/明田街道"
+    },
+    {
+      "code": "522731103",
+      "name": "摆金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/摆金镇"
+    },
+    {
+      "code": "522731104",
+      "name": "雅水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/雅水镇"
+    },
+    {
+      "code": "522731105",
+      "name": "断杉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/断杉镇"
+    },
+    {
+      "code": "522731106",
+      "name": "芦山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/芦山镇"
+    },
+    {
+      "code": "522731107",
+      "name": "王佑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/王佑镇"
+    },
+    {
+      "code": "522731108",
+      "name": "好花红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/好花红镇"
+    },
+    {
+      "code": "522731109",
+      "name": "羡塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/羡塘镇"
+    },
+    {
+      "code": "522731110",
+      "name": "岗度镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522731",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/惠水县/岗度镇"
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "511304001",
+      "name": "火花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/火花街道"
+    },
+    {
+      "code": "511304002",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/文峰街道"
+    },
+    {
+      "code": "511304004",
+      "name": "都尉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/都尉街道"
+    },
+    {
+      "code": "511304005",
+      "name": "西兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/西兴街道"
+    },
+    {
+      "code": "511304006",
+      "name": "南湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/南湖街道"
+    },
+    {
+      "code": "511304101",
+      "name": "曲水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/曲水镇"
+    },
+    {
+      "code": "511304102",
+      "name": "李渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/李渡镇"
+    },
+    {
+      "code": "511304103",
+      "name": "吉安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/吉安镇"
+    },
+    {
+      "code": "511304104",
+      "name": "龙岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/龙岭镇"
+    },
+    {
+      "code": "511304105",
+      "name": "金凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/金凤镇"
+    },
+    {
+      "code": "511304106",
+      "name": "安福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/安福镇"
+    },
+    {
+      "code": "511304107",
+      "name": "安平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/安平镇"
+    },
+    {
+      "code": "511304108",
+      "name": "世阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/世阳镇"
+    },
+    {
+      "code": "511304109",
+      "name": "大通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/大通镇"
+    },
+    {
+      "code": "511304110",
+      "name": "一立镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/一立镇"
+    },
+    {
+      "code": "511304111",
+      "name": "龙蟠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/龙蟠镇"
+    },
+    {
+      "code": "511304112",
+      "name": "里坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/里坝镇"
+    },
+    {
+      "code": "511304114",
+      "name": "金宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/金宝镇"
+    },
+    {
+      "code": "511304115",
+      "name": "三会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/三会镇"
+    },
+    {
+      "code": "511304117",
+      "name": "双桂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/双桂镇"
+    },
+    {
+      "code": "511304119",
+      "name": "七宝寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/七宝寺镇"
+    },
+    {
+      "code": "511304122",
+      "name": "河西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/河西镇"
+    },
+    {
+      "code": "511304215",
+      "name": "盐溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/盐溪乡"
+    },
+    {
+      "code": "511304220",
+      "name": "大兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511304",
+      "year": 0,
+      "name_path": "四川省/南充市/嘉陵区/大兴乡"
+    }
+  ]
+}

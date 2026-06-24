@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "220821001",
+      "name": "鹤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/鹤城街道"
+    },
+    {
+      "code": "220821002",
+      "name": "镇东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/镇东街道"
+    },
+    {
+      "code": "220821003",
+      "name": "赉北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/赉北街道"
+    },
+    {
+      "code": "220821100",
+      "name": "镇赉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/镇赉镇"
+    },
+    {
+      "code": "220821101",
+      "name": "坦途镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/坦途镇"
+    },
+    {
+      "code": "220821102",
+      "name": "东屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/东屏镇"
+    },
+    {
+      "code": "220821103",
+      "name": "大屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/大屯镇"
+    },
+    {
+      "code": "220821105",
+      "name": "沿江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/沿江镇"
+    },
+    {
+      "code": "220821106",
+      "name": "五棵树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/五棵树镇"
+    },
+    {
+      "code": "220821107",
+      "name": "黑鱼泡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/黑鱼泡镇"
+    },
+    {
+      "code": "220821201",
+      "name": "哈吐气蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/哈吐气蒙古族乡"
+    },
+    {
+      "code": "220821203",
+      "name": "莫莫格蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/莫莫格蒙古族乡"
+    },
+    {
+      "code": "220821205",
+      "name": "建平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/建平乡"
+    },
+    {
+      "code": "220821206",
+      "name": "嘎什根乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220821",
+      "year": 0,
+      "name_path": "吉林省/白城市/镇赉县/嘎什根乡"
+    }
+  ]
+}

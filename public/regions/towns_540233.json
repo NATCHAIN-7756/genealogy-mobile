@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "540233100",
+      "name": "下司马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/下司马镇"
+    },
+    {
+      "code": "540233101",
+      "name": "帕里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/帕里镇"
+    },
+    {
+      "code": "540233200",
+      "name": "下亚东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/下亚东乡"
+    },
+    {
+      "code": "540233201",
+      "name": "上亚东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/上亚东乡"
+    },
+    {
+      "code": "540233202",
+      "name": "康布乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/康布乡"
+    },
+    {
+      "code": "540233203",
+      "name": "堆纳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/堆纳乡"
+    },
+    {
+      "code": "540233204",
+      "name": "吉汝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540233",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/亚东县/吉汝乡"
+    }
+  ]
+}

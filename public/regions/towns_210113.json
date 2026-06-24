@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "210113001",
+      "name": "新城子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/新城子街道"
+    },
+    {
+      "code": "210113002",
+      "name": "清水台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/清水台街道"
+    },
+    {
+      "code": "210113003",
+      "name": "道义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/道义街道"
+    },
+    {
+      "code": "210113004",
+      "name": "辉山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/辉山街道"
+    },
+    {
+      "code": "210113005",
+      "name": "虎石台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/虎石台街道"
+    },
+    {
+      "code": "210113006",
+      "name": "财落街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/财落街道"
+    },
+    {
+      "code": "210113008",
+      "name": "兴隆台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/兴隆台街道"
+    },
+    {
+      "code": "210113011",
+      "name": "黄家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/黄家街道"
+    },
+    {
+      "code": "210113014",
+      "name": "马刚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/马刚街道"
+    },
+    {
+      "code": "210113015",
+      "name": "正良街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210113",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/沈北新区/正良街道"
+    }
+  ]
+}

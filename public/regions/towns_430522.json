@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "430522100",
+      "name": "酿溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/酿溪镇"
+    },
+    {
+      "code": "430522101",
+      "name": "严塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/严塘镇"
+    },
+    {
+      "code": "430522102",
+      "name": "雀塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/雀塘镇"
+    },
+    {
+      "code": "430522103",
+      "name": "陈家坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/陈家坊镇"
+    },
+    {
+      "code": "430522104",
+      "name": "潭溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/潭溪镇"
+    },
+    {
+      "code": "430522105",
+      "name": "寸石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/寸石镇"
+    },
+    {
+      "code": "430522106",
+      "name": "坪上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/坪上镇"
+    },
+    {
+      "code": "430522107",
+      "name": "龙溪铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/龙溪铺镇"
+    },
+    {
+      "code": "430522108",
+      "name": "巨口铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/巨口铺镇"
+    },
+    {
+      "code": "430522109",
+      "name": "新田铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/新田铺镇"
+    },
+    {
+      "code": "430522110",
+      "name": "小塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/小塘镇"
+    },
+    {
+      "code": "430522111",
+      "name": "太芝庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/太芝庙镇"
+    },
+    {
+      "code": "430522112",
+      "name": "大新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/大新镇"
+    },
+    {
+      "code": "430522200",
+      "name": "潭府乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/潭府乡"
+    },
+    {
+      "code": "430522203",
+      "name": "迎光乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430522",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/新邵县/迎光乡"
+    }
+  ]
+}

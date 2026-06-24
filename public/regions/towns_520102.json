@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "520102001",
+      "name": "五里冲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/五里冲街道"
+    },
+    {
+      "code": "520102002",
+      "name": "小车河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/小车河街道"
+    },
+    {
+      "code": "520102003",
+      "name": "新华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/新华路街道"
+    },
+    {
+      "code": "520102004",
+      "name": "西湖路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/西湖路街道"
+    },
+    {
+      "code": "520102005",
+      "name": "中华南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/中华南路街道"
+    },
+    {
+      "code": "520102006",
+      "name": "河滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/河滨街道"
+    },
+    {
+      "code": "520102007",
+      "name": "遵义路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/遵义路街道"
+    },
+    {
+      "code": "520102008",
+      "name": "兴关路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/兴关路街道"
+    },
+    {
+      "code": "520102009",
+      "name": "沙冲路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/沙冲路街道"
+    },
+    {
+      "code": "520102010",
+      "name": "太慈桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/太慈桥街道"
+    },
+    {
+      "code": "520102011",
+      "name": "湘雅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/湘雅街道"
+    },
+    {
+      "code": "520102012",
+      "name": "油榨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/油榨街道"
+    },
+    {
+      "code": "520102013",
+      "name": "中曹司街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/中曹司街道"
+    },
+    {
+      "code": "520102014",
+      "name": "二戈街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/二戈街道"
+    },
+    {
+      "code": "520102015",
+      "name": "龙洞堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/龙洞堡街道"
+    },
+    {
+      "code": "520102016",
+      "name": "水口寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/水口寺街道"
+    },
+    {
+      "code": "520102017",
+      "name": "望城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/望城街道"
+    },
+    {
+      "code": "520102018",
+      "name": "花果园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/花果园街道"
+    },
+    {
+      "code": "520102019",
+      "name": "兰花都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/兰花都街道"
+    },
+    {
+      "code": "520102200",
+      "name": "后巢乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/后巢乡"
+    },
+    {
+      "code": "520102201",
+      "name": "云关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/云关乡"
+    },
+    {
+      "code": "520102202",
+      "name": "永乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/永乐乡"
+    },
+    {
+      "code": "520102203",
+      "name": "小碧布依族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520102",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/南明区/小碧布依族苗族乡"
+    }
+  ]
+}

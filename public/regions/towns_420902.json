@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "420902001",
+      "name": "书院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/书院街道"
+    },
+    {
+      "code": "420902002",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/新华街道"
+    },
+    {
+      "code": "420902003",
+      "name": "广场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/广场街道"
+    },
+    {
+      "code": "420902004",
+      "name": "车站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/车站街道"
+    },
+    {
+      "code": "420902100",
+      "name": "新铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/新铺镇"
+    },
+    {
+      "code": "420902101",
+      "name": "西河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/西河镇"
+    },
+    {
+      "code": "420902102",
+      "name": "杨店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/杨店镇"
+    },
+    {
+      "code": "420902103",
+      "name": "陡岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/陡岗镇"
+    },
+    {
+      "code": "420902104",
+      "name": "肖港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/肖港镇"
+    },
+    {
+      "code": "420902105",
+      "name": "毛陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/毛陈镇"
+    },
+    {
+      "code": "420902106",
+      "name": "三汊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/三汊镇"
+    },
+    {
+      "code": "420902107",
+      "name": "祝站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/祝站镇"
+    },
+    {
+      "code": "420902200",
+      "name": "朋兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/朋兴乡"
+    },
+    {
+      "code": "420902201",
+      "name": "卧龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/卧龙乡"
+    },
+    {
+      "code": "420902202",
+      "name": "闵集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420902",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝南区/闵集乡"
+    }
+  ]
+}

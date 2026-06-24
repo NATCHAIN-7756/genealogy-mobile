@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "640105001",
+      "name": "西花园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/西花园路街道"
+    },
+    {
+      "code": "640105002",
+      "name": "北京西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/北京西路街道"
+    },
+    {
+      "code": "640105003",
+      "name": "文昌路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/文昌路街道"
+    },
+    {
+      "code": "640105004",
+      "name": "朔方路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/朔方路街道"
+    },
+    {
+      "code": "640105005",
+      "name": "宁华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/宁华路街道"
+    },
+    {
+      "code": "640105006",
+      "name": "贺兰山西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/贺兰山西路街道"
+    },
+    {
+      "code": "640105007",
+      "name": "怀远路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/怀远路街道"
+    },
+    {
+      "code": "640105100",
+      "name": "兴泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/兴泾镇"
+    },
+    {
+      "code": "640105101",
+      "name": "镇北堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640105",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/西夏区/镇北堡镇"
+    }
+  ]
+}

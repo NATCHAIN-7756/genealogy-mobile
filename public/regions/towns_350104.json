@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "350104001",
+      "name": "仓前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/仓前街道"
+    },
+    {
+      "code": "350104002",
+      "name": "东升街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/东升街道"
+    },
+    {
+      "code": "350104003",
+      "name": "对湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/对湖街道"
+    },
+    {
+      "code": "350104004",
+      "name": "临江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/临江街道"
+    },
+    {
+      "code": "350104005",
+      "name": "三叉街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/三叉街街道"
+    },
+    {
+      "code": "350104006",
+      "name": "上渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/上渡街道"
+    },
+    {
+      "code": "350104007",
+      "name": "下渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/下渡街道"
+    },
+    {
+      "code": "350104008",
+      "name": "金山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/金山街道"
+    },
+    {
+      "code": "350104100",
+      "name": "仓山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/仓山镇"
+    },
+    {
+      "code": "350104101",
+      "name": "城门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/城门镇"
+    },
+    {
+      "code": "350104102",
+      "name": "盖山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/盖山镇"
+    },
+    {
+      "code": "350104103",
+      "name": "建新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/建新镇"
+    },
+    {
+      "code": "350104104",
+      "name": "螺洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350104",
+      "year": 0,
+      "name_path": "福建省/福州市/仓山区/螺洲镇"
+    }
+  ]
+}

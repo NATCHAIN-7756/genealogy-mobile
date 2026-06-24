@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "320581001",
+      "name": "碧溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/碧溪街道"
+    },
+    {
+      "code": "320581003",
+      "name": "东南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/东南街道"
+    },
+    {
+      "code": "320581004",
+      "name": "虞山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/虞山街道"
+    },
+    {
+      "code": "320581005",
+      "name": "琴川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/琴川街道"
+    },
+    {
+      "code": "320581006",
+      "name": "莫城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/莫城街道"
+    },
+    {
+      "code": "320581007",
+      "name": "常福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/常福街道"
+    },
+    {
+      "code": "320581101",
+      "name": "梅李镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/梅李镇"
+    },
+    {
+      "code": "320581102",
+      "name": "海虞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/海虞镇"
+    },
+    {
+      "code": "320581107",
+      "name": "古里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/古里镇"
+    },
+    {
+      "code": "320581108",
+      "name": "沙家浜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/沙家浜镇"
+    },
+    {
+      "code": "320581109",
+      "name": "支塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/支塘镇"
+    },
+    {
+      "code": "320581111",
+      "name": "董浜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/董浜镇"
+    },
+    {
+      "code": "320581117",
+      "name": "尚湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/尚湖镇"
+    },
+    {
+      "code": "320581120",
+      "name": "辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320581",
+      "year": 0,
+      "name_path": "江苏省/苏州市/常熟市/辛庄镇"
+    }
+  ]
+}

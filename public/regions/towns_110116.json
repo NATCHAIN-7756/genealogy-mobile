@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "110116001",
+      "name": "泉河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/泉河街道"
+    },
+    {
+      "code": "110116002",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/龙山街道"
+    },
+    {
+      "code": "110116003",
+      "name": "怀柔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/怀柔镇"
+    },
+    {
+      "code": "110116004",
+      "name": "雁栖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/雁栖镇"
+    },
+    {
+      "code": "110116005",
+      "name": "庙城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/庙城镇"
+    },
+    {
+      "code": "110116102",
+      "name": "北房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/北房镇"
+    },
+    {
+      "code": "110116103",
+      "name": "杨宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/杨宋镇"
+    },
+    {
+      "code": "110116105",
+      "name": "桥梓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/桥梓镇"
+    },
+    {
+      "code": "110116106",
+      "name": "怀北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/怀北镇"
+    },
+    {
+      "code": "110116107",
+      "name": "汤河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/汤河口镇"
+    },
+    {
+      "code": "110116108",
+      "name": "渤海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/渤海镇"
+    },
+    {
+      "code": "110116109",
+      "name": "九渡河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/九渡河镇"
+    },
+    {
+      "code": "110116110",
+      "name": "琉璃庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/琉璃庙镇"
+    },
+    {
+      "code": "110116111",
+      "name": "宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/宝山镇"
+    },
+    {
+      "code": "110116211",
+      "name": "长哨营满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/长哨营满族乡"
+    },
+    {
+      "code": "110116213",
+      "name": "喇叭沟门满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110116",
+      "year": 0,
+      "name_path": "北京市/怀柔区/喇叭沟门满族乡"
+    }
+  ]
+}

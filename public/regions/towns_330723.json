@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "330723001",
+      "name": "白洋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/白洋街道"
+    },
+    {
+      "code": "330723002",
+      "name": "壶山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/壶山街道"
+    },
+    {
+      "code": "330723003",
+      "name": "熟溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/熟溪街道"
+    },
+    {
+      "code": "330723100",
+      "name": "柳城畲族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/柳城畲族镇"
+    },
+    {
+      "code": "330723101",
+      "name": "履坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/履坦镇"
+    },
+    {
+      "code": "330723102",
+      "name": "桐琴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/桐琴镇"
+    },
+    {
+      "code": "330723103",
+      "name": "泉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/泉溪镇"
+    },
+    {
+      "code": "330723104",
+      "name": "新宅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/新宅镇"
+    },
+    {
+      "code": "330723105",
+      "name": "王宅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/王宅镇"
+    },
+    {
+      "code": "330723106",
+      "name": "桃溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/桃溪镇"
+    },
+    {
+      "code": "330723107",
+      "name": "茭道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/茭道镇"
+    },
+    {
+      "code": "330723200",
+      "name": "大田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/大田乡"
+    },
+    {
+      "code": "330723201",
+      "name": "白姆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/白姆乡"
+    },
+    {
+      "code": "330723202",
+      "name": "俞源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/俞源乡"
+    },
+    {
+      "code": "330723203",
+      "name": "坦洪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/坦洪乡"
+    },
+    {
+      "code": "330723204",
+      "name": "西联乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/西联乡"
+    },
+    {
+      "code": "330723205",
+      "name": "三港乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/三港乡"
+    },
+    {
+      "code": "330723206",
+      "name": "大溪口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330723",
+      "year": 0,
+      "name_path": "浙江省/金华市/武义县/大溪口乡"
+    }
+  ]
+}

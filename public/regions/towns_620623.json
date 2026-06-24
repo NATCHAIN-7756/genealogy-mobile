@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "620623100",
+      "name": "华藏寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/华藏寺镇"
+    },
+    {
+      "code": "620623101",
+      "name": "打柴沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/打柴沟镇"
+    },
+    {
+      "code": "620623102",
+      "name": "安远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/安远镇"
+    },
+    {
+      "code": "620623103",
+      "name": "炭山岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/炭山岭镇"
+    },
+    {
+      "code": "620623104",
+      "name": "哈溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/哈溪镇"
+    },
+    {
+      "code": "620623105",
+      "name": "松山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/松山镇"
+    },
+    {
+      "code": "620623106",
+      "name": "赛什斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/赛什斯镇"
+    },
+    {
+      "code": "620623107",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/石门镇"
+    },
+    {
+      "code": "620623108",
+      "name": "天堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/天堂镇"
+    },
+    {
+      "code": "620623109",
+      "name": "朵什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/朵什镇"
+    },
+    {
+      "code": "620623110",
+      "name": "西大滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/西大滩镇"
+    },
+    {
+      "code": "620623120",
+      "name": "大红沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/大红沟镇"
+    },
+    {
+      "code": "620623130",
+      "name": "抓喜秀龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/抓喜秀龙镇"
+    },
+    {
+      "code": "620623140",
+      "name": "祁连镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/祁连镇"
+    },
+    {
+      "code": "620623203",
+      "name": "东坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/东坪乡"
+    },
+    {
+      "code": "620623205",
+      "name": "赛拉隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/赛拉隆乡"
+    },
+    {
+      "code": "620623206",
+      "name": "东大滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/东大滩乡"
+    },
+    {
+      "code": "620623213",
+      "name": "旦马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/旦马乡"
+    },
+    {
+      "code": "620623214",
+      "name": "毛藏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620623",
+      "year": 0,
+      "name_path": "甘肃省/武威市/天祝藏族自治县/毛藏乡"
+    }
+  ]
+}

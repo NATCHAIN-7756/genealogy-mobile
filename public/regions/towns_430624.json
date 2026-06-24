@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "430624001",
+      "name": "文星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/文星街道"
+    },
+    {
+      "code": "430624101",
+      "name": "东塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/东塘镇"
+    },
+    {
+      "code": "430624104",
+      "name": "樟树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/樟树镇"
+    },
+    {
+      "code": "430624105",
+      "name": "鹤龙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/鹤龙湖镇"
+    },
+    {
+      "code": "430624107",
+      "name": "新泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/新泉镇"
+    },
+    {
+      "code": "430624111",
+      "name": "南湖洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/南湖洲镇"
+    },
+    {
+      "code": "430624114",
+      "name": "岭北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/岭北镇"
+    },
+    {
+      "code": "430624115",
+      "name": "湘滨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/湘滨镇"
+    },
+    {
+      "code": "430624117",
+      "name": "三塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/三塘镇"
+    },
+    {
+      "code": "430624120",
+      "name": "静河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/静河镇"
+    },
+    {
+      "code": "430624124",
+      "name": "石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/石塘镇"
+    },
+    {
+      "code": "430624125",
+      "name": "洋沙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/洋沙湖镇"
+    },
+    {
+      "code": "430624126",
+      "name": "金龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/金龙镇"
+    },
+    {
+      "code": "430624201",
+      "name": "六塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/六塘乡"
+    },
+    {
+      "code": "430624217",
+      "name": "杨林寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430624",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/湘阴县/杨林寨乡"
+    }
+  ]
+}

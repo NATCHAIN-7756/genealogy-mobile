@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "360281001",
+      "name": "塔山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/塔山街道"
+    },
+    {
+      "code": "360281002",
+      "name": "洎阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/洎阳街道"
+    },
+    {
+      "code": "360281003",
+      "name": "后港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/后港街道"
+    },
+    {
+      "code": "360281004",
+      "name": "接渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/接渡街道"
+    },
+    {
+      "code": "360281101",
+      "name": "镇桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/镇桥镇"
+    },
+    {
+      "code": "360281102",
+      "name": "乐港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/乐港镇"
+    },
+    {
+      "code": "360281103",
+      "name": "涌山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/涌山镇"
+    },
+    {
+      "code": "360281104",
+      "name": "众埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/众埠镇"
+    },
+    {
+      "code": "360281107",
+      "name": "礼林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/礼林镇"
+    },
+    {
+      "code": "360281109",
+      "name": "塔前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/塔前镇"
+    },
+    {
+      "code": "360281110",
+      "name": "双田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/双田镇"
+    },
+    {
+      "code": "360281111",
+      "name": "临港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/临港镇"
+    },
+    {
+      "code": "360281112",
+      "name": "高家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/高家镇"
+    },
+    {
+      "code": "360281113",
+      "name": "名口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/名口镇"
+    },
+    {
+      "code": "360281114",
+      "name": "浯口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/浯口镇"
+    },
+    {
+      "code": "360281115",
+      "name": "洪岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/洪岩镇"
+    },
+    {
+      "code": "360281116",
+      "name": "十里岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/十里岗镇"
+    },
+    {
+      "code": "360281205",
+      "name": "鸬鹚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360281",
+      "year": 0,
+      "name_path": "江西省/景德镇市/乐平市/鸬鹚乡"
+    }
+  ]
+}

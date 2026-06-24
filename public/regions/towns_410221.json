@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "410221001",
+      "name": "金城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/金城街道"
+    },
+    {
+      "code": "410221101",
+      "name": "五里河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/五里河镇"
+    },
+    {
+      "code": "410221102",
+      "name": "傅集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/傅集镇"
+    },
+    {
+      "code": "410221103",
+      "name": "圉镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/圉镇镇"
+    },
+    {
+      "code": "410221104",
+      "name": "高阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/高阳镇"
+    },
+    {
+      "code": "410221105",
+      "name": "葛岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/葛岗镇"
+    },
+    {
+      "code": "410221106",
+      "name": "阳堌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/阳堌镇"
+    },
+    {
+      "code": "410221107",
+      "name": "邢口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/邢口镇"
+    },
+    {
+      "code": "410221200",
+      "name": "裴村店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/裴村店乡"
+    },
+    {
+      "code": "410221202",
+      "name": "宗店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/宗店乡"
+    },
+    {
+      "code": "410221203",
+      "name": "板木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/板木乡"
+    },
+    {
+      "code": "410221204",
+      "name": "竹林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/竹林乡"
+    },
+    {
+      "code": "410221205",
+      "name": "官庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/官庄乡"
+    },
+    {
+      "code": "410221206",
+      "name": "湖岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/湖岗乡"
+    },
+    {
+      "code": "410221207",
+      "name": "苏木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/苏木乡"
+    },
+    {
+      "code": "410221208",
+      "name": "沙沃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/沙沃乡"
+    },
+    {
+      "code": "410221209",
+      "name": "平城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/平城乡"
+    },
+    {
+      "code": "410221210",
+      "name": "泥沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/泥沟乡"
+    },
+    {
+      "code": "410221211",
+      "name": "柿园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/柿园乡"
+    },
+    {
+      "code": "410221212",
+      "name": "西寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/西寨乡"
+    },
+    {
+      "code": "410221213",
+      "name": "城郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410221",
+      "year": 0,
+      "name_path": "河南省/开封市/杞县/城郊乡"
+    }
+  ]
+}

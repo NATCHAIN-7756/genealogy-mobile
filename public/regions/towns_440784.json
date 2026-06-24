@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "440784001",
+      "name": "沙坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/沙坪街道"
+    },
+    {
+      "code": "440784101",
+      "name": "龙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/龙口镇"
+    },
+    {
+      "code": "440784102",
+      "name": "雅瑶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/雅瑶镇"
+    },
+    {
+      "code": "440784103",
+      "name": "古劳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/古劳镇"
+    },
+    {
+      "code": "440784104",
+      "name": "桃源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/桃源镇"
+    },
+    {
+      "code": "440784105",
+      "name": "鹤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/鹤城镇"
+    },
+    {
+      "code": "440784106",
+      "name": "共和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/共和镇"
+    },
+    {
+      "code": "440784107",
+      "name": "址山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/址山镇"
+    },
+    {
+      "code": "440784108",
+      "name": "宅梧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/宅梧镇"
+    },
+    {
+      "code": "440784110",
+      "name": "双合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440784",
+      "year": 0,
+      "name_path": "广东省/江门市/鹤山市/双合镇"
+    }
+  ]
+}

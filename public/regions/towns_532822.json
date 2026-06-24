@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "532822100",
+      "name": "勐海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐海镇"
+    },
+    {
+      "code": "532822101",
+      "name": "打洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/打洛镇"
+    },
+    {
+      "code": "532822103",
+      "name": "勐遮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐遮镇"
+    },
+    {
+      "code": "532822104",
+      "name": "勐混镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐混镇"
+    },
+    {
+      "code": "532822105",
+      "name": "勐满镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐满镇"
+    },
+    {
+      "code": "532822106",
+      "name": "勐阿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐阿镇"
+    },
+    {
+      "code": "532822201",
+      "name": "勐宋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐宋乡"
+    },
+    {
+      "code": "532822203",
+      "name": "勐往乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/勐往乡"
+    },
+    {
+      "code": "532822205",
+      "name": "格朗和哈尼族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/格朗和哈尼族乡"
+    },
+    {
+      "code": "532822206",
+      "name": "布朗山布朗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/布朗山布朗族乡"
+    },
+    {
+      "code": "532822209",
+      "name": "西定哈尼族布朗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532822",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/勐海县/西定哈尼族布朗族乡"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "340124001",
+      "name": "东顾山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/东顾山街道"
+    },
+    {
+      "code": "340124002",
+      "name": "岗湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/岗湾街道"
+    },
+    {
+      "code": "340124003",
+      "name": "移湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/移湖街道"
+    },
+    {
+      "code": "340124100",
+      "name": "庐城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/庐城镇"
+    },
+    {
+      "code": "340124101",
+      "name": "冶父山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/冶父山镇"
+    },
+    {
+      "code": "340124102",
+      "name": "万山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/万山镇"
+    },
+    {
+      "code": "340124103",
+      "name": "汤池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/汤池镇"
+    },
+    {
+      "code": "340124104",
+      "name": "郭河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/郭河镇"
+    },
+    {
+      "code": "340124105",
+      "name": "金牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/金牛镇"
+    },
+    {
+      "code": "340124106",
+      "name": "石头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/石头镇"
+    },
+    {
+      "code": "340124107",
+      "name": "白山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/白山镇"
+    },
+    {
+      "code": "340124108",
+      "name": "盛桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/盛桥镇"
+    },
+    {
+      "code": "340124109",
+      "name": "白湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/白湖镇"
+    },
+    {
+      "code": "340124110",
+      "name": "龙桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/龙桥镇"
+    },
+    {
+      "code": "340124111",
+      "name": "矾山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/矾山镇"
+    },
+    {
+      "code": "340124112",
+      "name": "罗河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/罗河镇"
+    },
+    {
+      "code": "340124113",
+      "name": "泥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/泥河镇"
+    },
+    {
+      "code": "340124114",
+      "name": "乐桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/乐桥镇"
+    },
+    {
+      "code": "340124115",
+      "name": "柯坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/柯坦镇"
+    },
+    {
+      "code": "340124116",
+      "name": "同大镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340124",
+      "year": 0,
+      "name_path": "安徽省/合肥市/庐江县/同大镇"
+    }
+  ]
+}

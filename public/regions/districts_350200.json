@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "350203",
+      "name": "思明区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350200",
+      "year": 0,
+      "name_path": "全国/福建省/厦门市/思明区"
+    },
+    {
+      "code": "350205",
+      "name": "海沧区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350200",
+      "year": 0,
+      "name_path": "全国/福建省/厦门市/海沧区"
+    },
+    {
+      "code": "350206",
+      "name": "湖里区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350200",
+      "year": 0,
+      "name_path": "全国/福建省/厦门市/湖里区"
+    },
+    {
+      "code": "350211",
+      "name": "集美区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350200",
+      "year": 0,
+      "name_path": "全国/福建省/厦门市/集美区"
+    },
+    {
+      "code": "350212",
+      "name": "同安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350200",
+      "year": 0,
+      "name_path": "全国/福建省/厦门市/同安区"
+    },
+    {
+      "code": "350213",
+      "name": "翔安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350200",
+      "year": 0,
+      "name_path": "全国/福建省/厦门市/翔安区"
+    }
+  ]
+}

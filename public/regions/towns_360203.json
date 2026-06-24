@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "360203001",
+      "name": "珠山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/珠山街道"
+    },
+    {
+      "code": "360203003",
+      "name": "里村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/里村街道"
+    },
+    {
+      "code": "360203004",
+      "name": "新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/新村街道"
+    },
+    {
+      "code": "360203005",
+      "name": "石狮埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/石狮埠街道"
+    },
+    {
+      "code": "360203006",
+      "name": "新厂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/新厂街道"
+    },
+    {
+      "code": "360203007",
+      "name": "昌江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/昌江街道"
+    },
+    {
+      "code": "360203008",
+      "name": "周路口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/周路口街道"
+    },
+    {
+      "code": "360203009",
+      "name": "昌河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/昌河街道"
+    },
+    {
+      "code": "360203010",
+      "name": "太白园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/太白园街道"
+    },
+    {
+      "code": "360203011",
+      "name": "竟成街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360203",
+      "year": 0,
+      "name_path": "江西省/景德镇市/珠山区/竟成街道"
+    }
+  ]
+}

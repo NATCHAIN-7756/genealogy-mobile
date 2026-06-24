@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610628001",
+      "name": "茶坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/茶坊街道"
+    },
+    {
+      "code": "610628102",
+      "name": "张村驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/张村驿镇"
+    },
+    {
+      "code": "610628103",
+      "name": "张家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/张家湾镇"
+    },
+    {
+      "code": "610628104",
+      "name": "直罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/直罗镇"
+    },
+    {
+      "code": "610628106",
+      "name": "牛武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/牛武镇"
+    },
+    {
+      "code": "610628110",
+      "name": "寺仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/寺仙镇"
+    },
+    {
+      "code": "610628111",
+      "name": "羊泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/羊泉镇"
+    },
+    {
+      "code": "610628204",
+      "name": "北道德乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "610628",
+      "year": 0,
+      "name_path": "陕西省/延安市/富县/北道德乡"
+    }
+  ]
+}

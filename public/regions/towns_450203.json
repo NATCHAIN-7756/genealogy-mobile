@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "450203001",
+      "name": "天马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/天马街道"
+    },
+    {
+      "code": "450203002",
+      "name": "驾鹤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/驾鹤街道"
+    },
+    {
+      "code": "450203003",
+      "name": "箭盘山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/箭盘山街道"
+    },
+    {
+      "code": "450203004",
+      "name": "五里亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/五里亭街道"
+    },
+    {
+      "code": "450203005",
+      "name": "荣军街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/荣军街道"
+    },
+    {
+      "code": "450203007",
+      "name": "白莲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/白莲街道"
+    },
+    {
+      "code": "450203008",
+      "name": "麒麟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/麒麟街道"
+    },
+    {
+      "code": "450203009",
+      "name": "阳和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/阳和街道"
+    },
+    {
+      "code": "450203100",
+      "name": "洛埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/洛埠镇"
+    },
+    {
+      "code": "450203101",
+      "name": "雒容镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/雒容镇"
+    },
+    {
+      "code": "450203102",
+      "name": "里雍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/里雍镇"
+    },
+    {
+      "code": "450203103",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450203",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/鱼峰区/白沙镇"
+    }
+  ]
+}

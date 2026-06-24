@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "360829100",
+      "name": "平都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/平都镇"
+    },
+    {
+      "code": "360829101",
+      "name": "浒坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/浒坑镇"
+    },
+    {
+      "code": "360829102",
+      "name": "洲湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/洲湖镇"
+    },
+    {
+      "code": "360829103",
+      "name": "横龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/横龙镇"
+    },
+    {
+      "code": "360829104",
+      "name": "枫田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/枫田镇"
+    },
+    {
+      "code": "360829105",
+      "name": "洋溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/洋溪镇"
+    },
+    {
+      "code": "360829106",
+      "name": "严田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/严田镇"
+    },
+    {
+      "code": "360829107",
+      "name": "羊狮慕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/羊狮慕镇"
+    },
+    {
+      "code": "360829201",
+      "name": "竹江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/竹江乡"
+    },
+    {
+      "code": "360829202",
+      "name": "瓜畲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/瓜畲乡"
+    },
+    {
+      "code": "360829203",
+      "name": "钱山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/钱山乡"
+    },
+    {
+      "code": "360829204",
+      "name": "赤谷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/赤谷乡"
+    },
+    {
+      "code": "360829206",
+      "name": "山庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/山庄乡"
+    },
+    {
+      "code": "360829207",
+      "name": "洋门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/洋门乡"
+    },
+    {
+      "code": "360829209",
+      "name": "金田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/金田乡"
+    },
+    {
+      "code": "360829210",
+      "name": "彭坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/彭坊乡"
+    },
+    {
+      "code": "360829214",
+      "name": "寮塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/寮塘乡"
+    },
+    {
+      "code": "360829215",
+      "name": "甘洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/甘洛乡"
+    },
+    {
+      "code": "360829216",
+      "name": "章庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360829",
+      "year": 0,
+      "name_path": "江西省/吉安市/安福县/章庄乡"
+    }
+  ]
+}

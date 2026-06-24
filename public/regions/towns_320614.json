@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "320614001",
+      "name": "海门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/海门街道"
+    },
+    {
+      "code": "320614002",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/滨江街道"
+    },
+    {
+      "code": "320614003",
+      "name": "三厂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/三厂街道"
+    },
+    {
+      "code": "320614101",
+      "name": "三星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/三星镇"
+    },
+    {
+      "code": "320614102",
+      "name": "海永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/海永镇"
+    },
+    {
+      "code": "320614103",
+      "name": "常乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/常乐镇"
+    },
+    {
+      "code": "320614104",
+      "name": "悦来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/悦来镇"
+    },
+    {
+      "code": "320614105",
+      "name": "四甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/四甲镇"
+    },
+    {
+      "code": "320614106",
+      "name": "余东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/余东镇"
+    },
+    {
+      "code": "320614107",
+      "name": "正余镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/正余镇"
+    },
+    {
+      "code": "320614108",
+      "name": "包场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/包场镇"
+    },
+    {
+      "code": "320614109",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320614",
+      "year": 0,
+      "name_path": "江苏省/南通市/海门区/临江镇"
+    }
+  ]
+}

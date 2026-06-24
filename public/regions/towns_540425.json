@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "540425100",
+      "name": "竹瓦根镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540425",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/察隅县/竹瓦根镇"
+    },
+    {
+      "code": "540425101",
+      "name": "上察隅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540425",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/察隅县/上察隅镇"
+    },
+    {
+      "code": "540425102",
+      "name": "下察隅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540425",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/察隅县/下察隅镇"
+    },
+    {
+      "code": "540425200",
+      "name": "察瓦龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540425",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/察隅县/察瓦龙乡"
+    },
+    {
+      "code": "540425201",
+      "name": "古拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540425",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/察隅县/古拉乡"
+    },
+    {
+      "code": "540425202",
+      "name": "古玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540425",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/察隅县/古玉乡"
+    }
+  ]
+}

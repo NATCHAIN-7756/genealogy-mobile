@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "330825001",
+      "name": "东华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/东华街道"
+    },
+    {
+      "code": "330825002",
+      "name": "龙洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/龙洲街道"
+    },
+    {
+      "code": "330825101",
+      "name": "湖镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/湖镇镇"
+    },
+    {
+      "code": "330825102",
+      "name": "小南海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/小南海镇"
+    },
+    {
+      "code": "330825103",
+      "name": "溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/溪口镇"
+    },
+    {
+      "code": "330825104",
+      "name": "横山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/横山镇"
+    },
+    {
+      "code": "330825105",
+      "name": "塔石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/塔石镇"
+    },
+    {
+      "code": "330825106",
+      "name": "詹家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/詹家镇"
+    },
+    {
+      "code": "330825201",
+      "name": "罗家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/罗家乡"
+    },
+    {
+      "code": "330825203",
+      "name": "庙下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/庙下乡"
+    },
+    {
+      "code": "330825204",
+      "name": "沐尘畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/沐尘畲族乡"
+    },
+    {
+      "code": "330825206",
+      "name": "模环乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/模环乡"
+    },
+    {
+      "code": "330825207",
+      "name": "石佛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/石佛乡"
+    },
+    {
+      "code": "330825209",
+      "name": "社阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/社阳乡"
+    },
+    {
+      "code": "330825211",
+      "name": "大街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330825",
+      "year": 0,
+      "name_path": "浙江省/衢州市/龙游县/大街乡"
+    }
+  ]
+}

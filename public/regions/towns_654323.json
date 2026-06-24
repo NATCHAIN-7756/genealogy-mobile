@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "654323100",
+      "name": "福海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654323",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/福海县/福海镇"
+    },
+    {
+      "code": "654323101",
+      "name": "喀拉玛盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654323",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/福海县/喀拉玛盖镇"
+    },
+    {
+      "code": "654323102",
+      "name": "解特阿热勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654323",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/福海县/解特阿热勒镇"
+    },
+    {
+      "code": "654323201",
+      "name": "阔克阿尕什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654323",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/福海县/阔克阿尕什乡"
+    },
+    {
+      "code": "654323202",
+      "name": "齐干吉迭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654323",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/福海县/齐干吉迭乡"
+    },
+    {
+      "code": "654323204",
+      "name": "阿尔达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654323",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/福海县/阿尔达乡"
+    }
+  ]
+}

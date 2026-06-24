@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "450202001",
+      "name": "城中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/城中街道"
+    },
+    {
+      "code": "450202002",
+      "name": "公园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/公园街道"
+    },
+    {
+      "code": "450202003",
+      "name": "中南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/中南街道"
+    },
+    {
+      "code": "450202004",
+      "name": "沿江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/沿江街道"
+    },
+    {
+      "code": "450202005",
+      "name": "潭中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/潭中街道"
+    },
+    {
+      "code": "450202006",
+      "name": "河东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/河东街道"
+    },
+    {
+      "code": "450202007",
+      "name": "静兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450202",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/城中区/静兰街道"
+    }
+  ]
+}

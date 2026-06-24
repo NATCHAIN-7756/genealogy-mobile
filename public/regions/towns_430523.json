@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "430523100",
+      "name": "塘渡口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/塘渡口镇"
+    },
+    {
+      "code": "430523101",
+      "name": "白仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/白仓镇"
+    },
+    {
+      "code": "430523102",
+      "name": "金称市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/金称市镇"
+    },
+    {
+      "code": "430523103",
+      "name": "塘田市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/塘田市镇"
+    },
+    {
+      "code": "430523104",
+      "name": "黄亭市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/黄亭市镇"
+    },
+    {
+      "code": "430523105",
+      "name": "长阳铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/长阳铺镇"
+    },
+    {
+      "code": "430523106",
+      "name": "岩口铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/岩口铺镇"
+    },
+    {
+      "code": "430523107",
+      "name": "九公桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/九公桥镇"
+    },
+    {
+      "code": "430523108",
+      "name": "下花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/下花桥镇"
+    },
+    {
+      "code": "430523109",
+      "name": "谷洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/谷洲镇"
+    },
+    {
+      "code": "430523110",
+      "name": "郦家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/郦家坪镇"
+    },
+    {
+      "code": "430523111",
+      "name": "五峰铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/五峰铺镇"
+    },
+    {
+      "code": "430523112",
+      "name": "小溪市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/小溪市镇"
+    },
+    {
+      "code": "430523203",
+      "name": "长乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/长乐乡"
+    },
+    {
+      "code": "430523204",
+      "name": "蔡桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/蔡桥乡"
+    },
+    {
+      "code": "430523205",
+      "name": "河伯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/河伯乡"
+    },
+    {
+      "code": "430523206",
+      "name": "黄荆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/黄荆乡"
+    },
+    {
+      "code": "430523207",
+      "name": "诸甲亭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/诸甲亭乡"
+    },
+    {
+      "code": "430523208",
+      "name": "罗城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/罗城乡"
+    },
+    {
+      "code": "430523209",
+      "name": "金江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430523",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/邵阳县/金江乡"
+    }
+  ]
+}

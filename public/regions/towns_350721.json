@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "350721001",
+      "name": "双溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/双溪街道"
+    },
+    {
+      "code": "350721101",
+      "name": "建西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/建西镇"
+    },
+    {
+      "code": "350721102",
+      "name": "洋口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/洋口镇"
+    },
+    {
+      "code": "350721103",
+      "name": "元坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/元坑镇"
+    },
+    {
+      "code": "350721105",
+      "name": "埔上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/埔上镇"
+    },
+    {
+      "code": "350721106",
+      "name": "大历镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/大历镇"
+    },
+    {
+      "code": "350721107",
+      "name": "大干镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/大干镇"
+    },
+    {
+      "code": "350721108",
+      "name": "仁寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/仁寿镇"
+    },
+    {
+      "code": "350721109",
+      "name": "郑坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/郑坊镇"
+    },
+    {
+      "code": "350721200",
+      "name": "洋墩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/洋墩乡"
+    },
+    {
+      "code": "350721203",
+      "name": "岚下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/岚下乡"
+    },
+    {
+      "code": "350721204",
+      "name": "高阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350721",
+      "year": 0,
+      "name_path": "福建省/南平市/顺昌县/高阳乡"
+    }
+  ]
+}

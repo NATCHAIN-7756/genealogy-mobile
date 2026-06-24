@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "653226100",
+      "name": "木尕拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/木尕拉镇"
+    },
+    {
+      "code": "653226101",
+      "name": "先拜巴扎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/先拜巴扎镇"
+    },
+    {
+      "code": "653226200",
+      "name": "加依乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/加依乡"
+    },
+    {
+      "code": "653226201",
+      "name": "科克亚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/科克亚乡"
+    },
+    {
+      "code": "653226202",
+      "name": "阿热勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/阿热勒乡"
+    },
+    {
+      "code": "653226203",
+      "name": "阿日希乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/阿日希乡"
+    },
+    {
+      "code": "653226204",
+      "name": "兰干乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/兰干乡"
+    },
+    {
+      "code": "653226205",
+      "name": "斯也克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/斯也克乡"
+    },
+    {
+      "code": "653226206",
+      "name": "托格日尕孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/托格日尕孜乡"
+    },
+    {
+      "code": "653226207",
+      "name": "喀拉克尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/喀拉克尔乡"
+    },
+    {
+      "code": "653226208",
+      "name": "奥依托格拉克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/奥依托格拉克乡"
+    },
+    {
+      "code": "653226209",
+      "name": "阿羌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/阿羌乡"
+    },
+    {
+      "code": "653226210",
+      "name": "英巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/英巴格乡"
+    },
+    {
+      "code": "653226211",
+      "name": "希吾勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/希吾勒乡"
+    },
+    {
+      "code": "653226212",
+      "name": "达里雅布依乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653226",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/于田县/达里雅布依乡"
+    }
+  ]
+}

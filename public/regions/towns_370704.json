@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "370704001",
+      "name": "坊城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/坊城街道"
+    },
+    {
+      "code": "370704003",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/凤凰街道"
+    },
+    {
+      "code": "370704004",
+      "name": "坊安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/坊安街道"
+    },
+    {
+      "code": "370704005",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/九龙街道"
+    },
+    {
+      "code": "370704006",
+      "name": "黄旗堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/黄旗堡街道"
+    },
+    {
+      "code": "370704007",
+      "name": "王家庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/王家庄街道"
+    },
+    {
+      "code": "370704008",
+      "name": "太保庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/太保庄街道"
+    },
+    {
+      "code": "370704009",
+      "name": "郑公街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370704",
+      "year": 0,
+      "name_path": "山东省/潍坊市/坊子区/郑公街道"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "120117001",
+      "name": "芦台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/芦台街道"
+    },
+    {
+      "code": "120117002",
+      "name": "桥北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/桥北街道"
+    },
+    {
+      "code": "120117101",
+      "name": "宁河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/宁河镇"
+    },
+    {
+      "code": "120117102",
+      "name": "苗庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/苗庄镇"
+    },
+    {
+      "code": "120117103",
+      "name": "丰台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/丰台镇"
+    },
+    {
+      "code": "120117104",
+      "name": "岳龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/岳龙镇"
+    },
+    {
+      "code": "120117105",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/板桥镇"
+    },
+    {
+      "code": "120117106",
+      "name": "潘庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/潘庄镇"
+    },
+    {
+      "code": "120117107",
+      "name": "造甲城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/造甲城镇"
+    },
+    {
+      "code": "120117108",
+      "name": "七里海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/七里海镇"
+    },
+    {
+      "code": "120117109",
+      "name": "大北涧沽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/大北涧沽镇"
+    },
+    {
+      "code": "120117110",
+      "name": "东棘坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/东棘坨镇"
+    },
+    {
+      "code": "120117111",
+      "name": "俵口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/俵口镇"
+    },
+    {
+      "code": "120117112",
+      "name": "廉庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/廉庄镇"
+    },
+    {
+      "code": "120117113",
+      "name": "北淮淀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120117",
+      "year": 0,
+      "name_path": "天津市/宁河区/北淮淀镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540231100",
+      "name": "江嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/江嘎镇"
+    },
+    {
+      "code": "540231101",
+      "name": "陈塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/陈塘镇"
+    },
+    {
+      "code": "540231102",
+      "name": "日屋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/日屋镇"
+    },
+    {
+      "code": "540231201",
+      "name": "确布乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/确布乡"
+    },
+    {
+      "code": "540231202",
+      "name": "定结乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/定结乡"
+    },
+    {
+      "code": "540231203",
+      "name": "多布扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/多布扎乡"
+    },
+    {
+      "code": "540231204",
+      "name": "扎西岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/扎西岗乡"
+    },
+    {
+      "code": "540231205",
+      "name": "琼孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/琼孜乡"
+    },
+    {
+      "code": "540231206",
+      "name": "萨尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/萨尔乡"
+    },
+    {
+      "code": "540231207",
+      "name": "郭加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540231",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定结县/郭加乡"
+    }
+  ]
+}

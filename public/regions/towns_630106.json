@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "630106001",
+      "name": "康川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/康川街道"
+    },
+    {
+      "code": "630106100",
+      "name": "田家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/田家寨镇"
+    },
+    {
+      "code": "630106101",
+      "name": "上新庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/上新庄镇"
+    },
+    {
+      "code": "630106102",
+      "name": "鲁沙尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/鲁沙尔镇"
+    },
+    {
+      "code": "630106103",
+      "name": "甘河滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/甘河滩镇"
+    },
+    {
+      "code": "630106104",
+      "name": "共和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/共和镇"
+    },
+    {
+      "code": "630106105",
+      "name": "多巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/多巴镇"
+    },
+    {
+      "code": "630106106",
+      "name": "拦隆口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/拦隆口镇"
+    },
+    {
+      "code": "630106107",
+      "name": "上五庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/上五庄镇"
+    },
+    {
+      "code": "630106108",
+      "name": "李家山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/李家山镇"
+    },
+    {
+      "code": "630106109",
+      "name": "西堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/西堡镇"
+    },
+    {
+      "code": "630106200",
+      "name": "群加藏族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/群加藏族乡"
+    },
+    {
+      "code": "630106201",
+      "name": "土门关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/土门关乡"
+    },
+    {
+      "code": "630106202",
+      "name": "汉东回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/汉东回族乡"
+    },
+    {
+      "code": "630106203",
+      "name": "大才回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/大才回族乡"
+    },
+    {
+      "code": "630106204",
+      "name": "海子沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "630106",
+      "year": 0,
+      "name_path": "青海省/西宁市/湟中区/海子沟乡"
+    }
+  ]
+}

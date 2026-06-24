@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "330727001",
+      "name": "安文街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/安文街道"
+    },
+    {
+      "code": "330727002",
+      "name": "新渥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/新渥街道"
+    },
+    {
+      "code": "330727102",
+      "name": "尖山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/尖山镇"
+    },
+    {
+      "code": "330727103",
+      "name": "仁川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/仁川镇"
+    },
+    {
+      "code": "330727104",
+      "name": "大盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/大盘镇"
+    },
+    {
+      "code": "330727105",
+      "name": "方前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/方前镇"
+    },
+    {
+      "code": "330727106",
+      "name": "玉山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/玉山镇"
+    },
+    {
+      "code": "330727107",
+      "name": "尚湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/尚湖镇"
+    },
+    {
+      "code": "330727108",
+      "name": "冷水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/冷水镇"
+    },
+    {
+      "code": "330727201",
+      "name": "双峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/双峰乡"
+    },
+    {
+      "code": "330727203",
+      "name": "双溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/双溪乡"
+    },
+    {
+      "code": "330727205",
+      "name": "窈川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/窈川乡"
+    },
+    {
+      "code": "330727206",
+      "name": "盘峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/盘峰乡"
+    },
+    {
+      "code": "330727211",
+      "name": "九和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330727",
+      "year": 0,
+      "name_path": "浙江省/金华市/磐安县/九和乡"
+    }
+  ]
+}

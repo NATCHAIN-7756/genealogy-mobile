@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "360302",
+      "name": "安源区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360300",
+      "year": 0,
+      "name_path": "全国/江西省/萍乡市/安源区"
+    },
+    {
+      "code": "360313",
+      "name": "湘东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "360300",
+      "year": 0,
+      "name_path": "全国/江西省/萍乡市/湘东区"
+    },
+    {
+      "code": "360321",
+      "name": "莲花县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360300",
+      "year": 0,
+      "name_path": "全国/江西省/萍乡市/莲花县"
+    },
+    {
+      "code": "360322",
+      "name": "上栗县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360300",
+      "year": 0,
+      "name_path": "全国/江西省/萍乡市/上栗县"
+    },
+    {
+      "code": "360323",
+      "name": "芦溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "360300",
+      "year": 0,
+      "name_path": "全国/江西省/萍乡市/芦溪县"
+    }
+  ]
+}

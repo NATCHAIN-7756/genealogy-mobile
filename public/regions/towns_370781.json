@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "370781001",
+      "name": "王府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/王府街道"
+    },
+    {
+      "code": "370781002",
+      "name": "益都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/益都街道"
+    },
+    {
+      "code": "370781006",
+      "name": "云门山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/云门山街道"
+    },
+    {
+      "code": "370781008",
+      "name": "黄楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/黄楼街道"
+    },
+    {
+      "code": "370781100",
+      "name": "弥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/弥河镇"
+    },
+    {
+      "code": "370781101",
+      "name": "王坟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/王坟镇"
+    },
+    {
+      "code": "370781103",
+      "name": "庙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/庙子镇"
+    },
+    {
+      "code": "370781105",
+      "name": "邵庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/邵庄镇"
+    },
+    {
+      "code": "370781109",
+      "name": "高柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/高柳镇"
+    },
+    {
+      "code": "370781111",
+      "name": "何官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/何官镇"
+    },
+    {
+      "code": "370781113",
+      "name": "东夏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/东夏镇"
+    },
+    {
+      "code": "370781115",
+      "name": "谭坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370781",
+      "year": 0,
+      "name_path": "山东省/潍坊市/青州市/谭坊镇"
+    }
+  ]
+}

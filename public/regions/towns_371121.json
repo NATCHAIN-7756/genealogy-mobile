@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "371121001",
+      "name": "洪凝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/洪凝街道"
+    },
+    {
+      "code": "371121002",
+      "name": "高泽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/高泽街道"
+    },
+    {
+      "code": "371121102",
+      "name": "街头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/街头镇"
+    },
+    {
+      "code": "371121103",
+      "name": "潮河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/潮河镇"
+    },
+    {
+      "code": "371121104",
+      "name": "许孟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/许孟镇"
+    },
+    {
+      "code": "371121105",
+      "name": "于里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/于里镇"
+    },
+    {
+      "code": "371121106",
+      "name": "汪湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/汪湖镇"
+    },
+    {
+      "code": "371121107",
+      "name": "叩官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/叩官镇"
+    },
+    {
+      "code": "371121108",
+      "name": "中至镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/中至镇"
+    },
+    {
+      "code": "371121110",
+      "name": "松柏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/松柏镇"
+    },
+    {
+      "code": "371121201",
+      "name": "石场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/石场乡"
+    },
+    {
+      "code": "371121202",
+      "name": "户部乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371121",
+      "year": 0,
+      "name_path": "山东省/日照市/五莲县/户部乡"
+    }
+  ]
+}

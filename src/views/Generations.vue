@@ -52,12 +52,7 @@
     
     <van-empty v-if="generations.length === 0" description="暂无世系数据" />
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -66,6 +61,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
 import { memberApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -135,14 +131,8 @@ async function loadGenerations() {
     
   } catch (e) {
     showToast('加载失败')
-    // 模拟数据
-    generations.value = [
-      { order: 1, memberCount: 1, timeRange: '明洪武年间', branches: '始迁祖', isAncestor: true, isCurrent: false },
-      { order: 2, memberCount: 3, timeRange: '明永乐年间', branches: '三房分支', isAncestor: false, isCurrent: false },
-      { order: 3, memberCount: 8, timeRange: '明正统年间', branches: '长房3人·二房3人·三房2人', isAncestor: false, isCurrent: false },
-      { order: 15, memberCount: 86, timeRange: '1960-1990年', branches: '长房30人·二房35人·三房21人', isAncestor: false, isCurrent: true }
-    ]
-    stats.value = { totalGenerations: 15, totalMembers: 520, currentGeneration: 15 }
+    generations.value = []
+    stats.value = {}
   }
 }
 

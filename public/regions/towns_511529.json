@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "511529100",
+      "name": "锦屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/锦屏镇"
+    },
+    {
+      "code": "511529101",
+      "name": "新市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/新市镇"
+    },
+    {
+      "code": "511529102",
+      "name": "中都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/中都镇"
+    },
+    {
+      "code": "511529103",
+      "name": "龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/龙华镇"
+    },
+    {
+      "code": "511529104",
+      "name": "大乘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/大乘镇"
+    },
+    {
+      "code": "511529107",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/新安镇"
+    },
+    {
+      "code": "511529108",
+      "name": "书楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/书楼镇"
+    },
+    {
+      "code": "511529109",
+      "name": "屏山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/屏山镇"
+    },
+    {
+      "code": "511529208",
+      "name": "夏溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/夏溪乡"
+    },
+    {
+      "code": "511529210",
+      "name": "屏边彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/屏边彝族乡"
+    },
+    {
+      "code": "511529211",
+      "name": "清平彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511529",
+      "year": 0,
+      "name_path": "四川省/宜宾市/屏山县/清平彝族乡"
+    }
+  ]
+}

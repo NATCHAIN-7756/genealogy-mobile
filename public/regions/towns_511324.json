@@ -1,0 +1,337 @@
+{
+  "data": [
+    {
+      "code": "511324001",
+      "name": "度门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/度门街道"
+    },
+    {
+      "code": "511324100",
+      "name": "金城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/金城镇"
+    },
+    {
+      "code": "511324101",
+      "name": "新政镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/新政镇"
+    },
+    {
+      "code": "511324102",
+      "name": "马鞍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/马鞍镇"
+    },
+    {
+      "code": "511324103",
+      "name": "永乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/永乐镇"
+    },
+    {
+      "code": "511324104",
+      "name": "日兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/日兴镇"
+    },
+    {
+      "code": "511324105",
+      "name": "土门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/土门镇"
+    },
+    {
+      "code": "511324106",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/复兴镇"
+    },
+    {
+      "code": "511324107",
+      "name": "观紫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/观紫镇"
+    },
+    {
+      "code": "511324108",
+      "name": "先锋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/先锋镇"
+    },
+    {
+      "code": "511324109",
+      "name": "三蛟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/三蛟镇"
+    },
+    {
+      "code": "511324110",
+      "name": "回春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/回春镇"
+    },
+    {
+      "code": "511324111",
+      "name": "柳垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/柳垭镇"
+    },
+    {
+      "code": "511324112",
+      "name": "义路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/义路镇"
+    },
+    {
+      "code": "511324113",
+      "name": "立山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/立山镇"
+    },
+    {
+      "code": "511324114",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/三河镇"
+    },
+    {
+      "code": "511324115",
+      "name": "瓦子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/瓦子镇"
+    },
+    {
+      "code": "511324116",
+      "name": "大寅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/大寅镇"
+    },
+    {
+      "code": "511324117",
+      "name": "二道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/二道镇"
+    },
+    {
+      "code": "511324118",
+      "name": "赛金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/赛金镇"
+    },
+    {
+      "code": "511324119",
+      "name": "丁字桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/丁字桥镇"
+    },
+    {
+      "code": "511324120",
+      "name": "大仪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/大仪镇"
+    },
+    {
+      "code": "511324121",
+      "name": "张公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/张公镇"
+    },
+    {
+      "code": "511324122",
+      "name": "五福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/五福镇"
+    },
+    {
+      "code": "511324124",
+      "name": "杨桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/杨桥镇"
+    },
+    {
+      "code": "511324125",
+      "name": "保平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/保平镇"
+    },
+    {
+      "code": "511324126",
+      "name": "文星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/文星镇"
+    },
+    {
+      "code": "511324127",
+      "name": "双胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/双胜镇"
+    },
+    {
+      "code": "511324129",
+      "name": "永光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/永光镇"
+    },
+    {
+      "code": "511324130",
+      "name": "思德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/思德镇"
+    },
+    {
+      "code": "511324202",
+      "name": "铜鼓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/铜鼓乡"
+    },
+    {
+      "code": "511324207",
+      "name": "凤仪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/凤仪乡"
+    },
+    {
+      "code": "511324210",
+      "name": "福临乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/福临乡"
+    },
+    {
+      "code": "511324212",
+      "name": "来仪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/来仪乡"
+    },
+    {
+      "code": "511324226",
+      "name": "板桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/板桥乡"
+    },
+    {
+      "code": "511324230",
+      "name": "芭蕉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/芭蕉乡"
+    },
+    {
+      "code": "511324241",
+      "name": "柴井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511324",
+      "year": 0,
+      "name_path": "四川省/南充市/仪陇县/柴井乡"
+    }
+  ]
+}

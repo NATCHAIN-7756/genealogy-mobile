@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "130424100",
+      "name": "成安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/成安镇"
+    },
+    {
+      "code": "130424101",
+      "name": "商城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/商城镇"
+    },
+    {
+      "code": "130424102",
+      "name": "漳河店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/漳河店镇"
+    },
+    {
+      "code": "130424103",
+      "name": "李家疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/李家疃镇"
+    },
+    {
+      "code": "130424104",
+      "name": "北乡义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/北乡义镇"
+    },
+    {
+      "code": "130424105",
+      "name": "道东堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/道东堡镇"
+    },
+    {
+      "code": "130424200",
+      "name": "辛义乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/辛义乡"
+    },
+    {
+      "code": "130424201",
+      "name": "柏寺营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/柏寺营乡"
+    },
+    {
+      "code": "130424204",
+      "name": "长巷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130424",
+      "year": 0,
+      "name_path": "河北省/邯郸市/成安县/长巷乡"
+    }
+  ]
+}

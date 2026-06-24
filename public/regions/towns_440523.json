@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "440523101",
+      "name": "后宅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440523",
+      "year": 0,
+      "name_path": "广东省/汕头市/南澳县/后宅镇"
+    },
+    {
+      "code": "440523102",
+      "name": "云澳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440523",
+      "year": 0,
+      "name_path": "广东省/汕头市/南澳县/云澳镇"
+    },
+    {
+      "code": "440523103",
+      "name": "深澳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440523",
+      "year": 0,
+      "name_path": "广东省/汕头市/南澳县/深澳镇"
+    }
+  ]
+}

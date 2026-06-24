@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "141182001",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/文峰街道"
+    },
+    {
+      "code": "141182002",
+      "name": "太和桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/太和桥街道"
+    },
+    {
+      "code": "141182003",
+      "name": "西河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/西河街道"
+    },
+    {
+      "code": "141182100",
+      "name": "贾家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/贾家庄镇"
+    },
+    {
+      "code": "141182101",
+      "name": "杏花村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/杏花村镇"
+    },
+    {
+      "code": "141182102",
+      "name": "冀村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/冀村镇"
+    },
+    {
+      "code": "141182103",
+      "name": "肖家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/肖家庄镇"
+    },
+    {
+      "code": "141182104",
+      "name": "演武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/演武镇"
+    },
+    {
+      "code": "141182105",
+      "name": "三泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/三泉镇"
+    },
+    {
+      "code": "141182106",
+      "name": "石庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/石庄镇"
+    },
+    {
+      "code": "141182107",
+      "name": "杨家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/杨家庄镇"
+    },
+    {
+      "code": "141182108",
+      "name": "峪道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/峪道河镇"
+    },
+    {
+      "code": "141182109",
+      "name": "栗家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/栗家庄镇"
+    },
+    {
+      "code": "141182110",
+      "name": "阳城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141182",
+      "year": 0,
+      "name_path": "山西省/吕梁市/汾阳市/阳城镇"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "232701",
+      "name": "漠河市",
+      "level": 3,
+      "type": null,
+      "parent_code": "232700",
+      "year": 0,
+      "name_path": "全国/黑龙江省/大兴安岭地区/漠河市"
+    },
+    {
+      "code": "232721",
+      "name": "呼玛县",
+      "level": 3,
+      "type": null,
+      "parent_code": "232700",
+      "year": 0,
+      "name_path": "全国/黑龙江省/大兴安岭地区/呼玛县"
+    },
+    {
+      "code": "232722",
+      "name": "塔河县",
+      "level": 3,
+      "type": null,
+      "parent_code": "232700",
+      "year": 0,
+      "name_path": "全国/黑龙江省/大兴安岭地区/塔河县"
+    }
+  ]
+}

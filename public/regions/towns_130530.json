@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "130530100",
+      "name": "新河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130530",
+      "year": 0,
+      "name_path": "河北省/邢台市/新河县/新河镇"
+    },
+    {
+      "code": "130530101",
+      "name": "寻寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130530",
+      "year": 0,
+      "name_path": "河北省/邢台市/新河县/寻寨镇"
+    },
+    {
+      "code": "130530200",
+      "name": "白神首乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130530",
+      "year": 0,
+      "name_path": "河北省/邢台市/新河县/白神首乡"
+    },
+    {
+      "code": "130530201",
+      "name": "荆家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130530",
+      "year": 0,
+      "name_path": "河北省/邢台市/新河县/荆家庄乡"
+    },
+    {
+      "code": "130530202",
+      "name": "西流乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130530",
+      "year": 0,
+      "name_path": "河北省/邢台市/新河县/西流乡"
+    },
+    {
+      "code": "130530203",
+      "name": "仁让里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130530",
+      "year": 0,
+      "name_path": "河北省/邢台市/新河县/仁让里乡"
+    }
+  ]
+}

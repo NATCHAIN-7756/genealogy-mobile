@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530826100",
+      "name": "勐烈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/勐烈镇"
+    },
+    {
+      "code": "530826101",
+      "name": "整董镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/整董镇"
+    },
+    {
+      "code": "530826102",
+      "name": "康平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/康平镇"
+    },
+    {
+      "code": "530826103",
+      "name": "宝藏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/宝藏镇"
+    },
+    {
+      "code": "530826104",
+      "name": "曲水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/曲水镇"
+    },
+    {
+      "code": "530826201",
+      "name": "国庆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/国庆乡"
+    },
+    {
+      "code": "530826202",
+      "name": "嘉禾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530826",
+      "year": 0,
+      "name_path": "云南省/普洱市/江城哈尼族彝族自治县/嘉禾乡"
+    }
+  ]
+}

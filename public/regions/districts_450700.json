@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "450702",
+      "name": "钦南区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450700",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/钦州市/钦南区"
+    },
+    {
+      "code": "450703",
+      "name": "钦北区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450700",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/钦州市/钦北区"
+    },
+    {
+      "code": "450721",
+      "name": "灵山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450700",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/钦州市/灵山县"
+    },
+    {
+      "code": "450722",
+      "name": "浦北县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450700",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/钦州市/浦北县"
+    }
+  ]
+}

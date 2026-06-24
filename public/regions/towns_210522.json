@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "210522001",
+      "name": "八卦城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/八卦城街道"
+    },
+    {
+      "code": "210522100",
+      "name": "桓仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/桓仁镇"
+    },
+    {
+      "code": "210522101",
+      "name": "普乐堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/普乐堡镇"
+    },
+    {
+      "code": "210522102",
+      "name": "二棚甸子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/二棚甸子镇"
+    },
+    {
+      "code": "210522103",
+      "name": "沙尖子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/沙尖子镇"
+    },
+    {
+      "code": "210522104",
+      "name": "五里甸子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/五里甸子镇"
+    },
+    {
+      "code": "210522108",
+      "name": "八里甸子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/八里甸子镇"
+    },
+    {
+      "code": "210522110",
+      "name": "华来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/华来镇"
+    },
+    {
+      "code": "210522111",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/古城镇"
+    },
+    {
+      "code": "210522201",
+      "name": "雅河朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/雅河朝鲜族乡"
+    },
+    {
+      "code": "210522202",
+      "name": "向阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/向阳乡"
+    },
+    {
+      "code": "210522206",
+      "name": "黑沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/黑沟乡"
+    },
+    {
+      "code": "210522208",
+      "name": "北甸子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210522",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/桓仁满族自治县/北甸子乡"
+    }
+  ]
+}

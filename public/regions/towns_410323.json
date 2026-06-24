@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "410323001",
+      "name": "汉关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/汉关街道"
+    },
+    {
+      "code": "410323101",
+      "name": "石寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/石寺镇"
+    },
+    {
+      "code": "410323102",
+      "name": "五头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/五头镇"
+    },
+    {
+      "code": "410323103",
+      "name": "磁涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/磁涧镇"
+    },
+    {
+      "code": "410323104",
+      "name": "铁门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/铁门镇"
+    },
+    {
+      "code": "410323105",
+      "name": "北冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/北冶镇"
+    },
+    {
+      "code": "410323106",
+      "name": "南李村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/南李村镇"
+    },
+    {
+      "code": "410323107",
+      "name": "仓头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/仓头镇"
+    },
+    {
+      "code": "410323108",
+      "name": "石井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/石井镇"
+    },
+    {
+      "code": "410323109",
+      "name": "正村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/正村镇"
+    },
+    {
+      "code": "410323110",
+      "name": "青要山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410323",
+      "year": 0,
+      "name_path": "河南省/洛阳市/新安县/青要山镇"
+    }
+  ]
+}

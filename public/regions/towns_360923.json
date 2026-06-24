@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "360923001",
+      "name": "敖阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/敖阳街道"
+    },
+    {
+      "code": "360923002",
+      "name": "锦阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/锦阳街道"
+    },
+    {
+      "code": "360923101",
+      "name": "田心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/田心镇"
+    },
+    {
+      "code": "360923102",
+      "name": "徐家渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/徐家渡镇"
+    },
+    {
+      "code": "360923103",
+      "name": "锦江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/锦江镇"
+    },
+    {
+      "code": "360923104",
+      "name": "泗溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/泗溪镇"
+    },
+    {
+      "code": "360923105",
+      "name": "南港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/南港镇"
+    },
+    {
+      "code": "360923107",
+      "name": "翰堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/翰堂镇"
+    },
+    {
+      "code": "360923108",
+      "name": "敖山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/敖山镇"
+    },
+    {
+      "code": "360923109",
+      "name": "新界埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/新界埠镇"
+    },
+    {
+      "code": "360923110",
+      "name": "蒙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/蒙山镇"
+    },
+    {
+      "code": "360923201",
+      "name": "芦洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/芦洲乡"
+    },
+    {
+      "code": "360923202",
+      "name": "塔下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/塔下乡"
+    },
+    {
+      "code": "360923206",
+      "name": "镇渡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/镇渡乡"
+    },
+    {
+      "code": "360923207",
+      "name": "野市乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/野市乡"
+    },
+    {
+      "code": "360923208",
+      "name": "墨山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360923",
+      "year": 0,
+      "name_path": "江西省/宜春市/上高县/墨山乡"
+    }
+  ]
+}

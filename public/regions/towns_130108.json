@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "130108001",
+      "name": "裕兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/裕兴街道"
+    },
+    {
+      "code": "130108002",
+      "name": "裕强街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/裕强街道"
+    },
+    {
+      "code": "130108003",
+      "name": "东苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/东苑街道"
+    },
+    {
+      "code": "130108004",
+      "name": "建通街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/建通街道"
+    },
+    {
+      "code": "130108005",
+      "name": "槐底街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/槐底街道"
+    },
+    {
+      "code": "130108006",
+      "name": "裕华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/裕华路街道"
+    },
+    {
+      "code": "130108007",
+      "name": "裕东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/裕东街道"
+    },
+    {
+      "code": "130108008",
+      "name": "长江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/长江街道"
+    },
+    {
+      "code": "130108009",
+      "name": "太行街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/太行街道"
+    },
+    {
+      "code": "130108010",
+      "name": "裕翔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/裕翔街道"
+    },
+    {
+      "code": "130108011",
+      "name": "建华南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/建华南街道"
+    },
+    {
+      "code": "130108100",
+      "name": "宋营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/宋营镇"
+    },
+    {
+      "code": "130108101",
+      "name": "方村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130108",
+      "year": 0,
+      "name_path": "河北省/石家庄市/裕华区/方村镇"
+    }
+  ]
+}

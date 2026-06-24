@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "410482001",
+      "name": "钟楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/钟楼街道"
+    },
+    {
+      "code": "410482002",
+      "name": "风穴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/风穴路街道"
+    },
+    {
+      "code": "410482003",
+      "name": "煤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/煤山街道"
+    },
+    {
+      "code": "410482004",
+      "name": "洗耳河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/洗耳河街道"
+    },
+    {
+      "code": "410482005",
+      "name": "汝南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/汝南街道"
+    },
+    {
+      "code": "410482006",
+      "name": "紫云路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/紫云路街道"
+    },
+    {
+      "code": "410482007",
+      "name": "骑岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/骑岭街道"
+    },
+    {
+      "code": "410482101",
+      "name": "寄料镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/寄料镇"
+    },
+    {
+      "code": "410482102",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/温泉镇"
+    },
+    {
+      "code": "410482103",
+      "name": "临汝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/临汝镇"
+    },
+    {
+      "code": "410482104",
+      "name": "小屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/小屯镇"
+    },
+    {
+      "code": "410482105",
+      "name": "杨楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/杨楼镇"
+    },
+    {
+      "code": "410482106",
+      "name": "蟒川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/蟒川镇"
+    },
+    {
+      "code": "410482107",
+      "name": "庙下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/庙下镇"
+    },
+    {
+      "code": "410482108",
+      "name": "陵头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/陵头镇"
+    },
+    {
+      "code": "410482109",
+      "name": "米庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/米庙镇"
+    },
+    {
+      "code": "410482110",
+      "name": "纸坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/纸坊镇"
+    },
+    {
+      "code": "410482111",
+      "name": "大峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/大峪镇"
+    },
+    {
+      "code": "410482112",
+      "name": "夏店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/夏店镇"
+    },
+    {
+      "code": "410482113",
+      "name": "焦村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/焦村镇"
+    },
+    {
+      "code": "410482202",
+      "name": "王寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410482",
+      "year": 0,
+      "name_path": "河南省/平顶山市/汝州市/王寨乡"
+    }
+  ]
+}

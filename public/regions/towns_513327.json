@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "513327100",
+      "name": "新都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/新都镇"
+    },
+    {
+      "code": "513327101",
+      "name": "朱倭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/朱倭镇"
+    },
+    {
+      "code": "513327103",
+      "name": "上罗科马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/上罗科马镇"
+    },
+    {
+      "code": "513327104",
+      "name": "虾拉沱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/虾拉沱镇"
+    },
+    {
+      "code": "513327200",
+      "name": "泥巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/泥巴乡"
+    },
+    {
+      "code": "513327201",
+      "name": "雅德乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/雅德乡"
+    },
+    {
+      "code": "513327202",
+      "name": "洛秋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/洛秋乡"
+    },
+    {
+      "code": "513327205",
+      "name": "仁达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/仁达乡"
+    },
+    {
+      "code": "513327207",
+      "name": "旦都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/旦都乡"
+    },
+    {
+      "code": "513327208",
+      "name": "充古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/充古乡"
+    },
+    {
+      "code": "513327209",
+      "name": "更知乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/更知乡"
+    },
+    {
+      "code": "513327210",
+      "name": "卡娘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/卡娘乡"
+    },
+    {
+      "code": "513327211",
+      "name": "宗塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/宗塔乡"
+    },
+    {
+      "code": "513327212",
+      "name": "宗麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/宗麦乡"
+    },
+    {
+      "code": "513327214",
+      "name": "下罗科马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513327",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/炉霍县/下罗科马乡"
+    }
+  ]
+}

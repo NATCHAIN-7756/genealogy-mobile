@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "420302001",
+      "name": "武当路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/武当路街道"
+    },
+    {
+      "code": "420302002",
+      "name": "二堰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/二堰街道"
+    },
+    {
+      "code": "420302003",
+      "name": "五堰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/五堰街道"
+    },
+    {
+      "code": "420302005",
+      "name": "白浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/白浪街道"
+    },
+    {
+      "code": "420302100",
+      "name": "大川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/大川镇"
+    },
+    {
+      "code": "420302200",
+      "name": "茅塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/茅塔乡"
+    },
+    {
+      "code": "420302201",
+      "name": "鸳鸯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420302",
+      "year": 0,
+      "name_path": "湖北省/十堰市/茅箭区/鸳鸯乡"
+    }
+  ]
+}

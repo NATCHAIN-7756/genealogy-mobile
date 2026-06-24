@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "411523001",
+      "name": "金兰山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/金兰山街道"
+    },
+    {
+      "code": "411523002",
+      "name": "新集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/新集街道"
+    },
+    {
+      "code": "411523003",
+      "name": "香山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/香山街道"
+    },
+    {
+      "code": "411523101",
+      "name": "沙窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/沙窝镇"
+    },
+    {
+      "code": "411523103",
+      "name": "吴陈河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/吴陈河镇"
+    },
+    {
+      "code": "411523104",
+      "name": "苏河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/苏河镇"
+    },
+    {
+      "code": "411523105",
+      "name": "八里畈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/八里畈镇"
+    },
+    {
+      "code": "411523201",
+      "name": "周河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/周河乡"
+    },
+    {
+      "code": "411523202",
+      "name": "陡山河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/陡山河乡"
+    },
+    {
+      "code": "411523203",
+      "name": "浒湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/浒湾乡"
+    },
+    {
+      "code": "411523204",
+      "name": "千斤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/千斤乡"
+    },
+    {
+      "code": "411523205",
+      "name": "卡房乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/卡房乡"
+    },
+    {
+      "code": "411523206",
+      "name": "郭家河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/郭家河乡"
+    },
+    {
+      "code": "411523207",
+      "name": "陈店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/陈店乡"
+    },
+    {
+      "code": "411523208",
+      "name": "箭厂河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/箭厂河乡"
+    },
+    {
+      "code": "411523209",
+      "name": "泗店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/泗店乡"
+    },
+    {
+      "code": "411523210",
+      "name": "田铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411523",
+      "year": 0,
+      "name_path": "河南省/信阳市/新县/田铺乡"
+    }
+  ]
+}

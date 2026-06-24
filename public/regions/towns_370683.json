@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "370683001",
+      "name": "文昌路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/文昌路街道"
+    },
+    {
+      "code": "370683002",
+      "name": "永安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/永安路街道"
+    },
+    {
+      "code": "370683003",
+      "name": "三山岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/三山岛街道"
+    },
+    {
+      "code": "370683004",
+      "name": "城港路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/城港路街道"
+    },
+    {
+      "code": "370683005",
+      "name": "文峰路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/文峰路街道"
+    },
+    {
+      "code": "370683006",
+      "name": "金仓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/金仓街道"
+    },
+    {
+      "code": "370683101",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/沙河镇"
+    },
+    {
+      "code": "370683102",
+      "name": "朱桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/朱桥镇"
+    },
+    {
+      "code": "370683103",
+      "name": "郭家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/郭家店镇"
+    },
+    {
+      "code": "370683104",
+      "name": "金城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/金城镇"
+    },
+    {
+      "code": "370683105",
+      "name": "平里店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/平里店镇"
+    },
+    {
+      "code": "370683106",
+      "name": "驿道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/驿道镇"
+    },
+    {
+      "code": "370683107",
+      "name": "程郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/程郭镇"
+    },
+    {
+      "code": "370683108",
+      "name": "虎头崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/虎头崖镇"
+    },
+    {
+      "code": "370683109",
+      "name": "柞村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/柞村镇"
+    },
+    {
+      "code": "370683110",
+      "name": "夏邱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/夏邱镇"
+    },
+    {
+      "code": "370683111",
+      "name": "土山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370683",
+      "year": 0,
+      "name_path": "山东省/烟台市/莱州市/土山镇"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "611024001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/城关街道"
+    },
+    {
+      "code": "611024002",
+      "name": "十里铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/十里铺街道"
+    },
+    {
+      "code": "611024101",
+      "name": "高坝店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/高坝店镇"
+    },
+    {
+      "code": "611024102",
+      "name": "天竺山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/天竺山镇"
+    },
+    {
+      "code": "611024103",
+      "name": "中村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/中村镇"
+    },
+    {
+      "code": "611024104",
+      "name": "银花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/银花镇"
+    },
+    {
+      "code": "611024105",
+      "name": "西照川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/西照川镇"
+    },
+    {
+      "code": "611024106",
+      "name": "漫川关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/漫川关镇"
+    },
+    {
+      "code": "611024107",
+      "name": "南宽坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/南宽坪镇"
+    },
+    {
+      "code": "611024108",
+      "name": "户家塬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/户家塬镇"
+    },
+    {
+      "code": "611024109",
+      "name": "杨地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/杨地镇"
+    },
+    {
+      "code": "611024111",
+      "name": "小河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/小河口镇"
+    },
+    {
+      "code": "611024112",
+      "name": "色河铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/色河铺镇"
+    },
+    {
+      "code": "611024113",
+      "name": "板岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/板岩镇"
+    },
+    {
+      "code": "611024116",
+      "name": "延坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/延坪镇"
+    },
+    {
+      "code": "611024118",
+      "name": "两岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/两岭镇"
+    },
+    {
+      "code": "611024119",
+      "name": "王阎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/王阎镇"
+    },
+    {
+      "code": "611024122",
+      "name": "法官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611024",
+      "year": 0,
+      "name_path": "陕西省/商洛市/山阳县/法官镇"
+    }
+  ]
+}

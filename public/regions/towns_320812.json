@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "320812001",
+      "name": "府前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/府前街道"
+    },
+    {
+      "code": "320812002",
+      "name": "长西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/长西街道"
+    },
+    {
+      "code": "320812003",
+      "name": "淮海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/淮海街道"
+    },
+    {
+      "code": "320812004",
+      "name": "长东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/长东街道"
+    },
+    {
+      "code": "320812005",
+      "name": "柳树湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/柳树湾街道"
+    },
+    {
+      "code": "320812006",
+      "name": "水渡口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/水渡口街道"
+    },
+    {
+      "code": "320812007",
+      "name": "清河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/清河街道"
+    },
+    {
+      "code": "320812008",
+      "name": "清江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/清江街道"
+    },
+    {
+      "code": "320812009",
+      "name": "浦楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/浦楼街道"
+    },
+    {
+      "code": "320812010",
+      "name": "闸口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/闸口街道"
+    },
+    {
+      "code": "320812011",
+      "name": "清浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/清浦街道"
+    },
+    {
+      "code": "320812012",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/城南街道"
+    },
+    {
+      "code": "320812013",
+      "name": "盐河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/盐河街道"
+    },
+    {
+      "code": "320812014",
+      "name": "武墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/武墩街道"
+    },
+    {
+      "code": "320812015",
+      "name": "钵池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/钵池街道"
+    },
+    {
+      "code": "320812016",
+      "name": "徐杨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/徐杨街道"
+    },
+    {
+      "code": "320812017",
+      "name": "南马厂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/南马厂街道"
+    },
+    {
+      "code": "320812018",
+      "name": "枚乘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/枚乘街道"
+    },
+    {
+      "code": "320812100",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/和平镇"
+    },
+    {
+      "code": "320812103",
+      "name": "黄码镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320812",
+      "year": 0,
+      "name_path": "江苏省/淮安市/清江浦区/黄码镇"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "532931100",
+      "name": "金华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/金华镇"
+    },
+    {
+      "code": "532931102",
+      "name": "甸南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/甸南镇"
+    },
+    {
+      "code": "532931103",
+      "name": "马登镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/马登镇"
+    },
+    {
+      "code": "532931104",
+      "name": "沙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/沙溪镇"
+    },
+    {
+      "code": "532931105",
+      "name": "老君山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/老君山镇"
+    },
+    {
+      "code": "532931200",
+      "name": "羊岑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/羊岑乡"
+    },
+    {
+      "code": "532931202",
+      "name": "弥沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/弥沙乡"
+    },
+    {
+      "code": "532931203",
+      "name": "象图乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532931",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/剑川县/象图乡"
+    }
+  ]
+}

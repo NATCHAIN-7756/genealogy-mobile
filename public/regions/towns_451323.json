@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "451323100",
+      "name": "武宣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/武宣镇"
+    },
+    {
+      "code": "451323101",
+      "name": "桐岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/桐岭镇"
+    },
+    {
+      "code": "451323102",
+      "name": "通挽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/通挽镇"
+    },
+    {
+      "code": "451323103",
+      "name": "东乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/东乡镇"
+    },
+    {
+      "code": "451323104",
+      "name": "三里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/三里镇"
+    },
+    {
+      "code": "451323105",
+      "name": "二塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/二塘镇"
+    },
+    {
+      "code": "451323106",
+      "name": "黄茆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/黄茆镇"
+    },
+    {
+      "code": "451323107",
+      "name": "禄新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/禄新镇"
+    },
+    {
+      "code": "451323108",
+      "name": "思灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/思灵镇"
+    },
+    {
+      "code": "451323205",
+      "name": "金鸡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451323",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/武宣县/金鸡乡"
+    }
+  ]
+}

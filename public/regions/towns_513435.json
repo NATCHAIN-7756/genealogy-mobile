@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "513435100",
+      "name": "新市坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/新市坝镇"
+    },
+    {
+      "code": "513435101",
+      "name": "田坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/田坝镇"
+    },
+    {
+      "code": "513435102",
+      "name": "海棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/海棠镇"
+    },
+    {
+      "code": "513435103",
+      "name": "吉米镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/吉米镇"
+    },
+    {
+      "code": "513435104",
+      "name": "斯觉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/斯觉镇"
+    },
+    {
+      "code": "513435105",
+      "name": "普昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/普昌镇"
+    },
+    {
+      "code": "513435106",
+      "name": "玉田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/玉田镇"
+    },
+    {
+      "code": "513435107",
+      "name": "苏雄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/苏雄镇"
+    },
+    {
+      "code": "513435108",
+      "name": "乌史大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/乌史大桥镇"
+    },
+    {
+      "code": "513435202",
+      "name": "新茶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/新茶乡"
+    },
+    {
+      "code": "513435211",
+      "name": "团结乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/团结乡"
+    },
+    {
+      "code": "513435212",
+      "name": "嘎日乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/嘎日乡"
+    },
+    {
+      "code": "513435219",
+      "name": "沙岱乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513435",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/甘洛县/沙岱乡"
+    }
+  ]
+}

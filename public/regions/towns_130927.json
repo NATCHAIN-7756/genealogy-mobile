@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "130927100",
+      "name": "南皮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/南皮镇"
+    },
+    {
+      "code": "130927101",
+      "name": "冯家口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/冯家口镇"
+    },
+    {
+      "code": "130927102",
+      "name": "寨子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/寨子镇"
+    },
+    {
+      "code": "130927103",
+      "name": "鲍官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/鲍官屯镇"
+    },
+    {
+      "code": "130927104",
+      "name": "王寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/王寺镇"
+    },
+    {
+      "code": "130927105",
+      "name": "乌马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/乌马营镇"
+    },
+    {
+      "code": "130927106",
+      "name": "潞灌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/潞灌镇"
+    },
+    {
+      "code": "130927107",
+      "name": "刘八里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/刘八里镇"
+    },
+    {
+      "code": "130927108",
+      "name": "大浪淀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130927",
+      "year": 0,
+      "name_path": "河北省/沧州市/南皮县/大浪淀镇"
+    }
+  ]
+}

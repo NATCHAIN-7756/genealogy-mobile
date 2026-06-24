@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "429006001",
+      "name": "竟陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/竟陵街道"
+    },
+    {
+      "code": "429006002",
+      "name": "侯口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/侯口街道"
+    },
+    {
+      "code": "429006003",
+      "name": "杨林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/杨林街道"
+    },
+    {
+      "code": "429006100",
+      "name": "多宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/多宝镇"
+    },
+    {
+      "code": "429006101",
+      "name": "拖市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/拖市镇"
+    },
+    {
+      "code": "429006102",
+      "name": "张港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/张港镇"
+    },
+    {
+      "code": "429006103",
+      "name": "蒋场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/蒋场镇"
+    },
+    {
+      "code": "429006104",
+      "name": "汪场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/汪场镇"
+    },
+    {
+      "code": "429006105",
+      "name": "渔薪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/渔薪镇"
+    },
+    {
+      "code": "429006106",
+      "name": "黄潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/黄潭镇"
+    },
+    {
+      "code": "429006107",
+      "name": "岳口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/岳口镇"
+    },
+    {
+      "code": "429006108",
+      "name": "横林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/横林镇"
+    },
+    {
+      "code": "429006109",
+      "name": "彭市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/彭市镇"
+    },
+    {
+      "code": "429006110",
+      "name": "麻洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/麻洋镇"
+    },
+    {
+      "code": "429006111",
+      "name": "多祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/多祥镇"
+    },
+    {
+      "code": "429006112",
+      "name": "干驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/干驿镇"
+    },
+    {
+      "code": "429006113",
+      "name": "马湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/马湾镇"
+    },
+    {
+      "code": "429006114",
+      "name": "卢市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/卢市镇"
+    },
+    {
+      "code": "429006115",
+      "name": "小板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/小板镇"
+    },
+    {
+      "code": "429006116",
+      "name": "九真镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/九真镇"
+    },
+    {
+      "code": "429006118",
+      "name": "皂市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/皂市镇"
+    },
+    {
+      "code": "429006119",
+      "name": "胡市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/胡市镇"
+    },
+    {
+      "code": "429006120",
+      "name": "石家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/石家河镇"
+    },
+    {
+      "code": "429006121",
+      "name": "佛子山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/佛子山镇"
+    },
+    {
+      "code": "429006201",
+      "name": "净潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "429006",
+      "year": 0,
+      "name_path": "湖北省/天门市/净潭乡"
+    }
+  ]
+}

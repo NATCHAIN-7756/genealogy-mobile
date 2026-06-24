@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "430211001",
+      "name": "嵩山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/嵩山路街道"
+    },
+    {
+      "code": "430211002",
+      "name": "泰山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/泰山路街道"
+    },
+    {
+      "code": "430211003",
+      "name": "栗雨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/栗雨街道"
+    },
+    {
+      "code": "430211004",
+      "name": "马家河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/马家河街道"
+    },
+    {
+      "code": "430211101",
+      "name": "群丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/群丰镇"
+    },
+    {
+      "code": "430211102",
+      "name": "雷打石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/雷打石镇"
+    },
+    {
+      "code": "430211103",
+      "name": "三门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430211",
+      "year": 0,
+      "name_path": "湖南省/株洲市/天元区/三门镇"
+    }
+  ]
+}

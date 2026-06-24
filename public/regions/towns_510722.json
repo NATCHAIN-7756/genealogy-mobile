@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "code": "510722101",
+      "name": "潼川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/潼川镇"
+    },
+    {
+      "code": "510722104",
+      "name": "塔山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/塔山镇"
+    },
+    {
+      "code": "510722106",
+      "name": "龙树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/龙树镇"
+    },
+    {
+      "code": "510722107",
+      "name": "石安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/石安镇"
+    },
+    {
+      "code": "510722108",
+      "name": "富顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/富顺镇"
+    },
+    {
+      "code": "510722109",
+      "name": "三元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/三元镇"
+    },
+    {
+      "code": "510722110",
+      "name": "秋林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/秋林镇"
+    },
+    {
+      "code": "510722112",
+      "name": "新德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/新德镇"
+    },
+    {
+      "code": "510722113",
+      "name": "新生镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/新生镇"
+    },
+    {
+      "code": "510722114",
+      "name": "鲁班镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/鲁班镇"
+    },
+    {
+      "code": "510722115",
+      "name": "景福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/景福镇"
+    },
+    {
+      "code": "510722116",
+      "name": "紫河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/紫河镇"
+    },
+    {
+      "code": "510722118",
+      "name": "观桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/观桥镇"
+    },
+    {
+      "code": "510722119",
+      "name": "郪江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/郪江镇"
+    },
+    {
+      "code": "510722120",
+      "name": "中新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/中新镇"
+    },
+    {
+      "code": "510722121",
+      "name": "古井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/古井镇"
+    },
+    {
+      "code": "510722123",
+      "name": "西平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/西平镇"
+    },
+    {
+      "code": "510722124",
+      "name": "八洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/八洞镇"
+    },
+    {
+      "code": "510722126",
+      "name": "乐安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/乐安镇"
+    },
+    {
+      "code": "510722127",
+      "name": "建平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/建平镇"
+    },
+    {
+      "code": "510722131",
+      "name": "中太镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/中太镇"
+    },
+    {
+      "code": "510722132",
+      "name": "金石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/金石镇"
+    },
+    {
+      "code": "510722133",
+      "name": "新鲁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/新鲁镇"
+    },
+    {
+      "code": "510722135",
+      "name": "刘营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/刘营镇"
+    },
+    {
+      "code": "510722136",
+      "name": "灵兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/灵兴镇"
+    },
+    {
+      "code": "510722137",
+      "name": "芦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/芦溪镇"
+    },
+    {
+      "code": "510722138",
+      "name": "立新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/立新镇"
+    },
+    {
+      "code": "510722140",
+      "name": "永明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/永明镇"
+    },
+    {
+      "code": "510722141",
+      "name": "建中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/建中镇"
+    },
+    {
+      "code": "510722145",
+      "name": "老马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/老马镇"
+    },
+    {
+      "code": "510722151",
+      "name": "北坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/北坝镇"
+    },
+    {
+      "code": "510722201",
+      "name": "忠孝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/忠孝乡"
+    },
+    {
+      "code": "510722204",
+      "name": "断石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510722",
+      "year": 0,
+      "name_path": "四川省/绵阳市/三台县/断石乡"
+    }
+  ]
+}

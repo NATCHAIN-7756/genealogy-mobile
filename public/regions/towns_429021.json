@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "429021100",
+      "name": "松柏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/松柏镇"
+    },
+    {
+      "code": "429021101",
+      "name": "阳日镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/阳日镇"
+    },
+    {
+      "code": "429021102",
+      "name": "木鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/木鱼镇"
+    },
+    {
+      "code": "429021103",
+      "name": "红坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/红坪镇"
+    },
+    {
+      "code": "429021104",
+      "name": "新华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/新华镇"
+    },
+    {
+      "code": "429021105",
+      "name": "大九湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/大九湖镇"
+    },
+    {
+      "code": "429021201",
+      "name": "宋洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/宋洛乡"
+    },
+    {
+      "code": "429021203",
+      "name": "下谷坪土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "429021",
+      "year": 0,
+      "name_path": "湖北省/神农架林区/下谷坪土家族乡"
+    }
+  ]
+}

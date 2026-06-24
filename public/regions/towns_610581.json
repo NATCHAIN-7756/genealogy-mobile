@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610581001",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/新城街道"
+    },
+    {
+      "code": "610581002",
+      "name": "金城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/金城街道"
+    },
+    {
+      "code": "610581100",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/龙门镇"
+    },
+    {
+      "code": "610581101",
+      "name": "桑树坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/桑树坪镇"
+    },
+    {
+      "code": "610581103",
+      "name": "芝川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/芝川镇"
+    },
+    {
+      "code": "610581104",
+      "name": "西庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/西庄镇"
+    },
+    {
+      "code": "610581106",
+      "name": "芝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/芝阳镇"
+    },
+    {
+      "code": "610581108",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610581",
+      "year": 0,
+      "name_path": "陕西省/渭南市/韩城市/板桥镇"
+    }
+  ]
+}

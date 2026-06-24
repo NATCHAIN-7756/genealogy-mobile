@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "211102",
+      "name": "双台子区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211100",
+      "year": 0,
+      "name_path": "全国/辽宁省/盘锦市/双台子区"
+    },
+    {
+      "code": "211103",
+      "name": "兴隆台区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211100",
+      "year": 0,
+      "name_path": "全国/辽宁省/盘锦市/兴隆台区"
+    },
+    {
+      "code": "211104",
+      "name": "大洼区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211100",
+      "year": 0,
+      "name_path": "全国/辽宁省/盘锦市/大洼区"
+    },
+    {
+      "code": "211122",
+      "name": "盘山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "211100",
+      "year": 0,
+      "name_path": "全国/辽宁省/盘锦市/盘山县"
+    }
+  ]
+}

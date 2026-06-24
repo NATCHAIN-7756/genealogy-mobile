@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510812100",
+      "name": "朝天镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/朝天镇"
+    },
+    {
+      "code": "510812101",
+      "name": "大滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/大滩镇"
+    },
+    {
+      "code": "510812102",
+      "name": "羊木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/羊木镇"
+    },
+    {
+      "code": "510812103",
+      "name": "曾家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/曾家镇"
+    },
+    {
+      "code": "510812104",
+      "name": "中子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/中子镇"
+    },
+    {
+      "code": "510812105",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/沙河镇"
+    },
+    {
+      "code": "510812109",
+      "name": "两河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/两河口镇"
+    },
+    {
+      "code": "510812110",
+      "name": "云雾山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/云雾山镇"
+    },
+    {
+      "code": "510812111",
+      "name": "水磨沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/水磨沟镇"
+    },
+    {
+      "code": "510812112",
+      "name": "李家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/李家镇"
+    },
+    {
+      "code": "510812214",
+      "name": "麻柳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/麻柳乡"
+    },
+    {
+      "code": "510812215",
+      "name": "临溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510812",
+      "year": 0,
+      "name_path": "四川省/广元市/朝天区/临溪乡"
+    }
+  ]
+}

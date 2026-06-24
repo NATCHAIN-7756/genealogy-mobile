@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "511124001",
+      "name": "研城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/研城街道"
+    },
+    {
+      "code": "511124101",
+      "name": "马踏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/马踏镇"
+    },
+    {
+      "code": "511124102",
+      "name": "竹园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/竹园镇"
+    },
+    {
+      "code": "511124103",
+      "name": "研经镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/研经镇"
+    },
+    {
+      "code": "511124104",
+      "name": "周坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/周坡镇"
+    },
+    {
+      "code": "511124105",
+      "name": "千佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/千佛镇"
+    },
+    {
+      "code": "511124106",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/王村镇"
+    },
+    {
+      "code": "511124107",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/三江镇"
+    },
+    {
+      "code": "511124108",
+      "name": "东林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/东林镇"
+    },
+    {
+      "code": "511124110",
+      "name": "集益镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/集益镇"
+    },
+    {
+      "code": "511124111",
+      "name": "纯复镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/纯复镇"
+    },
+    {
+      "code": "511124112",
+      "name": "宝五镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/宝五镇"
+    },
+    {
+      "code": "511124113",
+      "name": "镇阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/镇阳镇"
+    },
+    {
+      "code": "511124114",
+      "name": "高凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/高凤镇"
+    },
+    {
+      "code": "511124115",
+      "name": "门坎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511124",
+      "year": 0,
+      "name_path": "四川省/乐山市/井研县/门坎镇"
+    }
+  ]
+}

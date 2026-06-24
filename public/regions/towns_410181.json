@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "410181001",
+      "name": "新华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/新华路街道"
+    },
+    {
+      "code": "410181002",
+      "name": "杜甫路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/杜甫路街道"
+    },
+    {
+      "code": "410181003",
+      "name": "永安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/永安路街道"
+    },
+    {
+      "code": "410181004",
+      "name": "紫荆路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/紫荆路街道"
+    },
+    {
+      "code": "410181005",
+      "name": "孝义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/孝义街道"
+    },
+    {
+      "code": "410181006",
+      "name": "青龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/青龙山街道"
+    },
+    {
+      "code": "410181100",
+      "name": "米河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/米河镇"
+    },
+    {
+      "code": "410181101",
+      "name": "新中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/新中镇"
+    },
+    {
+      "code": "410181102",
+      "name": "小关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/小关镇"
+    },
+    {
+      "code": "410181103",
+      "name": "竹林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/竹林镇"
+    },
+    {
+      "code": "410181104",
+      "name": "大峪沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/大峪沟镇"
+    },
+    {
+      "code": "410181105",
+      "name": "河洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/河洛镇"
+    },
+    {
+      "code": "410181106",
+      "name": "站街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/站街镇"
+    },
+    {
+      "code": "410181108",
+      "name": "康店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/康店镇"
+    },
+    {
+      "code": "410181111",
+      "name": "西村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/西村镇"
+    },
+    {
+      "code": "410181112",
+      "name": "芝田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/芝田镇"
+    },
+    {
+      "code": "410181113",
+      "name": "回郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/回郭镇"
+    },
+    {
+      "code": "410181114",
+      "name": "鲁庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/鲁庄镇"
+    },
+    {
+      "code": "410181115",
+      "name": "夹津口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/夹津口镇"
+    },
+    {
+      "code": "410181116",
+      "name": "涉村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410181",
+      "year": 0,
+      "name_path": "河南省/郑州市/巩义市/涉村镇"
+    }
+  ]
+}

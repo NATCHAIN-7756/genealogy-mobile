@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "130425100",
+      "name": "大名镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/大名镇"
+    },
+    {
+      "code": "130425101",
+      "name": "杨桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/杨桥镇"
+    },
+    {
+      "code": "130425102",
+      "name": "万堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/万堤镇"
+    },
+    {
+      "code": "130425103",
+      "name": "龙王庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/龙王庙镇"
+    },
+    {
+      "code": "130425104",
+      "name": "束馆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/束馆镇"
+    },
+    {
+      "code": "130425105",
+      "name": "金滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/金滩镇"
+    },
+    {
+      "code": "130425106",
+      "name": "沙圪塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/沙圪塔镇"
+    },
+    {
+      "code": "130425107",
+      "name": "大街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/大街镇"
+    },
+    {
+      "code": "130425108",
+      "name": "铺上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/铺上镇"
+    },
+    {
+      "code": "130425109",
+      "name": "孙甘店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/孙甘店镇"
+    },
+    {
+      "code": "130425110",
+      "name": "北峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/北峰镇"
+    },
+    {
+      "code": "130425111",
+      "name": "黄金堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/黄金堤镇"
+    },
+    {
+      "code": "130425112",
+      "name": "西付集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/西付集镇"
+    },
+    {
+      "code": "130425113",
+      "name": "张铁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/张铁集镇"
+    },
+    {
+      "code": "130425201",
+      "name": "王村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/王村乡"
+    },
+    {
+      "code": "130425205",
+      "name": "旧治乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/旧治乡"
+    },
+    {
+      "code": "130425206",
+      "name": "西未庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/西未庄乡"
+    },
+    {
+      "code": "130425209",
+      "name": "埝头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/埝头乡"
+    },
+    {
+      "code": "130425212",
+      "name": "红庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/红庙乡"
+    },
+    {
+      "code": "130425213",
+      "name": "营镇回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130425",
+      "year": 0,
+      "name_path": "河北省/邯郸市/大名县/营镇回族乡"
+    }
+  ]
+}

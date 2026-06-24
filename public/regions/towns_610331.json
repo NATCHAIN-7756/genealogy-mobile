@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "610331100",
+      "name": "嘴头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/嘴头镇"
+    },
+    {
+      "code": "610331101",
+      "name": "桃川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/桃川镇"
+    },
+    {
+      "code": "610331103",
+      "name": "靖口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/靖口镇"
+    },
+    {
+      "code": "610331104",
+      "name": "太白河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/太白河镇"
+    },
+    {
+      "code": "610331105",
+      "name": "鹦鸽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/鹦鸽镇"
+    },
+    {
+      "code": "610331106",
+      "name": "王家堎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/王家堎镇"
+    },
+    {
+      "code": "610331107",
+      "name": "黄柏塬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610331",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/太白县/黄柏塬镇"
+    }
+  ]
+}

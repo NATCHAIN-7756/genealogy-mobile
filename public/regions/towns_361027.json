@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "361027100",
+      "name": "秀谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/秀谷镇"
+    },
+    {
+      "code": "361027101",
+      "name": "浒湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/浒湾镇"
+    },
+    {
+      "code": "361027102",
+      "name": "双塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/双塘镇"
+    },
+    {
+      "code": "361027104",
+      "name": "何源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/何源镇"
+    },
+    {
+      "code": "361027105",
+      "name": "合市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/合市镇"
+    },
+    {
+      "code": "361027106",
+      "name": "琅琚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/琅琚镇"
+    },
+    {
+      "code": "361027107",
+      "name": "左坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/左坊镇"
+    },
+    {
+      "code": "361027108",
+      "name": "对桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/对桥镇"
+    },
+    {
+      "code": "361027200",
+      "name": "黄通乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/黄通乡"
+    },
+    {
+      "code": "361027202",
+      "name": "陆坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/陆坊乡"
+    },
+    {
+      "code": "361027203",
+      "name": "陈坊积乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/陈坊积乡"
+    },
+    {
+      "code": "361027204",
+      "name": "琉璃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/琉璃乡"
+    },
+    {
+      "code": "361027205",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361027",
+      "year": 0,
+      "name_path": "江西省/抚州市/金溪县/石门乡"
+    }
+  ]
+}

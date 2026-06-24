@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "522632001",
+      "name": "车民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/车民街道"
+    },
+    {
+      "code": "522632100",
+      "name": "古州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/古州镇"
+    },
+    {
+      "code": "522632101",
+      "name": "忠诚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/忠诚镇"
+    },
+    {
+      "code": "522632102",
+      "name": "寨蒿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/寨蒿镇"
+    },
+    {
+      "code": "522632103",
+      "name": "平永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/平永镇"
+    },
+    {
+      "code": "522632104",
+      "name": "乐里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/乐里镇"
+    },
+    {
+      "code": "522632105",
+      "name": "朗洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/朗洞镇"
+    },
+    {
+      "code": "522632106",
+      "name": "栽麻镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/栽麻镇"
+    },
+    {
+      "code": "522632107",
+      "name": "平江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/平江镇"
+    },
+    {
+      "code": "522632108",
+      "name": "八开镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/八开镇"
+    },
+    {
+      "code": "522632202",
+      "name": "崇义乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/崇义乡"
+    },
+    {
+      "code": "522632204",
+      "name": "三江水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/三江水族乡"
+    },
+    {
+      "code": "522632205",
+      "name": "仁里水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/仁里水族乡"
+    },
+    {
+      "code": "522632206",
+      "name": "塔石瑶族水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/塔石瑶族水族乡"
+    },
+    {
+      "code": "522632208",
+      "name": "定威水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/定威水族乡"
+    },
+    {
+      "code": "522632209",
+      "name": "兴华水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/兴华水族乡"
+    },
+    {
+      "code": "522632210",
+      "name": "计划乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/计划乡"
+    },
+    {
+      "code": "522632211",
+      "name": "水尾水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/水尾水族乡"
+    },
+    {
+      "code": "522632212",
+      "name": "平阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/平阳乡"
+    },
+    {
+      "code": "522632213",
+      "name": "两汪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522632",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/榕江县/两汪乡"
+    }
+  ]
+}

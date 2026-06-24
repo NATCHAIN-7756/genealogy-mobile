@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "230805007",
+      "name": "晓云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230805",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/东风区/晓云街道"
+    },
+    {
+      "code": "230805008",
+      "name": "佳东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230805",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/东风区/佳东街道"
+    },
+    {
+      "code": "230805009",
+      "name": "建国街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230805",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/东风区/建国街道"
+    },
+    {
+      "code": "230805010",
+      "name": "佳南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230805",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/东风区/佳南街道"
+    },
+    {
+      "code": "230805101",
+      "name": "建国镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230805",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/东风区/建国镇"
+    },
+    {
+      "code": "230805200",
+      "name": "松江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230805",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/东风区/松江乡"
+    }
+  ]
+}

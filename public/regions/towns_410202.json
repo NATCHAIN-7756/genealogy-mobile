@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "410202001",
+      "name": "北书店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/北书店街道"
+    },
+    {
+      "code": "410202002",
+      "name": "午朝门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/午朝门街道"
+    },
+    {
+      "code": "410202003",
+      "name": "大兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/大兴街道"
+    },
+    {
+      "code": "410202005",
+      "name": "北道门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/北道门街道"
+    },
+    {
+      "code": "410202006",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/城西街道"
+    },
+    {
+      "code": "410202007",
+      "name": "梁苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/梁苑街道"
+    },
+    {
+      "code": "410202008",
+      "name": "杏花营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/杏花营街道"
+    },
+    {
+      "code": "410202009",
+      "name": "金耀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/金耀街道"
+    },
+    {
+      "code": "410202010",
+      "name": "金明池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/金明池街道"
+    },
+    {
+      "code": "410202011",
+      "name": "西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/西湖街道"
+    },
+    {
+      "code": "410202200",
+      "name": "北郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/北郊乡"
+    },
+    {
+      "code": "410202201",
+      "name": "柳园口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/柳园口乡"
+    },
+    {
+      "code": "410202202",
+      "name": "水稻乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410202",
+      "year": 0,
+      "name_path": "河南省/开封市/龙亭区/水稻乡"
+    }
+  ]
+}

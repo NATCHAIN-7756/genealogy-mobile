@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "210602",
+      "name": "元宝区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210600",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市/元宝区"
+    },
+    {
+      "code": "210603",
+      "name": "振兴区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210600",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市/振兴区"
+    },
+    {
+      "code": "210604",
+      "name": "振安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210600",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市/振安区"
+    },
+    {
+      "code": "210624",
+      "name": "宽甸满族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210600",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市/宽甸满族自治县"
+    },
+    {
+      "code": "210681",
+      "name": "东港市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210600",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市/东港市"
+    },
+    {
+      "code": "210682",
+      "name": "凤城市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210600",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市/凤城市"
+    }
+  ]
+}

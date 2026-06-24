@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "341102010",
+      "name": "琅琊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/琅琊街道"
+    },
+    {
+      "code": "341102011",
+      "name": "遵阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/遵阳街道"
+    },
+    {
+      "code": "341102012",
+      "name": "丰山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/丰山街道"
+    },
+    {
+      "code": "341102013",
+      "name": "清流街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/清流街道"
+    },
+    {
+      "code": "341102014",
+      "name": "扬子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/扬子街道"
+    },
+    {
+      "code": "341102015",
+      "name": "西涧街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/西涧街道"
+    },
+    {
+      "code": "341102016",
+      "name": "滁阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/滁阳街道"
+    },
+    {
+      "code": "341102017",
+      "name": "三官街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/三官街道"
+    },
+    {
+      "code": "341102018",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/凤凰街道"
+    },
+    {
+      "code": "341102019",
+      "name": "紫薇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341102",
+      "year": 0,
+      "name_path": "安徽省/滁州市/琅琊区/紫薇街道"
+    }
+  ]
+}

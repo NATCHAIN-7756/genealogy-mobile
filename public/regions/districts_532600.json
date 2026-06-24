@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "532601",
+      "name": "文山市",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/文山市"
+    },
+    {
+      "code": "532622",
+      "name": "砚山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/砚山县"
+    },
+    {
+      "code": "532623",
+      "name": "西畴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/西畴县"
+    },
+    {
+      "code": "532624",
+      "name": "麻栗坡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/麻栗坡县"
+    },
+    {
+      "code": "532625",
+      "name": "马关县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/马关县"
+    },
+    {
+      "code": "532626",
+      "name": "丘北县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/丘北县"
+    },
+    {
+      "code": "532627",
+      "name": "广南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/广南县"
+    },
+    {
+      "code": "532628",
+      "name": "富宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "532600",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州/富宁县"
+    }
+  ]
+}

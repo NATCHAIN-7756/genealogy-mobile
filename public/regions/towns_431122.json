@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "431122100",
+      "name": "白牙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/白牙市镇"
+    },
+    {
+      "code": "431122101",
+      "name": "大庙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/大庙口镇"
+    },
+    {
+      "code": "431122102",
+      "name": "紫溪市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/紫溪市镇"
+    },
+    {
+      "code": "431122103",
+      "name": "横塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/横塘镇"
+    },
+    {
+      "code": "431122104",
+      "name": "石期市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/石期市镇"
+    },
+    {
+      "code": "431122105",
+      "name": "井头圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/井头圩镇"
+    },
+    {
+      "code": "431122106",
+      "name": "端桥铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/端桥铺镇"
+    },
+    {
+      "code": "431122107",
+      "name": "鹿马桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/鹿马桥镇"
+    },
+    {
+      "code": "431122108",
+      "name": "芦洪市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/芦洪市镇"
+    },
+    {
+      "code": "431122109",
+      "name": "新圩江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/新圩江镇"
+    },
+    {
+      "code": "431122110",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/花桥镇"
+    },
+    {
+      "code": "431122111",
+      "name": "大盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/大盛镇"
+    },
+    {
+      "code": "431122112",
+      "name": "南桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/南桥镇"
+    },
+    {
+      "code": "431122201",
+      "name": "川岩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/川岩乡"
+    },
+    {
+      "code": "431122202",
+      "name": "水岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431122",
+      "year": 0,
+      "name_path": "湖南省/永州市/东安县/水岭乡"
+    }
+  ]
+}

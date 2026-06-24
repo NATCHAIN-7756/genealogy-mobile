@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "533323100",
+      "name": "上帕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/上帕镇"
+    },
+    {
+      "code": "533323200",
+      "name": "匹河怒族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/匹河怒族乡"
+    },
+    {
+      "code": "533323201",
+      "name": "子里甲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/子里甲乡"
+    },
+    {
+      "code": "533323202",
+      "name": "架科底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/架科底乡"
+    },
+    {
+      "code": "533323203",
+      "name": "鹿马登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/鹿马登乡"
+    },
+    {
+      "code": "533323204",
+      "name": "石月亮乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/石月亮乡"
+    },
+    {
+      "code": "533323205",
+      "name": "马吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533323",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/福贡县/马吉乡"
+    }
+  ]
+}

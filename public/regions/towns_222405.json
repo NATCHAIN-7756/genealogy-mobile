@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "222405001",
+      "name": "安民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/安民街道"
+    },
+    {
+      "code": "222405002",
+      "name": "龙门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/龙门街道"
+    },
+    {
+      "code": "222405005",
+      "name": "梨园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/梨园街道"
+    },
+    {
+      "code": "222405100",
+      "name": "开山屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/开山屯镇"
+    },
+    {
+      "code": "222405102",
+      "name": "老头沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/老头沟镇"
+    },
+    {
+      "code": "222405103",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/三合镇"
+    },
+    {
+      "code": "222405104",
+      "name": "东盛涌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/东盛涌镇"
+    },
+    {
+      "code": "222405105",
+      "name": "智新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/智新镇"
+    },
+    {
+      "code": "222405200",
+      "name": "德新乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/德新乡"
+    },
+    {
+      "code": "222405201",
+      "name": "白金乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222405",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/龙井市/白金乡"
+    }
+  ]
+}

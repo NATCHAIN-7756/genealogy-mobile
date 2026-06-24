@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "511825100",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/城厢镇"
+    },
+    {
+      "code": "511825101",
+      "name": "始阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/始阳镇"
+    },
+    {
+      "code": "511825102",
+      "name": "思经镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/思经镇"
+    },
+    {
+      "code": "511825103",
+      "name": "喇叭河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/喇叭河镇"
+    },
+    {
+      "code": "511825104",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/小河镇"
+    },
+    {
+      "code": "511825105",
+      "name": "仁义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/仁义镇"
+    },
+    {
+      "code": "511825106",
+      "name": "新场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/新场镇"
+    },
+    {
+      "code": "511825210",
+      "name": "乐英乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/乐英乡"
+    },
+    {
+      "code": "511825216",
+      "name": "新华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/新华乡"
+    },
+    {
+      "code": "511825219",
+      "name": "兴业乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511825",
+      "year": 0,
+      "name_path": "四川省/雅安市/天全县/兴业乡"
+    }
+  ]
+}

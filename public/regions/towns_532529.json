@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "532529100",
+      "name": "迤萨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/迤萨镇"
+    },
+    {
+      "code": "532529101",
+      "name": "甲寅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/甲寅镇"
+    },
+    {
+      "code": "532529102",
+      "name": "宝华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/宝华镇"
+    },
+    {
+      "code": "532529103",
+      "name": "乐育镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/乐育镇"
+    },
+    {
+      "code": "532529104",
+      "name": "浪堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/浪堤镇"
+    },
+    {
+      "code": "532529203",
+      "name": "洛恩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/洛恩乡"
+    },
+    {
+      "code": "532529204",
+      "name": "石头寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/石头寨乡"
+    },
+    {
+      "code": "532529205",
+      "name": "阿扎河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/阿扎河乡"
+    },
+    {
+      "code": "532529208",
+      "name": "大羊街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/大羊街乡"
+    },
+    {
+      "code": "532529209",
+      "name": "车古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/车古乡"
+    },
+    {
+      "code": "532529210",
+      "name": "架车乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/架车乡"
+    },
+    {
+      "code": "532529211",
+      "name": "垤玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/垤玛乡"
+    },
+    {
+      "code": "532529212",
+      "name": "三村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532529",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/红河县/三村乡"
+    }
+  ]
+}

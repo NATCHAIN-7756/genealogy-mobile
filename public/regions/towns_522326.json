@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "522326001",
+      "name": "王母街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/王母街道"
+    },
+    {
+      "code": "522326002",
+      "name": "平洞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/平洞街道"
+    },
+    {
+      "code": "522326003",
+      "name": "新屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/新屯街道"
+    },
+    {
+      "code": "522326004",
+      "name": "蟠桃街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/蟠桃街道"
+    },
+    {
+      "code": "522326101",
+      "name": "乐元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/乐元镇"
+    },
+    {
+      "code": "522326102",
+      "name": "打易镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/打易镇"
+    },
+    {
+      "code": "522326103",
+      "name": "乐旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/乐旺镇"
+    },
+    {
+      "code": "522326104",
+      "name": "桑郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/桑郎镇"
+    },
+    {
+      "code": "522326108",
+      "name": "郊纳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/郊纳镇"
+    },
+    {
+      "code": "522326109",
+      "name": "蔗香镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/蔗香镇"
+    },
+    {
+      "code": "522326110",
+      "name": "大观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/大观镇"
+    },
+    {
+      "code": "522326112",
+      "name": "石屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/石屯镇"
+    },
+    {
+      "code": "522326113",
+      "name": "麻山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/麻山镇"
+    },
+    {
+      "code": "522326114",
+      "name": "边饶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/边饶镇"
+    },
+    {
+      "code": "522326115",
+      "name": "昂武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/昂武镇"
+    },
+    {
+      "code": "522326206",
+      "name": "油迈瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522326",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/望谟县/油迈瑶族乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "410328001",
+      "name": "永宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/永宁街道"
+    },
+    {
+      "code": "410328101",
+      "name": "王范回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/王范回族镇"
+    },
+    {
+      "code": "410328102",
+      "name": "上戈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/上戈镇"
+    },
+    {
+      "code": "410328103",
+      "name": "下峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/下峪镇"
+    },
+    {
+      "code": "410328104",
+      "name": "河底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/河底镇"
+    },
+    {
+      "code": "410328105",
+      "name": "兴华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/兴华镇"
+    },
+    {
+      "code": "410328106",
+      "name": "东宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/东宋镇"
+    },
+    {
+      "code": "410328107",
+      "name": "马店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/马店镇"
+    },
+    {
+      "code": "410328108",
+      "name": "故县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/故县镇"
+    },
+    {
+      "code": "410328109",
+      "name": "赵村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/赵村镇"
+    },
+    {
+      "code": "410328110",
+      "name": "长水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/长水镇"
+    },
+    {
+      "code": "410328111",
+      "name": "景阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/景阳镇"
+    },
+    {
+      "code": "410328112",
+      "name": "凤翼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/凤翼镇"
+    },
+    {
+      "code": "410328113",
+      "name": "小界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/小界镇"
+    },
+    {
+      "code": "410328209",
+      "name": "罗岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/罗岭乡"
+    },
+    {
+      "code": "410328213",
+      "name": "底张乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/底张乡"
+    },
+    {
+      "code": "410328216",
+      "name": "陈吴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/陈吴乡"
+    },
+    {
+      "code": "410328217",
+      "name": "涧口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410328",
+      "year": 0,
+      "name_path": "河南省/洛阳市/洛宁县/涧口乡"
+    }
+  ]
+}

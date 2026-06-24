@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "451026100",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/城厢镇"
+    },
+    {
+      "code": "451026101",
+      "name": "平孟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/平孟镇"
+    },
+    {
+      "code": "451026102",
+      "name": "龙合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/龙合镇"
+    },
+    {
+      "code": "451026200",
+      "name": "坡荷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/坡荷乡"
+    },
+    {
+      "code": "451026203",
+      "name": "德隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/德隆乡"
+    },
+    {
+      "code": "451026204",
+      "name": "百合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/百合乡"
+    },
+    {
+      "code": "451026205",
+      "name": "百南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/百南乡"
+    },
+    {
+      "code": "451026207",
+      "name": "百省乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/百省乡"
+    },
+    {
+      "code": "451026208",
+      "name": "百都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451026",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/那坡县/百都乡"
+    }
+  ]
+}

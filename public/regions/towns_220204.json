@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "220204001",
+      "name": "德胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/德胜街道"
+    },
+    {
+      "code": "220204002",
+      "name": "南京街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/南京街道"
+    },
+    {
+      "code": "220204003",
+      "name": "大东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/大东街道"
+    },
+    {
+      "code": "220204004",
+      "name": "青岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/青岛街道"
+    },
+    {
+      "code": "220204005",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/向阳街道"
+    },
+    {
+      "code": "220204006",
+      "name": "北极街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/北极街道"
+    },
+    {
+      "code": "220204007",
+      "name": "致和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/致和街道"
+    },
+    {
+      "code": "220204008",
+      "name": "长春路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/长春路街道"
+    },
+    {
+      "code": "220204009",
+      "name": "临江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/临江街道"
+    },
+    {
+      "code": "220204010",
+      "name": "北山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/北山街道"
+    },
+    {
+      "code": "220204011",
+      "name": "黄旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/黄旗街道"
+    },
+    {
+      "code": "220204014",
+      "name": "新北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/新北街道"
+    },
+    {
+      "code": "220204100",
+      "name": "大绥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/大绥河镇"
+    },
+    {
+      "code": "220204101",
+      "name": "搜登站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/搜登站镇"
+    },
+    {
+      "code": "220204102",
+      "name": "越北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/越北镇"
+    },
+    {
+      "code": "220204200",
+      "name": "欢喜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220204",
+      "year": 0,
+      "name_path": "吉林省/吉林市/船营区/欢喜乡"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "330281001",
+      "name": "梨洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/梨洲街道"
+    },
+    {
+      "code": "330281002",
+      "name": "凤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/凤山街道"
+    },
+    {
+      "code": "330281003",
+      "name": "兰江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/兰江街道"
+    },
+    {
+      "code": "330281004",
+      "name": "阳明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/阳明街道"
+    },
+    {
+      "code": "330281005",
+      "name": "低塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/低塘街道"
+    },
+    {
+      "code": "330281006",
+      "name": "朗霞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/朗霞街道"
+    },
+    {
+      "code": "330281100",
+      "name": "临山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/临山镇"
+    },
+    {
+      "code": "330281101",
+      "name": "黄家埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/黄家埠镇"
+    },
+    {
+      "code": "330281102",
+      "name": "小曹娥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/小曹娥镇"
+    },
+    {
+      "code": "330281103",
+      "name": "泗门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/泗门镇"
+    },
+    {
+      "code": "330281106",
+      "name": "马渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/马渚镇"
+    },
+    {
+      "code": "330281108",
+      "name": "牟山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/牟山镇"
+    },
+    {
+      "code": "330281109",
+      "name": "丈亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/丈亭镇"
+    },
+    {
+      "code": "330281110",
+      "name": "三七市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/三七市镇"
+    },
+    {
+      "code": "330281111",
+      "name": "河姆渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/河姆渡镇"
+    },
+    {
+      "code": "330281112",
+      "name": "大隐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/大隐镇"
+    },
+    {
+      "code": "330281113",
+      "name": "陆埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/陆埠镇"
+    },
+    {
+      "code": "330281114",
+      "name": "梁弄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/梁弄镇"
+    },
+    {
+      "code": "330281115",
+      "name": "大岚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/大岚镇"
+    },
+    {
+      "code": "330281116",
+      "name": "四明山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/四明山镇"
+    },
+    {
+      "code": "330281201",
+      "name": "鹿亭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330281",
+      "year": 0,
+      "name_path": "浙江省/宁波市/余姚市/鹿亭乡"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "500109001",
+      "name": "天生街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/天生街道"
+    },
+    {
+      "code": "500109002",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/朝阳街道"
+    },
+    {
+      "code": "500109003",
+      "name": "龙凤桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/龙凤桥街道"
+    },
+    {
+      "code": "500109004",
+      "name": "北温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/北温泉街道"
+    },
+    {
+      "code": "500109005",
+      "name": "东阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/东阳街道"
+    },
+    {
+      "code": "500109007",
+      "name": "歇马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/歇马街道"
+    },
+    {
+      "code": "500109102",
+      "name": "澄江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/澄江镇"
+    },
+    {
+      "code": "500109105",
+      "name": "天府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/天府镇"
+    },
+    {
+      "code": "500109108",
+      "name": "静观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/静观镇"
+    },
+    {
+      "code": "500109109",
+      "name": "柳荫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/柳荫镇"
+    },
+    {
+      "code": "500109111",
+      "name": "三圣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/三圣镇"
+    },
+    {
+      "code": "500109112",
+      "name": "金刀峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/金刀峡镇"
+    },
+    {
+      "code": "500109123",
+      "name": "大湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/大湾镇"
+    },
+    {
+      "code": "500109124",
+      "name": "统景镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/统景镇"
+    },
+    {
+      "code": "500109125",
+      "name": "大盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/大盛镇"
+    },
+    {
+      "code": "500109126",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/兴隆镇"
+    },
+    {
+      "code": "500109127",
+      "name": "茨竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500109",
+      "year": 0,
+      "name_path": "重庆市/北碚区/茨竹镇"
+    }
+  ]
+}

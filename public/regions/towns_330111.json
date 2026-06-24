@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "330111001",
+      "name": "富春街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/富春街道"
+    },
+    {
+      "code": "330111002",
+      "name": "春江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/春江街道"
+    },
+    {
+      "code": "330111003",
+      "name": "东洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/东洲街道"
+    },
+    {
+      "code": "330111004",
+      "name": "鹿山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/鹿山街道"
+    },
+    {
+      "code": "330111005",
+      "name": "银湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/银湖街道"
+    },
+    {
+      "code": "330111100",
+      "name": "万市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/万市镇"
+    },
+    {
+      "code": "330111101",
+      "name": "洞桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/洞桥镇"
+    },
+    {
+      "code": "330111102",
+      "name": "新登镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/新登镇"
+    },
+    {
+      "code": "330111103",
+      "name": "渌渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/渌渚镇"
+    },
+    {
+      "code": "330111104",
+      "name": "胥口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/胥口镇"
+    },
+    {
+      "code": "330111105",
+      "name": "永昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/永昌镇"
+    },
+    {
+      "code": "330111106",
+      "name": "大源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/大源镇"
+    },
+    {
+      "code": "330111107",
+      "name": "灵桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/灵桥镇"
+    },
+    {
+      "code": "330111108",
+      "name": "里山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/里山镇"
+    },
+    {
+      "code": "330111109",
+      "name": "常绿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/常绿镇"
+    },
+    {
+      "code": "330111110",
+      "name": "场口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/场口镇"
+    },
+    {
+      "code": "330111111",
+      "name": "常安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/常安镇"
+    },
+    {
+      "code": "330111112",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/龙门镇"
+    },
+    {
+      "code": "330111200",
+      "name": "新桐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/新桐乡"
+    },
+    {
+      "code": "330111201",
+      "name": "上官乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/上官乡"
+    },
+    {
+      "code": "330111202",
+      "name": "渔山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/渔山乡"
+    },
+    {
+      "code": "330111203",
+      "name": "环山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/环山乡"
+    },
+    {
+      "code": "330111204",
+      "name": "湖源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/湖源乡"
+    },
+    {
+      "code": "330111205",
+      "name": "春建乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330111",
+      "year": 0,
+      "name_path": "浙江省/杭州市/富阳区/春建乡"
+    }
+  ]
+}

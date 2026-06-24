@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "620881100",
+      "name": "东华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/东华镇"
+    },
+    {
+      "code": "620881101",
+      "name": "安口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/安口镇"
+    },
+    {
+      "code": "620881102",
+      "name": "西华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/西华镇"
+    },
+    {
+      "code": "620881103",
+      "name": "马峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/马峡镇"
+    },
+    {
+      "code": "620881104",
+      "name": "策底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/策底镇"
+    },
+    {
+      "code": "620881105",
+      "name": "上关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/上关镇"
+    },
+    {
+      "code": "620881106",
+      "name": "河西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/河西镇"
+    },
+    {
+      "code": "620881200",
+      "name": "神峪回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/神峪回族乡"
+    },
+    {
+      "code": "620881201",
+      "name": "山寨回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/山寨回族乡"
+    },
+    {
+      "code": "620881202",
+      "name": "砚峡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620881",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/华亭市/砚峡乡"
+    }
+  ]
+}

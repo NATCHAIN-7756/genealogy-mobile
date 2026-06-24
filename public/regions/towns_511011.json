@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "511011001",
+      "name": "东兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/东兴街道"
+    },
+    {
+      "code": "511011002",
+      "name": "西林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/西林街道"
+    },
+    {
+      "code": "511011003",
+      "name": "新江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/新江街道"
+    },
+    {
+      "code": "511011004",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/胜利街道"
+    },
+    {
+      "code": "511011005",
+      "name": "高桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/高桥街道"
+    },
+    {
+      "code": "511011100",
+      "name": "田家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/田家镇"
+    },
+    {
+      "code": "511011101",
+      "name": "郭北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/郭北镇"
+    },
+    {
+      "code": "511011102",
+      "name": "高梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/高梁镇"
+    },
+    {
+      "code": "511011103",
+      "name": "白合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/白合镇"
+    },
+    {
+      "code": "511011104",
+      "name": "顺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/顺河镇"
+    },
+    {
+      "code": "511011107",
+      "name": "双才镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/双才镇"
+    },
+    {
+      "code": "511011109",
+      "name": "杨家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/杨家镇"
+    },
+    {
+      "code": "511011110",
+      "name": "椑木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/椑木镇"
+    },
+    {
+      "code": "511011111",
+      "name": "石子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/石子镇"
+    },
+    {
+      "code": "511011113",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/永兴镇"
+    },
+    {
+      "code": "511011114",
+      "name": "平坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/平坦镇"
+    },
+    {
+      "code": "511011117",
+      "name": "双桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/双桥镇"
+    },
+    {
+      "code": "511011118",
+      "name": "富溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/富溪镇"
+    },
+    {
+      "code": "511011120",
+      "name": "永福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511011",
+      "year": 0,
+      "name_path": "四川省/内江市/东兴区/永福镇"
+    }
+  ]
+}

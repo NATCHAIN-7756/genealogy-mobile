@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "411527001",
+      "name": "顺河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/顺河街道"
+    },
+    {
+      "code": "411527002",
+      "name": "滨湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/滨湖街道"
+    },
+    {
+      "code": "411527003",
+      "name": "栏杆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/栏杆街道"
+    },
+    {
+      "code": "411527004",
+      "name": "桂花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/桂花街道"
+    },
+    {
+      "code": "411527101",
+      "name": "马集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/马集镇"
+    },
+    {
+      "code": "411527103",
+      "name": "防胡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/防胡镇"
+    },
+    {
+      "code": "411527104",
+      "name": "新里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/新里镇"
+    },
+    {
+      "code": "411527105",
+      "name": "期思镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/期思镇"
+    },
+    {
+      "code": "411527106",
+      "name": "赵集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/赵集镇"
+    },
+    {
+      "code": "411527200",
+      "name": "台头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/台头乡"
+    },
+    {
+      "code": "411527201",
+      "name": "王家岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/王家岗乡"
+    },
+    {
+      "code": "411527202",
+      "name": "固城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/固城乡"
+    },
+    {
+      "code": "411527203",
+      "name": "三空桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/三空桥乡"
+    },
+    {
+      "code": "411527204",
+      "name": "张里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/张里乡"
+    },
+    {
+      "code": "411527206",
+      "name": "邓湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/邓湾乡"
+    },
+    {
+      "code": "411527207",
+      "name": "张庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/张庄乡"
+    },
+    {
+      "code": "411527208",
+      "name": "王店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/王店乡"
+    },
+    {
+      "code": "411527209",
+      "name": "谷堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/谷堆乡"
+    },
+    {
+      "code": "411527212",
+      "name": "芦集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411527",
+      "year": 0,
+      "name_path": "河南省/信阳市/淮滨县/芦集乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "370881001",
+      "name": "鲁城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/鲁城街道"
+    },
+    {
+      "code": "370881002",
+      "name": "书院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/书院街道"
+    },
+    {
+      "code": "370881003",
+      "name": "小雪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/小雪街道"
+    },
+    {
+      "code": "370881004",
+      "name": "时庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/时庄街道"
+    },
+    {
+      "code": "370881101",
+      "name": "吴村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/吴村镇"
+    },
+    {
+      "code": "370881102",
+      "name": "姚村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/姚村镇"
+    },
+    {
+      "code": "370881103",
+      "name": "陵城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/陵城镇"
+    },
+    {
+      "code": "370881105",
+      "name": "尼山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/尼山镇"
+    },
+    {
+      "code": "370881106",
+      "name": "王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/王庄镇"
+    },
+    {
+      "code": "370881107",
+      "name": "息陬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/息陬镇"
+    },
+    {
+      "code": "370881108",
+      "name": "石门山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/石门山镇"
+    },
+    {
+      "code": "370881109",
+      "name": "防山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370881",
+      "year": 0,
+      "name_path": "山东省/济宁市/曲阜市/防山镇"
+    }
+  ]
+}

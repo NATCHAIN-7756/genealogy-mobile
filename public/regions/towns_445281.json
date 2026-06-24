@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "445281001",
+      "name": "池尾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/池尾街道"
+    },
+    {
+      "code": "445281002",
+      "name": "流沙北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/流沙北街道"
+    },
+    {
+      "code": "445281003",
+      "name": "流沙西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/流沙西街道"
+    },
+    {
+      "code": "445281004",
+      "name": "流沙东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/流沙东街道"
+    },
+    {
+      "code": "445281005",
+      "name": "流沙南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/流沙南街道"
+    },
+    {
+      "code": "445281006",
+      "name": "燎原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/燎原街道"
+    },
+    {
+      "code": "445281007",
+      "name": "大南山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/大南山街道"
+    },
+    {
+      "code": "445281102",
+      "name": "赤岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/赤岗镇"
+    },
+    {
+      "code": "445281103",
+      "name": "大坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/大坝镇"
+    },
+    {
+      "code": "445281104",
+      "name": "洪阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/洪阳镇"
+    },
+    {
+      "code": "445281105",
+      "name": "南溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/南溪镇"
+    },
+    {
+      "code": "445281106",
+      "name": "广太镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/广太镇"
+    },
+    {
+      "code": "445281107",
+      "name": "麒麟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/麒麟镇"
+    },
+    {
+      "code": "445281108",
+      "name": "南径镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/南径镇"
+    },
+    {
+      "code": "445281109",
+      "name": "占陇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/占陇镇"
+    },
+    {
+      "code": "445281110",
+      "name": "军埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/军埠镇"
+    },
+    {
+      "code": "445281111",
+      "name": "下架山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/下架山镇"
+    },
+    {
+      "code": "445281113",
+      "name": "高埔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/高埔镇"
+    },
+    {
+      "code": "445281114",
+      "name": "云落镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/云落镇"
+    },
+    {
+      "code": "445281115",
+      "name": "大坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/大坪镇"
+    },
+    {
+      "code": "445281116",
+      "name": "船埔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/船埔镇"
+    },
+    {
+      "code": "445281117",
+      "name": "梅林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/梅林镇"
+    },
+    {
+      "code": "445281119",
+      "name": "里湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/里湖镇"
+    },
+    {
+      "code": "445281121",
+      "name": "梅塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/梅塘镇"
+    },
+    {
+      "code": "445281122",
+      "name": "普侨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/普侨镇"
+    },
+    {
+      "code": "445281201",
+      "name": "鲘溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "445281",
+      "year": 0,
+      "name_path": "广东省/揭阳市/普宁市/鲘溪乡"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "220323001",
+      "name": "永盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/永盛街道"
+    },
+    {
+      "code": "220323002",
+      "name": "永宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/永宁街道"
+    },
+    {
+      "code": "220323100",
+      "name": "伊通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/伊通镇"
+    },
+    {
+      "code": "220323101",
+      "name": "二道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/二道镇"
+    },
+    {
+      "code": "220323102",
+      "name": "伊丹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/伊丹镇"
+    },
+    {
+      "code": "220323103",
+      "name": "马鞍山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/马鞍山镇"
+    },
+    {
+      "code": "220323104",
+      "name": "景台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/景台镇"
+    },
+    {
+      "code": "220323105",
+      "name": "靠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/靠山镇"
+    },
+    {
+      "code": "220323106",
+      "name": "大孤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/大孤山镇"
+    },
+    {
+      "code": "220323107",
+      "name": "小孤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/小孤山镇"
+    },
+    {
+      "code": "220323108",
+      "name": "营城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/营城子镇"
+    },
+    {
+      "code": "220323109",
+      "name": "西苇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/西苇镇"
+    },
+    {
+      "code": "220323110",
+      "name": "河源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/河源镇"
+    },
+    {
+      "code": "220323111",
+      "name": "黄岭子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/黄岭子镇"
+    },
+    {
+      "code": "220323200",
+      "name": "新兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/新兴乡"
+    },
+    {
+      "code": "220323201",
+      "name": "莫里青乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/莫里青乡"
+    },
+    {
+      "code": "220323203",
+      "name": "三道乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220323",
+      "year": 0,
+      "name_path": "吉林省/四平市/伊通满族自治县/三道乡"
+    }
+  ]
+}

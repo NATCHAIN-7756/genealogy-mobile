@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "430626001",
+      "name": "汉昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/汉昌街道"
+    },
+    {
+      "code": "430626002",
+      "name": "天岳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/天岳街道"
+    },
+    {
+      "code": "430626101",
+      "name": "安定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/安定镇"
+    },
+    {
+      "code": "430626102",
+      "name": "三市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/三市镇"
+    },
+    {
+      "code": "430626103",
+      "name": "加义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/加义镇"
+    },
+    {
+      "code": "430626104",
+      "name": "长寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/长寿镇"
+    },
+    {
+      "code": "430626105",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/龙门镇"
+    },
+    {
+      "code": "430626106",
+      "name": "虹桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/虹桥镇"
+    },
+    {
+      "code": "430626107",
+      "name": "南江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/南江镇"
+    },
+    {
+      "code": "430626108",
+      "name": "梅仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/梅仙镇"
+    },
+    {
+      "code": "430626109",
+      "name": "浯口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/浯口镇"
+    },
+    {
+      "code": "430626110",
+      "name": "瓮江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/瓮江镇"
+    },
+    {
+      "code": "430626111",
+      "name": "伍市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/伍市镇"
+    },
+    {
+      "code": "430626112",
+      "name": "向家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/向家镇"
+    },
+    {
+      "code": "430626113",
+      "name": "童市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/童市镇"
+    },
+    {
+      "code": "430626114",
+      "name": "岑川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/岑川镇"
+    },
+    {
+      "code": "430626115",
+      "name": "福寿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/福寿山镇"
+    },
+    {
+      "code": "430626116",
+      "name": "上塔市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/上塔市镇"
+    },
+    {
+      "code": "430626117",
+      "name": "石牛寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/石牛寨镇"
+    },
+    {
+      "code": "430626118",
+      "name": "余坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/余坪镇"
+    },
+    {
+      "code": "430626200",
+      "name": "三阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/三阳乡"
+    },
+    {
+      "code": "430626205",
+      "name": "木金乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/木金乡"
+    },
+    {
+      "code": "430626208",
+      "name": "板江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/板江乡"
+    },
+    {
+      "code": "430626209",
+      "name": "大洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/大洲乡"
+    },
+    {
+      "code": "430626211",
+      "name": "三墩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430626",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/平江县/三墩乡"
+    }
+  ]
+}

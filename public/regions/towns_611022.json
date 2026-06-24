@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "611022001",
+      "name": "龙驹寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/龙驹寨街道"
+    },
+    {
+      "code": "611022101",
+      "name": "庾岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/庾岭镇"
+    },
+    {
+      "code": "611022102",
+      "name": "蔡川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/蔡川镇"
+    },
+    {
+      "code": "611022103",
+      "name": "峦庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/峦庄镇"
+    },
+    {
+      "code": "611022104",
+      "name": "铁峪铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/铁峪铺镇"
+    },
+    {
+      "code": "611022105",
+      "name": "武关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/武关镇"
+    },
+    {
+      "code": "611022106",
+      "name": "竹林关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/竹林关镇"
+    },
+    {
+      "code": "611022107",
+      "name": "土门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/土门镇"
+    },
+    {
+      "code": "611022108",
+      "name": "寺坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/寺坪镇"
+    },
+    {
+      "code": "611022109",
+      "name": "商镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/商镇"
+    },
+    {
+      "code": "611022110",
+      "name": "棣花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/棣花镇"
+    },
+    {
+      "code": "611022114",
+      "name": "花瓶子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611022",
+      "year": 0,
+      "name_path": "陕西省/商洛市/丹凤县/花瓶子镇"
+    }
+  ]
+}

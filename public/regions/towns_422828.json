@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "422828100",
+      "name": "容美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/容美镇"
+    },
+    {
+      "code": "422828101",
+      "name": "走马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/走马镇"
+    },
+    {
+      "code": "422828102",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/太平镇"
+    },
+    {
+      "code": "422828103",
+      "name": "燕子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/燕子镇"
+    },
+    {
+      "code": "422828104",
+      "name": "中营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/中营镇"
+    },
+    {
+      "code": "422828201",
+      "name": "铁炉白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/铁炉白族乡"
+    },
+    {
+      "code": "422828202",
+      "name": "五里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/五里乡"
+    },
+    {
+      "code": "422828204",
+      "name": "下坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/下坪乡"
+    },
+    {
+      "code": "422828205",
+      "name": "邬阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422828",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/鹤峰县/邬阳乡"
+    }
+  ]
+}

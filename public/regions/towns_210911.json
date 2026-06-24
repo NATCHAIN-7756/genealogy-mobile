@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "210911001",
+      "name": "玉新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210911",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/细河区/玉新街道"
+    },
+    {
+      "code": "210911007",
+      "name": "玉龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210911",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/细河区/玉龙街道"
+    },
+    {
+      "code": "210911008",
+      "name": "玉丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210911",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/细河区/玉丰街道"
+    },
+    {
+      "code": "210911102",
+      "name": "四合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210911",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/细河区/四合镇"
+    }
+  ]
+}

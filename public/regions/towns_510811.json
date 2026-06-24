@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510811100",
+      "name": "元坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/元坝镇"
+    },
+    {
+      "code": "510811101",
+      "name": "卫子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/卫子镇"
+    },
+    {
+      "code": "510811102",
+      "name": "王家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/王家镇"
+    },
+    {
+      "code": "510811103",
+      "name": "磨滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/磨滩镇"
+    },
+    {
+      "code": "510811104",
+      "name": "柏林沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/柏林沟镇"
+    },
+    {
+      "code": "510811105",
+      "name": "太公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/太公镇"
+    },
+    {
+      "code": "510811106",
+      "name": "虎跳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/虎跳镇"
+    },
+    {
+      "code": "510811107",
+      "name": "红岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/红岩镇"
+    },
+    {
+      "code": "510811108",
+      "name": "昭化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/昭化镇"
+    },
+    {
+      "code": "510811111",
+      "name": "青牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/青牛镇"
+    },
+    {
+      "code": "510811112",
+      "name": "射箭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/射箭镇"
+    },
+    {
+      "code": "510811113",
+      "name": "清水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510811",
+      "year": 0,
+      "name_path": "四川省/广元市/昭化区/清水镇"
+    }
+  ]
+}

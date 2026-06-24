@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "440309001",
+      "name": "龙华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440309",
+      "year": 0,
+      "name_path": "广东省/深圳市/龙华区/龙华街道"
+    },
+    {
+      "code": "440309002",
+      "name": "大浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440309",
+      "year": 0,
+      "name_path": "广东省/深圳市/龙华区/大浪街道"
+    },
+    {
+      "code": "440309003",
+      "name": "民治街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440309",
+      "year": 0,
+      "name_path": "广东省/深圳市/龙华区/民治街道"
+    },
+    {
+      "code": "440309004",
+      "name": "观澜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440309",
+      "year": 0,
+      "name_path": "广东省/深圳市/龙华区/观澜街道"
+    },
+    {
+      "code": "440309005",
+      "name": "观湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440309",
+      "year": 0,
+      "name_path": "广东省/深圳市/龙华区/观湖街道"
+    },
+    {
+      "code": "440309006",
+      "name": "福城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440309",
+      "year": 0,
+      "name_path": "广东省/深圳市/龙华区/福城街道"
+    }
+  ]
+}

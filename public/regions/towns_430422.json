@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "430422001",
+      "name": "云集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/云集街道"
+    },
+    {
+      "code": "430422002",
+      "name": "车江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/车江街道"
+    },
+    {
+      "code": "430422003",
+      "name": "向阳桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/向阳桥街道"
+    },
+    {
+      "code": "430422103",
+      "name": "茶市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/茶市镇"
+    },
+    {
+      "code": "430422104",
+      "name": "冠市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/冠市镇"
+    },
+    {
+      "code": "430422105",
+      "name": "江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/江口镇"
+    },
+    {
+      "code": "430422106",
+      "name": "宝盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/宝盖镇"
+    },
+    {
+      "code": "430422108",
+      "name": "铁丝塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/铁丝塘镇"
+    },
+    {
+      "code": "430422109",
+      "name": "泉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/泉溪镇"
+    },
+    {
+      "code": "430422110",
+      "name": "洪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/洪山镇"
+    },
+    {
+      "code": "430422112",
+      "name": "谭子山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/谭子山镇"
+    },
+    {
+      "code": "430422114",
+      "name": "泉湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/泉湖镇"
+    },
+    {
+      "code": "430422115",
+      "name": "柞市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/柞市镇"
+    },
+    {
+      "code": "430422116",
+      "name": "茅市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/茅市镇"
+    },
+    {
+      "code": "430422117",
+      "name": "硫市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/硫市镇"
+    },
+    {
+      "code": "430422118",
+      "name": "栗江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/栗江镇"
+    },
+    {
+      "code": "430422119",
+      "name": "近尾洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/近尾洲镇"
+    },
+    {
+      "code": "430422121",
+      "name": "咸塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/咸塘镇"
+    },
+    {
+      "code": "430422122",
+      "name": "松江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/松江镇"
+    },
+    {
+      "code": "430422124",
+      "name": "三塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/三塘镇"
+    },
+    {
+      "code": "430422125",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/花桥镇"
+    },
+    {
+      "code": "430422127",
+      "name": "岐山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/岐山镇"
+    },
+    {
+      "code": "430422200",
+      "name": "相市乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430422",
+      "year": 0,
+      "name_path": "湖南省/衡阳市/衡南县/相市乡"
+    }
+  ]
+}

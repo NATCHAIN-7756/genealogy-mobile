@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "411102",
+      "name": "源汇区",
+      "level": 3,
+      "type": null,
+      "parent_code": "411100",
+      "year": 0,
+      "name_path": "全国/河南省/漯河市/源汇区"
+    },
+    {
+      "code": "411103",
+      "name": "郾城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "411100",
+      "year": 0,
+      "name_path": "全国/河南省/漯河市/郾城区"
+    },
+    {
+      "code": "411104",
+      "name": "召陵区",
+      "level": 3,
+      "type": null,
+      "parent_code": "411100",
+      "year": 0,
+      "name_path": "全国/河南省/漯河市/召陵区"
+    },
+    {
+      "code": "411121",
+      "name": "舞阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411100",
+      "year": 0,
+      "name_path": "全国/河南省/漯河市/舞阳县"
+    },
+    {
+      "code": "411122",
+      "name": "临颍县",
+      "level": 3,
+      "type": null,
+      "parent_code": "411100",
+      "year": 0,
+      "name_path": "全国/河南省/漯河市/临颍县"
+    }
+  ]
+}

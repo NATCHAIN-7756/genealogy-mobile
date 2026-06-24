@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "441426100",
+      "name": "大柘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/大柘镇"
+    },
+    {
+      "code": "441426101",
+      "name": "石正镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/石正镇"
+    },
+    {
+      "code": "441426102",
+      "name": "东石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/东石镇"
+    },
+    {
+      "code": "441426103",
+      "name": "仁居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/仁居镇"
+    },
+    {
+      "code": "441426104",
+      "name": "八尺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/八尺镇"
+    },
+    {
+      "code": "441426105",
+      "name": "差干镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/差干镇"
+    },
+    {
+      "code": "441426107",
+      "name": "河头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/河头镇"
+    },
+    {
+      "code": "441426108",
+      "name": "中行镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/中行镇"
+    },
+    {
+      "code": "441426109",
+      "name": "上举镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/上举镇"
+    },
+    {
+      "code": "441426110",
+      "name": "泗水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/泗水镇"
+    },
+    {
+      "code": "441426114",
+      "name": "长田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/长田镇"
+    },
+    {
+      "code": "441426115",
+      "name": "热柘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441426",
+      "year": 0,
+      "name_path": "广东省/梅州市/平远县/热柘镇"
+    }
+  ]
+}

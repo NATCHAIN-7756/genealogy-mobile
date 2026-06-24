@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "410402001",
+      "name": "曙光街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/曙光街街道"
+    },
+    {
+      "code": "410402002",
+      "name": "光明路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/光明路街道"
+    },
+    {
+      "code": "410402003",
+      "name": "中兴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/中兴路街道"
+    },
+    {
+      "code": "410402004",
+      "name": "矿工路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/矿工路街道"
+    },
+    {
+      "code": "410402005",
+      "name": "西市场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/西市场街道"
+    },
+    {
+      "code": "410402006",
+      "name": "新新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/新新街街道"
+    },
+    {
+      "code": "410402007",
+      "name": "青石山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/青石山街道"
+    },
+    {
+      "code": "410402008",
+      "name": "湛河北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/湛河北路街道"
+    },
+    {
+      "code": "410402009",
+      "name": "湖滨路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/湖滨路街道"
+    },
+    {
+      "code": "410402010",
+      "name": "西高皇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/西高皇街道"
+    },
+    {
+      "code": "410402100",
+      "name": "焦店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/焦店镇"
+    },
+    {
+      "code": "410402101",
+      "name": "滍阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410402",
+      "year": 0,
+      "name_path": "河南省/平顶山市/新华区/滍阳镇"
+    }
+  ]
+}

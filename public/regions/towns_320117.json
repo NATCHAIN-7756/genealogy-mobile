@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "320117001",
+      "name": "永阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/永阳街道"
+    },
+    {
+      "code": "320117002",
+      "name": "柘塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/柘塘街道"
+    },
+    {
+      "code": "320117003",
+      "name": "东屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/东屏街道"
+    },
+    {
+      "code": "320117004",
+      "name": "石湫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/石湫街道"
+    },
+    {
+      "code": "320117005",
+      "name": "洪蓝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/洪蓝街道"
+    },
+    {
+      "code": "320117101",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/白马镇"
+    },
+    {
+      "code": "320117106",
+      "name": "晶桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/晶桥镇"
+    },
+    {
+      "code": "320117107",
+      "name": "和凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320117",
+      "year": 0,
+      "name_path": "江苏省/南京市/溧水区/和凤镇"
+    }
+  ]
+}

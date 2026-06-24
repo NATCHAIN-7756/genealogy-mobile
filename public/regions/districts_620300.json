@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "620302",
+      "name": "金川区",
+      "level": 3,
+      "type": null,
+      "parent_code": "620300",
+      "year": 0,
+      "name_path": "全国/甘肃省/金昌市/金川区"
+    },
+    {
+      "code": "620321",
+      "name": "永昌县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620300",
+      "year": 0,
+      "name_path": "全国/甘肃省/金昌市/永昌县"
+    }
+  ]
+}

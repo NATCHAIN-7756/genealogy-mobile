@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "522622100",
+      "name": "新州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/新州镇"
+    },
+    {
+      "code": "522622101",
+      "name": "旧州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/旧州镇"
+    },
+    {
+      "code": "522622102",
+      "name": "重安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/重安镇"
+    },
+    {
+      "code": "522622103",
+      "name": "谷陇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/谷陇镇"
+    },
+    {
+      "code": "522622104",
+      "name": "平溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/平溪镇"
+    },
+    {
+      "code": "522622105",
+      "name": "野洞河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/野洞河镇"
+    },
+    {
+      "code": "522622106",
+      "name": "上塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/上塘镇"
+    },
+    {
+      "code": "522622107",
+      "name": "浪洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/浪洞镇"
+    },
+    {
+      "code": "522622203",
+      "name": "一碗水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/一碗水乡"
+    },
+    {
+      "code": "522622204",
+      "name": "纸房乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/纸房乡"
+    },
+    {
+      "code": "522622206",
+      "name": "翁坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522622",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/黄平县/翁坪乡"
+    }
+  ]
+}

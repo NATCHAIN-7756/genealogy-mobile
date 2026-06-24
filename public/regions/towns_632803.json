@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "632803100",
+      "name": "茫崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632803",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/茫崖市/茫崖镇"
+    },
+    {
+      "code": "632803101",
+      "name": "花土沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632803",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/茫崖市/花土沟镇"
+    },
+    {
+      "code": "632803102",
+      "name": "冷湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632803",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/茫崖市/冷湖镇"
+    }
+  ]
+}

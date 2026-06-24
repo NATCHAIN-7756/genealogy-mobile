@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "451481100",
+      "name": "凭祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451481",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/凭祥市/凭祥镇"
+    },
+    {
+      "code": "451481101",
+      "name": "友谊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451481",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/凭祥市/友谊镇"
+    },
+    {
+      "code": "451481102",
+      "name": "上石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451481",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/凭祥市/上石镇"
+    },
+    {
+      "code": "451481103",
+      "name": "夏石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451481",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/凭祥市/夏石镇"
+    }
+  ]
+}

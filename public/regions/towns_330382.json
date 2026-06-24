@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "330382001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/城东街道"
+    },
+    {
+      "code": "330382002",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/城南街道"
+    },
+    {
+      "code": "330382003",
+      "name": "盐盆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/盐盆街道"
+    },
+    {
+      "code": "330382004",
+      "name": "翁垟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/翁垟街道"
+    },
+    {
+      "code": "330382005",
+      "name": "白石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/白石街道"
+    },
+    {
+      "code": "330382006",
+      "name": "石帆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/石帆街道"
+    },
+    {
+      "code": "330382007",
+      "name": "天成街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/天成街道"
+    },
+    {
+      "code": "330382008",
+      "name": "乐成街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/乐成街道"
+    },
+    {
+      "code": "330382104",
+      "name": "雁荡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/雁荡镇"
+    },
+    {
+      "code": "330382121",
+      "name": "柳市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/柳市镇"
+    },
+    {
+      "code": "330382122",
+      "name": "北白象镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/北白象镇"
+    },
+    {
+      "code": "330382123",
+      "name": "虹桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/虹桥镇"
+    },
+    {
+      "code": "330382124",
+      "name": "淡溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/淡溪镇"
+    },
+    {
+      "code": "330382125",
+      "name": "清江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/清江镇"
+    },
+    {
+      "code": "330382126",
+      "name": "芙蓉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/芙蓉镇"
+    },
+    {
+      "code": "330382127",
+      "name": "大荆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/大荆镇"
+    },
+    {
+      "code": "330382128",
+      "name": "仙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/仙溪镇"
+    },
+    {
+      "code": "330382129",
+      "name": "磐石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/磐石镇"
+    },
+    {
+      "code": "330382130",
+      "name": "蒲岐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/蒲岐镇"
+    },
+    {
+      "code": "330382131",
+      "name": "南岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/南岳镇"
+    },
+    {
+      "code": "330382132",
+      "name": "南塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/南塘镇"
+    },
+    {
+      "code": "330382133",
+      "name": "湖雾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/湖雾镇"
+    },
+    {
+      "code": "330382200",
+      "name": "岭底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/岭底乡"
+    },
+    {
+      "code": "330382201",
+      "name": "智仁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/智仁乡"
+    },
+    {
+      "code": "330382202",
+      "name": "龙西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330382",
+      "year": 0,
+      "name_path": "浙江省/温州市/乐清市/龙西乡"
+    }
+  ]
+}

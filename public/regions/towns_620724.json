@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "620724100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/城关镇"
+    },
+    {
+      "code": "620724101",
+      "name": "宣化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/宣化镇"
+    },
+    {
+      "code": "620724102",
+      "name": "南华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/南华镇"
+    },
+    {
+      "code": "620724103",
+      "name": "巷道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/巷道镇"
+    },
+    {
+      "code": "620724104",
+      "name": "新坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/新坝镇"
+    },
+    {
+      "code": "620724105",
+      "name": "骆驼城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/骆驼城镇"
+    },
+    {
+      "code": "620724106",
+      "name": "合黎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/合黎镇"
+    },
+    {
+      "code": "620724107",
+      "name": "黑泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/黑泉镇"
+    },
+    {
+      "code": "620724108",
+      "name": "罗城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620724",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/高台县/罗城镇"
+    }
+  ]
+}

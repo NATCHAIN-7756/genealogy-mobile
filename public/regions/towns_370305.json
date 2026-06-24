@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "370305001",
+      "name": "闻韶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/闻韶街道"
+    },
+    {
+      "code": "370305002",
+      "name": "雪宫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/雪宫街道"
+    },
+    {
+      "code": "370305003",
+      "name": "辛店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/辛店街道"
+    },
+    {
+      "code": "370305004",
+      "name": "稷下街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/稷下街道"
+    },
+    {
+      "code": "370305005",
+      "name": "齐陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/齐陵街道"
+    },
+    {
+      "code": "370305100",
+      "name": "齐都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/齐都镇"
+    },
+    {
+      "code": "370305102",
+      "name": "皇城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/皇城镇"
+    },
+    {
+      "code": "370305103",
+      "name": "敬仲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/敬仲镇"
+    },
+    {
+      "code": "370305104",
+      "name": "朱台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/朱台镇"
+    },
+    {
+      "code": "370305105",
+      "name": "凤凰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/凤凰镇"
+    },
+    {
+      "code": "370305107",
+      "name": "金岭回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/金岭回族镇"
+    },
+    {
+      "code": "370305108",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370305",
+      "year": 0,
+      "name_path": "山东省/淄博市/临淄区/金山镇"
+    }
+  ]
+}

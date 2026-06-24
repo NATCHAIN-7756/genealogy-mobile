@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130631100",
+      "name": "望都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/望都镇"
+    },
+    {
+      "code": "130631101",
+      "name": "固店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/固店镇"
+    },
+    {
+      "code": "130631102",
+      "name": "贾村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/贾村镇"
+    },
+    {
+      "code": "130631103",
+      "name": "中韩庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/中韩庄镇"
+    },
+    {
+      "code": "130631104",
+      "name": "寺庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/寺庄镇"
+    },
+    {
+      "code": "130631105",
+      "name": "赵庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/赵庄镇"
+    },
+    {
+      "code": "130631106",
+      "name": "高岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/高岭镇"
+    },
+    {
+      "code": "130631202",
+      "name": "黑堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130631",
+      "year": 0,
+      "name_path": "河北省/保定市/望都县/黑堡乡"
+    }
+  ]
+}

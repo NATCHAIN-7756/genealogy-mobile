@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "411025001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/城关街道"
+    },
+    {
+      "code": "411025002",
+      "name": "茨沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/茨沟街道"
+    },
+    {
+      "code": "411025101",
+      "name": "颍桥回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/颍桥回族镇"
+    },
+    {
+      "code": "411025102",
+      "name": "麦岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/麦岭镇"
+    },
+    {
+      "code": "411025103",
+      "name": "颍阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/颍阳镇"
+    },
+    {
+      "code": "411025104",
+      "name": "王洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/王洛镇"
+    },
+    {
+      "code": "411025105",
+      "name": "紫云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/紫云镇"
+    },
+    {
+      "code": "411025106",
+      "name": "库庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/库庄镇"
+    },
+    {
+      "code": "411025107",
+      "name": "十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/十里铺镇"
+    },
+    {
+      "code": "411025108",
+      "name": "山头店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/山头店镇"
+    },
+    {
+      "code": "411025109",
+      "name": "汾陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/汾陈镇"
+    },
+    {
+      "code": "411025110",
+      "name": "湛北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/湛北镇"
+    },
+    {
+      "code": "411025203",
+      "name": "丁营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/丁营乡"
+    },
+    {
+      "code": "411025204",
+      "name": "姜庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/姜庄乡"
+    },
+    {
+      "code": "411025205",
+      "name": "范湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/范湖乡"
+    },
+    {
+      "code": "411025206",
+      "name": "双庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411025",
+      "year": 0,
+      "name_path": "河南省/许昌市/襄城县/双庙乡"
+    }
+  ]
+}

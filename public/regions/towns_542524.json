@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "542524100",
+      "name": "日土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "542524",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/日土县/日土镇"
+    },
+    {
+      "code": "542524200",
+      "name": "多玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542524",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/日土县/多玛乡"
+    },
+    {
+      "code": "542524201",
+      "name": "东汝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542524",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/日土县/东汝乡"
+    },
+    {
+      "code": "542524202",
+      "name": "热帮乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542524",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/日土县/热帮乡"
+    },
+    {
+      "code": "542524203",
+      "name": "日松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542524",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/日土县/日松乡"
+    }
+  ]
+}

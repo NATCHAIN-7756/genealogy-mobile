@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "330421001",
+      "name": "罗星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/罗星街道"
+    },
+    {
+      "code": "330421002",
+      "name": "魏塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/魏塘街道"
+    },
+    {
+      "code": "330421003",
+      "name": "惠民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/惠民街道"
+    },
+    {
+      "code": "330421102",
+      "name": "大云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/大云镇"
+    },
+    {
+      "code": "330421103",
+      "name": "西塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/西塘镇"
+    },
+    {
+      "code": "330421105",
+      "name": "干窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/干窑镇"
+    },
+    {
+      "code": "330421107",
+      "name": "陶庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/陶庄镇"
+    },
+    {
+      "code": "330421111",
+      "name": "天凝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/天凝镇"
+    },
+    {
+      "code": "330421112",
+      "name": "姚庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330421",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/嘉善县/姚庄镇"
+    }
+  ]
+}

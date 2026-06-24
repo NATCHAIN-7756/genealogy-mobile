@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "640181001",
+      "name": "城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/城区街道"
+    },
+    {
+      "code": "640181100",
+      "name": "东塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/东塔镇"
+    },
+    {
+      "code": "640181101",
+      "name": "郝家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/郝家桥镇"
+    },
+    {
+      "code": "640181102",
+      "name": "崇兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/崇兴镇"
+    },
+    {
+      "code": "640181103",
+      "name": "宁东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/宁东镇"
+    },
+    {
+      "code": "640181104",
+      "name": "马家滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/马家滩镇"
+    },
+    {
+      "code": "640181105",
+      "name": "临河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/临河镇"
+    },
+    {
+      "code": "640181200",
+      "name": "梧桐树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/梧桐树乡"
+    },
+    {
+      "code": "640181201",
+      "name": "白土岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640181",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/灵武市/白土岗乡"
+    }
+  ]
+}

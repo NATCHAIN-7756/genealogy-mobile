@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "220881001",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/团结街道"
+    },
+    {
+      "code": "220881002",
+      "name": "富文街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/富文街道"
+    },
+    {
+      "code": "220881003",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/光明街道"
+    },
+    {
+      "code": "220881004",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/兴隆街道"
+    },
+    {
+      "code": "220881005",
+      "name": "永康街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/永康街道"
+    },
+    {
+      "code": "220881006",
+      "name": "通达街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/通达街道"
+    },
+    {
+      "code": "220881007",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/向阳街道"
+    },
+    {
+      "code": "220881008",
+      "name": "洮府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/洮府街道"
+    },
+    {
+      "code": "220881100",
+      "name": "瓦房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/瓦房镇"
+    },
+    {
+      "code": "220881101",
+      "name": "万宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/万宝镇"
+    },
+    {
+      "code": "220881102",
+      "name": "黑水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/黑水镇"
+    },
+    {
+      "code": "220881103",
+      "name": "那金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/那金镇"
+    },
+    {
+      "code": "220881104",
+      "name": "安定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/安定镇"
+    },
+    {
+      "code": "220881105",
+      "name": "福顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/福顺镇"
+    },
+    {
+      "code": "220881200",
+      "name": "胡力吐蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/胡力吐蒙古族乡"
+    },
+    {
+      "code": "220881201",
+      "name": "万宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/万宝乡"
+    },
+    {
+      "code": "220881202",
+      "name": "聚宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/聚宝乡"
+    },
+    {
+      "code": "220881204",
+      "name": "东升乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/东升乡"
+    },
+    {
+      "code": "220881205",
+      "name": "野马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/野马乡"
+    },
+    {
+      "code": "220881206",
+      "name": "永茂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/永茂乡"
+    },
+    {
+      "code": "220881208",
+      "name": "蛟流河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/蛟流河乡"
+    },
+    {
+      "code": "220881209",
+      "name": "大通乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/大通乡"
+    },
+    {
+      "code": "220881212",
+      "name": "二龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/二龙乡"
+    },
+    {
+      "code": "220881214",
+      "name": "呼和车力蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220881",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮南市/呼和车力蒙古族乡"
+    }
+  ]
+}

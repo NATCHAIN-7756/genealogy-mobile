@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "513323100",
+      "name": "章谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/章谷镇"
+    },
+    {
+      "code": "513323101",
+      "name": "巴底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/巴底镇"
+    },
+    {
+      "code": "513323102",
+      "name": "革什扎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/革什扎镇"
+    },
+    {
+      "code": "513323103",
+      "name": "东谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/东谷镇"
+    },
+    {
+      "code": "513323104",
+      "name": "墨尔多山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/墨尔多山镇"
+    },
+    {
+      "code": "513323105",
+      "name": "甲居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/甲居镇"
+    },
+    {
+      "code": "513323106",
+      "name": "格宗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/格宗镇"
+    },
+    {
+      "code": "513323107",
+      "name": "半扇门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/半扇门镇"
+    },
+    {
+      "code": "513323108",
+      "name": "丹东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/丹东镇"
+    },
+    {
+      "code": "513323201",
+      "name": "巴旺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/巴旺乡"
+    },
+    {
+      "code": "513323209",
+      "name": "梭坡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/梭坡乡"
+    },
+    {
+      "code": "513323213",
+      "name": "太平桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513323",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/丹巴县/太平桥乡"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "411402001",
+      "name": "前进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/前进街道"
+    },
+    {
+      "code": "411402002",
+      "name": "长征街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/长征街道"
+    },
+    {
+      "code": "411402003",
+      "name": "八八街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/八八街道"
+    },
+    {
+      "code": "411402004",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/东风街道"
+    },
+    {
+      "code": "411402005",
+      "name": "中州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/中州街道"
+    },
+    {
+      "code": "411402006",
+      "name": "白云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/白云街道"
+    },
+    {
+      "code": "411402007",
+      "name": "平原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/平原街道"
+    },
+    {
+      "code": "411402008",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/建设街道"
+    },
+    {
+      "code": "411402009",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/解放街道"
+    },
+    {
+      "code": "411402010",
+      "name": "平安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/平安街道"
+    },
+    {
+      "code": "411402011",
+      "name": "平台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/平台街道"
+    },
+    {
+      "code": "411402012",
+      "name": "陇海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/陇海街道"
+    },
+    {
+      "code": "411402101",
+      "name": "双八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/双八镇"
+    },
+    {
+      "code": "411402102",
+      "name": "张阁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/张阁镇"
+    },
+    {
+      "code": "411402103",
+      "name": "谢集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/谢集镇"
+    },
+    {
+      "code": "411402104",
+      "name": "观堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/观堂镇"
+    },
+    {
+      "code": "411402105",
+      "name": "刘口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/刘口镇"
+    },
+    {
+      "code": "411402106",
+      "name": "水池铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/水池铺镇"
+    },
+    {
+      "code": "411402107",
+      "name": "李庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/李庄镇"
+    },
+    {
+      "code": "411402108",
+      "name": "王楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/王楼镇"
+    },
+    {
+      "code": "411402200",
+      "name": "周集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/周集乡"
+    },
+    {
+      "code": "411402205",
+      "name": "孙福集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411402",
+      "year": 0,
+      "name_path": "河南省/商丘市/梁园区/孙福集乡"
+    }
+  ]
+}

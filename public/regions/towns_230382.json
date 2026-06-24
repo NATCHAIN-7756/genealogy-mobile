@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "230382100",
+      "name": "密山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/密山镇"
+    },
+    {
+      "code": "230382101",
+      "name": "连珠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/连珠山镇"
+    },
+    {
+      "code": "230382102",
+      "name": "当壁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/当壁镇"
+    },
+    {
+      "code": "230382103",
+      "name": "知一镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/知一镇"
+    },
+    {
+      "code": "230382104",
+      "name": "黑台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/黑台镇"
+    },
+    {
+      "code": "230382105",
+      "name": "兴凯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/兴凯镇"
+    },
+    {
+      "code": "230382106",
+      "name": "裴德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/裴德镇"
+    },
+    {
+      "code": "230382107",
+      "name": "白鱼湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/白鱼湾镇"
+    },
+    {
+      "code": "230382200",
+      "name": "柳毛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/柳毛乡"
+    },
+    {
+      "code": "230382201",
+      "name": "杨木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/杨木乡"
+    },
+    {
+      "code": "230382202",
+      "name": "兴凯湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/兴凯湖乡"
+    },
+    {
+      "code": "230382203",
+      "name": "承紫河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/承紫河乡"
+    },
+    {
+      "code": "230382206",
+      "name": "二人班乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/二人班乡"
+    },
+    {
+      "code": "230382208",
+      "name": "太平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/太平乡"
+    },
+    {
+      "code": "230382210",
+      "name": "和平朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/和平朝鲜族乡"
+    },
+    {
+      "code": "230382212",
+      "name": "富源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230382",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/密山市/富源乡"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230902011",
+      "name": "北山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/北山街道"
+    },
+    {
+      "code": "230902012",
+      "name": "欣源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/欣源街道"
+    },
+    {
+      "code": "230902013",
+      "name": "兴安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/兴安街道"
+    },
+    {
+      "code": "230902014",
+      "name": "兴富街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/兴富街道"
+    },
+    {
+      "code": "230902015",
+      "name": "兴和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/兴和街道"
+    },
+    {
+      "code": "230902016",
+      "name": "兴盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/兴盛街道"
+    },
+    {
+      "code": "230902017",
+      "name": "兴华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/兴华街道"
+    },
+    {
+      "code": "230902018",
+      "name": "金沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/金沙街道"
+    },
+    {
+      "code": "230902100",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/红旗镇"
+    },
+    {
+      "code": "230902200",
+      "name": "长兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230902",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/新兴区/长兴乡"
+    }
+  ]
+}

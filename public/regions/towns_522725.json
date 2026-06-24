@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "522725001",
+      "name": "瓮水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/瓮水街道"
+    },
+    {
+      "code": "522725002",
+      "name": "雍阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/雍阳街道"
+    },
+    {
+      "code": "522725101",
+      "name": "平定营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/平定营镇"
+    },
+    {
+      "code": "522725102",
+      "name": "猴场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/猴场镇"
+    },
+    {
+      "code": "522725103",
+      "name": "中坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/中坪镇"
+    },
+    {
+      "code": "522725104",
+      "name": "建中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/建中镇"
+    },
+    {
+      "code": "522725105",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/永和镇"
+    },
+    {
+      "code": "522725106",
+      "name": "珠藏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/珠藏镇"
+    },
+    {
+      "code": "522725107",
+      "name": "玉山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/玉山镇"
+    },
+    {
+      "code": "522725108",
+      "name": "天文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/天文镇"
+    },
+    {
+      "code": "522725109",
+      "name": "江界河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/江界河镇"
+    },
+    {
+      "code": "522725110",
+      "name": "银盏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/银盏镇"
+    },
+    {
+      "code": "522725205",
+      "name": "岚关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522725",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/瓮安县/岚关乡"
+    }
+  ]
+}

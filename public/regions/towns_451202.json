@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "451202001",
+      "name": "金城江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/金城江街道"
+    },
+    {
+      "code": "451202101",
+      "name": "东江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/东江镇"
+    },
+    {
+      "code": "451202102",
+      "name": "六圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/六圩镇"
+    },
+    {
+      "code": "451202103",
+      "name": "六甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/六甲镇"
+    },
+    {
+      "code": "451202104",
+      "name": "河池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/河池镇"
+    },
+    {
+      "code": "451202105",
+      "name": "拔贡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/拔贡镇"
+    },
+    {
+      "code": "451202106",
+      "name": "九圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/九圩镇"
+    },
+    {
+      "code": "451202107",
+      "name": "五圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/五圩镇"
+    },
+    {
+      "code": "451202200",
+      "name": "白土乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/白土乡"
+    },
+    {
+      "code": "451202203",
+      "name": "侧岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/侧岭乡"
+    },
+    {
+      "code": "451202204",
+      "name": "保平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/保平乡"
+    },
+    {
+      "code": "451202205",
+      "name": "长老乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451202",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/金城江区/长老乡"
+    }
+  ]
+}

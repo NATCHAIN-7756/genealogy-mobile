@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140928100",
+      "name": "砚城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/砚城镇"
+    },
+    {
+      "code": "140928101",
+      "name": "小河头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/小河头镇"
+    },
+    {
+      "code": "140928102",
+      "name": "三岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/三岔镇"
+    },
+    {
+      "code": "140928200",
+      "name": "前所乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/前所乡"
+    },
+    {
+      "code": "140928201",
+      "name": "李家坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/李家坪乡"
+    },
+    {
+      "code": "140928202",
+      "name": "孙家坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/孙家坪乡"
+    },
+    {
+      "code": "140928204",
+      "name": "胡会乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/胡会乡"
+    },
+    {
+      "code": "140928206",
+      "name": "韩家楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/韩家楼乡"
+    },
+    {
+      "code": "140928207",
+      "name": "东秀庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/东秀庄乡"
+    },
+    {
+      "code": "140928208",
+      "name": "杏岭子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140928",
+      "year": 0,
+      "name_path": "山西省/忻州市/五寨县/杏岭子乡"
+    }
+  ]
+}

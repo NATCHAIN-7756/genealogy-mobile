@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "510131001",
+      "name": "鹤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/鹤山街道"
+    },
+    {
+      "code": "510131002",
+      "name": "寿安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/寿安街道"
+    },
+    {
+      "code": "510131104",
+      "name": "西来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/西来镇"
+    },
+    {
+      "code": "510131105",
+      "name": "大塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/大塘镇"
+    },
+    {
+      "code": "510131106",
+      "name": "甘溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/甘溪镇"
+    },
+    {
+      "code": "510131107",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/大兴镇"
+    },
+    {
+      "code": "510131108",
+      "name": "成佳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/成佳镇"
+    },
+    {
+      "code": "510131109",
+      "name": "朝阳湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510131",
+      "year": 0,
+      "name_path": "四川省/成都市/蒲江县/朝阳湖镇"
+    }
+  ]
+}

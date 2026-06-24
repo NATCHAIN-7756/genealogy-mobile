@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "610829001",
+      "name": "宋家川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610829",
+      "year": 0,
+      "name_path": "陕西省/榆林市/吴堡县/宋家川街道"
+    },
+    {
+      "code": "610829101",
+      "name": "辛家沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610829",
+      "year": 0,
+      "name_path": "陕西省/榆林市/吴堡县/辛家沟镇"
+    },
+    {
+      "code": "610829102",
+      "name": "郭家沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610829",
+      "year": 0,
+      "name_path": "陕西省/榆林市/吴堡县/郭家沟镇"
+    },
+    {
+      "code": "610829103",
+      "name": "寇家塬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610829",
+      "year": 0,
+      "name_path": "陕西省/榆林市/吴堡县/寇家塬镇"
+    },
+    {
+      "code": "610829104",
+      "name": "岔上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610829",
+      "year": 0,
+      "name_path": "陕西省/榆林市/吴堡县/岔上镇"
+    },
+    {
+      "code": "610829105",
+      "name": "张家山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610829",
+      "year": 0,
+      "name_path": "陕西省/榆林市/吴堡县/张家山镇"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "540602001",
+      "name": "黑河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/黑河街道"
+    },
+    {
+      "code": "540602002",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/团结街道"
+    },
+    {
+      "code": "540602003",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/幸福街道"
+    },
+    {
+      "code": "540602004",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/红旗街道"
+    },
+    {
+      "code": "540602005",
+      "name": "羌塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/羌塘街道"
+    },
+    {
+      "code": "540602100",
+      "name": "那曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/那曲镇"
+    },
+    {
+      "code": "540602101",
+      "name": "罗玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/罗玛镇"
+    },
+    {
+      "code": "540602102",
+      "name": "古露镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/古露镇"
+    },
+    {
+      "code": "540602200",
+      "name": "达萨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/达萨乡"
+    },
+    {
+      "code": "540602202",
+      "name": "油恰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/油恰乡"
+    },
+    {
+      "code": "540602203",
+      "name": "香茂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/香茂乡"
+    },
+    {
+      "code": "540602205",
+      "name": "那玛切乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/那玛切乡"
+    },
+    {
+      "code": "540602209",
+      "name": "达前乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/达前乡"
+    },
+    {
+      "code": "540602210",
+      "name": "洛麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/洛麦乡"
+    },
+    {
+      "code": "540602211",
+      "name": "孔玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/孔玛乡"
+    },
+    {
+      "code": "540602213",
+      "name": "尼玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/尼玛乡"
+    },
+    {
+      "code": "540602217",
+      "name": "色雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540602",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/色尼区/色雄乡"
+    }
+  ]
+}

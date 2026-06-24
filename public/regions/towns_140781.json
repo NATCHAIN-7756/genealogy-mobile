@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "140781001",
+      "name": "北关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/北关街道"
+    },
+    {
+      "code": "140781002",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/西关街道"
+    },
+    {
+      "code": "140781003",
+      "name": "东南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/东南街道"
+    },
+    {
+      "code": "140781004",
+      "name": "西南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/西南街道"
+    },
+    {
+      "code": "140781005",
+      "name": "北坛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/北坛街道"
+    },
+    {
+      "code": "140781100",
+      "name": "义安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/义安镇"
+    },
+    {
+      "code": "140781101",
+      "name": "张兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/张兰镇"
+    },
+    {
+      "code": "140781102",
+      "name": "连福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/连福镇"
+    },
+    {
+      "code": "140781103",
+      "name": "洪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/洪山镇"
+    },
+    {
+      "code": "140781104",
+      "name": "义棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/义棠镇"
+    },
+    {
+      "code": "140781105",
+      "name": "龙凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/龙凤镇"
+    },
+    {
+      "code": "140781106",
+      "name": "绵山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/绵山镇"
+    },
+    {
+      "code": "140781200",
+      "name": "城关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/城关乡"
+    },
+    {
+      "code": "140781201",
+      "name": "宋𦙶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140781",
+      "year": 0,
+      "name_path": "山西省/晋中市/介休市/宋𦙶乡"
+    }
+  ]
+}

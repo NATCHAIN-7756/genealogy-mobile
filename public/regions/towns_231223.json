@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "231223100",
+      "name": "青冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/青冈镇"
+    },
+    {
+      "code": "231223101",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/中和镇"
+    },
+    {
+      "code": "231223102",
+      "name": "祯祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/祯祥镇"
+    },
+    {
+      "code": "231223103",
+      "name": "兴华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/兴华镇"
+    },
+    {
+      "code": "231223104",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/永丰镇"
+    },
+    {
+      "code": "231223105",
+      "name": "芦河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/芦河镇"
+    },
+    {
+      "code": "231223106",
+      "name": "柞岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/柞岗镇"
+    },
+    {
+      "code": "231223107",
+      "name": "民政镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/民政镇"
+    },
+    {
+      "code": "231223108",
+      "name": "劳动镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/劳动镇"
+    },
+    {
+      "code": "231223109",
+      "name": "迎春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/迎春镇"
+    },
+    {
+      "code": "231223110",
+      "name": "德胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/德胜镇"
+    },
+    {
+      "code": "231223111",
+      "name": "昌盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/昌盛镇"
+    },
+    {
+      "code": "231223202",
+      "name": "建设乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/建设乡"
+    },
+    {
+      "code": "231223203",
+      "name": "新村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/新村乡"
+    },
+    {
+      "code": "231223212",
+      "name": "连丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231223",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/青冈县/连丰乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "622925100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/城关镇"
+    },
+    {
+      "code": "622925101",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/三合镇"
+    },
+    {
+      "code": "622925102",
+      "name": "三十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/三十里铺镇"
+    },
+    {
+      "code": "622925103",
+      "name": "马家堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/马家堡镇"
+    },
+    {
+      "code": "622925105",
+      "name": "买家集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/买家集镇"
+    },
+    {
+      "code": "622925106",
+      "name": "松鸣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/松鸣镇"
+    },
+    {
+      "code": "622925107",
+      "name": "陈家集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/陈家集镇"
+    },
+    {
+      "code": "622925108",
+      "name": "新营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/新营镇"
+    },
+    {
+      "code": "622925109",
+      "name": "罗家集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/罗家集镇"
+    },
+    {
+      "code": "622925200",
+      "name": "梁家寺东乡族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/梁家寺东乡族乡"
+    },
+    {
+      "code": "622925203",
+      "name": "卜家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/卜家庄乡"
+    },
+    {
+      "code": "622925207",
+      "name": "新庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/新庄乡"
+    },
+    {
+      "code": "622925209",
+      "name": "达浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622925",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/和政县/达浪乡"
+    }
+  ]
+}

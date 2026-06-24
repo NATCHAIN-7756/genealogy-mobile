@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "532327100",
+      "name": "永定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/永定镇"
+    },
+    {
+      "code": "532327101",
+      "name": "宜就镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/宜就镇"
+    },
+    {
+      "code": "532327103",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/中和镇"
+    },
+    {
+      "code": "532327200",
+      "name": "莲池乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/莲池乡"
+    },
+    {
+      "code": "532327201",
+      "name": "维的乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/维的乡"
+    },
+    {
+      "code": "532327202",
+      "name": "猛虎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/猛虎乡"
+    },
+    {
+      "code": "532327205",
+      "name": "永兴傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532327",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/永仁县/永兴傣族乡"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "421281001",
+      "name": "蒲圻街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/蒲圻街道"
+    },
+    {
+      "code": "421281002",
+      "name": "陆水湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/陆水湖街道"
+    },
+    {
+      "code": "421281003",
+      "name": "赤马港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/赤马港街道"
+    },
+    {
+      "code": "421281100",
+      "name": "新店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/新店镇"
+    },
+    {
+      "code": "421281101",
+      "name": "赵李桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/赵李桥镇"
+    },
+    {
+      "code": "421281102",
+      "name": "茶庵岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/茶庵岭镇"
+    },
+    {
+      "code": "421281103",
+      "name": "中伙铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/中伙铺镇"
+    },
+    {
+      "code": "421281104",
+      "name": "官塘驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/官塘驿镇"
+    },
+    {
+      "code": "421281105",
+      "name": "神山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/神山镇"
+    },
+    {
+      "code": "421281106",
+      "name": "车埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/车埠镇"
+    },
+    {
+      "code": "421281107",
+      "name": "周郎嘴回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/周郎嘴回族镇"
+    },
+    {
+      "code": "421281108",
+      "name": "柳山湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/柳山湖镇"
+    },
+    {
+      "code": "421281109",
+      "name": "黄盖湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/黄盖湖镇"
+    },
+    {
+      "code": "421281200",
+      "name": "余家桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421281",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/赤壁市/余家桥乡"
+    }
+  ]
+}

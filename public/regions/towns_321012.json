@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "321012100",
+      "name": "仙女镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/仙女镇"
+    },
+    {
+      "code": "321012101",
+      "name": "小纪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/小纪镇"
+    },
+    {
+      "code": "321012102",
+      "name": "武坚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/武坚镇"
+    },
+    {
+      "code": "321012103",
+      "name": "樊川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/樊川镇"
+    },
+    {
+      "code": "321012104",
+      "name": "真武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/真武镇"
+    },
+    {
+      "code": "321012105",
+      "name": "宜陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/宜陵镇"
+    },
+    {
+      "code": "321012106",
+      "name": "丁沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/丁沟镇"
+    },
+    {
+      "code": "321012107",
+      "name": "郭村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/郭村镇"
+    },
+    {
+      "code": "321012108",
+      "name": "邵伯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/邵伯镇"
+    },
+    {
+      "code": "321012109",
+      "name": "丁伙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/丁伙镇"
+    },
+    {
+      "code": "321012110",
+      "name": "大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/大桥镇"
+    },
+    {
+      "code": "321012111",
+      "name": "吴桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/吴桥镇"
+    },
+    {
+      "code": "321012112",
+      "name": "浦头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321012",
+      "year": 0,
+      "name_path": "江苏省/扬州市/江都区/浦头镇"
+    }
+  ]
+}

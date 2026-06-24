@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540225100",
+      "name": "曲下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/曲下镇"
+    },
+    {
+      "code": "540225101",
+      "name": "拉孜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/拉孜镇"
+    },
+    {
+      "code": "540225200",
+      "name": "扎西宗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/扎西宗乡"
+    },
+    {
+      "code": "540225201",
+      "name": "曲玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/曲玛乡"
+    },
+    {
+      "code": "540225202",
+      "name": "彭措林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/彭措林乡"
+    },
+    {
+      "code": "540225203",
+      "name": "扎西岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/扎西岗乡"
+    },
+    {
+      "code": "540225204",
+      "name": "柳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/柳乡"
+    },
+    {
+      "code": "540225205",
+      "name": "热萨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/热萨乡"
+    },
+    {
+      "code": "540225206",
+      "name": "锡钦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/锡钦乡"
+    },
+    {
+      "code": "540225207",
+      "name": "芒普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/芒普乡"
+    },
+    {
+      "code": "540225208",
+      "name": "查务乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540225",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/拉孜县/查务乡"
+    }
+  ]
+}

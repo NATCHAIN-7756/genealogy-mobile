@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "341124100",
+      "name": "襄河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/襄河镇"
+    },
+    {
+      "code": "341124101",
+      "name": "古河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/古河镇"
+    },
+    {
+      "code": "341124102",
+      "name": "大墅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/大墅镇"
+    },
+    {
+      "code": "341124103",
+      "name": "二郎口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/二郎口镇"
+    },
+    {
+      "code": "341124104",
+      "name": "武岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/武岗镇"
+    },
+    {
+      "code": "341124105",
+      "name": "马厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/马厂镇"
+    },
+    {
+      "code": "341124106",
+      "name": "石沛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/石沛镇"
+    },
+    {
+      "code": "341124108",
+      "name": "西王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/西王镇"
+    },
+    {
+      "code": "341124109",
+      "name": "六镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/六镇镇"
+    },
+    {
+      "code": "341124111",
+      "name": "十字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341124",
+      "year": 0,
+      "name_path": "安徽省/滁州市/全椒县/十字镇"
+    }
+  ]
+}

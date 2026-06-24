@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "513322100",
+      "name": "泸桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/泸桥镇"
+    },
+    {
+      "code": "513322101",
+      "name": "冷碛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/冷碛镇"
+    },
+    {
+      "code": "513322102",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/兴隆镇"
+    },
+    {
+      "code": "513322103",
+      "name": "磨西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/磨西镇"
+    },
+    {
+      "code": "513322104",
+      "name": "得妥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/得妥镇"
+    },
+    {
+      "code": "513322105",
+      "name": "烹坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/烹坝镇"
+    },
+    {
+      "code": "513322106",
+      "name": "燕子沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/燕子沟镇"
+    },
+    {
+      "code": "513322107",
+      "name": "德威镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/德威镇"
+    },
+    {
+      "code": "513322200",
+      "name": "岚安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513322",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/泸定县/岚安乡"
+    }
+  ]
+}

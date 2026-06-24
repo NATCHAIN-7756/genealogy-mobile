@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130522100",
+      "name": "临城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/临城镇"
+    },
+    {
+      "code": "130522101",
+      "name": "东镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/东镇镇"
+    },
+    {
+      "code": "130522102",
+      "name": "郝庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/郝庄镇"
+    },
+    {
+      "code": "130522103",
+      "name": "西竖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/西竖镇"
+    },
+    {
+      "code": "130522104",
+      "name": "黑城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/黑城镇"
+    },
+    {
+      "code": "130522201",
+      "name": "鸭鸽营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/鸭鸽营乡"
+    },
+    {
+      "code": "130522203",
+      "name": "石城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/石城乡"
+    },
+    {
+      "code": "130522205",
+      "name": "赵庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130522",
+      "year": 0,
+      "name_path": "河北省/邢台市/临城县/赵庄乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "632301100",
+      "name": "隆务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/隆务镇"
+    },
+    {
+      "code": "632301101",
+      "name": "保安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/保安镇"
+    },
+    {
+      "code": "632301102",
+      "name": "多哇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/多哇镇"
+    },
+    {
+      "code": "632301200",
+      "name": "兰采乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/兰采乡"
+    },
+    {
+      "code": "632301201",
+      "name": "双朋西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/双朋西乡"
+    },
+    {
+      "code": "632301202",
+      "name": "扎毛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/扎毛乡"
+    },
+    {
+      "code": "632301203",
+      "name": "黄乃亥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/黄乃亥乡"
+    },
+    {
+      "code": "632301204",
+      "name": "曲库乎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/曲库乎乡"
+    },
+    {
+      "code": "632301205",
+      "name": "年都乎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/年都乎乡"
+    },
+    {
+      "code": "632301206",
+      "name": "瓜什则乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/瓜什则乡"
+    },
+    {
+      "code": "632301207",
+      "name": "加吾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632301",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/同仁市/加吾乡"
+    }
+  ]
+}

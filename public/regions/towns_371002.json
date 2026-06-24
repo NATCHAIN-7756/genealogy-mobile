@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "371002001",
+      "name": "环翠楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/环翠楼街道"
+    },
+    {
+      "code": "371002002",
+      "name": "鲸园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/鲸园街道"
+    },
+    {
+      "code": "371002003",
+      "name": "竹岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/竹岛街道"
+    },
+    {
+      "code": "371002004",
+      "name": "孙家疃街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/孙家疃街道"
+    },
+    {
+      "code": "371002005",
+      "name": "皇冠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/皇冠街道"
+    },
+    {
+      "code": "371002006",
+      "name": "凤林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/凤林街道"
+    },
+    {
+      "code": "371002007",
+      "name": "西苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/西苑街道"
+    },
+    {
+      "code": "371002008",
+      "name": "怡园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/怡园街道"
+    },
+    {
+      "code": "371002009",
+      "name": "田和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/田和街道"
+    },
+    {
+      "code": "371002010",
+      "name": "嵩山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/嵩山街道"
+    },
+    {
+      "code": "371002100",
+      "name": "张村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/张村镇"
+    },
+    {
+      "code": "371002101",
+      "name": "羊亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/羊亭镇"
+    },
+    {
+      "code": "371002102",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/温泉镇"
+    },
+    {
+      "code": "371002106",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/桥头镇"
+    },
+    {
+      "code": "371002107",
+      "name": "崮山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/崮山镇"
+    },
+    {
+      "code": "371002108",
+      "name": "泊于镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/泊于镇"
+    },
+    {
+      "code": "371002109",
+      "name": "初村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/初村镇"
+    },
+    {
+      "code": "371002110",
+      "name": "草庙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/草庙子镇"
+    },
+    {
+      "code": "371002111",
+      "name": "汪疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/汪疃镇"
+    },
+    {
+      "code": "371002112",
+      "name": "苘山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371002",
+      "year": 0,
+      "name_path": "山东省/威海市/环翠区/苘山镇"
+    }
+  ]
+}

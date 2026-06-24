@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "450206100",
+      "name": "拉堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/拉堡镇"
+    },
+    {
+      "code": "450206102",
+      "name": "百朋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/百朋镇"
+    },
+    {
+      "code": "450206103",
+      "name": "成团镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/成团镇"
+    },
+    {
+      "code": "450206106",
+      "name": "三都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/三都镇"
+    },
+    {
+      "code": "450206107",
+      "name": "里高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/里高镇"
+    },
+    {
+      "code": "450206108",
+      "name": "进德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/进德镇"
+    },
+    {
+      "code": "450206109",
+      "name": "穿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/穿山镇"
+    },
+    {
+      "code": "450206110",
+      "name": "土博镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450206",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳江区/土博镇"
+    }
+  ]
+}

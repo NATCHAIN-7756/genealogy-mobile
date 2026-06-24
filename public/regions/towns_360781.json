@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "360781001",
+      "name": "象湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/象湖街道"
+    },
+    {
+      "code": "360781002",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/红旗街道"
+    },
+    {
+      "code": "360781101",
+      "name": "壬田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/壬田镇"
+    },
+    {
+      "code": "360781102",
+      "name": "谢坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/谢坊镇"
+    },
+    {
+      "code": "360781103",
+      "name": "沙洲坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/沙洲坝镇"
+    },
+    {
+      "code": "360781104",
+      "name": "瑞林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/瑞林镇"
+    },
+    {
+      "code": "360781105",
+      "name": "九堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/九堡镇"
+    },
+    {
+      "code": "360781106",
+      "name": "武阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/武阳镇"
+    },
+    {
+      "code": "360781107",
+      "name": "叶坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/叶坪镇"
+    },
+    {
+      "code": "360781201",
+      "name": "日东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/日东乡"
+    },
+    {
+      "code": "360781202",
+      "name": "黄柏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/黄柏乡"
+    },
+    {
+      "code": "360781203",
+      "name": "大柏地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/大柏地乡"
+    },
+    {
+      "code": "360781204",
+      "name": "丁陂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/丁陂乡"
+    },
+    {
+      "code": "360781205",
+      "name": "冈面乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/冈面乡"
+    },
+    {
+      "code": "360781206",
+      "name": "万田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/万田乡"
+    },
+    {
+      "code": "360781207",
+      "name": "云石山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/云石山乡"
+    },
+    {
+      "code": "360781208",
+      "name": "泽覃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/泽覃乡"
+    },
+    {
+      "code": "360781209",
+      "name": "拔英乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360781",
+      "year": 0,
+      "name_path": "江西省/赣州市/瑞金市/拔英乡"
+    }
+  ]
+}

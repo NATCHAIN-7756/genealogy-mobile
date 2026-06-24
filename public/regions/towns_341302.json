@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "code": "341302001",
+      "name": "埇桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/埇桥街道"
+    },
+    {
+      "code": "341302002",
+      "name": "沱河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/沱河街道"
+    },
+    {
+      "code": "341302003",
+      "name": "道东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/道东街道"
+    },
+    {
+      "code": "341302004",
+      "name": "东关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/东关街道"
+    },
+    {
+      "code": "341302005",
+      "name": "三里湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/三里湾街道"
+    },
+    {
+      "code": "341302006",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/南关街道"
+    },
+    {
+      "code": "341302007",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/西关街道"
+    },
+    {
+      "code": "341302008",
+      "name": "北关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/北关街道"
+    },
+    {
+      "code": "341302009",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/城东街道"
+    },
+    {
+      "code": "341302010",
+      "name": "三八街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/三八街道"
+    },
+    {
+      "code": "341302011",
+      "name": "汴河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/汴河街道"
+    },
+    {
+      "code": "341302012",
+      "name": "金海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/金海街道"
+    },
+    {
+      "code": "341302100",
+      "name": "符离镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/符离镇"
+    },
+    {
+      "code": "341302101",
+      "name": "芦岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/芦岭镇"
+    },
+    {
+      "code": "341302102",
+      "name": "朱仙庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/朱仙庄镇"
+    },
+    {
+      "code": "341302103",
+      "name": "褚兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/褚兰镇"
+    },
+    {
+      "code": "341302104",
+      "name": "曹村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/曹村镇"
+    },
+    {
+      "code": "341302105",
+      "name": "夹沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/夹沟镇"
+    },
+    {
+      "code": "341302106",
+      "name": "栏杆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/栏杆镇"
+    },
+    {
+      "code": "341302107",
+      "name": "时村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/时村镇"
+    },
+    {
+      "code": "341302108",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/永安镇"
+    },
+    {
+      "code": "341302109",
+      "name": "灰古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/灰古镇"
+    },
+    {
+      "code": "341302110",
+      "name": "大店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/大店镇"
+    },
+    {
+      "code": "341302111",
+      "name": "大泽乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/大泽乡镇"
+    },
+    {
+      "code": "341302112",
+      "name": "桃园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/桃园镇"
+    },
+    {
+      "code": "341302113",
+      "name": "蕲县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/蕲县镇"
+    },
+    {
+      "code": "341302114",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/大营镇"
+    },
+    {
+      "code": "341302115",
+      "name": "顺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/顺河镇"
+    },
+    {
+      "code": "341302116",
+      "name": "蒿沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/蒿沟镇"
+    },
+    {
+      "code": "341302117",
+      "name": "杨庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/杨庄镇"
+    },
+    {
+      "code": "341302118",
+      "name": "解集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/解集镇"
+    },
+    {
+      "code": "341302119",
+      "name": "苗庵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/苗庵镇"
+    },
+    {
+      "code": "341302120",
+      "name": "西二铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/西二铺镇"
+    },
+    {
+      "code": "341302121",
+      "name": "支河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/支河镇"
+    },
+    {
+      "code": "341302122",
+      "name": "桃沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/桃沟镇"
+    },
+    {
+      "code": "341302123",
+      "name": "永镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341302",
+      "year": 0,
+      "name_path": "安徽省/宿州市/埇桥区/永镇镇"
+    }
+  ]
+}

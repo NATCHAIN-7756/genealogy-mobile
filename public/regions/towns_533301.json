@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "533301001",
+      "name": "六库街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/六库街道"
+    },
+    {
+      "code": "533301002",
+      "name": "大练地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/大练地街道"
+    },
+    {
+      "code": "533301100",
+      "name": "鲁掌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/鲁掌镇"
+    },
+    {
+      "code": "533301102",
+      "name": "片马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/片马镇"
+    },
+    {
+      "code": "533301103",
+      "name": "上江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/上江镇"
+    },
+    {
+      "code": "533301104",
+      "name": "老窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/老窝镇"
+    },
+    {
+      "code": "533301105",
+      "name": "大兴地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/大兴地镇"
+    },
+    {
+      "code": "533301200",
+      "name": "称杆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/称杆乡"
+    },
+    {
+      "code": "533301201",
+      "name": "古登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/古登乡"
+    },
+    {
+      "code": "533301202",
+      "name": "洛本卓白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533301",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/泸水市/洛本卓白族乡"
+    }
+  ]
+}

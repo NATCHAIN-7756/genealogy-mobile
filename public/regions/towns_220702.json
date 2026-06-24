@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "220702001",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/团结街道"
+    },
+    {
+      "code": "220702002",
+      "name": "文化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/文化街道"
+    },
+    {
+      "code": "220702003",
+      "name": "民主街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/民主街道"
+    },
+    {
+      "code": "220702004",
+      "name": "临江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/临江街道"
+    },
+    {
+      "code": "220702005",
+      "name": "新区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/新区街道"
+    },
+    {
+      "code": "220702006",
+      "name": "前进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/前进街道"
+    },
+    {
+      "code": "220702007",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/和平街道"
+    },
+    {
+      "code": "220702008",
+      "name": "工农街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/工农街道"
+    },
+    {
+      "code": "220702009",
+      "name": "沿江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/沿江街道"
+    },
+    {
+      "code": "220702010",
+      "name": "铁西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/铁西街道"
+    },
+    {
+      "code": "220702011",
+      "name": "繁荣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/繁荣街道"
+    },
+    {
+      "code": "220702012",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/建设街道"
+    },
+    {
+      "code": "220702013",
+      "name": "石化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/石化街道"
+    },
+    {
+      "code": "220702014",
+      "name": "伯都讷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/伯都讷街道"
+    },
+    {
+      "code": "220702015",
+      "name": "长宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/长宁街道"
+    },
+    {
+      "code": "220702016",
+      "name": "镜湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/镜湖街道"
+    },
+    {
+      "code": "220702017",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/滨江街道"
+    },
+    {
+      "code": "220702100",
+      "name": "大洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/大洼镇"
+    },
+    {
+      "code": "220702102",
+      "name": "善友镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/善友镇"
+    },
+    {
+      "code": "220702103",
+      "name": "毛都站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/毛都站镇"
+    },
+    {
+      "code": "220702104",
+      "name": "哈达山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/哈达山镇"
+    },
+    {
+      "code": "220702200",
+      "name": "新城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/新城乡"
+    },
+    {
+      "code": "220702202",
+      "name": "伯都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/伯都乡"
+    },
+    {
+      "code": "220702204",
+      "name": "兴原乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220702",
+      "year": 0,
+      "name_path": "吉林省/松原市/宁江区/兴原乡"
+    }
+  ]
+}

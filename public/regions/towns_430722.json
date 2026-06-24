@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "430722001",
+      "name": "辰阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/辰阳街道"
+    },
+    {
+      "code": "430722002",
+      "name": "龙阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/龙阳街道"
+    },
+    {
+      "code": "430722003",
+      "name": "沧浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/沧浪街道"
+    },
+    {
+      "code": "430722004",
+      "name": "株木山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/株木山街道"
+    },
+    {
+      "code": "430722101",
+      "name": "蒋家嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/蒋家嘴镇"
+    },
+    {
+      "code": "430722102",
+      "name": "岩汪湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/岩汪湖镇"
+    },
+    {
+      "code": "430722103",
+      "name": "坡头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/坡头镇"
+    },
+    {
+      "code": "430722104",
+      "name": "酉港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/酉港镇"
+    },
+    {
+      "code": "430722105",
+      "name": "洲口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/洲口镇"
+    },
+    {
+      "code": "430722106",
+      "name": "罐头嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/罐头嘴镇"
+    },
+    {
+      "code": "430722107",
+      "name": "沧港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/沧港镇"
+    },
+    {
+      "code": "430722108",
+      "name": "朱家铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/朱家铺镇"
+    },
+    {
+      "code": "430722109",
+      "name": "太子庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/太子庙镇"
+    },
+    {
+      "code": "430722111",
+      "name": "崔家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/崔家桥镇"
+    },
+    {
+      "code": "430722112",
+      "name": "军山铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/军山铺镇"
+    },
+    {
+      "code": "430722113",
+      "name": "百禄桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/百禄桥镇"
+    },
+    {
+      "code": "430722114",
+      "name": "西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/西湖镇"
+    },
+    {
+      "code": "430722115",
+      "name": "洋淘湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/洋淘湖镇"
+    },
+    {
+      "code": "430722116",
+      "name": "丰家铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/丰家铺镇"
+    },
+    {
+      "code": "430722117",
+      "name": "龙潭桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/龙潭桥镇"
+    },
+    {
+      "code": "430722205",
+      "name": "聂家桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/聂家桥乡"
+    },
+    {
+      "code": "430722206",
+      "name": "毛家滩回族维吾尔族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/毛家滩回族维吾尔族乡"
+    },
+    {
+      "code": "430722217",
+      "name": "西洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430722",
+      "year": 0,
+      "name_path": "湖南省/常德市/汉寿县/西洲乡"
+    }
+  ]
+}

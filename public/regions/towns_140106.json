@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140106001",
+      "name": "柳巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/柳巷街道"
+    },
+    {
+      "code": "140106002",
+      "name": "文庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/文庙街道"
+    },
+    {
+      "code": "140106003",
+      "name": "庙前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/庙前街道"
+    },
+    {
+      "code": "140106004",
+      "name": "迎泽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/迎泽街道"
+    },
+    {
+      "code": "140106005",
+      "name": "桥东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/桥东街道"
+    },
+    {
+      "code": "140106006",
+      "name": "老军营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/老军营街道"
+    },
+    {
+      "code": "140106007",
+      "name": "双塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/双塔街道"
+    },
+    {
+      "code": "140106100",
+      "name": "郝庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140106",
+      "year": 0,
+      "name_path": "山西省/太原市/迎泽区/郝庄镇"
+    }
+  ]
+}

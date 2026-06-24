@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "410822001",
+      "name": "清化镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/清化镇街道"
+    },
+    {
+      "code": "410822002",
+      "name": "鸿昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/鸿昌街道"
+    },
+    {
+      "code": "410822101",
+      "name": "柏山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/柏山镇"
+    },
+    {
+      "code": "410822102",
+      "name": "月山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/月山镇"
+    },
+    {
+      "code": "410822103",
+      "name": "许良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/许良镇"
+    },
+    {
+      "code": "410822105",
+      "name": "磨头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/磨头镇"
+    },
+    {
+      "code": "410822106",
+      "name": "孝敬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/孝敬镇"
+    },
+    {
+      "code": "410822200",
+      "name": "寨豁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/寨豁乡"
+    },
+    {
+      "code": "410822203",
+      "name": "金城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410822",
+      "year": 0,
+      "name_path": "河南省/焦作市/博爱县/金城乡"
+    }
+  ]
+}

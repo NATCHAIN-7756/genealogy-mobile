@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "152922100",
+      "name": "巴丹吉林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/巴丹吉林镇"
+    },
+    {
+      "code": "152922101",
+      "name": "雅布赖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/雅布赖镇"
+    },
+    {
+      "code": "152922103",
+      "name": "阿拉腾敖包镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/阿拉腾敖包镇"
+    },
+    {
+      "code": "152922201",
+      "name": "阿拉腾朝格苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/阿拉腾朝格苏木"
+    },
+    {
+      "code": "152922205",
+      "name": "曼德拉苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/曼德拉苏木"
+    },
+    {
+      "code": "152922206",
+      "name": "塔木素布拉格苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/塔木素布拉格苏木"
+    },
+    {
+      "code": "152922207",
+      "name": "巴彦高勒苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152922",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/阿拉善右旗/巴彦高勒苏木"
+    }
+  ]
+}

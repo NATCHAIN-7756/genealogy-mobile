@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "210204006",
+      "name": "春柳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/春柳街道"
+    },
+    {
+      "code": "210204008",
+      "name": "马栏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/马栏街道"
+    },
+    {
+      "code": "210204009",
+      "name": "南沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/南沙街道"
+    },
+    {
+      "code": "210204010",
+      "name": "黑石礁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/黑石礁街道"
+    },
+    {
+      "code": "210204011",
+      "name": "李家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/李家街道"
+    },
+    {
+      "code": "210204017",
+      "name": "星海湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/星海湾街道"
+    },
+    {
+      "code": "210204018",
+      "name": "西安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210204",
+      "year": 0,
+      "name_path": "辽宁省/大连市/沙河口区/西安路街道"
+    }
+  ]
+}

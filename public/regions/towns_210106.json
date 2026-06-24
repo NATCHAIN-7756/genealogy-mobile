@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "210106001",
+      "name": "昆明湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/昆明湖街道"
+    },
+    {
+      "code": "210106003",
+      "name": "工人村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/工人村街道"
+    },
+    {
+      "code": "210106007",
+      "name": "启工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/启工街道"
+    },
+    {
+      "code": "210106011",
+      "name": "兴顺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/兴顺街道"
+    },
+    {
+      "code": "210106013",
+      "name": "笃工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/笃工街道"
+    },
+    {
+      "code": "210106015",
+      "name": "兴华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/兴华街道"
+    },
+    {
+      "code": "210106019",
+      "name": "霁虹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/霁虹街道"
+    },
+    {
+      "code": "210106020",
+      "name": "凌空街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/凌空街道"
+    },
+    {
+      "code": "210106023",
+      "name": "重工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/重工街道"
+    },
+    {
+      "code": "210106025",
+      "name": "翟家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/翟家街道"
+    },
+    {
+      "code": "210106026",
+      "name": "大青中朝友谊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/大青中朝友谊街道"
+    },
+    {
+      "code": "210106027",
+      "name": "大潘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/大潘街道"
+    },
+    {
+      "code": "210106028",
+      "name": "高花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/高花街道"
+    },
+    {
+      "code": "210106029",
+      "name": "彰驿站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210106",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/铁西区/彰驿站街道"
+    }
+  ]
+}

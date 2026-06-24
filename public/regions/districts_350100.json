@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "350102",
+      "name": "鼓楼区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/鼓楼区"
+    },
+    {
+      "code": "350103",
+      "name": "台江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/台江区"
+    },
+    {
+      "code": "350104",
+      "name": "仓山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/仓山区"
+    },
+    {
+      "code": "350105",
+      "name": "马尾区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/马尾区"
+    },
+    {
+      "code": "350111",
+      "name": "晋安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/晋安区"
+    },
+    {
+      "code": "350112",
+      "name": "长乐区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/长乐区"
+    },
+    {
+      "code": "350121",
+      "name": "闽侯县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/闽侯县"
+    },
+    {
+      "code": "350122",
+      "name": "连江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/连江县"
+    },
+    {
+      "code": "350123",
+      "name": "罗源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/罗源县"
+    },
+    {
+      "code": "350124",
+      "name": "闽清县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/闽清县"
+    },
+    {
+      "code": "350125",
+      "name": "永泰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/永泰县"
+    },
+    {
+      "code": "350128",
+      "name": "平潭县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/平潭县"
+    },
+    {
+      "code": "350181",
+      "name": "福清市",
+      "level": 3,
+      "type": null,
+      "parent_code": "350100",
+      "year": 0,
+      "name_path": "全国/福建省/福州市/福清市"
+    }
+  ]
+}

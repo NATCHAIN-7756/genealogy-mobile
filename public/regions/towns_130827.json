@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130827100",
+      "name": "宽城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/宽城镇"
+    },
+    {
+      "code": "130827101",
+      "name": "龙须门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/龙须门镇"
+    },
+    {
+      "code": "130827102",
+      "name": "峪耳崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/峪耳崖镇"
+    },
+    {
+      "code": "130827103",
+      "name": "板城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/板城镇"
+    },
+    {
+      "code": "130827104",
+      "name": "汤道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/汤道河镇"
+    },
+    {
+      "code": "130827105",
+      "name": "桲罗台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/桲罗台镇"
+    },
+    {
+      "code": "130827106",
+      "name": "碾子峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/碾子峪镇"
+    },
+    {
+      "code": "130827107",
+      "name": "亮甲台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/亮甲台镇"
+    },
+    {
+      "code": "130827108",
+      "name": "化皮溜子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/化皮溜子镇"
+    },
+    {
+      "code": "130827109",
+      "name": "松岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/松岭镇"
+    },
+    {
+      "code": "130827201",
+      "name": "塌山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/塌山乡"
+    },
+    {
+      "code": "130827203",
+      "name": "孟子岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/孟子岭乡"
+    },
+    {
+      "code": "130827204",
+      "name": "独石沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/独石沟乡"
+    },
+    {
+      "code": "130827207",
+      "name": "铧尖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/铧尖乡"
+    },
+    {
+      "code": "130827208",
+      "name": "东黄花川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/东黄花川乡"
+    },
+    {
+      "code": "130827210",
+      "name": "苇子沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/苇子沟乡"
+    },
+    {
+      "code": "130827211",
+      "name": "大字沟门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/大字沟门乡"
+    },
+    {
+      "code": "130827212",
+      "name": "大石柱子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130827",
+      "year": 0,
+      "name_path": "河北省/承德市/宽城满族自治县/大石柱子乡"
+    }
+  ]
+}

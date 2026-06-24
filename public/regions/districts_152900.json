@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "152921",
+      "name": "阿拉善左旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152900",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/阿拉善盟/阿拉善左旗"
+    },
+    {
+      "code": "152922",
+      "name": "阿拉善右旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152900",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/阿拉善盟/阿拉善右旗"
+    },
+    {
+      "code": "152923",
+      "name": "额济纳旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152900",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/阿拉善盟/额济纳旗"
+    }
+  ]
+}

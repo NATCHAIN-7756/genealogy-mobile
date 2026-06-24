@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "350424100",
+      "name": "翠江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/翠江镇"
+    },
+    {
+      "code": "350424101",
+      "name": "泉上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/泉上镇"
+    },
+    {
+      "code": "350424102",
+      "name": "湖村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/湖村镇"
+    },
+    {
+      "code": "350424103",
+      "name": "石壁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/石壁镇"
+    },
+    {
+      "code": "350424104",
+      "name": "曹坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/曹坊镇"
+    },
+    {
+      "code": "350424105",
+      "name": "安远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/安远镇"
+    },
+    {
+      "code": "350424106",
+      "name": "淮土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/淮土镇"
+    },
+    {
+      "code": "350424107",
+      "name": "安乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/安乐镇"
+    },
+    {
+      "code": "350424108",
+      "name": "水茜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/水茜镇"
+    },
+    {
+      "code": "350424109",
+      "name": "城郊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/城郊镇"
+    },
+    {
+      "code": "350424110",
+      "name": "城南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/城南镇"
+    },
+    {
+      "code": "350424202",
+      "name": "济村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/济村乡"
+    },
+    {
+      "code": "350424204",
+      "name": "方田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/方田乡"
+    },
+    {
+      "code": "350424207",
+      "name": "治平畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/治平畲族乡"
+    },
+    {
+      "code": "350424208",
+      "name": "中沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/中沙乡"
+    },
+    {
+      "code": "350424209",
+      "name": "河龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350424",
+      "year": 0,
+      "name_path": "福建省/三明市/宁化县/河龙乡"
+    }
+  ]
+}

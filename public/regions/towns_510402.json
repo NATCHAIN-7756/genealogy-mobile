@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "510402001",
+      "name": "大渡口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510402",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/东区/大渡口街道"
+    },
+    {
+      "code": "510402002",
+      "name": "炳草岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510402",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/东区/炳草岗街道"
+    },
+    {
+      "code": "510402005",
+      "name": "弄弄坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510402",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/东区/弄弄坪街道"
+    },
+    {
+      "code": "510402009",
+      "name": "瓜子坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510402",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/东区/瓜子坪街道"
+    },
+    {
+      "code": "510402010",
+      "name": "东华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510402",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/东区/东华街道"
+    },
+    {
+      "code": "510402100",
+      "name": "银江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510402",
+      "year": 0,
+      "name_path": "四川省/攀枝花市/东区/银江镇"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "350124100",
+      "name": "梅城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/梅城镇"
+    },
+    {
+      "code": "350124101",
+      "name": "梅溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/梅溪镇"
+    },
+    {
+      "code": "350124102",
+      "name": "白樟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/白樟镇"
+    },
+    {
+      "code": "350124103",
+      "name": "金沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/金沙镇"
+    },
+    {
+      "code": "350124104",
+      "name": "白中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/白中镇"
+    },
+    {
+      "code": "350124105",
+      "name": "池园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/池园镇"
+    },
+    {
+      "code": "350124106",
+      "name": "坂东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/坂东镇"
+    },
+    {
+      "code": "350124107",
+      "name": "塔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/塔庄镇"
+    },
+    {
+      "code": "350124108",
+      "name": "省璜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/省璜镇"
+    },
+    {
+      "code": "350124109",
+      "name": "雄江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/雄江镇"
+    },
+    {
+      "code": "350124110",
+      "name": "东桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/东桥镇"
+    },
+    {
+      "code": "350124200",
+      "name": "云龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/云龙乡"
+    },
+    {
+      "code": "350124201",
+      "name": "上莲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/上莲乡"
+    },
+    {
+      "code": "350124204",
+      "name": "三溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/三溪乡"
+    },
+    {
+      "code": "350124205",
+      "name": "桔林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/桔林乡"
+    },
+    {
+      "code": "350124206",
+      "name": "下祝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350124",
+      "year": 0,
+      "name_path": "福建省/福州市/闽清县/下祝乡"
+    }
+  ]
+}

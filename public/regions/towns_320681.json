@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "320681100",
+      "name": "汇龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/汇龙镇"
+    },
+    {
+      "code": "320681102",
+      "name": "南阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/南阳镇"
+    },
+    {
+      "code": "320681105",
+      "name": "北新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/北新镇"
+    },
+    {
+      "code": "320681107",
+      "name": "王鲍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/王鲍镇"
+    },
+    {
+      "code": "320681108",
+      "name": "合作镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/合作镇"
+    },
+    {
+      "code": "320681110",
+      "name": "吕四港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/吕四港镇"
+    },
+    {
+      "code": "320681113",
+      "name": "海复镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/海复镇"
+    },
+    {
+      "code": "320681117",
+      "name": "近海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/近海镇"
+    },
+    {
+      "code": "320681118",
+      "name": "寅阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/寅阳镇"
+    },
+    {
+      "code": "320681120",
+      "name": "惠萍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/惠萍镇"
+    },
+    {
+      "code": "320681122",
+      "name": "东海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/东海镇"
+    },
+    {
+      "code": "320681124",
+      "name": "启隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320681",
+      "year": 0,
+      "name_path": "江苏省/南通市/启东市/启隆镇"
+    }
+  ]
+}

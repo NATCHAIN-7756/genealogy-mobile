@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130684001",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/和平街道"
+    },
+    {
+      "code": "130684002",
+      "name": "军城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/军城街道"
+    },
+    {
+      "code": "130684003",
+      "name": "东盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/东盛街道"
+    },
+    {
+      "code": "130684004",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/北城街道"
+    },
+    {
+      "code": "130684005",
+      "name": "兴华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/兴华路街道"
+    },
+    {
+      "code": "130684100",
+      "name": "方官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/方官镇"
+    },
+    {
+      "code": "130684101",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/新城镇"
+    },
+    {
+      "code": "130684102",
+      "name": "泗庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/泗庄镇"
+    },
+    {
+      "code": "130684104",
+      "name": "辛立庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/辛立庄镇"
+    },
+    {
+      "code": "130684105",
+      "name": "东马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/东马营镇"
+    },
+    {
+      "code": "130684106",
+      "name": "白沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/白沟镇"
+    },
+    {
+      "code": "130684107",
+      "name": "辛桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/辛桥镇"
+    },
+    {
+      "code": "130684108",
+      "name": "张六庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/张六庄镇"
+    },
+    {
+      "code": "130684109",
+      "name": "肖官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/肖官营镇"
+    },
+    {
+      "code": "130684110",
+      "name": "梁家营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130684",
+      "year": 0,
+      "name_path": "河北省/保定市/高碑店市/梁家营镇"
+    }
+  ]
+}

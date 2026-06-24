@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "411082001",
+      "name": "建设路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/建设路街道"
+    },
+    {
+      "code": "411082002",
+      "name": "长兴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/长兴路街道"
+    },
+    {
+      "code": "411082003",
+      "name": "长社路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/长社路街道"
+    },
+    {
+      "code": "411082004",
+      "name": "金桥路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/金桥路街道"
+    },
+    {
+      "code": "411082100",
+      "name": "和尚桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/和尚桥镇"
+    },
+    {
+      "code": "411082101",
+      "name": "坡胡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/坡胡镇"
+    },
+    {
+      "code": "411082102",
+      "name": "后河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/后河镇"
+    },
+    {
+      "code": "411082103",
+      "name": "石固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/石固镇"
+    },
+    {
+      "code": "411082104",
+      "name": "老城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/老城镇"
+    },
+    {
+      "code": "411082105",
+      "name": "南席镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/南席镇"
+    },
+    {
+      "code": "411082106",
+      "name": "大周镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/大周镇"
+    },
+    {
+      "code": "411082107",
+      "name": "董村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/董村镇"
+    },
+    {
+      "code": "411082108",
+      "name": "石象镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/石象镇"
+    },
+    {
+      "code": "411082109",
+      "name": "古桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/古桥镇"
+    },
+    {
+      "code": "411082110",
+      "name": "增福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/增福镇"
+    },
+    {
+      "code": "411082111",
+      "name": "佛耳湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411082",
+      "year": 0,
+      "name_path": "河南省/许昌市/长葛市/佛耳湖镇"
+    }
+  ]
+}

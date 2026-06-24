@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "150302",
+      "name": "海勃湾区",
+      "level": 3,
+      "type": null,
+      "parent_code": "150300",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/乌海市/海勃湾区"
+    },
+    {
+      "code": "150303",
+      "name": "海南区",
+      "level": 3,
+      "type": null,
+      "parent_code": "150300",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/乌海市/海南区"
+    },
+    {
+      "code": "150304",
+      "name": "乌达区",
+      "level": 3,
+      "type": null,
+      "parent_code": "150300",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/乌海市/乌达区"
+    }
+  ]
+}

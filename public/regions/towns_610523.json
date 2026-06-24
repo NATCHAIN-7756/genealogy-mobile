@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "610523001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/城关街道"
+    },
+    {
+      "code": "610523104",
+      "name": "两宜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/两宜镇"
+    },
+    {
+      "code": "610523107",
+      "name": "冯村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/冯村镇"
+    },
+    {
+      "code": "610523108",
+      "name": "双泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/双泉镇"
+    },
+    {
+      "code": "610523112",
+      "name": "范家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/范家镇"
+    },
+    {
+      "code": "610523113",
+      "name": "官池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/官池镇"
+    },
+    {
+      "code": "610523114",
+      "name": "韦林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/韦林镇"
+    },
+    {
+      "code": "610523115",
+      "name": "羌白镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/羌白镇"
+    },
+    {
+      "code": "610523116",
+      "name": "下寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/下寨镇"
+    },
+    {
+      "code": "610523117",
+      "name": "安仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/安仁镇"
+    },
+    {
+      "code": "610523118",
+      "name": "许庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/许庄镇"
+    },
+    {
+      "code": "610523119",
+      "name": "朝邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/朝邑镇"
+    },
+    {
+      "code": "610523120",
+      "name": "埝桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/埝桥镇"
+    },
+    {
+      "code": "610523121",
+      "name": "段家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/段家镇"
+    },
+    {
+      "code": "610523122",
+      "name": "苏村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/苏村镇"
+    },
+    {
+      "code": "610523125",
+      "name": "赵渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610523",
+      "year": 0,
+      "name_path": "陕西省/渭南市/大荔县/赵渡镇"
+    }
+  ]
+}

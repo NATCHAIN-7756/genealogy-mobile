@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "360104006",
+      "name": "三家店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360104",
+      "year": 0,
+      "name_path": "江西省/南昌市/青云谱区/三家店街道"
+    },
+    {
+      "code": "360104007",
+      "name": "洪都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360104",
+      "year": 0,
+      "name_path": "江西省/南昌市/青云谱区/洪都街道"
+    },
+    {
+      "code": "360104008",
+      "name": "岱山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360104",
+      "year": 0,
+      "name_path": "江西省/南昌市/青云谱区/岱山街道"
+    },
+    {
+      "code": "360104009",
+      "name": "徐家坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360104",
+      "year": 0,
+      "name_path": "江西省/南昌市/青云谱区/徐家坊街道"
+    },
+    {
+      "code": "360104010",
+      "name": "京山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360104",
+      "year": 0,
+      "name_path": "江西省/南昌市/青云谱区/京山街道"
+    },
+    {
+      "code": "360104100",
+      "name": "青云谱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360104",
+      "year": 0,
+      "name_path": "江西省/南昌市/青云谱区/青云谱镇"
+    }
+  ]
+}

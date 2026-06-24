@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "530502001",
+      "name": "兰城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/兰城街道"
+    },
+    {
+      "code": "530502002",
+      "name": "永昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/永昌街道"
+    },
+    {
+      "code": "530502003",
+      "name": "河图街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/河图街道"
+    },
+    {
+      "code": "530502004",
+      "name": "永盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/永盛街道"
+    },
+    {
+      "code": "530502005",
+      "name": "九隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/九隆街道"
+    },
+    {
+      "code": "530502006",
+      "name": "青华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/青华街道"
+    },
+    {
+      "code": "530502101",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/板桥镇"
+    },
+    {
+      "code": "530502103",
+      "name": "蒲缥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/蒲缥镇"
+    },
+    {
+      "code": "530502104",
+      "name": "汉庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/汉庄镇"
+    },
+    {
+      "code": "530502105",
+      "name": "潞江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/潞江镇"
+    },
+    {
+      "code": "530502106",
+      "name": "瓦窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/瓦窑镇"
+    },
+    {
+      "code": "530502200",
+      "name": "金鸡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/金鸡乡"
+    },
+    {
+      "code": "530502201",
+      "name": "辛街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/辛街乡"
+    },
+    {
+      "code": "530502202",
+      "name": "西邑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/西邑乡"
+    },
+    {
+      "code": "530502203",
+      "name": "丙麻乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/丙麻乡"
+    },
+    {
+      "code": "530502204",
+      "name": "瓦渡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/瓦渡乡"
+    },
+    {
+      "code": "530502205",
+      "name": "水寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/水寨乡"
+    },
+    {
+      "code": "530502208",
+      "name": "瓦马彝族白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/瓦马彝族白族乡"
+    },
+    {
+      "code": "530502210",
+      "name": "瓦房彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/瓦房彝族苗族乡"
+    },
+    {
+      "code": "530502211",
+      "name": "杨柳白族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/杨柳白族彝族乡"
+    },
+    {
+      "code": "530502214",
+      "name": "芒宽彝族傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530502",
+      "year": 0,
+      "name_path": "云南省/保山市/隆阳区/芒宽彝族傣族乡"
+    }
+  ]
+}

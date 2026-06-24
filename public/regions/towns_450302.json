@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "450302001",
+      "name": "秀峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450302",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/秀峰区/秀峰街道"
+    },
+    {
+      "code": "450302002",
+      "name": "丽君街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450302",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/秀峰区/丽君街道"
+    },
+    {
+      "code": "450302003",
+      "name": "甲山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450302",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/秀峰区/甲山街道"
+    }
+  ]
+}

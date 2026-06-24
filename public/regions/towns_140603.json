@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140603100",
+      "name": "井坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/井坪镇"
+    },
+    {
+      "code": "140603101",
+      "name": "凤凰城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/凤凰城镇"
+    },
+    {
+      "code": "140603200",
+      "name": "白堂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/白堂乡"
+    },
+    {
+      "code": "140603201",
+      "name": "陶村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/陶村乡"
+    },
+    {
+      "code": "140603202",
+      "name": "下水头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/下水头乡"
+    },
+    {
+      "code": "140603203",
+      "name": "双碾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/双碾乡"
+    },
+    {
+      "code": "140603204",
+      "name": "阻虎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/阻虎乡"
+    },
+    {
+      "code": "140603205",
+      "name": "高石庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/高石庄乡"
+    },
+    {
+      "code": "140603206",
+      "name": "西水界乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/西水界乡"
+    },
+    {
+      "code": "140603207",
+      "name": "下面高乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/下面高乡"
+    },
+    {
+      "code": "140603209",
+      "name": "向阳堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/向阳堡乡"
+    },
+    {
+      "code": "140603210",
+      "name": "榆岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140603",
+      "year": 0,
+      "name_path": "山西省/朔州市/平鲁区/榆岭乡"
+    }
+  ]
+}

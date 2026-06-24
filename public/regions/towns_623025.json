@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "623025101",
+      "name": "尼玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/尼玛镇"
+    },
+    {
+      "code": "623025102",
+      "name": "阿万仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/阿万仓镇"
+    },
+    {
+      "code": "623025103",
+      "name": "齐哈玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/齐哈玛镇"
+    },
+    {
+      "code": "623025104",
+      "name": "曼日玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/曼日玛镇"
+    },
+    {
+      "code": "623025105",
+      "name": "欧拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/欧拉镇"
+    },
+    {
+      "code": "623025106",
+      "name": "采日玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/采日玛镇"
+    },
+    {
+      "code": "623025202",
+      "name": "欧拉秀玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/欧拉秀玛乡"
+    },
+    {
+      "code": "623025204",
+      "name": "木西合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623025",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/玛曲县/木西合乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130925100",
+      "name": "盐山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/盐山镇"
+    },
+    {
+      "code": "130925101",
+      "name": "望树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/望树镇"
+    },
+    {
+      "code": "130925102",
+      "name": "庆云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/庆云镇"
+    },
+    {
+      "code": "130925103",
+      "name": "韩集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/韩集镇"
+    },
+    {
+      "code": "130925104",
+      "name": "千童镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/千童镇"
+    },
+    {
+      "code": "130925105",
+      "name": "圣佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/圣佛镇"
+    },
+    {
+      "code": "130925106",
+      "name": "边务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/边务镇"
+    },
+    {
+      "code": "130925107",
+      "name": "小庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/小庄镇"
+    },
+    {
+      "code": "130925108",
+      "name": "杨集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/杨集镇"
+    },
+    {
+      "code": "130925109",
+      "name": "孟店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/孟店镇"
+    },
+    {
+      "code": "130925201",
+      "name": "小营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/小营乡"
+    },
+    {
+      "code": "130925204",
+      "name": "常庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130925",
+      "year": 0,
+      "name_path": "河北省/沧州市/盐山县/常庄乡"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "330782001",
+      "name": "稠城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/稠城街道"
+    },
+    {
+      "code": "330782002",
+      "name": "江东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/江东街道"
+    },
+    {
+      "code": "330782003",
+      "name": "稠江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/稠江街道"
+    },
+    {
+      "code": "330782004",
+      "name": "北苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/北苑街道"
+    },
+    {
+      "code": "330782005",
+      "name": "后宅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/后宅街道"
+    },
+    {
+      "code": "330782006",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/城西街道"
+    },
+    {
+      "code": "330782007",
+      "name": "廿三里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/廿三里街道"
+    },
+    {
+      "code": "330782008",
+      "name": "福田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/福田街道"
+    },
+    {
+      "code": "330782100",
+      "name": "佛堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/佛堂镇"
+    },
+    {
+      "code": "330782101",
+      "name": "赤岸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/赤岸镇"
+    },
+    {
+      "code": "330782102",
+      "name": "义亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/义亭镇"
+    },
+    {
+      "code": "330782104",
+      "name": "上溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/上溪镇"
+    },
+    {
+      "code": "330782105",
+      "name": "苏溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/苏溪镇"
+    },
+    {
+      "code": "330782106",
+      "name": "大陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330782",
+      "year": 0,
+      "name_path": "浙江省/金华市/义乌市/大陈镇"
+    }
+  ]
+}

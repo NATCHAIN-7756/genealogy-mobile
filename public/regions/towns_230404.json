@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "230404001",
+      "name": "铁西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230404",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/南山区/铁西街道"
+    },
+    {
+      "code": "230404002",
+      "name": "铁东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230404",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/南山区/铁东街道"
+    },
+    {
+      "code": "230404003",
+      "name": "六号街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230404",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/南山区/六号街道"
+    },
+    {
+      "code": "230404004",
+      "name": "大陆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230404",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/南山区/大陆街道"
+    },
+    {
+      "code": "230404005",
+      "name": "富力街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230404",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/南山区/富力街道"
+    },
+    {
+      "code": "230404006",
+      "name": "麓林山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230404",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/南山区/麓林山街道"
+    }
+  ]
+}

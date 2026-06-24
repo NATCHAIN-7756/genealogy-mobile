@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "532801001",
+      "name": "允景洪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/允景洪街道"
+    },
+    {
+      "code": "532801002",
+      "name": "江北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/江北街道"
+    },
+    {
+      "code": "532801003",
+      "name": "嘎洒街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/嘎洒街道"
+    },
+    {
+      "code": "532801004",
+      "name": "嘎栋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/嘎栋街道"
+    },
+    {
+      "code": "532801005",
+      "name": "曼弄枫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/曼弄枫街道"
+    },
+    {
+      "code": "532801102",
+      "name": "勐龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/勐龙镇"
+    },
+    {
+      "code": "532801103",
+      "name": "勐罕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/勐罕镇"
+    },
+    {
+      "code": "532801104",
+      "name": "勐养镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/勐养镇"
+    },
+    {
+      "code": "532801105",
+      "name": "普文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/普文镇"
+    },
+    {
+      "code": "532801202",
+      "name": "景哈哈尼族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/景哈哈尼族乡"
+    },
+    {
+      "code": "532801203",
+      "name": "景讷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/景讷乡"
+    },
+    {
+      "code": "532801204",
+      "name": "大渡岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/大渡岗乡"
+    },
+    {
+      "code": "532801205",
+      "name": "勐旺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/勐旺乡"
+    },
+    {
+      "code": "532801206",
+      "name": "基诺山基诺族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532801",
+      "year": 0,
+      "name_path": "云南省/西双版纳傣族自治州/景洪市/基诺山基诺族乡"
+    }
+  ]
+}

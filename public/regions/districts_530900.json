@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "530902",
+      "name": "临翔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/临翔区"
+    },
+    {
+      "code": "530921",
+      "name": "凤庆县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/凤庆县"
+    },
+    {
+      "code": "530922",
+      "name": "云县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/云县"
+    },
+    {
+      "code": "530923",
+      "name": "永德县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/永德县"
+    },
+    {
+      "code": "530924",
+      "name": "镇康县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/镇康县"
+    },
+    {
+      "code": "530925",
+      "name": "双江拉祜族佤族布朗族傣族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/双江拉祜族佤族布朗族傣族自治县"
+    },
+    {
+      "code": "530926",
+      "name": "耿马傣族佤族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/耿马傣族佤族自治县"
+    },
+    {
+      "code": "530927",
+      "name": "沧源佤族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "530900",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市/沧源佤族自治县"
+    }
+  ]
+}

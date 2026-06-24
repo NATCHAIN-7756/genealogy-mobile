@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "650402001",
+      "name": "老城路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/老城路街道"
+    },
+    {
+      "code": "650402002",
+      "name": "高昌路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/高昌路街道"
+    },
+    {
+      "code": "650402003",
+      "name": "葡萄沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/葡萄沟街道"
+    },
+    {
+      "code": "650402100",
+      "name": "七泉湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/七泉湖镇"
+    },
+    {
+      "code": "650402101",
+      "name": "大河沿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/大河沿镇"
+    },
+    {
+      "code": "650402102",
+      "name": "亚尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/亚尔镇"
+    },
+    {
+      "code": "650402103",
+      "name": "葡萄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/葡萄镇"
+    },
+    {
+      "code": "650402104",
+      "name": "艾丁湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/艾丁湖镇"
+    },
+    {
+      "code": "650402105",
+      "name": "火焰山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/火焰山镇"
+    },
+    {
+      "code": "650402202",
+      "name": "恰特喀勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/恰特喀勒乡"
+    },
+    {
+      "code": "650402204",
+      "name": "三堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/三堡乡"
+    },
+    {
+      "code": "650402205",
+      "name": "胜金乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "650402",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/吐鲁番市/高昌区/胜金乡"
+    }
+  ]
+}

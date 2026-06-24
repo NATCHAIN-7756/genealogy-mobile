@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "420822100",
+      "name": "沙洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/沙洋镇"
+    },
+    {
+      "code": "420822101",
+      "name": "五里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/五里铺镇"
+    },
+    {
+      "code": "420822102",
+      "name": "十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/十里铺镇"
+    },
+    {
+      "code": "420822103",
+      "name": "纪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/纪山镇"
+    },
+    {
+      "code": "420822104",
+      "name": "拾回桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/拾回桥镇"
+    },
+    {
+      "code": "420822105",
+      "name": "后港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/后港镇"
+    },
+    {
+      "code": "420822107",
+      "name": "毛李镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/毛李镇"
+    },
+    {
+      "code": "420822108",
+      "name": "官垱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/官垱镇"
+    },
+    {
+      "code": "420822109",
+      "name": "李市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/李市镇"
+    },
+    {
+      "code": "420822110",
+      "name": "马良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/马良镇"
+    },
+    {
+      "code": "420822111",
+      "name": "高阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/高阳镇"
+    },
+    {
+      "code": "420822112",
+      "name": "沈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/沈集镇"
+    },
+    {
+      "code": "420822113",
+      "name": "曾集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420822",
+      "year": 0,
+      "name_path": "湖北省/荆门市/沙洋县/曾集镇"
+    }
+  ]
+}

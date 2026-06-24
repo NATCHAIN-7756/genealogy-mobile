@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "530481001",
+      "name": "凤麓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530481",
+      "year": 0,
+      "name_path": "云南省/玉溪市/澄江市/凤麓街道"
+    },
+    {
+      "code": "530481002",
+      "name": "龙街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530481",
+      "year": 0,
+      "name_path": "云南省/玉溪市/澄江市/龙街街道"
+    },
+    {
+      "code": "530481100",
+      "name": "阳宗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530481",
+      "year": 0,
+      "name_path": "云南省/玉溪市/澄江市/阳宗镇"
+    },
+    {
+      "code": "530481101",
+      "name": "右所镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530481",
+      "year": 0,
+      "name_path": "云南省/玉溪市/澄江市/右所镇"
+    },
+    {
+      "code": "530481102",
+      "name": "海口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530481",
+      "year": 0,
+      "name_path": "云南省/玉溪市/澄江市/海口镇"
+    },
+    {
+      "code": "530481103",
+      "name": "九村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530481",
+      "year": 0,
+      "name_path": "云南省/玉溪市/澄江市/九村镇"
+    }
+  ]
+}

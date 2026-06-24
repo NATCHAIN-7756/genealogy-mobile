@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "652823100",
+      "name": "尉犁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/尉犁镇"
+    },
+    {
+      "code": "652823101",
+      "name": "团结镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/团结镇"
+    },
+    {
+      "code": "652823102",
+      "name": "兴平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/兴平镇"
+    },
+    {
+      "code": "652823200",
+      "name": "塔里木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/塔里木乡"
+    },
+    {
+      "code": "652823203",
+      "name": "墩阔坦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/墩阔坦乡"
+    },
+    {
+      "code": "652823204",
+      "name": "喀尔曲尕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/喀尔曲尕乡"
+    },
+    {
+      "code": "652823205",
+      "name": "阿克苏甫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/阿克苏甫乡"
+    },
+    {
+      "code": "652823206",
+      "name": "古勒巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652823",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/尉犁县/古勒巴格乡"
+    }
+  ]
+}

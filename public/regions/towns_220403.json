@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "220403001",
+      "name": "仙城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/仙城街道"
+    },
+    {
+      "code": "220403002",
+      "name": "太安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/太安街道"
+    },
+    {
+      "code": "220403003",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/东山街道"
+    },
+    {
+      "code": "220403004",
+      "name": "安家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/安家街道"
+    },
+    {
+      "code": "220403005",
+      "name": "先锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/先锋街道"
+    },
+    {
+      "code": "220403006",
+      "name": "富国街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/富国街道"
+    },
+    {
+      "code": "220403100",
+      "name": "灯塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220403",
+      "year": 0,
+      "name_path": "吉林省/辽源市/西安区/灯塔镇"
+    }
+  ]
+}

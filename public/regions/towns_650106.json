@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "650106001",
+      "name": "头屯河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/头屯河街道"
+    },
+    {
+      "code": "650106002",
+      "name": "火车西站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/火车西站街道"
+    },
+    {
+      "code": "650106003",
+      "name": "王家沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/王家沟街道"
+    },
+    {
+      "code": "650106005",
+      "name": "北站西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/北站西路街道"
+    },
+    {
+      "code": "650106016",
+      "name": "中亚南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/中亚南路街道"
+    },
+    {
+      "code": "650106017",
+      "name": "中亚北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/中亚北路街道"
+    },
+    {
+      "code": "650106018",
+      "name": "北站东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/北站东路街道"
+    },
+    {
+      "code": "650106019",
+      "name": "嵩山街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/嵩山街街道"
+    },
+    {
+      "code": "650106020",
+      "name": "高铁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/高铁街道"
+    },
+    {
+      "code": "650106021",
+      "name": "白鸟湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/白鸟湖街道"
+    },
+    {
+      "code": "650106022",
+      "name": "西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650106",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/头屯河区/西湖街道"
+    }
+  ]
+}

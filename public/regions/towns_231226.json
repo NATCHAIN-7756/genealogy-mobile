@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "231226100",
+      "name": "绥棱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/绥棱镇"
+    },
+    {
+      "code": "231226101",
+      "name": "上集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/上集镇"
+    },
+    {
+      "code": "231226102",
+      "name": "四海店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/四海店镇"
+    },
+    {
+      "code": "231226103",
+      "name": "双岔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/双岔河镇"
+    },
+    {
+      "code": "231226104",
+      "name": "阁山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/阁山镇"
+    },
+    {
+      "code": "231226105",
+      "name": "长山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/长山镇"
+    },
+    {
+      "code": "231226200",
+      "name": "靠山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/靠山乡"
+    },
+    {
+      "code": "231226201",
+      "name": "后头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/后头乡"
+    },
+    {
+      "code": "231226205",
+      "name": "克音河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/克音河乡"
+    },
+    {
+      "code": "231226206",
+      "name": "绥中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/绥中乡"
+    },
+    {
+      "code": "231226207",
+      "name": "泥尔河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231226",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/绥棱县/泥尔河乡"
+    }
+  ]
+}

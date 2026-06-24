@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "532501002",
+      "name": "大屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/大屯街道"
+    },
+    {
+      "code": "532501003",
+      "name": "沙甸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/沙甸街道"
+    },
+    {
+      "code": "532501004",
+      "name": "锡城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/锡城街道"
+    },
+    {
+      "code": "532501005",
+      "name": "金湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/金湖街道"
+    },
+    {
+      "code": "532501006",
+      "name": "宝华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/宝华街道"
+    },
+    {
+      "code": "532501101",
+      "name": "鸡街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/鸡街镇"
+    },
+    {
+      "code": "532501104",
+      "name": "老厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/老厂镇"
+    },
+    {
+      "code": "532501105",
+      "name": "卡房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/卡房镇"
+    },
+    {
+      "code": "532501107",
+      "name": "蔓耗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/蔓耗镇"
+    },
+    {
+      "code": "532501201",
+      "name": "贾沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/贾沙乡"
+    },
+    {
+      "code": "532501202",
+      "name": "保和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532501",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/个旧市/保和乡"
+    }
+  ]
+}

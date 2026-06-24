@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "620802",
+      "name": "崆峒区",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/崆峒区"
+    },
+    {
+      "code": "620821",
+      "name": "泾川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/泾川县"
+    },
+    {
+      "code": "620822",
+      "name": "灵台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/灵台县"
+    },
+    {
+      "code": "620823",
+      "name": "崇信县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/崇信县"
+    },
+    {
+      "code": "620825",
+      "name": "庄浪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/庄浪县"
+    },
+    {
+      "code": "620826",
+      "name": "静宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/静宁县"
+    },
+    {
+      "code": "620881",
+      "name": "华亭市",
+      "level": 3,
+      "type": null,
+      "parent_code": "620800",
+      "year": 0,
+      "name_path": "全国/甘肃省/平凉市/华亭市"
+    }
+  ]
+}

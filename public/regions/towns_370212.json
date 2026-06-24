@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "370212001",
+      "name": "中韩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370212",
+      "year": 0,
+      "name_path": "山东省/青岛市/崂山区/中韩街道"
+    },
+    {
+      "code": "370212002",
+      "name": "沙子口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370212",
+      "year": 0,
+      "name_path": "山东省/青岛市/崂山区/沙子口街道"
+    },
+    {
+      "code": "370212003",
+      "name": "王哥庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370212",
+      "year": 0,
+      "name_path": "山东省/青岛市/崂山区/王哥庄街道"
+    },
+    {
+      "code": "370212004",
+      "name": "北宅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370212",
+      "year": 0,
+      "name_path": "山东省/青岛市/崂山区/北宅街道"
+    },
+    {
+      "code": "370212005",
+      "name": "金家岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370212",
+      "year": 0,
+      "name_path": "山东省/青岛市/崂山区/金家岭街道"
+    }
+  ]
+}

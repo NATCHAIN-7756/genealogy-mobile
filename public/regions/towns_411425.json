@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "411425100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/城关镇"
+    },
+    {
+      "code": "411425101",
+      "name": "界沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/界沟镇"
+    },
+    {
+      "code": "411425102",
+      "name": "木兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/木兰镇"
+    },
+    {
+      "code": "411425103",
+      "name": "杜集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/杜集镇"
+    },
+    {
+      "code": "411425104",
+      "name": "谷熟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/谷熟镇"
+    },
+    {
+      "code": "411425105",
+      "name": "大杨集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/大杨集镇"
+    },
+    {
+      "code": "411425106",
+      "name": "贾寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/贾寨镇"
+    },
+    {
+      "code": "411425107",
+      "name": "利民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/利民镇"
+    },
+    {
+      "code": "411425108",
+      "name": "张集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/张集镇"
+    },
+    {
+      "code": "411425109",
+      "name": "站集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/站集镇"
+    },
+    {
+      "code": "411425110",
+      "name": "稍岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/稍岗镇"
+    },
+    {
+      "code": "411425111",
+      "name": "乔集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/乔集镇"
+    },
+    {
+      "code": "411425112",
+      "name": "大侯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/大侯镇"
+    },
+    {
+      "code": "411425113",
+      "name": "黄冢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/黄冢镇"
+    },
+    {
+      "code": "411425114",
+      "name": "田庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/田庙镇"
+    },
+    {
+      "code": "411425201",
+      "name": "沙集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/沙集乡"
+    },
+    {
+      "code": "411425202",
+      "name": "店集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/店集乡"
+    },
+    {
+      "code": "411425204",
+      "name": "闻集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/闻集乡"
+    },
+    {
+      "code": "411425205",
+      "name": "芒种桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/芒种桥乡"
+    },
+    {
+      "code": "411425207",
+      "name": "刘店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/刘店乡"
+    },
+    {
+      "code": "411425210",
+      "name": "城郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/城郊乡"
+    },
+    {
+      "code": "411425211",
+      "name": "郑集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/郑集乡"
+    },
+    {
+      "code": "411425212",
+      "name": "李老家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/李老家乡"
+    },
+    {
+      "code": "411425214",
+      "name": "镇里堌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/镇里堌乡"
+    },
+    {
+      "code": "411425215",
+      "name": "古王集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/古王集乡"
+    },
+    {
+      "code": "411425219",
+      "name": "刘集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411425",
+      "year": 0,
+      "name_path": "河南省/商丘市/虞城县/刘集乡"
+    }
+  ]
+}

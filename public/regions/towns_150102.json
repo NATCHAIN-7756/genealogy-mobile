@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "150102001",
+      "name": "海拉尔东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/海拉尔东路街道"
+    },
+    {
+      "code": "150102002",
+      "name": "锡林郭勒北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/锡林郭勒北路街道"
+    },
+    {
+      "code": "150102004",
+      "name": "东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/东街街道"
+    },
+    {
+      "code": "150102005",
+      "name": "西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/西街街道"
+    },
+    {
+      "code": "150102006",
+      "name": "东风路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/东风路街道"
+    },
+    {
+      "code": "150102007",
+      "name": "迎新路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/迎新路街道"
+    },
+    {
+      "code": "150102008",
+      "name": "大青山街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/大青山街街道"
+    },
+    {
+      "code": "150102009",
+      "name": "呼伦贝尔北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/呼伦贝尔北路街道"
+    },
+    {
+      "code": "150102010",
+      "name": "丁香北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/丁香北路街道"
+    },
+    {
+      "code": "150102011",
+      "name": "东河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/东河街道"
+    },
+    {
+      "code": "150102012",
+      "name": "万通路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/万通路街道"
+    },
+    {
+      "code": "150102101",
+      "name": "保合少镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150102",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/新城区/保合少镇"
+    }
+  ]
+}

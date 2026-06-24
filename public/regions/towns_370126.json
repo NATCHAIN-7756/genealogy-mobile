@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "370126001",
+      "name": "许商街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/许商街道"
+    },
+    {
+      "code": "370126101",
+      "name": "殷巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/殷巷镇"
+    },
+    {
+      "code": "370126102",
+      "name": "怀仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/怀仁镇"
+    },
+    {
+      "code": "370126103",
+      "name": "玉皇庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/玉皇庙镇"
+    },
+    {
+      "code": "370126104",
+      "name": "龙桑寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/龙桑寺镇"
+    },
+    {
+      "code": "370126105",
+      "name": "郑路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/郑路镇"
+    },
+    {
+      "code": "370126106",
+      "name": "贾庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/贾庄镇"
+    },
+    {
+      "code": "370126108",
+      "name": "白桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/白桥镇"
+    },
+    {
+      "code": "370126109",
+      "name": "孙集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/孙集镇"
+    },
+    {
+      "code": "370126110",
+      "name": "韩庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/韩庙镇"
+    },
+    {
+      "code": "370126111",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/沙河镇"
+    },
+    {
+      "code": "370126112",
+      "name": "张坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370126",
+      "year": 0,
+      "name_path": "山东省/济南市/商河县/张坊镇"
+    }
+  ]
+}

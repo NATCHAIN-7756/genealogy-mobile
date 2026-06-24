@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "330902002",
+      "name": "昌国街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/昌国街道"
+    },
+    {
+      "code": "330902003",
+      "name": "环南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/环南街道"
+    },
+    {
+      "code": "330902004",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/城东街道"
+    },
+    {
+      "code": "330902005",
+      "name": "盐仓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/盐仓街道"
+    },
+    {
+      "code": "330902006",
+      "name": "临城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/临城街道"
+    },
+    {
+      "code": "330902007",
+      "name": "小沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/小沙街道"
+    },
+    {
+      "code": "330902008",
+      "name": "岑港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/岑港街道"
+    },
+    {
+      "code": "330902009",
+      "name": "马岙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/马岙街道"
+    },
+    {
+      "code": "330902010",
+      "name": "双桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/双桥街道"
+    },
+    {
+      "code": "330902011",
+      "name": "千岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/千岛街道"
+    },
+    {
+      "code": "330902100",
+      "name": "金塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/金塘镇"
+    },
+    {
+      "code": "330902104",
+      "name": "白泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/白泉镇"
+    },
+    {
+      "code": "330902105",
+      "name": "干𬒗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330902",
+      "year": 0,
+      "name_path": "浙江省/舟山市/定海区/干𬒗镇"
+    }
+  ]
+}

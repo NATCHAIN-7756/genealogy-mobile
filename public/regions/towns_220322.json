@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "220322001",
+      "name": "富强街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/富强街道"
+    },
+    {
+      "code": "220322002",
+      "name": "康平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/康平街道"
+    },
+    {
+      "code": "220322003",
+      "name": "霍家店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/霍家店街道"
+    },
+    {
+      "code": "220322100",
+      "name": "梨树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/梨树镇"
+    },
+    {
+      "code": "220322102",
+      "name": "榆树台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/榆树台镇"
+    },
+    {
+      "code": "220322105",
+      "name": "小城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/小城子镇"
+    },
+    {
+      "code": "220322106",
+      "name": "喇嘛甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/喇嘛甸镇"
+    },
+    {
+      "code": "220322107",
+      "name": "蔡家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/蔡家镇"
+    },
+    {
+      "code": "220322108",
+      "name": "刘家馆子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/刘家馆子镇"
+    },
+    {
+      "code": "220322113",
+      "name": "万发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/万发镇"
+    },
+    {
+      "code": "220322114",
+      "name": "东河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/东河镇"
+    },
+    {
+      "code": "220322115",
+      "name": "沈洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/沈洋镇"
+    },
+    {
+      "code": "220322116",
+      "name": "林海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/林海镇"
+    },
+    {
+      "code": "220322117",
+      "name": "小宽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/小宽镇"
+    },
+    {
+      "code": "220322118",
+      "name": "孤家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/孤家子镇"
+    },
+    {
+      "code": "220322202",
+      "name": "白山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/白山乡"
+    },
+    {
+      "code": "220322204",
+      "name": "泉眼岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/泉眼岭乡"
+    },
+    {
+      "code": "220322205",
+      "name": "胜利乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/胜利乡"
+    },
+    {
+      "code": "220322206",
+      "name": "四棵树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/四棵树乡"
+    },
+    {
+      "code": "220322207",
+      "name": "双河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/双河乡"
+    },
+    {
+      "code": "220322208",
+      "name": "金山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220322",
+      "year": 0,
+      "name_path": "吉林省/四平市/梨树县/金山乡"
+    }
+  ]
+}

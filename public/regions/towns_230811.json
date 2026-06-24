@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "230811008",
+      "name": "云环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/云环街道"
+    },
+    {
+      "code": "230811009",
+      "name": "英俊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/英俊街道"
+    },
+    {
+      "code": "230811010",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/红旗街道"
+    },
+    {
+      "code": "230811011",
+      "name": "友谊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/友谊街道"
+    },
+    {
+      "code": "230811101",
+      "name": "大来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/大来镇"
+    },
+    {
+      "code": "230811102",
+      "name": "敖其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/敖其镇"
+    },
+    {
+      "code": "230811103",
+      "name": "望江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/望江镇"
+    },
+    {
+      "code": "230811104",
+      "name": "长发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/长发镇"
+    },
+    {
+      "code": "230811105",
+      "name": "莲江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/莲江口镇"
+    },
+    {
+      "code": "230811106",
+      "name": "西格木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/西格木镇"
+    },
+    {
+      "code": "230811107",
+      "name": "沿江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/沿江镇"
+    },
+    {
+      "code": "230811108",
+      "name": "四丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/四丰镇"
+    },
+    {
+      "code": "230811200",
+      "name": "长青乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/长青乡"
+    },
+    {
+      "code": "230811208",
+      "name": "平安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/平安乡"
+    },
+    {
+      "code": "230811211",
+      "name": "群胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230811",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/郊区/群胜乡"
+    }
+  ]
+}

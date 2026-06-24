@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "653127100",
+      "name": "麦盖提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/麦盖提镇"
+    },
+    {
+      "code": "653127101",
+      "name": "巴扎结米镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/巴扎结米镇"
+    },
+    {
+      "code": "653127201",
+      "name": "希依提墩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/希依提墩乡"
+    },
+    {
+      "code": "653127202",
+      "name": "央塔克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/央塔克乡"
+    },
+    {
+      "code": "653127203",
+      "name": "吐曼塔勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/吐曼塔勒乡"
+    },
+    {
+      "code": "653127204",
+      "name": "尕孜库勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/尕孜库勒乡"
+    },
+    {
+      "code": "653127205",
+      "name": "克孜勒阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/克孜勒阿瓦提乡"
+    },
+    {
+      "code": "653127206",
+      "name": "库木库萨尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/库木库萨尔乡"
+    },
+    {
+      "code": "653127207",
+      "name": "昂格特勒克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/昂格特勒克乡"
+    },
+    {
+      "code": "653127208",
+      "name": "库尔玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653127",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/麦盖提县/库尔玛乡"
+    }
+  ]
+}

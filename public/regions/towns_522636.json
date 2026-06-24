@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "522636001",
+      "name": "金泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/金泉街道"
+    },
+    {
+      "code": "522636100",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/龙泉镇"
+    },
+    {
+      "code": "522636101",
+      "name": "兴仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/兴仁镇"
+    },
+    {
+      "code": "522636102",
+      "name": "排调镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/排调镇"
+    },
+    {
+      "code": "522636103",
+      "name": "扬武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/扬武镇"
+    },
+    {
+      "code": "522636202",
+      "name": "雅灰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/雅灰乡"
+    },
+    {
+      "code": "522636203",
+      "name": "南皋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522636",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/丹寨县/南皋乡"
+    }
+  ]
+}

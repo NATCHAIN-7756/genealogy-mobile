@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "340303001",
+      "name": "天桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/天桥街道"
+    },
+    {
+      "code": "340303002",
+      "name": "青年街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/青年街道"
+    },
+    {
+      "code": "340303003",
+      "name": "纬二路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/纬二路街道"
+    },
+    {
+      "code": "340303004",
+      "name": "黄庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/黄庄街道"
+    },
+    {
+      "code": "340303005",
+      "name": "宏业村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/宏业村街道"
+    },
+    {
+      "code": "340303006",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/胜利街道"
+    },
+    {
+      "code": "340303007",
+      "name": "龙湖新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/龙湖新村街道"
+    },
+    {
+      "code": "340303201",
+      "name": "雪华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/雪华乡"
+    },
+    {
+      "code": "340303202",
+      "name": "燕山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340303",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/蚌山区/燕山乡"
+    }
+  ]
+}

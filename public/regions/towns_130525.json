@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130525100",
+      "name": "隆尧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/隆尧镇"
+    },
+    {
+      "code": "130525101",
+      "name": "魏家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/魏家庄镇"
+    },
+    {
+      "code": "130525102",
+      "name": "尹村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/尹村镇"
+    },
+    {
+      "code": "130525103",
+      "name": "山口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/山口镇"
+    },
+    {
+      "code": "130525104",
+      "name": "莲子镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/莲子镇镇"
+    },
+    {
+      "code": "130525105",
+      "name": "固城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/固城镇"
+    },
+    {
+      "code": "130525106",
+      "name": "东良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/东良镇"
+    },
+    {
+      "code": "130525200",
+      "name": "北楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/北楼乡"
+    },
+    {
+      "code": "130525202",
+      "name": "双碑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/双碑乡"
+    },
+    {
+      "code": "130525203",
+      "name": "牛家桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/牛家桥乡"
+    },
+    {
+      "code": "130525204",
+      "name": "千户营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/千户营乡"
+    },
+    {
+      "code": "130525205",
+      "name": "大张庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130525",
+      "year": 0,
+      "name_path": "河北省/邢台市/隆尧县/大张庄乡"
+    }
+  ]
+}

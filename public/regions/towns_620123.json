@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "620123100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/城关镇"
+    },
+    {
+      "code": "620123101",
+      "name": "夏官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/夏官营镇"
+    },
+    {
+      "code": "620123102",
+      "name": "高崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/高崖镇"
+    },
+    {
+      "code": "620123103",
+      "name": "金崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/金崖镇"
+    },
+    {
+      "code": "620123104",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/和平镇"
+    },
+    {
+      "code": "620123105",
+      "name": "甘草店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/甘草店镇"
+    },
+    {
+      "code": "620123106",
+      "name": "青城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/青城镇"
+    },
+    {
+      "code": "620123107",
+      "name": "定远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/定远镇"
+    },
+    {
+      "code": "620123108",
+      "name": "连搭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/连搭镇"
+    },
+    {
+      "code": "620123109",
+      "name": "新营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/新营镇"
+    },
+    {
+      "code": "620123110",
+      "name": "贡井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/贡井镇"
+    },
+    {
+      "code": "620123200",
+      "name": "小康营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/小康营乡"
+    },
+    {
+      "code": "620123202",
+      "name": "马坡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/马坡乡"
+    },
+    {
+      "code": "620123204",
+      "name": "清水驿乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/清水驿乡"
+    },
+    {
+      "code": "620123205",
+      "name": "龙泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/龙泉乡"
+    },
+    {
+      "code": "620123206",
+      "name": "韦营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/韦营乡"
+    },
+    {
+      "code": "620123207",
+      "name": "中连川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/中连川乡"
+    },
+    {
+      "code": "620123209",
+      "name": "园子岔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/园子岔乡"
+    },
+    {
+      "code": "620123210",
+      "name": "上花岔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/上花岔乡"
+    },
+    {
+      "code": "620123211",
+      "name": "哈岘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620123",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/榆中县/哈岘乡"
+    }
+  ]
+}

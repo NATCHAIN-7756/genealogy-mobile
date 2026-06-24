@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "330502",
+      "name": "吴兴区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330500",
+      "year": 0,
+      "name_path": "全国/浙江省/湖州市/吴兴区"
+    },
+    {
+      "code": "330503",
+      "name": "南浔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330500",
+      "year": 0,
+      "name_path": "全国/浙江省/湖州市/南浔区"
+    },
+    {
+      "code": "330521",
+      "name": "德清县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330500",
+      "year": 0,
+      "name_path": "全国/浙江省/湖州市/德清县"
+    },
+    {
+      "code": "330522",
+      "name": "长兴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330500",
+      "year": 0,
+      "name_path": "全国/浙江省/湖州市/长兴县"
+    },
+    {
+      "code": "330523",
+      "name": "安吉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330500",
+      "year": 0,
+      "name_path": "全国/浙江省/湖州市/安吉县"
+    }
+  ]
+}

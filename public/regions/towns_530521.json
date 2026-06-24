@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "530521100",
+      "name": "甸阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/甸阳镇"
+    },
+    {
+      "code": "530521101",
+      "name": "由旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/由旺镇"
+    },
+    {
+      "code": "530521102",
+      "name": "姚关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/姚关镇"
+    },
+    {
+      "code": "530521103",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/太平镇"
+    },
+    {
+      "code": "530521104",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/仁和镇"
+    },
+    {
+      "code": "530521202",
+      "name": "万兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/万兴乡"
+    },
+    {
+      "code": "530521203",
+      "name": "摆榔彝族布朗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/摆榔彝族布朗族乡"
+    },
+    {
+      "code": "530521204",
+      "name": "酒房乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/酒房乡"
+    },
+    {
+      "code": "530521205",
+      "name": "旧城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/旧城乡"
+    },
+    {
+      "code": "530521206",
+      "name": "木老元布朗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/木老元布朗族彝族乡"
+    },
+    {
+      "code": "530521207",
+      "name": "老麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/老麦乡"
+    },
+    {
+      "code": "530521208",
+      "name": "何元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/何元乡"
+    },
+    {
+      "code": "530521209",
+      "name": "水长乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530521",
+      "year": 0,
+      "name_path": "云南省/保山市/施甸县/水长乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "441523100",
+      "name": "河田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/河田镇"
+    },
+    {
+      "code": "441523101",
+      "name": "水唇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/水唇镇"
+    },
+    {
+      "code": "441523102",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/河口镇"
+    },
+    {
+      "code": "441523103",
+      "name": "新田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/新田镇"
+    },
+    {
+      "code": "441523104",
+      "name": "上护镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/上护镇"
+    },
+    {
+      "code": "441523105",
+      "name": "螺溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/螺溪镇"
+    },
+    {
+      "code": "441523106",
+      "name": "东坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/东坑镇"
+    },
+    {
+      "code": "441523107",
+      "name": "南万镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441523",
+      "year": 0,
+      "name_path": "广东省/汕尾市/陆河县/南万镇"
+    }
+  ]
+}

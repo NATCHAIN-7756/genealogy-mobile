@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "530128001",
+      "name": "屏山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/屏山街道"
+    },
+    {
+      "code": "530128002",
+      "name": "崇德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/崇德街道"
+    },
+    {
+      "code": "530128101",
+      "name": "撒营盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/撒营盘镇"
+    },
+    {
+      "code": "530128103",
+      "name": "茂山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/茂山镇"
+    },
+    {
+      "code": "530128104",
+      "name": "翠华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/翠华镇"
+    },
+    {
+      "code": "530128105",
+      "name": "团街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/团街镇"
+    },
+    {
+      "code": "530128106",
+      "name": "中屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/中屏镇"
+    },
+    {
+      "code": "530128107",
+      "name": "皎平渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/皎平渡镇"
+    },
+    {
+      "code": "530128108",
+      "name": "乌东德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/乌东德镇"
+    },
+    {
+      "code": "530128109",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/九龙镇"
+    },
+    {
+      "code": "530128110",
+      "name": "转龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/转龙镇"
+    },
+    {
+      "code": "530128204",
+      "name": "云龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/云龙乡"
+    },
+    {
+      "code": "530128208",
+      "name": "汤郎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/汤郎乡"
+    },
+    {
+      "code": "530128209",
+      "name": "马鹿塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/马鹿塘乡"
+    },
+    {
+      "code": "530128212",
+      "name": "则黑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/则黑乡"
+    },
+    {
+      "code": "530128213",
+      "name": "乌蒙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/乌蒙乡"
+    },
+    {
+      "code": "530128214",
+      "name": "雪山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530128",
+      "year": 0,
+      "name_path": "云南省/昆明市/禄劝彝族苗族自治县/雪山乡"
+    }
+  ]
+}

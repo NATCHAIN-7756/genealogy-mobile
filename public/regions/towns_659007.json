@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "659007001",
+      "name": "明珠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659007",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/双河市/明珠街道"
+    },
+    {
+      "code": "659007100",
+      "name": "双桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659007",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/双河市/双桥镇"
+    },
+    {
+      "code": "659007101",
+      "name": "石峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659007",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/双河市/石峪镇"
+    },
+    {
+      "code": "659007102",
+      "name": "博河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659007",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/双河市/博河镇"
+    },
+    {
+      "code": "659007103",
+      "name": "双乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659007",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/双河市/双乐镇"
+    },
+    {
+      "code": "659007104",
+      "name": "友谊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659007",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/双河市/友谊镇"
+    }
+  ]
+}

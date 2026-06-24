@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "152501",
+      "name": "二连浩特市",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/二连浩特市"
+    },
+    {
+      "code": "152502",
+      "name": "锡林浩特市",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/锡林浩特市"
+    },
+    {
+      "code": "152522",
+      "name": "阿巴嘎旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/阿巴嘎旗"
+    },
+    {
+      "code": "152523",
+      "name": "苏尼特左旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/苏尼特左旗"
+    },
+    {
+      "code": "152524",
+      "name": "苏尼特右旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/苏尼特右旗"
+    },
+    {
+      "code": "152525",
+      "name": "东乌珠穆沁旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/东乌珠穆沁旗"
+    },
+    {
+      "code": "152526",
+      "name": "西乌珠穆沁旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/西乌珠穆沁旗"
+    },
+    {
+      "code": "152527",
+      "name": "太仆寺旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/太仆寺旗"
+    },
+    {
+      "code": "152528",
+      "name": "镶黄旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/镶黄旗"
+    },
+    {
+      "code": "152529",
+      "name": "正镶白旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/正镶白旗"
+    },
+    {
+      "code": "152530",
+      "name": "正蓝旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/正蓝旗"
+    },
+    {
+      "code": "152531",
+      "name": "多伦县",
+      "level": 3,
+      "type": null,
+      "parent_code": "152500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/锡林郭勒盟/多伦县"
+    }
+  ]
+}

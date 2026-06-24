@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "330328101",
+      "name": "百丈漈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/百丈漈镇"
+    },
+    {
+      "code": "330328102",
+      "name": "二源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/二源镇"
+    },
+    {
+      "code": "330328106",
+      "name": "巨屿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/巨屿镇"
+    },
+    {
+      "code": "330328108",
+      "name": "大峃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/大峃镇"
+    },
+    {
+      "code": "330328109",
+      "name": "珊溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/珊溪镇"
+    },
+    {
+      "code": "330328110",
+      "name": "玉壶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/玉壶镇"
+    },
+    {
+      "code": "330328111",
+      "name": "南田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/南田镇"
+    },
+    {
+      "code": "330328112",
+      "name": "黄坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/黄坦镇"
+    },
+    {
+      "code": "330328113",
+      "name": "西坑畲族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/西坑畲族镇"
+    },
+    {
+      "code": "330328114",
+      "name": "峃口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/峃口镇"
+    },
+    {
+      "code": "330328115",
+      "name": "周壤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/周壤镇"
+    },
+    {
+      "code": "330328116",
+      "name": "铜铃山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/铜铃山镇"
+    },
+    {
+      "code": "330328210",
+      "name": "桂山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/桂山乡"
+    },
+    {
+      "code": "330328211",
+      "name": "双桂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/双桂乡"
+    },
+    {
+      "code": "330328212",
+      "name": "平和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/平和乡"
+    },
+    {
+      "code": "330328213",
+      "name": "公阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/公阳乡"
+    },
+    {
+      "code": "330328217",
+      "name": "周山畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330328",
+      "year": 0,
+      "name_path": "浙江省/温州市/文成县/周山畲族乡"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "530423001",
+      "name": "秀山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/秀山街道"
+    },
+    {
+      "code": "530423002",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/九龙街道"
+    },
+    {
+      "code": "530423101",
+      "name": "杨广镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/杨广镇"
+    },
+    {
+      "code": "530423103",
+      "name": "河西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/河西镇"
+    },
+    {
+      "code": "530423104",
+      "name": "四街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/四街镇"
+    },
+    {
+      "code": "530423105",
+      "name": "纳古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/纳古镇"
+    },
+    {
+      "code": "530423200",
+      "name": "里山彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/里山彝族乡"
+    },
+    {
+      "code": "530423201",
+      "name": "高大傣族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/高大傣族彝族乡"
+    },
+    {
+      "code": "530423202",
+      "name": "兴蒙蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530423",
+      "year": 0,
+      "name_path": "云南省/玉溪市/通海县/兴蒙蒙古族乡"
+    }
+  ]
+}

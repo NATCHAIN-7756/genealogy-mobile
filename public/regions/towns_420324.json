@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "420324100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/城关镇"
+    },
+    {
+      "code": "420324101",
+      "name": "蒋家堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/蒋家堰镇"
+    },
+    {
+      "code": "420324102",
+      "name": "中峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/中峰镇"
+    },
+    {
+      "code": "420324103",
+      "name": "水坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/水坪镇"
+    },
+    {
+      "code": "420324104",
+      "name": "县河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/县河镇"
+    },
+    {
+      "code": "420324105",
+      "name": "泉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/泉溪镇"
+    },
+    {
+      "code": "420324106",
+      "name": "丰溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/丰溪镇"
+    },
+    {
+      "code": "420324107",
+      "name": "龙坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/龙坝镇"
+    },
+    {
+      "code": "420324108",
+      "name": "兵营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/兵营镇"
+    },
+    {
+      "code": "420324109",
+      "name": "汇湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/汇湾镇"
+    },
+    {
+      "code": "420324110",
+      "name": "新洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/新洲镇"
+    },
+    {
+      "code": "420324201",
+      "name": "鄂坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/鄂坪乡"
+    },
+    {
+      "code": "420324203",
+      "name": "天宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/天宝乡"
+    },
+    {
+      "code": "420324206",
+      "name": "桃源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/桃源乡"
+    },
+    {
+      "code": "420324207",
+      "name": "向坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420324",
+      "year": 0,
+      "name_path": "湖北省/十堰市/竹溪县/向坝乡"
+    }
+  ]
+}

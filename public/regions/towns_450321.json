@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450321100",
+      "name": "阳朔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/阳朔镇"
+    },
+    {
+      "code": "450321101",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/白沙镇"
+    },
+    {
+      "code": "450321102",
+      "name": "福利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/福利镇"
+    },
+    {
+      "code": "450321103",
+      "name": "兴坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/兴坪镇"
+    },
+    {
+      "code": "450321104",
+      "name": "葡萄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/葡萄镇"
+    },
+    {
+      "code": "450321105",
+      "name": "高田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/高田镇"
+    },
+    {
+      "code": "450321200",
+      "name": "金宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/金宝乡"
+    },
+    {
+      "code": "450321201",
+      "name": "普益乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/普益乡"
+    },
+    {
+      "code": "450321202",
+      "name": "杨堤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450321",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/阳朔县/杨堤乡"
+    }
+  ]
+}

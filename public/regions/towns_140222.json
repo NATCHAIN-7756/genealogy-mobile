@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140222100",
+      "name": "玉泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/玉泉镇"
+    },
+    {
+      "code": "140222101",
+      "name": "谷前堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/谷前堡镇"
+    },
+    {
+      "code": "140222102",
+      "name": "米薪关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/米薪关镇"
+    },
+    {
+      "code": "140222103",
+      "name": "逯家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/逯家湾镇"
+    },
+    {
+      "code": "140222104",
+      "name": "新平堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/新平堡镇"
+    },
+    {
+      "code": "140222200",
+      "name": "三十里铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/三十里铺乡"
+    },
+    {
+      "code": "140222204",
+      "name": "贾家屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/贾家屯乡"
+    },
+    {
+      "code": "140222206",
+      "name": "赵家沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/赵家沟乡"
+    },
+    {
+      "code": "140222208",
+      "name": "南高崖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/南高崖乡"
+    },
+    {
+      "code": "140222209",
+      "name": "张西河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/张西河乡"
+    },
+    {
+      "code": "140222210",
+      "name": "马家皂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140222",
+      "year": 0,
+      "name_path": "山西省/大同市/天镇县/马家皂乡"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "320682001",
+      "name": "如城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/如城街道"
+    },
+    {
+      "code": "320682002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/城北街道"
+    },
+    {
+      "code": "320682003",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/城南街道"
+    },
+    {
+      "code": "320682103",
+      "name": "东陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/东陈镇"
+    },
+    {
+      "code": "320682104",
+      "name": "丁堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/丁堰镇"
+    },
+    {
+      "code": "320682105",
+      "name": "白蒲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/白蒲镇"
+    },
+    {
+      "code": "320682107",
+      "name": "下原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/下原镇"
+    },
+    {
+      "code": "320682108",
+      "name": "九华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/九华镇"
+    },
+    {
+      "code": "320682110",
+      "name": "石庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/石庄镇"
+    },
+    {
+      "code": "320682111",
+      "name": "长江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/长江镇"
+    },
+    {
+      "code": "320682112",
+      "name": "吴窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/吴窑镇"
+    },
+    {
+      "code": "320682113",
+      "name": "江安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/江安镇"
+    },
+    {
+      "code": "320682116",
+      "name": "搬经镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/搬经镇"
+    },
+    {
+      "code": "320682117",
+      "name": "磨头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320682",
+      "year": 0,
+      "name_path": "江苏省/南通市/如皋市/磨头镇"
+    }
+  ]
+}

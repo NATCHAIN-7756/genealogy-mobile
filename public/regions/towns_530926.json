@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "530926100",
+      "name": "耿马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/耿马镇"
+    },
+    {
+      "code": "530926101",
+      "name": "勐永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/勐永镇"
+    },
+    {
+      "code": "530926102",
+      "name": "勐撒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/勐撒镇"
+    },
+    {
+      "code": "530926103",
+      "name": "孟定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/孟定镇"
+    },
+    {
+      "code": "530926200",
+      "name": "大兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/大兴乡"
+    },
+    {
+      "code": "530926201",
+      "name": "芒洪拉祜族布朗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/芒洪拉祜族布朗族乡"
+    },
+    {
+      "code": "530926202",
+      "name": "四排山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/四排山乡"
+    },
+    {
+      "code": "530926203",
+      "name": "贺派乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/贺派乡"
+    },
+    {
+      "code": "530926204",
+      "name": "勐简乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530926",
+      "year": 0,
+      "name_path": "云南省/临沧市/耿马傣族佤族自治县/勐简乡"
+    }
+  ]
+}

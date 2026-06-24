@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "code": "411481001",
+      "name": "演集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/演集街道"
+    },
+    {
+      "code": "411481002",
+      "name": "崇法寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/崇法寺街道"
+    },
+    {
+      "code": "411481003",
+      "name": "侯岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/侯岭街道"
+    },
+    {
+      "code": "411481004",
+      "name": "沱滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/沱滨街道"
+    },
+    {
+      "code": "411481005",
+      "name": "日月湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/日月湖街道"
+    },
+    {
+      "code": "411481006",
+      "name": "雪枫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/雪枫街道"
+    },
+    {
+      "code": "411481102",
+      "name": "芒山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/芒山镇"
+    },
+    {
+      "code": "411481103",
+      "name": "高庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/高庄镇"
+    },
+    {
+      "code": "411481104",
+      "name": "酂城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/酂城镇"
+    },
+    {
+      "code": "411481105",
+      "name": "裴桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/裴桥镇"
+    },
+    {
+      "code": "411481106",
+      "name": "马桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/马桥镇"
+    },
+    {
+      "code": "411481107",
+      "name": "薛湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/薛湖镇"
+    },
+    {
+      "code": "411481111",
+      "name": "太丘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/太丘镇"
+    },
+    {
+      "code": "411481112",
+      "name": "十八里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/十八里镇"
+    },
+    {
+      "code": "411481113",
+      "name": "陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/陈集镇"
+    },
+    {
+      "code": "411481114",
+      "name": "蒋口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/蒋口镇"
+    },
+    {
+      "code": "411481115",
+      "name": "苗桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/苗桥镇"
+    },
+    {
+      "code": "411481116",
+      "name": "茴村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/茴村镇"
+    },
+    {
+      "code": "411481117",
+      "name": "顺和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/顺和镇"
+    },
+    {
+      "code": "411481118",
+      "name": "李寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/李寨镇"
+    },
+    {
+      "code": "411481119",
+      "name": "龙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/龙岗镇"
+    },
+    {
+      "code": "411481120",
+      "name": "酂阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/酂阳镇"
+    },
+    {
+      "code": "411481121",
+      "name": "马牧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/马牧镇"
+    },
+    {
+      "code": "411481122",
+      "name": "大王集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/大王集镇"
+    },
+    {
+      "code": "411481123",
+      "name": "刘河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/刘河镇"
+    },
+    {
+      "code": "411481124",
+      "name": "双桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/双桥镇"
+    },
+    {
+      "code": "411481125",
+      "name": "卧龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/卧龙镇"
+    },
+    {
+      "code": "411481126",
+      "name": "黄口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/黄口镇"
+    },
+    {
+      "code": "411481127",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/新桥镇"
+    },
+    {
+      "code": "411481128",
+      "name": "条河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/条河镇"
+    },
+    {
+      "code": "411481129",
+      "name": "陈官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411481",
+      "year": 0,
+      "name_path": "河南省/商丘市/永城市/陈官庄镇"
+    }
+  ]
+}

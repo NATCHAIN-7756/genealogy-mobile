@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "440608001",
+      "name": "荷城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440608",
+      "year": 0,
+      "name_path": "广东省/佛山市/高明区/荷城街道"
+    },
+    {
+      "code": "440608103",
+      "name": "明城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440608",
+      "year": 0,
+      "name_path": "广东省/佛山市/高明区/明城镇"
+    },
+    {
+      "code": "440608107",
+      "name": "杨和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440608",
+      "year": 0,
+      "name_path": "广东省/佛山市/高明区/杨和镇"
+    },
+    {
+      "code": "440608108",
+      "name": "更合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440608",
+      "year": 0,
+      "name_path": "广东省/佛山市/高明区/更合镇"
+    }
+  ]
+}

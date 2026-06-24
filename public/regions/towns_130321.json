@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "130321001",
+      "name": "都阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/都阳路街道"
+    },
+    {
+      "code": "130321100",
+      "name": "青龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/青龙镇"
+    },
+    {
+      "code": "130321101",
+      "name": "祖山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/祖山镇"
+    },
+    {
+      "code": "130321102",
+      "name": "木头凳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/木头凳镇"
+    },
+    {
+      "code": "130321103",
+      "name": "双山子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/双山子镇"
+    },
+    {
+      "code": "130321104",
+      "name": "马圈子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/马圈子镇"
+    },
+    {
+      "code": "130321105",
+      "name": "肖营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/肖营子镇"
+    },
+    {
+      "code": "130321106",
+      "name": "大巫岚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/大巫岚镇"
+    },
+    {
+      "code": "130321107",
+      "name": "土门子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/土门子镇"
+    },
+    {
+      "code": "130321108",
+      "name": "八道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/八道河镇"
+    },
+    {
+      "code": "130321109",
+      "name": "隔河头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/隔河头镇"
+    },
+    {
+      "code": "130321110",
+      "name": "娄杖子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/娄杖子镇"
+    },
+    {
+      "code": "130321111",
+      "name": "龙王庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/龙王庙镇"
+    },
+    {
+      "code": "130321112",
+      "name": "茨榆山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/茨榆山镇"
+    },
+    {
+      "code": "130321113",
+      "name": "凉水河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/凉水河镇"
+    },
+    {
+      "code": "130321200",
+      "name": "凤凰山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/凤凰山乡"
+    },
+    {
+      "code": "130321202",
+      "name": "三星口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/三星口乡"
+    },
+    {
+      "code": "130321203",
+      "name": "干沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/干沟乡"
+    },
+    {
+      "code": "130321206",
+      "name": "大石岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/大石岭乡"
+    },
+    {
+      "code": "130321208",
+      "name": "官场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/官场乡"
+    },
+    {
+      "code": "130321210",
+      "name": "平方子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/平方子乡"
+    },
+    {
+      "code": "130321211",
+      "name": "安子岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/安子岭乡"
+    },
+    {
+      "code": "130321212",
+      "name": "朱杖子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/朱杖子乡"
+    },
+    {
+      "code": "130321213",
+      "name": "草碾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/草碾乡"
+    },
+    {
+      "code": "130321217",
+      "name": "三拨子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130321",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/青龙满族自治县/三拨子乡"
+    }
+  ]
+}

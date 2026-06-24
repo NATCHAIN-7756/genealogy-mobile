@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "360423001",
+      "name": "豫宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/豫宁街道"
+    },
+    {
+      "code": "360423100",
+      "name": "新宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/新宁镇"
+    },
+    {
+      "code": "360423101",
+      "name": "罗坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/罗坪镇"
+    },
+    {
+      "code": "360423102",
+      "name": "泉口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/泉口镇"
+    },
+    {
+      "code": "360423103",
+      "name": "鲁溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/鲁溪镇"
+    },
+    {
+      "code": "360423104",
+      "name": "澧溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/澧溪镇"
+    },
+    {
+      "code": "360423105",
+      "name": "船滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/船滩镇"
+    },
+    {
+      "code": "360423106",
+      "name": "石门楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/石门楼镇"
+    },
+    {
+      "code": "360423108",
+      "name": "宋溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/宋溪镇"
+    },
+    {
+      "code": "360423200",
+      "name": "大洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/大洞乡"
+    },
+    {
+      "code": "360423201",
+      "name": "横路乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/横路乡"
+    },
+    {
+      "code": "360423202",
+      "name": "官莲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/官莲乡"
+    },
+    {
+      "code": "360423203",
+      "name": "巾口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/巾口乡"
+    },
+    {
+      "code": "360423206",
+      "name": "甫田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/甫田乡"
+    },
+    {
+      "code": "360423207",
+      "name": "石渡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/石渡乡"
+    },
+    {
+      "code": "360423208",
+      "name": "清江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/清江乡"
+    },
+    {
+      "code": "360423209",
+      "name": "上汤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/上汤乡"
+    },
+    {
+      "code": "360423211",
+      "name": "东林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/东林乡"
+    },
+    {
+      "code": "360423212",
+      "name": "罗溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/罗溪乡"
+    },
+    {
+      "code": "360423214",
+      "name": "杨洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360423",
+      "year": 0,
+      "name_path": "江西省/九江市/武宁县/杨洲乡"
+    }
+  ]
+}

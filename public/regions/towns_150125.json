@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150125100",
+      "name": "可可以力更镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/可可以力更镇"
+    },
+    {
+      "code": "150125101",
+      "name": "哈乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/哈乐镇"
+    },
+    {
+      "code": "150125102",
+      "name": "西乌兰不浪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/西乌兰不浪镇"
+    },
+    {
+      "code": "150125200",
+      "name": "大青山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/大青山乡"
+    },
+    {
+      "code": "150125204",
+      "name": "得胜沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/得胜沟乡"
+    },
+    {
+      "code": "150125205",
+      "name": "上秃亥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/上秃亥乡"
+    },
+    {
+      "code": "150125213",
+      "name": "哈拉合少乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/哈拉合少乡"
+    },
+    {
+      "code": "150125214",
+      "name": "二份子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/二份子乡"
+    },
+    {
+      "code": "150125215",
+      "name": "耗赖山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150125",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/武川县/耗赖山乡"
+    }
+  ]
+}

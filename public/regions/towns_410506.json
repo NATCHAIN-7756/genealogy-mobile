@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "410506001",
+      "name": "文昌大道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/文昌大道街道"
+    },
+    {
+      "code": "410506002",
+      "name": "田村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/田村街道"
+    },
+    {
+      "code": "410506003",
+      "name": "彰武街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/彰武街道"
+    },
+    {
+      "code": "410506004",
+      "name": "文明大道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/文明大道街道"
+    },
+    {
+      "code": "410506005",
+      "name": "太行小区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/太行小区街道"
+    },
+    {
+      "code": "410506006",
+      "name": "中州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/中州路街道"
+    },
+    {
+      "code": "410506100",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/龙泉镇"
+    },
+    {
+      "code": "410506101",
+      "name": "马投涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/马投涧镇"
+    },
+    {
+      "code": "410506102",
+      "name": "善应镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/善应镇"
+    },
+    {
+      "code": "410506203",
+      "name": "东风乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/东风乡"
+    },
+    {
+      "code": "410506204",
+      "name": "马家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410506",
+      "year": 0,
+      "name_path": "河南省/安阳市/龙安区/马家乡"
+    }
+  ]
+}

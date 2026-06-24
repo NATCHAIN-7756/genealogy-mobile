@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "610404001",
+      "name": "中山街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/中山街街道"
+    },
+    {
+      "code": "610404002",
+      "name": "文汇路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/文汇路街道"
+    },
+    {
+      "code": "610404003",
+      "name": "新兴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/新兴路街道"
+    },
+    {
+      "code": "610404004",
+      "name": "渭阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/渭阳街道"
+    },
+    {
+      "code": "610404005",
+      "name": "渭城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/渭城街道"
+    },
+    {
+      "code": "610404006",
+      "name": "窑店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/窑店街道"
+    },
+    {
+      "code": "610404007",
+      "name": "正阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/正阳街道"
+    },
+    {
+      "code": "610404008",
+      "name": "周陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/周陵街道"
+    },
+    {
+      "code": "610404009",
+      "name": "底张街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/底张街道"
+    },
+    {
+      "code": "610404010",
+      "name": "北杜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610404",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/渭城区/北杜街道"
+    }
+  ]
+}

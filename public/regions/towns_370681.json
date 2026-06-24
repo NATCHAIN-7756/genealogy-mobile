@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "370681001",
+      "name": "东莱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/东莱街道"
+    },
+    {
+      "code": "370681002",
+      "name": "龙港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/龙港街道"
+    },
+    {
+      "code": "370681003",
+      "name": "新嘉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/新嘉街道"
+    },
+    {
+      "code": "370681004",
+      "name": "徐福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/徐福街道"
+    },
+    {
+      "code": "370681005",
+      "name": "东江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/东江街道"
+    },
+    {
+      "code": "370681102",
+      "name": "黄山馆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/黄山馆镇"
+    },
+    {
+      "code": "370681103",
+      "name": "北马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/北马镇"
+    },
+    {
+      "code": "370681104",
+      "name": "芦头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/芦头镇"
+    },
+    {
+      "code": "370681106",
+      "name": "下丁家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/下丁家镇"
+    },
+    {
+      "code": "370681107",
+      "name": "七甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/七甲镇"
+    },
+    {
+      "code": "370681108",
+      "name": "石良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/石良镇"
+    },
+    {
+      "code": "370681109",
+      "name": "兰高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/兰高镇"
+    },
+    {
+      "code": "370681110",
+      "name": "诸由观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370681",
+      "year": 0,
+      "name_path": "山东省/烟台市/龙口市/诸由观镇"
+    }
+  ]
+}

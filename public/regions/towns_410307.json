@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "410307004",
+      "name": "首阳山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/首阳山街道"
+    },
+    {
+      "code": "410307005",
+      "name": "商城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/商城街道"
+    },
+    {
+      "code": "410307006",
+      "name": "槐新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/槐新街道"
+    },
+    {
+      "code": "410307007",
+      "name": "伊洛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/伊洛街道"
+    },
+    {
+      "code": "410307103",
+      "name": "翟镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/翟镇镇"
+    },
+    {
+      "code": "410307104",
+      "name": "岳滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/岳滩镇"
+    },
+    {
+      "code": "410307105",
+      "name": "顾县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/顾县镇"
+    },
+    {
+      "code": "410307106",
+      "name": "缑氏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/缑氏镇"
+    },
+    {
+      "code": "410307107",
+      "name": "府店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/府店镇"
+    },
+    {
+      "code": "410307108",
+      "name": "高龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/高龙镇"
+    },
+    {
+      "code": "410307109",
+      "name": "山化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/山化镇"
+    },
+    {
+      "code": "410307110",
+      "name": "大口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/大口镇"
+    },
+    {
+      "code": "410307111",
+      "name": "邙岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410307",
+      "year": 0,
+      "name_path": "河南省/洛阳市/偃师区/邙岭镇"
+    }
+  ]
+}

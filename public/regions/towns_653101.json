@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "653101001",
+      "name": "恰萨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/恰萨街道"
+    },
+    {
+      "code": "653101002",
+      "name": "亚瓦格街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/亚瓦格街道"
+    },
+    {
+      "code": "653101003",
+      "name": "吾斯塘博依街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/吾斯塘博依街道"
+    },
+    {
+      "code": "653101005",
+      "name": "库木代尔瓦扎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/库木代尔瓦扎街道"
+    },
+    {
+      "code": "653101006",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/东湖街道"
+    },
+    {
+      "code": "653101007",
+      "name": "西域大道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/西域大道街道"
+    },
+    {
+      "code": "653101008",
+      "name": "西公园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/西公园街道"
+    },
+    {
+      "code": "653101009",
+      "name": "迎宾大道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/迎宾大道街道"
+    },
+    {
+      "code": "653101010",
+      "name": "和谐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/和谐街道"
+    },
+    {
+      "code": "653101011",
+      "name": "学府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/学府街道"
+    },
+    {
+      "code": "653101100",
+      "name": "夏马勒巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/夏马勒巴格镇"
+    },
+    {
+      "code": "653101101",
+      "name": "乃则尔巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/乃则尔巴格镇"
+    },
+    {
+      "code": "653101102",
+      "name": "兰干镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/兰干镇"
+    },
+    {
+      "code": "653101202",
+      "name": "多来特巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/多来特巴格乡"
+    },
+    {
+      "code": "653101203",
+      "name": "浩罕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/浩罕乡"
+    },
+    {
+      "code": "653101204",
+      "name": "色满乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/色满乡"
+    },
+    {
+      "code": "653101205",
+      "name": "荒地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/荒地乡"
+    },
+    {
+      "code": "653101206",
+      "name": "帕哈太克里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/帕哈太克里乡"
+    },
+    {
+      "code": "653101207",
+      "name": "伯什克然木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/伯什克然木乡"
+    },
+    {
+      "code": "653101208",
+      "name": "阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/阿瓦提乡"
+    },
+    {
+      "code": "653101209",
+      "name": "英吾斯坦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/英吾斯坦乡"
+    },
+    {
+      "code": "653101210",
+      "name": "阿克喀什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/阿克喀什乡"
+    },
+    {
+      "code": "653101211",
+      "name": "红河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/红河乡"
+    },
+    {
+      "code": "653101212",
+      "name": "太平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/太平乡"
+    },
+    {
+      "code": "653101213",
+      "name": "广济乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653101",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/喀什市/广济乡"
+    }
+  ]
+}

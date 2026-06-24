@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130130100",
+      "name": "无极镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/无极镇"
+    },
+    {
+      "code": "130130101",
+      "name": "七汲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/七汲镇"
+    },
+    {
+      "code": "130130102",
+      "name": "张段固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/张段固镇"
+    },
+    {
+      "code": "130130103",
+      "name": "北苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/北苏镇"
+    },
+    {
+      "code": "130130104",
+      "name": "郭庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/郭庄镇"
+    },
+    {
+      "code": "130130105",
+      "name": "大陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/大陈镇"
+    },
+    {
+      "code": "130130106",
+      "name": "里城道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/里城道镇"
+    },
+    {
+      "code": "130130107",
+      "name": "东侯坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/东侯坊镇"
+    },
+    {
+      "code": "130130200",
+      "name": "高头回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/高头回族乡"
+    },
+    {
+      "code": "130130201",
+      "name": "郝庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/郝庄乡"
+    },
+    {
+      "code": "130130204",
+      "name": "南流乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130130",
+      "year": 0,
+      "name_path": "河北省/石家庄市/无极县/南流乡"
+    }
+  ]
+}

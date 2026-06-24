@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "230111001",
+      "name": "呼兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/呼兰街道"
+    },
+    {
+      "code": "230111002",
+      "name": "兰河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/兰河街道"
+    },
+    {
+      "code": "230111003",
+      "name": "腰堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/腰堡街道"
+    },
+    {
+      "code": "230111004",
+      "name": "利民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/利民街道"
+    },
+    {
+      "code": "230111005",
+      "name": "康金街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/康金街道"
+    },
+    {
+      "code": "230111006",
+      "name": "双井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/双井街道"
+    },
+    {
+      "code": "230111007",
+      "name": "建设路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/建设路街道"
+    },
+    {
+      "code": "230111008",
+      "name": "学院路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/学院路街道"
+    },
+    {
+      "code": "230111009",
+      "name": "长岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/长岭街道"
+    },
+    {
+      "code": "230111010",
+      "name": "沈家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/沈家街道"
+    },
+    {
+      "code": "230111011",
+      "name": "南京路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/南京路街道"
+    },
+    {
+      "code": "230111012",
+      "name": "裕民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/裕民街道"
+    },
+    {
+      "code": "230111013",
+      "name": "裕田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/裕田街道"
+    },
+    {
+      "code": "230111014",
+      "name": "裕强街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/裕强街道"
+    },
+    {
+      "code": "230111015",
+      "name": "萧乡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/萧乡街道"
+    },
+    {
+      "code": "230111016",
+      "name": "公园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/公园路街道"
+    },
+    {
+      "code": "230111017",
+      "name": "利业街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/利业街道"
+    },
+    {
+      "code": "230111105",
+      "name": "二八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/二八镇"
+    },
+    {
+      "code": "230111106",
+      "name": "石人镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/石人镇"
+    },
+    {
+      "code": "230111107",
+      "name": "白奎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/白奎镇"
+    },
+    {
+      "code": "230111109",
+      "name": "方台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/方台镇"
+    },
+    {
+      "code": "230111110",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/莲花镇"
+    },
+    {
+      "code": "230111111",
+      "name": "大用镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/大用镇"
+    },
+    {
+      "code": "230111201",
+      "name": "杨林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/杨林乡"
+    },
+    {
+      "code": "230111203",
+      "name": "许堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/许堡乡"
+    },
+    {
+      "code": "230111205",
+      "name": "孟家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230111",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/呼兰区/孟家乡"
+    }
+  ]
+}

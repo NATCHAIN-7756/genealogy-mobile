@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "450406100",
+      "name": "龙圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450406",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/龙圩区/龙圩镇"
+    },
+    {
+      "code": "450406101",
+      "name": "新地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450406",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/龙圩区/新地镇"
+    },
+    {
+      "code": "450406102",
+      "name": "广平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450406",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/龙圩区/广平镇"
+    },
+    {
+      "code": "450406103",
+      "name": "大坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450406",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/龙圩区/大坡镇"
+    }
+  ]
+}

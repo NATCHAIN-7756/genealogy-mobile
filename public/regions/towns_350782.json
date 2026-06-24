@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "350782001",
+      "name": "崇安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/崇安街道"
+    },
+    {
+      "code": "350782002",
+      "name": "新丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/新丰街道"
+    },
+    {
+      "code": "350782003",
+      "name": "武夷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/武夷街道"
+    },
+    {
+      "code": "350782101",
+      "name": "星村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/星村镇"
+    },
+    {
+      "code": "350782102",
+      "name": "兴田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/兴田镇"
+    },
+    {
+      "code": "350782103",
+      "name": "五夫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/五夫镇"
+    },
+    {
+      "code": "350782201",
+      "name": "上梅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/上梅乡"
+    },
+    {
+      "code": "350782202",
+      "name": "吴屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/吴屯乡"
+    },
+    {
+      "code": "350782203",
+      "name": "岚谷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/岚谷乡"
+    },
+    {
+      "code": "350782204",
+      "name": "洋庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350782",
+      "year": 0,
+      "name_path": "福建省/南平市/武夷山市/洋庄乡"
+    }
+  ]
+}

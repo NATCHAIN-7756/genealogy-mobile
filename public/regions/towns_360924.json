@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "360924100",
+      "name": "新昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/新昌镇"
+    },
+    {
+      "code": "360924101",
+      "name": "潭山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/潭山镇"
+    },
+    {
+      "code": "360924102",
+      "name": "棠浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/棠浦镇"
+    },
+    {
+      "code": "360924103",
+      "name": "新庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/新庄镇"
+    },
+    {
+      "code": "360924104",
+      "name": "芳溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/芳溪镇"
+    },
+    {
+      "code": "360924105",
+      "name": "石市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/石市镇"
+    },
+    {
+      "code": "360924106",
+      "name": "澄塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/澄塘镇"
+    },
+    {
+      "code": "360924107",
+      "name": "黄岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/黄岗镇"
+    },
+    {
+      "code": "360924108",
+      "name": "黄垦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/黄垦镇"
+    },
+    {
+      "code": "360924202",
+      "name": "花桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/花桥乡"
+    },
+    {
+      "code": "360924203",
+      "name": "同安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/同安乡"
+    },
+    {
+      "code": "360924204",
+      "name": "天宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/天宝乡"
+    },
+    {
+      "code": "360924208",
+      "name": "桥西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360924",
+      "year": 0,
+      "name_path": "江西省/宜春市/宜丰县/桥西乡"
+    }
+  ]
+}

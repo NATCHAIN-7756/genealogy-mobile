@@ -148,12 +148,7 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -162,6 +157,7 @@ import { ref, computed, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
 import { memberApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -280,14 +276,7 @@ async function loadMembers() {
     ]
   } catch (e) {
     showToast('加载失败')
-    // 模拟数据
-    members.value = [
-      { id: 1, name: '张三', gender: '男', generation: 15, birth_date: '1981-03-15', birth_place: '北京', branch: '长房', is_deceased: false },
-      { id: 2, name: '李四', gender: '女', generation: 15, birth_date: '1983-06-20', birth_place: '上海', branch: '二房', is_deceased: false },
-      { id: 3, name: '张大牛', gender: '男', generation: 14, birth_date: '1950-01-10', birth_place: '山东', branch: '长房', is_deceased: true },
-      { id: 4, name: '王五', gender: '男', generation: 15, birth_date: '1985-08-10', birth_place: '深圳', branch: '三房', is_deceased: false }
-    ]
-    allMembers.value = members.value
+    allMembers.value = []
     finished.value = true
     
     generationOptions.value = [

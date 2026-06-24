@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "420116001",
+      "name": "前川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/前川街道"
+    },
+    {
+      "code": "420116002",
+      "name": "祁家湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/祁家湾街道"
+    },
+    {
+      "code": "420116003",
+      "name": "横店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/横店街道"
+    },
+    {
+      "code": "420116004",
+      "name": "罗汉寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/罗汉寺街道"
+    },
+    {
+      "code": "420116005",
+      "name": "滠口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/滠口街道"
+    },
+    {
+      "code": "420116006",
+      "name": "六指街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/六指街道"
+    },
+    {
+      "code": "420116007",
+      "name": "天河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/天河街道"
+    },
+    {
+      "code": "420116008",
+      "name": "武湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/武湖街道"
+    },
+    {
+      "code": "420116009",
+      "name": "王家河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/王家河街道"
+    },
+    {
+      "code": "420116010",
+      "name": "长轩岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/长轩岭街道"
+    },
+    {
+      "code": "420116011",
+      "name": "李家集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/李家集街道"
+    },
+    {
+      "code": "420116012",
+      "name": "姚家集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/姚家集街道"
+    },
+    {
+      "code": "420116013",
+      "name": "蔡家榨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/蔡家榨街道"
+    },
+    {
+      "code": "420116014",
+      "name": "三里桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/三里桥街道"
+    },
+    {
+      "code": "420116015",
+      "name": "蔡店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/蔡店街道"
+    },
+    {
+      "code": "420116201",
+      "name": "木兰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420116",
+      "year": 0,
+      "name_path": "湖北省/武汉市/黄陂区/木兰乡"
+    }
+  ]
+}

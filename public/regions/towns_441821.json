@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "441821100",
+      "name": "石角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441821",
+      "year": 0,
+      "name_path": "广东省/清远市/佛冈县/石角镇"
+    },
+    {
+      "code": "441821101",
+      "name": "水头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441821",
+      "year": 0,
+      "name_path": "广东省/清远市/佛冈县/水头镇"
+    },
+    {
+      "code": "441821102",
+      "name": "汤塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441821",
+      "year": 0,
+      "name_path": "广东省/清远市/佛冈县/汤塘镇"
+    },
+    {
+      "code": "441821103",
+      "name": "龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441821",
+      "year": 0,
+      "name_path": "广东省/清远市/佛冈县/龙山镇"
+    },
+    {
+      "code": "441821104",
+      "name": "高岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441821",
+      "year": 0,
+      "name_path": "广东省/清远市/佛冈县/高岗镇"
+    },
+    {
+      "code": "441821107",
+      "name": "迳头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441821",
+      "year": 0,
+      "name_path": "广东省/清远市/佛冈县/迳头镇"
+    }
+  ]
+}

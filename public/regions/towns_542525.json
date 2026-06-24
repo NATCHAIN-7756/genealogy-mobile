@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "542525100",
+      "name": "革吉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "542525",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/革吉县/革吉镇"
+    },
+    {
+      "code": "542525200",
+      "name": "雄巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542525",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/革吉县/雄巴乡"
+    },
+    {
+      "code": "542525201",
+      "name": "亚热乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542525",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/革吉县/亚热乡"
+    },
+    {
+      "code": "542525202",
+      "name": "擦咔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542525",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/革吉县/擦咔乡"
+    },
+    {
+      "code": "542525203",
+      "name": "文布当桑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "542525",
+      "year": 0,
+      "name_path": "西藏自治区/阿里地区/革吉县/文布当桑乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "440604",
+      "name": "禅城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440600",
+      "year": 0,
+      "name_path": "全国/广东省/佛山市/禅城区"
+    },
+    {
+      "code": "440605",
+      "name": "南海区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440600",
+      "year": 0,
+      "name_path": "全国/广东省/佛山市/南海区"
+    },
+    {
+      "code": "440606",
+      "name": "顺德区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440600",
+      "year": 0,
+      "name_path": "全国/广东省/佛山市/顺德区"
+    },
+    {
+      "code": "440607",
+      "name": "三水区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440600",
+      "year": 0,
+      "name_path": "全国/广东省/佛山市/三水区"
+    },
+    {
+      "code": "440608",
+      "name": "高明区",
+      "level": 3,
+      "type": null,
+      "parent_code": "440600",
+      "year": 0,
+      "name_path": "全国/广东省/佛山市/高明区"
+    }
+  ]
+}

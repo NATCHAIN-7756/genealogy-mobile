@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "130681001",
+      "name": "双塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/双塔街道"
+    },
+    {
+      "code": "130681002",
+      "name": "桃园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/桃园街道"
+    },
+    {
+      "code": "130681003",
+      "name": "清凉寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/清凉寺街道"
+    },
+    {
+      "code": "130681100",
+      "name": "松林店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/松林店镇"
+    },
+    {
+      "code": "130681101",
+      "name": "码头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/码头镇"
+    },
+    {
+      "code": "130681102",
+      "name": "东城坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/东城坊镇"
+    },
+    {
+      "code": "130681103",
+      "name": "高官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/高官庄镇"
+    },
+    {
+      "code": "130681104",
+      "name": "百尺竿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/百尺竿镇"
+    },
+    {
+      "code": "130681105",
+      "name": "东仙坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/东仙坡镇"
+    },
+    {
+      "code": "130681106",
+      "name": "义和庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/义和庄镇"
+    },
+    {
+      "code": "130681107",
+      "name": "刁窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/刁窝镇"
+    },
+    {
+      "code": "130681108",
+      "name": "豆庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/豆庄镇"
+    },
+    {
+      "code": "130681109",
+      "name": "林家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/林家屯镇"
+    },
+    {
+      "code": "130681204",
+      "name": "孙家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130681",
+      "year": 0,
+      "name_path": "河北省/保定市/涿州市/孙家庄乡"
+    }
+  ]
+}

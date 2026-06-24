@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "150425100",
+      "name": "经棚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/经棚镇"
+    },
+    {
+      "code": "150425102",
+      "name": "宇宙地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/宇宙地镇"
+    },
+    {
+      "code": "150425103",
+      "name": "土城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/土城子镇"
+    },
+    {
+      "code": "150425104",
+      "name": "达来诺日镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/达来诺日镇"
+    },
+    {
+      "code": "150425105",
+      "name": "同兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/同兴镇"
+    },
+    {
+      "code": "150425106",
+      "name": "万合永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/万合永镇"
+    },
+    {
+      "code": "150425108",
+      "name": "芝瑞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/芝瑞镇"
+    },
+    {
+      "code": "150425208",
+      "name": "新开地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/新开地乡"
+    },
+    {
+      "code": "150425214",
+      "name": "红山子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/红山子乡"
+    },
+    {
+      "code": "150425219",
+      "name": "达日罕乌拉苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/达日罕乌拉苏木"
+    },
+    {
+      "code": "150425221",
+      "name": "巴彦查干苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/巴彦查干苏木"
+    },
+    {
+      "code": "150425222",
+      "name": "浩来呼热苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/浩来呼热苏木"
+    },
+    {
+      "code": "150425223",
+      "name": "乌兰布统苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150425",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/克什克腾旗/乌兰布统苏木"
+    }
+  ]
+}

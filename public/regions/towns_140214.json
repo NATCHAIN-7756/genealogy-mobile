@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "code": "140214001",
+      "name": "西花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/西花园街道"
+    },
+    {
+      "code": "140214002",
+      "name": "老平旺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/老平旺街道"
+    },
+    {
+      "code": "140214003",
+      "name": "新胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/新胜街道"
+    },
+    {
+      "code": "140214004",
+      "name": "新平旺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/新平旺街道"
+    },
+    {
+      "code": "140214018",
+      "name": "新泉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/新泉路街道"
+    },
+    {
+      "code": "140214019",
+      "name": "民胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/民胜街道"
+    },
+    {
+      "code": "140214020",
+      "name": "口泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/口泉街道"
+    },
+    {
+      "code": "140214025",
+      "name": "平泉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/平泉路街道"
+    },
+    {
+      "code": "140214027",
+      "name": "和瑞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/和瑞街道"
+    },
+    {
+      "code": "140214028",
+      "name": "和顺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/和顺街道"
+    },
+    {
+      "code": "140214029",
+      "name": "玉龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/玉龙街道"
+    },
+    {
+      "code": "140214030",
+      "name": "云燕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/云燕街道"
+    },
+    {
+      "code": "140214031",
+      "name": "云武街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/云武街道"
+    },
+    {
+      "code": "140214032",
+      "name": "和旺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/和旺街道"
+    },
+    {
+      "code": "140214033",
+      "name": "新文街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/新文街道"
+    },
+    {
+      "code": "140214034",
+      "name": "玉泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/玉泉街道"
+    },
+    {
+      "code": "140214035",
+      "name": "平喜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/平喜街道"
+    },
+    {
+      "code": "140214036",
+      "name": "清泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/清泉街道"
+    },
+    {
+      "code": "140214037",
+      "name": "平德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/平德街道"
+    },
+    {
+      "code": "140214038",
+      "name": "平盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/平盛街道"
+    },
+    {
+      "code": "140214039",
+      "name": "平源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/平源街道"
+    },
+    {
+      "code": "140214100",
+      "name": "高山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/高山镇"
+    },
+    {
+      "code": "140214101",
+      "name": "云冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/云冈镇"
+    },
+    {
+      "code": "140214200",
+      "name": "口泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/口泉乡"
+    },
+    {
+      "code": "140214201",
+      "name": "西韩岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/西韩岭乡"
+    },
+    {
+      "code": "140214202",
+      "name": "平旺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/平旺乡"
+    },
+    {
+      "code": "140214203",
+      "name": "鸦儿崖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140214",
+      "year": 0,
+      "name_path": "山西省/大同市/云冈区/鸦儿崖乡"
+    }
+  ]
+}

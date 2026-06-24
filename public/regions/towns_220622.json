@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "220622100",
+      "name": "靖宇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/靖宇镇"
+    },
+    {
+      "code": "220622101",
+      "name": "三道湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/三道湖镇"
+    },
+    {
+      "code": "220622102",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/龙泉镇"
+    },
+    {
+      "code": "220622103",
+      "name": "那尔轰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/那尔轰镇"
+    },
+    {
+      "code": "220622104",
+      "name": "花园口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/花园口镇"
+    },
+    {
+      "code": "220622105",
+      "name": "景山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/景山镇"
+    },
+    {
+      "code": "220622106",
+      "name": "赤松镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/赤松镇"
+    },
+    {
+      "code": "220622203",
+      "name": "濛江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220622",
+      "year": 0,
+      "name_path": "吉林省/白山市/靖宇县/濛江乡"
+    }
+  ]
+}

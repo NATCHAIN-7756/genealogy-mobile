@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "520113001",
+      "name": "泉湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/泉湖街道"
+    },
+    {
+      "code": "520113010",
+      "name": "大山洞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/大山洞街道"
+    },
+    {
+      "code": "520113013",
+      "name": "云城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/云城街道"
+    },
+    {
+      "code": "520113014",
+      "name": "龚家寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/龚家寨街道"
+    },
+    {
+      "code": "520113015",
+      "name": "都拉营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/都拉营街道"
+    },
+    {
+      "code": "520113101",
+      "name": "麦架镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/麦架镇"
+    },
+    {
+      "code": "520113102",
+      "name": "沙文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/沙文镇"
+    },
+    {
+      "code": "520113103",
+      "name": "艳山红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/艳山红镇"
+    },
+    {
+      "code": "520113202",
+      "name": "都拉布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/都拉布依族乡"
+    },
+    {
+      "code": "520113204",
+      "name": "牛场布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520113",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/白云区/牛场布依族乡"
+    }
+  ]
+}

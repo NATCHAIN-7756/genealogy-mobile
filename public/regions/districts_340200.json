@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "340202",
+      "name": "镜湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/镜湖区"
+    },
+    {
+      "code": "340207",
+      "name": "鸠江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/鸠江区"
+    },
+    {
+      "code": "340209",
+      "name": "弋江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/弋江区"
+    },
+    {
+      "code": "340210",
+      "name": "湾沚区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/湾沚区"
+    },
+    {
+      "code": "340212",
+      "name": "繁昌区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/繁昌区"
+    },
+    {
+      "code": "340223",
+      "name": "南陵县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/南陵县"
+    },
+    {
+      "code": "340281",
+      "name": "无为市",
+      "level": 3,
+      "type": null,
+      "parent_code": "340200",
+      "year": 0,
+      "name_path": "全国/安徽省/芜湖市/无为市"
+    }
+  ]
+}

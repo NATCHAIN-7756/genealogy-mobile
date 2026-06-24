@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "code": "520525001",
+      "name": "雍熙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/雍熙街道"
+    },
+    {
+      "code": "520525002",
+      "name": "文昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/文昌街道"
+    },
+    {
+      "code": "520525003",
+      "name": "居仁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/居仁街道"
+    },
+    {
+      "code": "520525004",
+      "name": "宣慰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/宣慰街道"
+    },
+    {
+      "code": "520525005",
+      "name": "利园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/利园街道"
+    },
+    {
+      "code": "520525006",
+      "name": "珙桐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/珙桐街道"
+    },
+    {
+      "code": "520525101",
+      "name": "鬃岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/鬃岭镇"
+    },
+    {
+      "code": "520525102",
+      "name": "阳长镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/阳长镇"
+    },
+    {
+      "code": "520525103",
+      "name": "维新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/维新镇"
+    },
+    {
+      "code": "520525104",
+      "name": "龙场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/龙场镇"
+    },
+    {
+      "code": "520525105",
+      "name": "乐治镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/乐治镇"
+    },
+    {
+      "code": "520525107",
+      "name": "百兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/百兴镇"
+    },
+    {
+      "code": "520525108",
+      "name": "张家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/张家湾镇"
+    },
+    {
+      "code": "520525109",
+      "name": "玉龙坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/玉龙坝镇"
+    },
+    {
+      "code": "520525110",
+      "name": "曙光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/曙光镇"
+    },
+    {
+      "code": "520525111",
+      "name": "水东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/水东镇"
+    },
+    {
+      "code": "520525112",
+      "name": "沙包镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/沙包镇"
+    },
+    {
+      "code": "520525113",
+      "name": "寨乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/寨乐镇"
+    },
+    {
+      "code": "520525114",
+      "name": "勺窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/勺窝镇"
+    },
+    {
+      "code": "520525201",
+      "name": "新房彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/新房彝族苗族乡"
+    },
+    {
+      "code": "520525202",
+      "name": "厍东关彝族苗族白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/厍东关彝族苗族白族乡"
+    },
+    {
+      "code": "520525203",
+      "name": "董地苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/董地苗族彝族乡"
+    },
+    {
+      "code": "520525205",
+      "name": "化作苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/化作苗族彝族乡"
+    },
+    {
+      "code": "520525210",
+      "name": "姑开苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/姑开苗族彝族乡"
+    },
+    {
+      "code": "520525211",
+      "name": "羊场苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/羊场苗族彝族乡"
+    },
+    {
+      "code": "520525212",
+      "name": "锅圈岩苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/锅圈岩苗族彝族乡"
+    },
+    {
+      "code": "520525213",
+      "name": "昆寨苗族彝族白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/昆寨苗族彝族白族乡"
+    },
+    {
+      "code": "520525214",
+      "name": "左鶂戛彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/左鶂戛彝族苗族乡"
+    },
+    {
+      "code": "520525215",
+      "name": "猪场苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520525",
+      "year": 0,
+      "name_path": "贵州省/毕节市/纳雍县/猪场苗族彝族乡"
+    }
+  ]
+}

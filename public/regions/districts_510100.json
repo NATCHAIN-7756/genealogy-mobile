@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "510104",
+      "name": "锦江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/锦江区"
+    },
+    {
+      "code": "510105",
+      "name": "青羊区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/青羊区"
+    },
+    {
+      "code": "510106",
+      "name": "金牛区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/金牛区"
+    },
+    {
+      "code": "510107",
+      "name": "武侯区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/武侯区"
+    },
+    {
+      "code": "510108",
+      "name": "成华区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/成华区"
+    },
+    {
+      "code": "510112",
+      "name": "龙泉驿区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/龙泉驿区"
+    },
+    {
+      "code": "510113",
+      "name": "青白江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/青白江区"
+    },
+    {
+      "code": "510114",
+      "name": "新都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/新都区"
+    },
+    {
+      "code": "510115",
+      "name": "温江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/温江区"
+    },
+    {
+      "code": "510116",
+      "name": "双流区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/双流区"
+    },
+    {
+      "code": "510117",
+      "name": "郫都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/郫都区"
+    },
+    {
+      "code": "510118",
+      "name": "新津区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/新津区"
+    },
+    {
+      "code": "510121",
+      "name": "金堂县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/金堂县"
+    },
+    {
+      "code": "510129",
+      "name": "大邑县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/大邑县"
+    },
+    {
+      "code": "510131",
+      "name": "蒲江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/蒲江县"
+    },
+    {
+      "code": "510181",
+      "name": "都江堰市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/都江堰市"
+    },
+    {
+      "code": "510182",
+      "name": "彭州市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/彭州市"
+    },
+    {
+      "code": "510183",
+      "name": "邛崃市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/邛崃市"
+    },
+    {
+      "code": "510184",
+      "name": "崇州市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/崇州市"
+    },
+    {
+      "code": "510185",
+      "name": "简阳市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510100",
+      "year": 0,
+      "name_path": "全国/四川省/成都市/简阳市"
+    }
+  ]
+}

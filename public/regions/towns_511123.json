@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "511123100",
+      "name": "玉津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/玉津镇"
+    },
+    {
+      "code": "511123101",
+      "name": "孝姑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/孝姑镇"
+    },
+    {
+      "code": "511123102",
+      "name": "石溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/石溪镇"
+    },
+    {
+      "code": "511123103",
+      "name": "清溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/清溪镇"
+    },
+    {
+      "code": "511123105",
+      "name": "罗城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/罗城镇"
+    },
+    {
+      "code": "511123106",
+      "name": "芭沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/芭沟镇"
+    },
+    {
+      "code": "511123107",
+      "name": "龙孔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/龙孔镇"
+    },
+    {
+      "code": "511123108",
+      "name": "定文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/定文镇"
+    },
+    {
+      "code": "511123112",
+      "name": "舞雩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/舞雩镇"
+    },
+    {
+      "code": "511123113",
+      "name": "玉屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/玉屏镇"
+    },
+    {
+      "code": "511123114",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/大兴镇"
+    },
+    {
+      "code": "511123115",
+      "name": "九井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/九井镇"
+    },
+    {
+      "code": "511123116",
+      "name": "铁炉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/铁炉镇"
+    },
+    {
+      "code": "511123117",
+      "name": "寿保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/寿保镇"
+    },
+    {
+      "code": "511123118",
+      "name": "双溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511123",
+      "year": 0,
+      "name_path": "四川省/乐山市/犍为县/双溪镇"
+    }
+  ]
+}

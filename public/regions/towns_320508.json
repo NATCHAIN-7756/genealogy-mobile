@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "320508002",
+      "name": "沧浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/沧浪街道"
+    },
+    {
+      "code": "320508003",
+      "name": "吴门桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/吴门桥街道"
+    },
+    {
+      "code": "320508005",
+      "name": "双塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/双塔街道"
+    },
+    {
+      "code": "320508008",
+      "name": "平江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/平江街道"
+    },
+    {
+      "code": "320508009",
+      "name": "苏锦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/苏锦街道"
+    },
+    {
+      "code": "320508015",
+      "name": "金阊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/金阊街道"
+    },
+    {
+      "code": "320508016",
+      "name": "白洋湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/白洋湾街道"
+    },
+    {
+      "code": "320508017",
+      "name": "虎丘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320508",
+      "year": 0,
+      "name_path": "江苏省/苏州市/姑苏区/虎丘街道"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "320507001",
+      "name": "元和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/元和街道"
+    },
+    {
+      "code": "320507002",
+      "name": "黄桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/黄桥街道"
+    },
+    {
+      "code": "320507004",
+      "name": "北桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/北桥街道"
+    },
+    {
+      "code": "320507007",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/太平街道"
+    },
+    {
+      "code": "320507008",
+      "name": "北河泾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/北河泾街道"
+    },
+    {
+      "code": "320507009",
+      "name": "漕湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/漕湖街道"
+    },
+    {
+      "code": "320507010",
+      "name": "澄阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/澄阳街道"
+    },
+    {
+      "code": "320507100",
+      "name": "望亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/望亭镇"
+    },
+    {
+      "code": "320507103",
+      "name": "黄埭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/黄埭镇"
+    },
+    {
+      "code": "320507107",
+      "name": "渭塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/渭塘镇"
+    },
+    {
+      "code": "320507111",
+      "name": "阳澄湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320507",
+      "year": 0,
+      "name_path": "江苏省/苏州市/相城区/阳澄湖镇"
+    }
+  ]
+}

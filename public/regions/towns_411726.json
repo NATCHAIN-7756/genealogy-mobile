@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "411726001",
+      "name": "泌水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/泌水街道"
+    },
+    {
+      "code": "411726002",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/花园街道"
+    },
+    {
+      "code": "411726003",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/古城街道"
+    },
+    {
+      "code": "411726102",
+      "name": "羊册镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/羊册镇"
+    },
+    {
+      "code": "411726103",
+      "name": "马谷田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/马谷田镇"
+    },
+    {
+      "code": "411726105",
+      "name": "春水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/春水镇"
+    },
+    {
+      "code": "411726106",
+      "name": "赊湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/赊湾镇"
+    },
+    {
+      "code": "411726107",
+      "name": "官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/官庄镇"
+    },
+    {
+      "code": "411726108",
+      "name": "郭集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/郭集镇"
+    },
+    {
+      "code": "411726109",
+      "name": "泰山庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/泰山庙镇"
+    },
+    {
+      "code": "411726110",
+      "name": "王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/王店镇"
+    },
+    {
+      "code": "411726111",
+      "name": "杨家集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/杨家集镇"
+    },
+    {
+      "code": "411726112",
+      "name": "高店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/高店镇"
+    },
+    {
+      "code": "411726113",
+      "name": "高邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/高邑镇"
+    },
+    {
+      "code": "411726114",
+      "name": "象河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/象河镇"
+    },
+    {
+      "code": "411726201",
+      "name": "盘古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/盘古乡"
+    },
+    {
+      "code": "411726204",
+      "name": "铜山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/铜山乡"
+    },
+    {
+      "code": "411726206",
+      "name": "下碑寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/下碑寺乡"
+    },
+    {
+      "code": "411726208",
+      "name": "付庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/付庄乡"
+    },
+    {
+      "code": "411726209",
+      "name": "贾楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/贾楼乡"
+    },
+    {
+      "code": "411726210",
+      "name": "黄山口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/黄山口乡"
+    },
+    {
+      "code": "411726215",
+      "name": "双庙街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411726",
+      "year": 0,
+      "name_path": "河南省/驻马店市/泌阳县/双庙街乡"
+    }
+  ]
+}

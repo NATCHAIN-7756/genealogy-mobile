@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540626100",
+      "name": "亚拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/亚拉镇"
+    },
+    {
+      "code": "540626101",
+      "name": "荣布镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/荣布镇"
+    },
+    {
+      "code": "540626201",
+      "name": "若达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/若达乡"
+    },
+    {
+      "code": "540626202",
+      "name": "加勤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/加勤乡"
+    },
+    {
+      "code": "540626203",
+      "name": "赤多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/赤多乡"
+    },
+    {
+      "code": "540626205",
+      "name": "西昌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/西昌乡"
+    },
+    {
+      "code": "540626206",
+      "name": "江达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/江达乡"
+    },
+    {
+      "code": "540626208",
+      "name": "热瓦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/热瓦乡"
+    },
+    {
+      "code": "540626209",
+      "name": "嘎美乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/嘎美乡"
+    },
+    {
+      "code": "540626210",
+      "name": "嘎木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540626",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/索县/嘎木乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "540324100",
+      "name": "丁青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/丁青镇"
+    },
+    {
+      "code": "540324101",
+      "name": "尺犊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/尺犊镇"
+    },
+    {
+      "code": "540324200",
+      "name": "觉恩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/觉恩乡"
+    },
+    {
+      "code": "540324201",
+      "name": "沙贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/沙贡乡"
+    },
+    {
+      "code": "540324202",
+      "name": "当堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/当堆乡"
+    },
+    {
+      "code": "540324203",
+      "name": "桑多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/桑多乡"
+    },
+    {
+      "code": "540324204",
+      "name": "木塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/木塔乡"
+    },
+    {
+      "code": "540324205",
+      "name": "布塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/布塔乡"
+    },
+    {
+      "code": "540324206",
+      "name": "巴达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/巴达乡"
+    },
+    {
+      "code": "540324207",
+      "name": "甘岩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/甘岩乡"
+    },
+    {
+      "code": "540324208",
+      "name": "嘎塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/嘎塔乡"
+    },
+    {
+      "code": "540324209",
+      "name": "色扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/色扎乡"
+    },
+    {
+      "code": "540324210",
+      "name": "协雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540324",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/丁青县/协雄乡"
+    }
+  ]
+}

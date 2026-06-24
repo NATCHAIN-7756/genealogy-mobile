@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "370832001",
+      "name": "梁山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/梁山街道"
+    },
+    {
+      "code": "370832002",
+      "name": "水泊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/水泊街道"
+    },
+    {
+      "code": "370832101",
+      "name": "小路口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/小路口镇"
+    },
+    {
+      "code": "370832102",
+      "name": "韩岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/韩岗镇"
+    },
+    {
+      "code": "370832103",
+      "name": "黑虎庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/黑虎庙镇"
+    },
+    {
+      "code": "370832104",
+      "name": "拳铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/拳铺镇"
+    },
+    {
+      "code": "370832105",
+      "name": "杨营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/杨营镇"
+    },
+    {
+      "code": "370832106",
+      "name": "韩垓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/韩垓镇"
+    },
+    {
+      "code": "370832107",
+      "name": "馆驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/馆驿镇"
+    },
+    {
+      "code": "370832108",
+      "name": "小安山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/小安山镇"
+    },
+    {
+      "code": "370832109",
+      "name": "寿张集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/寿张集镇"
+    },
+    {
+      "code": "370832110",
+      "name": "马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/马营镇"
+    },
+    {
+      "code": "370832111",
+      "name": "大路口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/大路口镇"
+    },
+    {
+      "code": "370832215",
+      "name": "赵堌堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370832",
+      "year": 0,
+      "name_path": "山东省/济宁市/梁山县/赵堌堆乡"
+    }
+  ]
+}

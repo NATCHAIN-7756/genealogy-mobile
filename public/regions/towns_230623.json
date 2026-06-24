@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "230623100",
+      "name": "林甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/林甸镇"
+    },
+    {
+      "code": "230623101",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/红旗镇"
+    },
+    {
+      "code": "230623102",
+      "name": "花园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/花园镇"
+    },
+    {
+      "code": "230623103",
+      "name": "四季青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/四季青镇"
+    },
+    {
+      "code": "230623104",
+      "name": "鹤鸣湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/鹤鸣湖镇"
+    },
+    {
+      "code": "230623200",
+      "name": "东兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/东兴乡"
+    },
+    {
+      "code": "230623202",
+      "name": "宏伟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/宏伟乡"
+    },
+    {
+      "code": "230623206",
+      "name": "四合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230623",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/林甸县/四合乡"
+    }
+  ]
+}

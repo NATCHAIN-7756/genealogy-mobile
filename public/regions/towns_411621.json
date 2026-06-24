@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "411621001",
+      "name": "桐丘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/桐丘街道"
+    },
+    {
+      "code": "411621002",
+      "name": "扶亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/扶亭街道"
+    },
+    {
+      "code": "411621003",
+      "name": "帛亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/帛亭街道"
+    },
+    {
+      "code": "411621004",
+      "name": "大李庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/大李庄街道"
+    },
+    {
+      "code": "411621101",
+      "name": "崔桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/崔桥镇"
+    },
+    {
+      "code": "411621102",
+      "name": "江村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/江村镇"
+    },
+    {
+      "code": "411621103",
+      "name": "白潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/白潭镇"
+    },
+    {
+      "code": "411621104",
+      "name": "韭园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/韭园镇"
+    },
+    {
+      "code": "411621105",
+      "name": "练寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/练寺镇"
+    },
+    {
+      "code": "411621106",
+      "name": "大新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/大新镇"
+    },
+    {
+      "code": "411621107",
+      "name": "包屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/包屯镇"
+    },
+    {
+      "code": "411621108",
+      "name": "汴岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/汴岗镇"
+    },
+    {
+      "code": "411621200",
+      "name": "曹里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/曹里乡"
+    },
+    {
+      "code": "411621201",
+      "name": "柴岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/柴岗乡"
+    },
+    {
+      "code": "411621202",
+      "name": "固城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/固城乡"
+    },
+    {
+      "code": "411621203",
+      "name": "吕潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411621",
+      "year": 0,
+      "name_path": "河南省/周口市/扶沟县/吕潭乡"
+    }
+  ]
+}

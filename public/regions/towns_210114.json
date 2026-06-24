@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "210114001",
+      "name": "迎宾路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/迎宾路街道"
+    },
+    {
+      "code": "210114003",
+      "name": "陵西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/陵西街道"
+    },
+    {
+      "code": "210114004",
+      "name": "城东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/城东湖街道"
+    },
+    {
+      "code": "210114005",
+      "name": "平罗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/平罗街道"
+    },
+    {
+      "code": "210114006",
+      "name": "马三家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/马三家街道"
+    },
+    {
+      "code": "210114007",
+      "name": "沙岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/沙岭街道"
+    },
+    {
+      "code": "210114008",
+      "name": "造化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/造化街道"
+    },
+    {
+      "code": "210114011",
+      "name": "北陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/北陵街道"
+    },
+    {
+      "code": "210114013",
+      "name": "南阳湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/南阳湖街道"
+    },
+    {
+      "code": "210114014",
+      "name": "光辉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210114",
+      "year": 0,
+      "name_path": "辽宁省/沈阳市/于洪区/光辉街道"
+    }
+  ]
+}

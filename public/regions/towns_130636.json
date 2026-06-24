@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "130636100",
+      "name": "蒲阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/蒲阳镇"
+    },
+    {
+      "code": "130636101",
+      "name": "高于铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/高于铺镇"
+    },
+    {
+      "code": "130636102",
+      "name": "腰山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/腰山镇"
+    },
+    {
+      "code": "130636103",
+      "name": "蒲上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/蒲上镇"
+    },
+    {
+      "code": "130636104",
+      "name": "神南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/神南镇"
+    },
+    {
+      "code": "130636105",
+      "name": "安阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/安阳镇"
+    },
+    {
+      "code": "130636106",
+      "name": "白云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/白云镇"
+    },
+    {
+      "code": "130636202",
+      "name": "河口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/河口乡"
+    },
+    {
+      "code": "130636204",
+      "name": "台鱼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/台鱼乡"
+    },
+    {
+      "code": "130636205",
+      "name": "大悲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130636",
+      "year": 0,
+      "name_path": "河北省/保定市/顺平县/大悲乡"
+    }
+  ]
+}

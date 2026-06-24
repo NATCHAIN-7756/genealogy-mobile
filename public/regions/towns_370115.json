@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "370115001",
+      "name": "济阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/济阳街道"
+    },
+    {
+      "code": "370115002",
+      "name": "济北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/济北街道"
+    },
+    {
+      "code": "370115003",
+      "name": "孙耿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/孙耿街道"
+    },
+    {
+      "code": "370115004",
+      "name": "回河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/回河街道"
+    },
+    {
+      "code": "370115005",
+      "name": "崔寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/崔寨街道"
+    },
+    {
+      "code": "370115006",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/太平街道"
+    },
+    {
+      "code": "370115007",
+      "name": "垛石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/垛石街道"
+    },
+    {
+      "code": "370115008",
+      "name": "曲堤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/曲堤街道"
+    },
+    {
+      "code": "370115103",
+      "name": "仁风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/仁风镇"
+    },
+    {
+      "code": "370115104",
+      "name": "新市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370115",
+      "year": 0,
+      "name_path": "山东省/济南市/济阳区/新市镇"
+    }
+  ]
+}

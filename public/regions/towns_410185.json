@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "410185001",
+      "name": "嵩阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/嵩阳街道"
+    },
+    {
+      "code": "410185002",
+      "name": "少林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/少林街道"
+    },
+    {
+      "code": "410185003",
+      "name": "中岳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/中岳街道"
+    },
+    {
+      "code": "410185004",
+      "name": "卢店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/卢店街道"
+    },
+    {
+      "code": "410185100",
+      "name": "大金店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/大金店镇"
+    },
+    {
+      "code": "410185101",
+      "name": "颍阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/颍阳镇"
+    },
+    {
+      "code": "410185103",
+      "name": "告成镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/告成镇"
+    },
+    {
+      "code": "410185105",
+      "name": "大冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/大冶镇"
+    },
+    {
+      "code": "410185106",
+      "name": "宣化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/宣化镇"
+    },
+    {
+      "code": "410185107",
+      "name": "徐庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/徐庄镇"
+    },
+    {
+      "code": "410185108",
+      "name": "东华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/东华镇"
+    },
+    {
+      "code": "410185109",
+      "name": "唐庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/唐庄镇"
+    },
+    {
+      "code": "410185110",
+      "name": "白坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/白坪镇"
+    },
+    {
+      "code": "410185203",
+      "name": "君召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/君召乡"
+    },
+    {
+      "code": "410185204",
+      "name": "石道乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410185",
+      "year": 0,
+      "name_path": "河南省/郑州市/登封市/石道乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "659001001",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/新城街道"
+    },
+    {
+      "code": "659001002",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/向阳街道"
+    },
+    {
+      "code": "659001003",
+      "name": "红山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/红山街道"
+    },
+    {
+      "code": "659001004",
+      "name": "老街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/老街街道"
+    },
+    {
+      "code": "659001005",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/东城街道"
+    },
+    {
+      "code": "659001100",
+      "name": "北泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/北泉镇"
+    },
+    {
+      "code": "659001101",
+      "name": "石河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659001",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/石河子市/石河子镇"
+    }
+  ]
+}

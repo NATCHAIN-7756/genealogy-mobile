@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "code": "430181001",
+      "name": "淮川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/淮川街道"
+    },
+    {
+      "code": "430181002",
+      "name": "集里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/集里街道"
+    },
+    {
+      "code": "430181003",
+      "name": "荷花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/荷花街道"
+    },
+    {
+      "code": "430181004",
+      "name": "关口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/关口街道"
+    },
+    {
+      "code": "430181100",
+      "name": "沙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/沙市镇"
+    },
+    {
+      "code": "430181101",
+      "name": "淳口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/淳口镇"
+    },
+    {
+      "code": "430181102",
+      "name": "社港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/社港镇"
+    },
+    {
+      "code": "430181103",
+      "name": "大围山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/大围山镇"
+    },
+    {
+      "code": "430181104",
+      "name": "官渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/官渡镇"
+    },
+    {
+      "code": "430181105",
+      "name": "张坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/张坊镇"
+    },
+    {
+      "code": "430181106",
+      "name": "达浒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/达浒镇"
+    },
+    {
+      "code": "430181107",
+      "name": "沿溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/沿溪镇"
+    },
+    {
+      "code": "430181108",
+      "name": "古港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/古港镇"
+    },
+    {
+      "code": "430181109",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/永和镇"
+    },
+    {
+      "code": "430181110",
+      "name": "大瑶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/大瑶镇"
+    },
+    {
+      "code": "430181111",
+      "name": "金刚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/金刚镇"
+    },
+    {
+      "code": "430181112",
+      "name": "文家市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/文家市镇"
+    },
+    {
+      "code": "430181114",
+      "name": "枨冲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/枨冲镇"
+    },
+    {
+      "code": "430181115",
+      "name": "镇头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/镇头镇"
+    },
+    {
+      "code": "430181116",
+      "name": "普迹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/普迹镇"
+    },
+    {
+      "code": "430181117",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/永安镇"
+    },
+    {
+      "code": "430181118",
+      "name": "北盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/北盛镇"
+    },
+    {
+      "code": "430181120",
+      "name": "龙伏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/龙伏镇"
+    },
+    {
+      "code": "430181121",
+      "name": "澄潭江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/澄潭江镇"
+    },
+    {
+      "code": "430181122",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/中和镇"
+    },
+    {
+      "code": "430181123",
+      "name": "柏加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/柏加镇"
+    },
+    {
+      "code": "430181124",
+      "name": "洞阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/洞阳镇"
+    },
+    {
+      "code": "430181125",
+      "name": "高坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/高坪镇"
+    },
+    {
+      "code": "430181127",
+      "name": "官桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/官桥镇"
+    },
+    {
+      "code": "430181128",
+      "name": "葛家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/葛家镇"
+    },
+    {
+      "code": "430181132",
+      "name": "蕉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/蕉溪镇"
+    },
+    {
+      "code": "430181201",
+      "name": "小河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430181",
+      "year": 0,
+      "name_path": "湖南省/长沙市/浏阳市/小河乡"
+    }
+  ]
+}

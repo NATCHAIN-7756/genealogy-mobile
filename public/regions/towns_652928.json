@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "652928100",
+      "name": "阿瓦提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/阿瓦提镇"
+    },
+    {
+      "code": "652928101",
+      "name": "乌鲁却勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/乌鲁却勒镇"
+    },
+    {
+      "code": "652928102",
+      "name": "拜什艾日克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/拜什艾日克镇"
+    },
+    {
+      "code": "652928103",
+      "name": "塔木托格拉克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/塔木托格拉克镇"
+    },
+    {
+      "code": "652928104",
+      "name": "英艾日克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/英艾日克镇"
+    },
+    {
+      "code": "652928105",
+      "name": "阿依巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/阿依巴格镇"
+    },
+    {
+      "code": "652928106",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/三河镇"
+    },
+    {
+      "code": "652928203",
+      "name": "多浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/多浪乡"
+    },
+    {
+      "code": "652928204",
+      "name": "巴格托格拉克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652928",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/阿瓦提县/巴格托格拉克乡"
+    }
+  ]
+}

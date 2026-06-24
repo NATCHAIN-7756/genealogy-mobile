@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "522634001",
+      "name": "龙头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/龙头街道"
+    },
+    {
+      "code": "522634100",
+      "name": "丹江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/丹江镇"
+    },
+    {
+      "code": "522634101",
+      "name": "西江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/西江镇"
+    },
+    {
+      "code": "522634102",
+      "name": "永乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/永乐镇"
+    },
+    {
+      "code": "522634103",
+      "name": "郎德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/郎德镇"
+    },
+    {
+      "code": "522634104",
+      "name": "大塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/大塘镇"
+    },
+    {
+      "code": "522634200",
+      "name": "望丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/望丰乡"
+    },
+    {
+      "code": "522634203",
+      "name": "达地水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/达地水族乡"
+    },
+    {
+      "code": "522634204",
+      "name": "方祥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522634",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/雷山县/方祥乡"
+    }
+  ]
+}

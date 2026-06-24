@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "540202001",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/城南街道"
+    },
+    {
+      "code": "540202002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/城北街道"
+    },
+    {
+      "code": "540202003",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/城东街道"
+    },
+    {
+      "code": "540202004",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/城西街道"
+    },
+    {
+      "code": "540202200",
+      "name": "曲布雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/曲布雄乡"
+    },
+    {
+      "code": "540202201",
+      "name": "曲美乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/曲美乡"
+    },
+    {
+      "code": "540202202",
+      "name": "聂日雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/聂日雄乡"
+    },
+    {
+      "code": "540202203",
+      "name": "甲措雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/甲措雄乡"
+    },
+    {
+      "code": "540202204",
+      "name": "纳尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/纳尔乡"
+    },
+    {
+      "code": "540202205",
+      "name": "东嘎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/东嘎乡"
+    },
+    {
+      "code": "540202206",
+      "name": "边雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/边雄乡"
+    },
+    {
+      "code": "540202207",
+      "name": "江当乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/江当乡"
+    },
+    {
+      "code": "540202208",
+      "name": "年木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/年木乡"
+    },
+    {
+      "code": "540202209",
+      "name": "联乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540202",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/桑珠孜区/联乡"
+    }
+  ]
+}

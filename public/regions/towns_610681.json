@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "610681001",
+      "name": "瓦窑堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/瓦窑堡街道"
+    },
+    {
+      "code": "610681002",
+      "name": "秀延街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/秀延街道"
+    },
+    {
+      "code": "610681003",
+      "name": "栾家坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/栾家坪街道"
+    },
+    {
+      "code": "610681102",
+      "name": "玉家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/玉家湾镇"
+    },
+    {
+      "code": "610681103",
+      "name": "安定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/安定镇"
+    },
+    {
+      "code": "610681104",
+      "name": "马家砭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/马家砭镇"
+    },
+    {
+      "code": "610681105",
+      "name": "南沟岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/南沟岔镇"
+    },
+    {
+      "code": "610681106",
+      "name": "涧峪岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/涧峪岔镇"
+    },
+    {
+      "code": "610681107",
+      "name": "李家岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/李家岔镇"
+    },
+    {
+      "code": "610681108",
+      "name": "杨家园则镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/杨家园则镇"
+    },
+    {
+      "code": "610681109",
+      "name": "余家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610681",
+      "year": 0,
+      "name_path": "陕西省/延安市/子长市/余家坪镇"
+    }
+  ]
+}

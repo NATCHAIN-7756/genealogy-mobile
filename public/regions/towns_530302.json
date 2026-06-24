@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "530302001",
+      "name": "南宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/南宁街道"
+    },
+    {
+      "code": "530302002",
+      "name": "建宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/建宁街道"
+    },
+    {
+      "code": "530302003",
+      "name": "白石江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/白石江街道"
+    },
+    {
+      "code": "530302004",
+      "name": "寥廓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/寥廓街道"
+    },
+    {
+      "code": "530302005",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/西城街道"
+    },
+    {
+      "code": "530302006",
+      "name": "珠街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/珠街街道"
+    },
+    {
+      "code": "530302007",
+      "name": "沿江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/沿江街道"
+    },
+    {
+      "code": "530302008",
+      "name": "三宝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/三宝街道"
+    },
+    {
+      "code": "530302009",
+      "name": "太和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/太和街道"
+    },
+    {
+      "code": "530302010",
+      "name": "文华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/文华街道"
+    },
+    {
+      "code": "530302011",
+      "name": "潇湘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/潇湘街道"
+    },
+    {
+      "code": "530302012",
+      "name": "益宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/益宁街道"
+    },
+    {
+      "code": "530302013",
+      "name": "翠峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/翠峰街道"
+    },
+    {
+      "code": "530302101",
+      "name": "越州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/越州镇"
+    },
+    {
+      "code": "530302102",
+      "name": "东山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/东山镇"
+    },
+    {
+      "code": "530302103",
+      "name": "茨营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530302",
+      "year": 0,
+      "name_path": "云南省/曲靖市/麒麟区/茨营镇"
+    }
+  ]
+}

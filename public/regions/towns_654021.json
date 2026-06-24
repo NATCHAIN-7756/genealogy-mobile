@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "654021100",
+      "name": "吉里于孜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/吉里于孜镇"
+    },
+    {
+      "code": "654021101",
+      "name": "墩麻扎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/墩麻扎镇"
+    },
+    {
+      "code": "654021102",
+      "name": "英塔木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/英塔木镇"
+    },
+    {
+      "code": "654021104",
+      "name": "巴依托海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/巴依托海镇"
+    },
+    {
+      "code": "654021106",
+      "name": "萨木于孜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/萨木于孜镇"
+    },
+    {
+      "code": "654021107",
+      "name": "喀什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/喀什镇"
+    },
+    {
+      "code": "654021108",
+      "name": "维吾尔玉其温镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/维吾尔玉其温镇"
+    },
+    {
+      "code": "654021109",
+      "name": "温亚尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/温亚尔镇"
+    },
+    {
+      "code": "654021201",
+      "name": "吐鲁番于孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/吐鲁番于孜乡"
+    },
+    {
+      "code": "654021202",
+      "name": "喀拉亚尕奇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/喀拉亚尕奇乡"
+    },
+    {
+      "code": "654021205",
+      "name": "愉群翁回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/愉群翁回族乡"
+    },
+    {
+      "code": "654021212",
+      "name": "麻扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/麻扎乡"
+    },
+    {
+      "code": "654021214",
+      "name": "阿乌利亚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/阿乌利亚乡"
+    },
+    {
+      "code": "654021215",
+      "name": "曲鲁海乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/曲鲁海乡"
+    },
+    {
+      "code": "654021216",
+      "name": "武功乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/武功乡"
+    },
+    {
+      "code": "654021217",
+      "name": "萨地克于孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654021",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/伊宁县/萨地克于孜乡"
+    }
+  ]
+}

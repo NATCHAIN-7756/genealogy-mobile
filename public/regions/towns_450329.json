@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "450329101",
+      "name": "资源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/资源镇"
+    },
+    {
+      "code": "450329102",
+      "name": "梅溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/梅溪镇"
+    },
+    {
+      "code": "450329103",
+      "name": "中峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/中峰镇"
+    },
+    {
+      "code": "450329203",
+      "name": "瓜里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/瓜里乡"
+    },
+    {
+      "code": "450329204",
+      "name": "车田苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/车田苗族乡"
+    },
+    {
+      "code": "450329205",
+      "name": "两水苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/两水苗族乡"
+    },
+    {
+      "code": "450329206",
+      "name": "河口瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450329",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/资源县/河口瑶族乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "370831001",
+      "name": "泗河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/泗河街道"
+    },
+    {
+      "code": "370831002",
+      "name": "济河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/济河街道"
+    },
+    {
+      "code": "370831101",
+      "name": "泉林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/泉林镇"
+    },
+    {
+      "code": "370831102",
+      "name": "星村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/星村镇"
+    },
+    {
+      "code": "370831103",
+      "name": "柘沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/柘沟镇"
+    },
+    {
+      "code": "370831104",
+      "name": "金庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/金庄镇"
+    },
+    {
+      "code": "370831105",
+      "name": "苗馆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/苗馆镇"
+    },
+    {
+      "code": "370831106",
+      "name": "中册镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/中册镇"
+    },
+    {
+      "code": "370831107",
+      "name": "杨柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/杨柳镇"
+    },
+    {
+      "code": "370831108",
+      "name": "泗张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/泗张镇"
+    },
+    {
+      "code": "370831109",
+      "name": "圣水峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/圣水峪镇"
+    },
+    {
+      "code": "370831110",
+      "name": "高峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/高峪镇"
+    },
+    {
+      "code": "370831111",
+      "name": "华村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370831",
+      "year": 0,
+      "name_path": "山东省/济宁市/泗水县/华村镇"
+    }
+  ]
+}

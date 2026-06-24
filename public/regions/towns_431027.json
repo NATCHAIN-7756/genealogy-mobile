@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "431027101",
+      "name": "沙田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/沙田镇"
+    },
+    {
+      "code": "431027102",
+      "name": "清泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/清泉镇"
+    },
+    {
+      "code": "431027103",
+      "name": "大塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/大塘镇"
+    },
+    {
+      "code": "431027104",
+      "name": "四都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/四都镇"
+    },
+    {
+      "code": "431027105",
+      "name": "沤江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/沤江镇"
+    },
+    {
+      "code": "431027106",
+      "name": "寨前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/寨前镇"
+    },
+    {
+      "code": "431027107",
+      "name": "普乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/普乐镇"
+    },
+    {
+      "code": "431027200",
+      "name": "桥头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/桥头乡"
+    },
+    {
+      "code": "431027208",
+      "name": "新坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/新坊乡"
+    },
+    {
+      "code": "431027210",
+      "name": "东洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/东洛乡"
+    },
+    {
+      "code": "431027213",
+      "name": "青山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431027",
+      "year": 0,
+      "name_path": "湖南省/郴州市/桂东县/青山乡"
+    }
+  ]
+}

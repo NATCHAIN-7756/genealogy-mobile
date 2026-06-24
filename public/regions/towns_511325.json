@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "511325001",
+      "name": "南台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/南台街道"
+    },
+    {
+      "code": "511325002",
+      "name": "晋城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/晋城街道"
+    },
+    {
+      "code": "511325101",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/太平镇"
+    },
+    {
+      "code": "511325102",
+      "name": "大全镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/大全镇"
+    },
+    {
+      "code": "511325103",
+      "name": "仙林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/仙林镇"
+    },
+    {
+      "code": "511325104",
+      "name": "古楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/古楼镇"
+    },
+    {
+      "code": "511325105",
+      "name": "义兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/义兴镇"
+    },
+    {
+      "code": "511325106",
+      "name": "关文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/关文镇"
+    },
+    {
+      "code": "511325107",
+      "name": "凤鸣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/凤鸣镇"
+    },
+    {
+      "code": "511325108",
+      "name": "青狮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/青狮镇"
+    },
+    {
+      "code": "511325109",
+      "name": "槐树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/槐树镇"
+    },
+    {
+      "code": "511325110",
+      "name": "鸣龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/鸣龙镇"
+    },
+    {
+      "code": "511325111",
+      "name": "双凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/双凤镇"
+    },
+    {
+      "code": "511325112",
+      "name": "高院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/高院镇"
+    },
+    {
+      "code": "511325113",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/仁和镇"
+    },
+    {
+      "code": "511325114",
+      "name": "多扶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/多扶镇"
+    },
+    {
+      "code": "511325115",
+      "name": "莲池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/莲池镇"
+    },
+    {
+      "code": "511325116",
+      "name": "常林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/常林镇"
+    },
+    {
+      "code": "511325203",
+      "name": "占山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/占山乡"
+    },
+    {
+      "code": "511325220",
+      "name": "罐垭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/罐垭乡"
+    },
+    {
+      "code": "511325226",
+      "name": "祥龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/祥龙乡"
+    },
+    {
+      "code": "511325227",
+      "name": "车龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/车龙乡"
+    },
+    {
+      "code": "511325229",
+      "name": "东太乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511325",
+      "year": 0,
+      "name_path": "四川省/南充市/西充县/东太乡"
+    }
+  ]
+}

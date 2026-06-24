@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "511902001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/东城街道"
+    },
+    {
+      "code": "511902002",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/西城街道"
+    },
+    {
+      "code": "511902003",
+      "name": "回风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/回风街道"
+    },
+    {
+      "code": "511902004",
+      "name": "宕梁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/宕梁街道"
+    },
+    {
+      "code": "511902005",
+      "name": "玉堂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/玉堂街道"
+    },
+    {
+      "code": "511902006",
+      "name": "江北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/江北街道"
+    },
+    {
+      "code": "511902007",
+      "name": "兴文街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/兴文街道"
+    },
+    {
+      "code": "511902008",
+      "name": "奇章街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/奇章街道"
+    },
+    {
+      "code": "511902009",
+      "name": "时新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/时新街道"
+    },
+    {
+      "code": "511902100",
+      "name": "大茅坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/大茅坪镇"
+    },
+    {
+      "code": "511902101",
+      "name": "清江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/清江镇"
+    },
+    {
+      "code": "511902103",
+      "name": "水宁寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/水宁寺镇"
+    },
+    {
+      "code": "511902105",
+      "name": "曾口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/曾口镇"
+    },
+    {
+      "code": "511902106",
+      "name": "梁永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/梁永镇"
+    },
+    {
+      "code": "511902110",
+      "name": "鼎山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/鼎山镇"
+    },
+    {
+      "code": "511902111",
+      "name": "大罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/大罗镇"
+    },
+    {
+      "code": "511902118",
+      "name": "化成镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/化成镇"
+    },
+    {
+      "code": "511902121",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/三江镇"
+    },
+    {
+      "code": "511902122",
+      "name": "枣林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/枣林镇"
+    },
+    {
+      "code": "511902123",
+      "name": "平梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/平梁镇"
+    },
+    {
+      "code": "511902125",
+      "name": "光辉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/光辉镇"
+    },
+    {
+      "code": "511902127",
+      "name": "凤溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/凤溪镇"
+    },
+    {
+      "code": "511902128",
+      "name": "天马山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/天马山镇"
+    },
+    {
+      "code": "511902203",
+      "name": "大和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/大和乡"
+    },
+    {
+      "code": "511902205",
+      "name": "白庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511902",
+      "year": 0,
+      "name_path": "四川省/巴中市/巴州区/白庙乡"
+    }
+  ]
+}

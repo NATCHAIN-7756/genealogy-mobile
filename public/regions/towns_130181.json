@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130181100",
+      "name": "辛集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/辛集镇"
+    },
+    {
+      "code": "130181101",
+      "name": "旧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/旧城镇"
+    },
+    {
+      "code": "130181102",
+      "name": "张古庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/张古庄镇"
+    },
+    {
+      "code": "130181103",
+      "name": "位伯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/位伯镇"
+    },
+    {
+      "code": "130181104",
+      "name": "新垒头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/新垒头镇"
+    },
+    {
+      "code": "130181105",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/新城镇"
+    },
+    {
+      "code": "130181106",
+      "name": "南智丘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/南智丘镇"
+    },
+    {
+      "code": "130181107",
+      "name": "王口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/王口镇"
+    },
+    {
+      "code": "130181200",
+      "name": "天宫营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/天宫营乡"
+    },
+    {
+      "code": "130181201",
+      "name": "前营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/前营乡"
+    },
+    {
+      "code": "130181202",
+      "name": "马庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/马庄乡"
+    },
+    {
+      "code": "130181203",
+      "name": "和睦井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/和睦井乡"
+    },
+    {
+      "code": "130181204",
+      "name": "田家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/田家庄乡"
+    },
+    {
+      "code": "130181205",
+      "name": "中里厢乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/中里厢乡"
+    },
+    {
+      "code": "130181206",
+      "name": "小辛庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130181",
+      "year": 0,
+      "name_path": "河北省/石家庄市/辛集市/小辛庄乡"
+    }
+  ]
+}

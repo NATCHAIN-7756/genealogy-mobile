@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "371723001",
+      "name": "文亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/文亭街道"
+    },
+    {
+      "code": "371723002",
+      "name": "永昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/永昌街道"
+    },
+    {
+      "code": "371723101",
+      "name": "大田集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/大田集镇"
+    },
+    {
+      "code": "371723102",
+      "name": "天宫庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/天宫庙镇"
+    },
+    {
+      "code": "371723103",
+      "name": "汶上集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/汶上集镇"
+    },
+    {
+      "code": "371723104",
+      "name": "南鲁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/南鲁集镇"
+    },
+    {
+      "code": "371723105",
+      "name": "伯乐集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/伯乐集镇"
+    },
+    {
+      "code": "371723106",
+      "name": "苟村集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/苟村集镇"
+    },
+    {
+      "code": "371723107",
+      "name": "白浮图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/白浮图镇"
+    },
+    {
+      "code": "371723108",
+      "name": "孙寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/孙寺镇"
+    },
+    {
+      "code": "371723109",
+      "name": "九女集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/九女集镇"
+    },
+    {
+      "code": "371723110",
+      "name": "党集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/党集镇"
+    },
+    {
+      "code": "371723111",
+      "name": "张楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371723",
+      "year": 0,
+      "name_path": "山东省/菏泽市/成武县/张楼镇"
+    }
+  ]
+}

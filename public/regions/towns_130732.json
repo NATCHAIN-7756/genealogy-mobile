@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130732100",
+      "name": "赤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/赤城镇"
+    },
+    {
+      "code": "130732101",
+      "name": "田家窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/田家窑镇"
+    },
+    {
+      "code": "130732102",
+      "name": "龙关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/龙关镇"
+    },
+    {
+      "code": "130732103",
+      "name": "雕鹗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/雕鹗镇"
+    },
+    {
+      "code": "130732104",
+      "name": "独石口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/独石口镇"
+    },
+    {
+      "code": "130732105",
+      "name": "白草镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/白草镇"
+    },
+    {
+      "code": "130732106",
+      "name": "龙门所镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/龙门所镇"
+    },
+    {
+      "code": "130732107",
+      "name": "后城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/后城镇"
+    },
+    {
+      "code": "130732108",
+      "name": "东卯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/东卯镇"
+    },
+    {
+      "code": "130732200",
+      "name": "炮梁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/炮梁乡"
+    },
+    {
+      "code": "130732201",
+      "name": "大海陀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/大海陀乡"
+    },
+    {
+      "code": "130732202",
+      "name": "镇宁堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/镇宁堡乡"
+    },
+    {
+      "code": "130732203",
+      "name": "马营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/马营乡"
+    },
+    {
+      "code": "130732204",
+      "name": "云州乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/云州乡"
+    },
+    {
+      "code": "130732205",
+      "name": "三道川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/三道川乡"
+    },
+    {
+      "code": "130732206",
+      "name": "东万口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/东万口乡"
+    },
+    {
+      "code": "130732207",
+      "name": "茨营子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/茨营子乡"
+    },
+    {
+      "code": "130732208",
+      "name": "样田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130732",
+      "year": 0,
+      "name_path": "河北省/张家口市/赤城县/样田乡"
+    }
+  ]
+}

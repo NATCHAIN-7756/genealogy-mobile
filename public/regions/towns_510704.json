@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "510704001",
+      "name": "涪江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/涪江街道"
+    },
+    {
+      "code": "510704003",
+      "name": "富乐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/富乐街道"
+    },
+    {
+      "code": "510704006",
+      "name": "科学城春雷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/科学城春雷街道"
+    },
+    {
+      "code": "510704009",
+      "name": "游仙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/游仙街道"
+    },
+    {
+      "code": "510704101",
+      "name": "石马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/石马镇"
+    },
+    {
+      "code": "510704102",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/新桥镇"
+    },
+    {
+      "code": "510704104",
+      "name": "魏城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/魏城镇"
+    },
+    {
+      "code": "510704105",
+      "name": "沉抗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/沉抗镇"
+    },
+    {
+      "code": "510704106",
+      "name": "忠兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/忠兴镇"
+    },
+    {
+      "code": "510704112",
+      "name": "松垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/松垭镇"
+    },
+    {
+      "code": "510704121",
+      "name": "小枧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/小枧镇"
+    },
+    {
+      "code": "510704122",
+      "name": "信义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/信义镇"
+    },
+    {
+      "code": "510704123",
+      "name": "仙鹤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/仙鹤镇"
+    },
+    {
+      "code": "510704124",
+      "name": "盐泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510704",
+      "year": 0,
+      "name_path": "四川省/绵阳市/游仙区/盐泉镇"
+    }
+  ]
+}

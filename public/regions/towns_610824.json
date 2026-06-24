@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "610824001",
+      "name": "张家畔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/张家畔街道"
+    },
+    {
+      "code": "610824101",
+      "name": "东坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/东坑镇"
+    },
+    {
+      "code": "610824102",
+      "name": "青阳岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/青阳岔镇"
+    },
+    {
+      "code": "610824103",
+      "name": "宁条梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/宁条梁镇"
+    },
+    {
+      "code": "610824104",
+      "name": "周河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/周河镇"
+    },
+    {
+      "code": "610824105",
+      "name": "红墩界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/红墩界镇"
+    },
+    {
+      "code": "610824106",
+      "name": "杨桥畔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/杨桥畔镇"
+    },
+    {
+      "code": "610824107",
+      "name": "王渠则镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/王渠则镇"
+    },
+    {
+      "code": "610824108",
+      "name": "中山涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/中山涧镇"
+    },
+    {
+      "code": "610824109",
+      "name": "杨米涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/杨米涧镇"
+    },
+    {
+      "code": "610824110",
+      "name": "天赐湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/天赐湾镇"
+    },
+    {
+      "code": "610824111",
+      "name": "龙洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/龙洲镇"
+    },
+    {
+      "code": "610824112",
+      "name": "海则滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/海则滩镇"
+    },
+    {
+      "code": "610824113",
+      "name": "黄蒿界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/黄蒿界镇"
+    },
+    {
+      "code": "610824114",
+      "name": "席麻湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/席麻湾镇"
+    },
+    {
+      "code": "610824115",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/小河镇"
+    },
+    {
+      "code": "610824116",
+      "name": "镇靖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610824",
+      "year": 0,
+      "name_path": "陕西省/榆林市/靖边县/镇靖镇"
+    }
+  ]
+}

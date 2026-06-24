@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "370522001",
+      "name": "利津街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/利津街道"
+    },
+    {
+      "code": "370522002",
+      "name": "凤凰城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/凤凰城街道"
+    },
+    {
+      "code": "370522101",
+      "name": "北宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/北宋镇"
+    },
+    {
+      "code": "370522103",
+      "name": "陈庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/陈庄镇"
+    },
+    {
+      "code": "370522104",
+      "name": "汀罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/汀罗镇"
+    },
+    {
+      "code": "370522105",
+      "name": "盐窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/盐窝镇"
+    },
+    {
+      "code": "370522201",
+      "name": "明集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/明集乡"
+    },
+    {
+      "code": "370522206",
+      "name": "刁口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370522",
+      "year": 0,
+      "name_path": "山东省/东营市/利津县/刁口乡"
+    }
+  ]
+}

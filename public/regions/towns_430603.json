@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "430603001",
+      "name": "长岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430603",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/云溪区/长岭街道"
+    },
+    {
+      "code": "430603002",
+      "name": "云溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430603",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/云溪区/云溪街道"
+    },
+    {
+      "code": "430603003",
+      "name": "松杨湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430603",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/云溪区/松杨湖街道"
+    },
+    {
+      "code": "430603101",
+      "name": "陆城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430603",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/云溪区/陆城镇"
+    },
+    {
+      "code": "430603102",
+      "name": "路口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430603",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/云溪区/路口镇"
+    }
+  ]
+}

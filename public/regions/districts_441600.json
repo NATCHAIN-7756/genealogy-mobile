@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "441602",
+      "name": "源城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "441600",
+      "year": 0,
+      "name_path": "全国/广东省/河源市/源城区"
+    },
+    {
+      "code": "441621",
+      "name": "紫金县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441600",
+      "year": 0,
+      "name_path": "全国/广东省/河源市/紫金县"
+    },
+    {
+      "code": "441622",
+      "name": "龙川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441600",
+      "year": 0,
+      "name_path": "全国/广东省/河源市/龙川县"
+    },
+    {
+      "code": "441623",
+      "name": "连平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441600",
+      "year": 0,
+      "name_path": "全国/广东省/河源市/连平县"
+    },
+    {
+      "code": "441624",
+      "name": "和平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441600",
+      "year": 0,
+      "name_path": "全国/广东省/河源市/和平县"
+    },
+    {
+      "code": "441625",
+      "name": "东源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441600",
+      "year": 0,
+      "name_path": "全国/广东省/河源市/东源县"
+    }
+  ]
+}

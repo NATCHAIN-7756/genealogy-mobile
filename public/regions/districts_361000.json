@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "361002",
+      "name": "临川区",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/临川区"
+    },
+    {
+      "code": "361003",
+      "name": "东乡区",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/东乡区"
+    },
+    {
+      "code": "361021",
+      "name": "南城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/南城县"
+    },
+    {
+      "code": "361022",
+      "name": "黎川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/黎川县"
+    },
+    {
+      "code": "361023",
+      "name": "南丰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/南丰县"
+    },
+    {
+      "code": "361024",
+      "name": "崇仁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/崇仁县"
+    },
+    {
+      "code": "361025",
+      "name": "乐安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/乐安县"
+    },
+    {
+      "code": "361026",
+      "name": "宜黄县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/宜黄县"
+    },
+    {
+      "code": "361027",
+      "name": "金溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/金溪县"
+    },
+    {
+      "code": "361028",
+      "name": "资溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/资溪县"
+    },
+    {
+      "code": "361030",
+      "name": "广昌县",
+      "level": 3,
+      "type": null,
+      "parent_code": "361000",
+      "year": 0,
+      "name_path": "全国/江西省/抚州市/广昌县"
+    }
+  ]
+}

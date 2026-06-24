@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "532922101",
+      "name": "苍山西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/苍山西镇"
+    },
+    {
+      "code": "532922102",
+      "name": "漾江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/漾江镇"
+    },
+    {
+      "code": "532922104",
+      "name": "平坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/平坡镇"
+    },
+    {
+      "code": "532922105",
+      "name": "顺濞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/顺濞镇"
+    },
+    {
+      "code": "532922201",
+      "name": "富恒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/富恒乡"
+    },
+    {
+      "code": "532922202",
+      "name": "太平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/太平乡"
+    },
+    {
+      "code": "532922204",
+      "name": "瓦厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/瓦厂乡"
+    },
+    {
+      "code": "532922205",
+      "name": "龙潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/龙潭乡"
+    },
+    {
+      "code": "532922206",
+      "name": "鸡街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532922",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/漾濞彝族自治县/鸡街乡"
+    }
+  ]
+}

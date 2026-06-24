@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "150403001",
+      "name": "西露天街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/西露天街道"
+    },
+    {
+      "code": "150403002",
+      "name": "平庄城区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/平庄城区街道"
+    },
+    {
+      "code": "150403003",
+      "name": "平庄东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/平庄东城街道"
+    },
+    {
+      "code": "150403004",
+      "name": "平庄西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/平庄西城街道"
+    },
+    {
+      "code": "150403005",
+      "name": "云杉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/云杉路街道"
+    },
+    {
+      "code": "150403006",
+      "name": "马林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/马林街道"
+    },
+    {
+      "code": "150403100",
+      "name": "风水沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/风水沟镇"
+    },
+    {
+      "code": "150403101",
+      "name": "元宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/元宝山镇"
+    },
+    {
+      "code": "150403102",
+      "name": "美丽河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/美丽河镇"
+    },
+    {
+      "code": "150403103",
+      "name": "平庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/平庄镇"
+    },
+    {
+      "code": "150403104",
+      "name": "五家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/五家镇"
+    },
+    {
+      "code": "150403201",
+      "name": "小五家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150403",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/元宝山区/小五家乡"
+    }
+  ]
+}

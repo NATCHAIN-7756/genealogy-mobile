@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "540421100",
+      "name": "工布江达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/工布江达镇"
+    },
+    {
+      "code": "540421101",
+      "name": "金达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/金达镇"
+    },
+    {
+      "code": "540421102",
+      "name": "巴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/巴河镇"
+    },
+    {
+      "code": "540421200",
+      "name": "朱拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/朱拉乡"
+    },
+    {
+      "code": "540421201",
+      "name": "错高乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/错高乡"
+    },
+    {
+      "code": "540421202",
+      "name": "仲萨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/仲萨乡"
+    },
+    {
+      "code": "540421203",
+      "name": "江达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/江达乡"
+    },
+    {
+      "code": "540421204",
+      "name": "娘蒲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/娘蒲乡"
+    },
+    {
+      "code": "540421205",
+      "name": "加兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540421",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/工布江达县/加兴乡"
+    }
+  ]
+}

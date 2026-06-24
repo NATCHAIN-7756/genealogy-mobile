@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "230125100",
+      "name": "宾州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/宾州镇"
+    },
+    {
+      "code": "230125101",
+      "name": "居仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/居仁镇"
+    },
+    {
+      "code": "230125102",
+      "name": "宾西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/宾西镇"
+    },
+    {
+      "code": "230125103",
+      "name": "糖坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/糖坊镇"
+    },
+    {
+      "code": "230125104",
+      "name": "宾安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/宾安镇"
+    },
+    {
+      "code": "230125105",
+      "name": "新甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/新甸镇"
+    },
+    {
+      "code": "230125106",
+      "name": "胜利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/胜利镇"
+    },
+    {
+      "code": "230125107",
+      "name": "宁远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/宁远镇"
+    },
+    {
+      "code": "230125109",
+      "name": "摆渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/摆渡镇"
+    },
+    {
+      "code": "230125110",
+      "name": "平坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/平坊镇"
+    },
+    {
+      "code": "230125111",
+      "name": "满井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/满井镇"
+    },
+    {
+      "code": "230125112",
+      "name": "常安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/常安镇"
+    },
+    {
+      "code": "230125201",
+      "name": "永和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/永和乡"
+    },
+    {
+      "code": "230125203",
+      "name": "鸟河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/鸟河乡"
+    },
+    {
+      "code": "230125204",
+      "name": "民和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/民和乡"
+    },
+    {
+      "code": "230125205",
+      "name": "经建乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/经建乡"
+    },
+    {
+      "code": "230125210",
+      "name": "三宝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230125",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/宾县/三宝乡"
+    }
+  ]
+}

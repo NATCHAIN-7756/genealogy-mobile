@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "410927100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/城关镇"
+    },
+    {
+      "code": "410927101",
+      "name": "侯庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/侯庙镇"
+    },
+    {
+      "code": "410927102",
+      "name": "孙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/孙口镇"
+    },
+    {
+      "code": "410927103",
+      "name": "打渔陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/打渔陈镇"
+    },
+    {
+      "code": "410927104",
+      "name": "吴坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/吴坝镇"
+    },
+    {
+      "code": "410927105",
+      "name": "马楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/马楼镇"
+    },
+    {
+      "code": "410927106",
+      "name": "后方镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/后方镇"
+    },
+    {
+      "code": "410927201",
+      "name": "清水河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/清水河乡"
+    },
+    {
+      "code": "410927205",
+      "name": "夹河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410927",
+      "year": 0,
+      "name_path": "河南省/濮阳市/台前县/夹河乡"
+    }
+  ]
+}

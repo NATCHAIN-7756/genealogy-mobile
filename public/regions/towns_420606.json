@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "420606001",
+      "name": "汉江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/汉江街道"
+    },
+    {
+      "code": "420606002",
+      "name": "王寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/王寨街道"
+    },
+    {
+      "code": "420606003",
+      "name": "中原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/中原街道"
+    },
+    {
+      "code": "420606004",
+      "name": "定中门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/定中门街道"
+    },
+    {
+      "code": "420606005",
+      "name": "清河口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/清河口街道"
+    },
+    {
+      "code": "420606006",
+      "name": "屏襄门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/屏襄门街道"
+    },
+    {
+      "code": "420606007",
+      "name": "米公街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/米公街道"
+    },
+    {
+      "code": "420606008",
+      "name": "柿铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/柿铺街道"
+    },
+    {
+      "code": "420606009",
+      "name": "七里河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/七里河街道"
+    },
+    {
+      "code": "420606010",
+      "name": "紫贞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/紫贞街道"
+    },
+    {
+      "code": "420606100",
+      "name": "牛首镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/牛首镇"
+    },
+    {
+      "code": "420606101",
+      "name": "太平店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/太平店镇"
+    },
+    {
+      "code": "420606102",
+      "name": "团山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420606",
+      "year": 0,
+      "name_path": "湖北省/襄阳市/樊城区/团山镇"
+    }
+  ]
+}

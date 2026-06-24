@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530114001",
+      "name": "龙城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/龙城街道"
+    },
+    {
+      "code": "530114003",
+      "name": "斗南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/斗南街道"
+    },
+    {
+      "code": "530114005",
+      "name": "吴家营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/吴家营街道"
+    },
+    {
+      "code": "530114008",
+      "name": "乌龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/乌龙街道"
+    },
+    {
+      "code": "530114009",
+      "name": "洛龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/洛龙街道"
+    },
+    {
+      "code": "530114010",
+      "name": "雨花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/雨花街道"
+    },
+    {
+      "code": "530114011",
+      "name": "马金铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/马金铺街道"
+    },
+    {
+      "code": "530114012",
+      "name": "洛羊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/洛羊街道"
+    },
+    {
+      "code": "530114013",
+      "name": "大渔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/大渔街道"
+    },
+    {
+      "code": "530114014",
+      "name": "七甸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530114",
+      "year": 0,
+      "name_path": "云南省/昆明市/呈贡区/七甸街道"
+    }
+  ]
+}

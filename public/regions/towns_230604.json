@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "230604010",
+      "name": "庆新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/庆新街道"
+    },
+    {
+      "code": "230604011",
+      "name": "北湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/北湖街道"
+    },
+    {
+      "code": "230604012",
+      "name": "奋斗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/奋斗街道"
+    },
+    {
+      "code": "230604013",
+      "name": "龙岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/龙岗街道"
+    },
+    {
+      "code": "230604014",
+      "name": "旭园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/旭园街道"
+    },
+    {
+      "code": "230604015",
+      "name": "西宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/西宾街道"
+    },
+    {
+      "code": "230604016",
+      "name": "怡园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/怡园街道"
+    },
+    {
+      "code": "230604017",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/东湖街道"
+    },
+    {
+      "code": "230604018",
+      "name": "乘风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/乘风街道"
+    },
+    {
+      "code": "230604019",
+      "name": "创业城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/创业城街道"
+    },
+    {
+      "code": "230604020",
+      "name": "银浪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/银浪街道"
+    },
+    {
+      "code": "230604101",
+      "name": "喇嘛甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230604",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/让胡路区/喇嘛甸镇"
+    }
+  ]
+}

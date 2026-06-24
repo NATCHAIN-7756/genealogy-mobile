@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "520103001",
+      "name": "文昌阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/文昌阁街道"
+    },
+    {
+      "code": "520103002",
+      "name": "毓秀路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/毓秀路街道"
+    },
+    {
+      "code": "520103003",
+      "name": "八鸽岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/八鸽岩街道"
+    },
+    {
+      "code": "520103004",
+      "name": "市西河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/市西河街道"
+    },
+    {
+      "code": "520103005",
+      "name": "普陀路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/普陀路街道"
+    },
+    {
+      "code": "520103006",
+      "name": "大营路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/大营路街道"
+    },
+    {
+      "code": "520103007",
+      "name": "黔灵东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/黔灵东路街道"
+    },
+    {
+      "code": "520103008",
+      "name": "威清门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/威清门街道"
+    },
+    {
+      "code": "520103009",
+      "name": "头桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/头桥街道"
+    },
+    {
+      "code": "520103010",
+      "name": "三桥路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/三桥路街道"
+    },
+    {
+      "code": "520103011",
+      "name": "盐务街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/盐务街街道"
+    },
+    {
+      "code": "520103012",
+      "name": "金关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/金关街道"
+    },
+    {
+      "code": "520103013",
+      "name": "马王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/马王街道"
+    },
+    {
+      "code": "520103014",
+      "name": "茶园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/茶园路街道"
+    },
+    {
+      "code": "520103015",
+      "name": "杨惠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/杨惠街道"
+    },
+    {
+      "code": "520103016",
+      "name": "水东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/水东路街道"
+    },
+    {
+      "code": "520103017",
+      "name": "渔安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/渔安街道"
+    },
+    {
+      "code": "520103100",
+      "name": "黔灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520103",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/云岩区/黔灵镇"
+    }
+  ]
+}

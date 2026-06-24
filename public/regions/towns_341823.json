@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "341823100",
+      "name": "泾川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/泾川镇"
+    },
+    {
+      "code": "341823101",
+      "name": "桃花潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/桃花潭镇"
+    },
+    {
+      "code": "341823102",
+      "name": "茂林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/茂林镇"
+    },
+    {
+      "code": "341823103",
+      "name": "榔桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/榔桥镇"
+    },
+    {
+      "code": "341823105",
+      "name": "丁家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/丁家桥镇"
+    },
+    {
+      "code": "341823106",
+      "name": "蔡村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/蔡村镇"
+    },
+    {
+      "code": "341823108",
+      "name": "琴溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/琴溪镇"
+    },
+    {
+      "code": "341823109",
+      "name": "云岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/云岭镇"
+    },
+    {
+      "code": "341823110",
+      "name": "黄村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/黄村镇"
+    },
+    {
+      "code": "341823204",
+      "name": "汀溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/汀溪乡"
+    },
+    {
+      "code": "341823207",
+      "name": "昌桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341823",
+      "year": 0,
+      "name_path": "安徽省/宣城市/泾县/昌桥乡"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "540522100",
+      "name": "吉雄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/吉雄镇"
+    },
+    {
+      "code": "540522101",
+      "name": "甲竹林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/甲竹林镇"
+    },
+    {
+      "code": "540522102",
+      "name": "杰德秀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/杰德秀镇"
+    },
+    {
+      "code": "540522103",
+      "name": "岗堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/岗堆镇"
+    },
+    {
+      "code": "540522104",
+      "name": "江塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/江塘镇"
+    },
+    {
+      "code": "540522200",
+      "name": "朗杰学乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/朗杰学乡"
+    },
+    {
+      "code": "540522201",
+      "name": "昌果乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/昌果乡"
+    },
+    {
+      "code": "540522205",
+      "name": "东拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/东拉乡"
+    },
+    {
+      "code": "540522206",
+      "name": "克西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540522",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/贡嘎县/克西乡"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "330329102",
+      "name": "百丈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/百丈镇"
+    },
+    {
+      "code": "330329111",
+      "name": "罗阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/罗阳镇"
+    },
+    {
+      "code": "330329112",
+      "name": "司前畲族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/司前畲族镇"
+    },
+    {
+      "code": "330329113",
+      "name": "筱村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/筱村镇"
+    },
+    {
+      "code": "330329114",
+      "name": "泗溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/泗溪镇"
+    },
+    {
+      "code": "330329115",
+      "name": "彭溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/彭溪镇"
+    },
+    {
+      "code": "330329116",
+      "name": "雅阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/雅阳镇"
+    },
+    {
+      "code": "330329117",
+      "name": "仕阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/仕阳镇"
+    },
+    {
+      "code": "330329118",
+      "name": "三魁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/三魁镇"
+    },
+    {
+      "code": "330329120",
+      "name": "南浦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/南浦溪镇"
+    },
+    {
+      "code": "330329121",
+      "name": "龟湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/龟湖镇"
+    },
+    {
+      "code": "330329122",
+      "name": "西旸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/西旸镇"
+    },
+    {
+      "code": "330329201",
+      "name": "东溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/东溪乡"
+    },
+    {
+      "code": "330329202",
+      "name": "凤垟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/凤垟乡"
+    },
+    {
+      "code": "330329203",
+      "name": "柳峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/柳峰乡"
+    },
+    {
+      "code": "330329204",
+      "name": "竹里畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/竹里畲族乡"
+    },
+    {
+      "code": "330329206",
+      "name": "雪溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/雪溪乡"
+    },
+    {
+      "code": "330329208",
+      "name": "大安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/大安乡"
+    },
+    {
+      "code": "330329210",
+      "name": "包垟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330329",
+      "year": 0,
+      "name_path": "浙江省/温州市/泰顺县/包垟乡"
+    }
+  ]
+}

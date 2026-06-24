@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "540102002",
+      "name": "八廓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/八廓街道"
+    },
+    {
+      "code": "540102003",
+      "name": "吉日街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/吉日街道"
+    },
+    {
+      "code": "540102004",
+      "name": "吉崩岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/吉崩岗街道"
+    },
+    {
+      "code": "540102005",
+      "name": "扎细街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/扎细街道"
+    },
+    {
+      "code": "540102006",
+      "name": "功德林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/功德林街道"
+    },
+    {
+      "code": "540102007",
+      "name": "嘎玛贡桑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/嘎玛贡桑街道"
+    },
+    {
+      "code": "540102008",
+      "name": "两岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/两岛街道"
+    },
+    {
+      "code": "540102009",
+      "name": "金珠西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/金珠西路街道"
+    },
+    {
+      "code": "540102010",
+      "name": "蔡公堂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/蔡公堂街道"
+    },
+    {
+      "code": "540102011",
+      "name": "夺底街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/夺底街道"
+    },
+    {
+      "code": "540102012",
+      "name": "娘热街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/娘热街道"
+    },
+    {
+      "code": "540102013",
+      "name": "纳金街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/纳金街道"
+    },
+    {
+      "code": "540102014",
+      "name": "慈觉林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/慈觉林街道"
+    },
+    {
+      "code": "540102015",
+      "name": "塔玛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/塔玛街道"
+    },
+    {
+      "code": "540102016",
+      "name": "八一街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540102",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/城关区/八一街道"
+    }
+  ]
+}

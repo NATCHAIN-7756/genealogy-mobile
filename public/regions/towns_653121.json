@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "653121100",
+      "name": "托克扎克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/托克扎克镇"
+    },
+    {
+      "code": "653121102",
+      "name": "吾库萨克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/吾库萨克镇"
+    },
+    {
+      "code": "653121103",
+      "name": "乌帕尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/乌帕尔镇"
+    },
+    {
+      "code": "653121104",
+      "name": "石园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/石园镇"
+    },
+    {
+      "code": "653121105",
+      "name": "辽园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/辽园镇"
+    },
+    {
+      "code": "653121201",
+      "name": "塔什米里克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/塔什米里克乡"
+    },
+    {
+      "code": "653121202",
+      "name": "铁日木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/铁日木乡"
+    },
+    {
+      "code": "653121203",
+      "name": "布拉克苏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/布拉克苏乡"
+    },
+    {
+      "code": "653121211",
+      "name": "木什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653121",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/疏附县/木什乡"
+    }
+  ]
+}

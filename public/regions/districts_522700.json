@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "522701",
+      "name": "都匀市",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/都匀市"
+    },
+    {
+      "code": "522702",
+      "name": "福泉市",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/福泉市"
+    },
+    {
+      "code": "522722",
+      "name": "荔波县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/荔波县"
+    },
+    {
+      "code": "522723",
+      "name": "贵定县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/贵定县"
+    },
+    {
+      "code": "522725",
+      "name": "瓮安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/瓮安县"
+    },
+    {
+      "code": "522726",
+      "name": "独山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/独山县"
+    },
+    {
+      "code": "522727",
+      "name": "平塘县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/平塘县"
+    },
+    {
+      "code": "522728",
+      "name": "罗甸县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/罗甸县"
+    },
+    {
+      "code": "522729",
+      "name": "长顺县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/长顺县"
+    },
+    {
+      "code": "522730",
+      "name": "龙里县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/龙里县"
+    },
+    {
+      "code": "522731",
+      "name": "惠水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/惠水县"
+    },
+    {
+      "code": "522732",
+      "name": "三都水族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "522700",
+      "year": 0,
+      "name_path": "全国/贵州省/黔南布依族苗族自治州/三都水族自治县"
+    }
+  ]
+}

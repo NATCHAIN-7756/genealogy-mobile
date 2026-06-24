@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "653124100",
+      "name": "泽普镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/泽普镇"
+    },
+    {
+      "code": "653124101",
+      "name": "奎依巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/奎依巴格镇"
+    },
+    {
+      "code": "653124200",
+      "name": "波斯喀木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/波斯喀木乡"
+    },
+    {
+      "code": "653124201",
+      "name": "依玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/依玛乡"
+    },
+    {
+      "code": "653124202",
+      "name": "古勒巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/古勒巴格乡"
+    },
+    {
+      "code": "653124203",
+      "name": "赛力乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/赛力乡"
+    },
+    {
+      "code": "653124204",
+      "name": "依克苏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/依克苏乡"
+    },
+    {
+      "code": "653124205",
+      "name": "图呼其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/图呼其乡"
+    },
+    {
+      "code": "653124206",
+      "name": "奎依巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/奎依巴格乡"
+    },
+    {
+      "code": "653124207",
+      "name": "阿克塔木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/阿克塔木乡"
+    },
+    {
+      "code": "653124208",
+      "name": "阿依库勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/阿依库勒乡"
+    },
+    {
+      "code": "653124209",
+      "name": "布依鲁克塔吉克族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/布依鲁克塔吉克族乡"
+    },
+    {
+      "code": "653124210",
+      "name": "桐安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/桐安乡"
+    },
+    {
+      "code": "653124999",
+      "name": "奎依巴格区公所",
+      "level": 4,
+      "type": null,
+      "parent_code": "653124",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/泽普县/奎依巴格区公所"
+    }
+  ]
+}

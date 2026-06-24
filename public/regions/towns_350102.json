@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "350102001",
+      "name": "鼓东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/鼓东街道"
+    },
+    {
+      "code": "350102002",
+      "name": "鼓西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/鼓西街道"
+    },
+    {
+      "code": "350102003",
+      "name": "温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/温泉街道"
+    },
+    {
+      "code": "350102004",
+      "name": "东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/东街街道"
+    },
+    {
+      "code": "350102005",
+      "name": "南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/南街街道"
+    },
+    {
+      "code": "350102006",
+      "name": "安泰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/安泰街道"
+    },
+    {
+      "code": "350102007",
+      "name": "华大街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/华大街道"
+    },
+    {
+      "code": "350102008",
+      "name": "水部街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/水部街道"
+    },
+    {
+      "code": "350102009",
+      "name": "五凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/五凤街道"
+    },
+    {
+      "code": "350102100",
+      "name": "洪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350102",
+      "year": 0,
+      "name_path": "福建省/福州市/鼓楼区/洪山镇"
+    }
+  ]
+}

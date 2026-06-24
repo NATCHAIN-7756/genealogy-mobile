@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "341282001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/东城街道"
+    },
+    {
+      "code": "341282002",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/西城街道"
+    },
+    {
+      "code": "341282003",
+      "name": "颍南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/颍南街道"
+    },
+    {
+      "code": "341282100",
+      "name": "光武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/光武镇"
+    },
+    {
+      "code": "341282101",
+      "name": "泉阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/泉阳镇"
+    },
+    {
+      "code": "341282102",
+      "name": "芦村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/芦村镇"
+    },
+    {
+      "code": "341282103",
+      "name": "新马集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/新马集镇"
+    },
+    {
+      "code": "341282104",
+      "name": "大黄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/大黄镇"
+    },
+    {
+      "code": "341282105",
+      "name": "田营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/田营镇"
+    },
+    {
+      "code": "341282106",
+      "name": "陶庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/陶庙镇"
+    },
+    {
+      "code": "341282107",
+      "name": "王集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/王集镇"
+    },
+    {
+      "code": "341282108",
+      "name": "砖集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/砖集镇"
+    },
+    {
+      "code": "341282109",
+      "name": "顾集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/顾集镇"
+    },
+    {
+      "code": "341282110",
+      "name": "戴桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/戴桥镇"
+    },
+    {
+      "code": "341282111",
+      "name": "舒庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/舒庄镇"
+    },
+    {
+      "code": "341282112",
+      "name": "邴集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/邴集镇"
+    },
+    {
+      "code": "341282113",
+      "name": "任寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/任寨镇"
+    },
+    {
+      "code": "341282201",
+      "name": "靳寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341282",
+      "year": 0,
+      "name_path": "安徽省/阜阳市/界首市/靳寨乡"
+    }
+  ]
+}

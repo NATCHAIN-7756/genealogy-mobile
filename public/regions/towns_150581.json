@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "150581001",
+      "name": "珠斯花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150581",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/霍林郭勒市/珠斯花街道"
+    },
+    {
+      "code": "150581002",
+      "name": "莫斯台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150581",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/霍林郭勒市/莫斯台街道"
+    },
+    {
+      "code": "150581003",
+      "name": "宝日呼吉尔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150581",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/霍林郭勒市/宝日呼吉尔街道"
+    },
+    {
+      "code": "150581005",
+      "name": "沙尔呼热街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150581",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/霍林郭勒市/沙尔呼热街道"
+    },
+    {
+      "code": "150581200",
+      "name": "达来胡硕苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150581",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/霍林郭勒市/达来胡硕苏木"
+    }
+  ]
+}

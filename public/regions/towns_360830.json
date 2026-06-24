@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "360830001",
+      "name": "三月坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/三月坪街道"
+    },
+    {
+      "code": "360830100",
+      "name": "禾川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/禾川镇"
+    },
+    {
+      "code": "360830102",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/石桥镇"
+    },
+    {
+      "code": "360830104",
+      "name": "澧田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/澧田镇"
+    },
+    {
+      "code": "360830105",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/龙门镇"
+    },
+    {
+      "code": "360830106",
+      "name": "沙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/沙市镇"
+    },
+    {
+      "code": "360830107",
+      "name": "文竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/文竹镇"
+    },
+    {
+      "code": "360830108",
+      "name": "埠前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/埠前镇"
+    },
+    {
+      "code": "360830109",
+      "name": "怀忠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/怀忠镇"
+    },
+    {
+      "code": "360830110",
+      "name": "高桥楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/高桥楼镇"
+    },
+    {
+      "code": "360830111",
+      "name": "龙源口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/龙源口镇"
+    },
+    {
+      "code": "360830201",
+      "name": "坳南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/坳南乡"
+    },
+    {
+      "code": "360830204",
+      "name": "才丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/才丰乡"
+    },
+    {
+      "code": "360830205",
+      "name": "烟阁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/烟阁乡"
+    },
+    {
+      "code": "360830207",
+      "name": "在中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/在中乡"
+    },
+    {
+      "code": "360830208",
+      "name": "三湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/三湾乡"
+    },
+    {
+      "code": "360830210",
+      "name": "台岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/台岭乡"
+    },
+    {
+      "code": "360830211",
+      "name": "龙田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/龙田乡"
+    },
+    {
+      "code": "360830212",
+      "name": "高溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/高溪乡"
+    },
+    {
+      "code": "360830213",
+      "name": "莲洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/莲洲乡"
+    },
+    {
+      "code": "360830214",
+      "name": "高市乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/高市乡"
+    },
+    {
+      "code": "360830216",
+      "name": "象形乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/象形乡"
+    },
+    {
+      "code": "360830217",
+      "name": "芦溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/芦溪乡"
+    },
+    {
+      "code": "360830218",
+      "name": "曲白乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360830",
+      "year": 0,
+      "name_path": "江西省/吉安市/永新县/曲白乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "410804001",
+      "name": "马村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/马村街道"
+    },
+    {
+      "code": "410804002",
+      "name": "武王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/武王街道"
+    },
+    {
+      "code": "410804003",
+      "name": "冯营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/冯营街道"
+    },
+    {
+      "code": "410804004",
+      "name": "九里山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/九里山街道"
+    },
+    {
+      "code": "410804005",
+      "name": "待王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/待王街道"
+    },
+    {
+      "code": "410804006",
+      "name": "安阳城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/安阳城街道"
+    },
+    {
+      "code": "410804007",
+      "name": "演马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410804",
+      "year": 0,
+      "name_path": "河南省/焦作市/马村区/演马街道"
+    }
+  ]
+}

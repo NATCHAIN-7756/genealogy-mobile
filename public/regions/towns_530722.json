@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "530722100",
+      "name": "永北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/永北镇"
+    },
+    {
+      "code": "530722101",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/仁和镇"
+    },
+    {
+      "code": "530722102",
+      "name": "期纳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/期纳镇"
+    },
+    {
+      "code": "530722103",
+      "name": "三川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/三川镇"
+    },
+    {
+      "code": "530722105",
+      "name": "程海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/程海镇"
+    },
+    {
+      "code": "530722106",
+      "name": "涛源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/涛源镇"
+    },
+    {
+      "code": "530722107",
+      "name": "片角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/片角镇"
+    },
+    {
+      "code": "530722108",
+      "name": "顺州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/顺州镇"
+    },
+    {
+      "code": "530722109",
+      "name": "鲁地拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/鲁地拉镇"
+    },
+    {
+      "code": "530722200",
+      "name": "羊坪彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/羊坪彝族乡"
+    },
+    {
+      "code": "530722201",
+      "name": "六德傈僳族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/六德傈僳族彝族乡"
+    },
+    {
+      "code": "530722202",
+      "name": "东山傈僳族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/东山傈僳族彝族乡"
+    },
+    {
+      "code": "530722207",
+      "name": "光华傈僳族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/光华傈僳族彝族乡"
+    },
+    {
+      "code": "530722208",
+      "name": "松坪傈僳族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/松坪傈僳族彝族乡"
+    },
+    {
+      "code": "530722209",
+      "name": "大安彝族纳西族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530722",
+      "year": 0,
+      "name_path": "云南省/丽江市/永胜县/大安彝族纳西族乡"
+    }
+  ]
+}

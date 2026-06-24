@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "350421100",
+      "name": "雪峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/雪峰镇"
+    },
+    {
+      "code": "350421101",
+      "name": "盖洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/盖洋镇"
+    },
+    {
+      "code": "350421102",
+      "name": "胡坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/胡坊镇"
+    },
+    {
+      "code": "350421103",
+      "name": "瀚仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/瀚仙镇"
+    },
+    {
+      "code": "350421200",
+      "name": "城关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/城关乡"
+    },
+    {
+      "code": "350421201",
+      "name": "沙溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/沙溪乡"
+    },
+    {
+      "code": "350421202",
+      "name": "夏阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/夏阳乡"
+    },
+    {
+      "code": "350421203",
+      "name": "枫溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/枫溪乡"
+    },
+    {
+      "code": "350421204",
+      "name": "夏坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350421",
+      "year": 0,
+      "name_path": "福建省/三明市/明溪县/夏坊乡"
+    }
+  ]
+}

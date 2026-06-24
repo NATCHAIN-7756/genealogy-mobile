@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "210411002",
+      "name": "长春街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/长春街道"
+    },
+    {
+      "code": "210411003",
+      "name": "葛布街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/葛布街道"
+    },
+    {
+      "code": "210411004",
+      "name": "将军堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/将军堡街道"
+    },
+    {
+      "code": "210411005",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/新华街道"
+    },
+    {
+      "code": "210411007",
+      "name": "抚顺城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/抚顺城街道"
+    },
+    {
+      "code": "210411102",
+      "name": "前甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/前甸镇"
+    },
+    {
+      "code": "210411201",
+      "name": "河北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/河北乡"
+    },
+    {
+      "code": "210411205",
+      "name": "会元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210411",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/顺城区/会元乡"
+    }
+  ]
+}

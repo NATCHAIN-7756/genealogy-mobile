@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "630103001",
+      "name": "人民街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/人民街街道"
+    },
+    {
+      "code": "630103002",
+      "name": "南滩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/南滩街道"
+    },
+    {
+      "code": "630103003",
+      "name": "仓门街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/仓门街街道"
+    },
+    {
+      "code": "630103004",
+      "name": "礼让街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/礼让街街道"
+    },
+    {
+      "code": "630103005",
+      "name": "饮马街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/饮马街街道"
+    },
+    {
+      "code": "630103006",
+      "name": "南川东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/南川东路街道"
+    },
+    {
+      "code": "630103007",
+      "name": "南川西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/南川西路街道"
+    },
+    {
+      "code": "630103100",
+      "name": "总寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630103",
+      "year": 0,
+      "name_path": "青海省/西宁市/城中区/总寨镇"
+    }
+  ]
+}

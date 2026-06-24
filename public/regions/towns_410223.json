@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "410223001",
+      "name": "两湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/两湖街道"
+    },
+    {
+      "code": "410223101",
+      "name": "洧川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/洧川镇"
+    },
+    {
+      "code": "410223102",
+      "name": "朱曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/朱曲镇"
+    },
+    {
+      "code": "410223103",
+      "name": "蔡庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/蔡庄镇"
+    },
+    {
+      "code": "410223104",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/永兴镇"
+    },
+    {
+      "code": "410223105",
+      "name": "张市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/张市镇"
+    },
+    {
+      "code": "410223106",
+      "name": "十八里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/十八里镇"
+    },
+    {
+      "code": "410223107",
+      "name": "水坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/水坡镇"
+    },
+    {
+      "code": "410223108",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/大营镇"
+    },
+    {
+      "code": "410223109",
+      "name": "庄头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/庄头镇"
+    },
+    {
+      "code": "410223200",
+      "name": "邢庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/邢庄乡"
+    },
+    {
+      "code": "410223205",
+      "name": "门楼任乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/门楼任乡"
+    },
+    {
+      "code": "410223206",
+      "name": "大桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/大桥乡"
+    },
+    {
+      "code": "410223207",
+      "name": "南曹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/南曹乡"
+    },
+    {
+      "code": "410223208",
+      "name": "小陈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410223",
+      "year": 0,
+      "name_path": "河南省/开封市/尉氏县/小陈乡"
+    }
+  ]
+}

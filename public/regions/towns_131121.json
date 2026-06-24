@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "131121100",
+      "name": "枣强镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/枣强镇"
+    },
+    {
+      "code": "131121101",
+      "name": "恩察镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/恩察镇"
+    },
+    {
+      "code": "131121102",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/大营镇"
+    },
+    {
+      "code": "131121103",
+      "name": "嘉会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/嘉会镇"
+    },
+    {
+      "code": "131121104",
+      "name": "马屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/马屯镇"
+    },
+    {
+      "code": "131121105",
+      "name": "肖张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/肖张镇"
+    },
+    {
+      "code": "131121106",
+      "name": "张秀屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/张秀屯镇"
+    },
+    {
+      "code": "131121107",
+      "name": "新屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/新屯镇"
+    },
+    {
+      "code": "131121108",
+      "name": "唐林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/唐林镇"
+    },
+    {
+      "code": "131121202",
+      "name": "王均乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/王均乡"
+    },
+    {
+      "code": "131121204",
+      "name": "王常乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131121",
+      "year": 0,
+      "name_path": "河北省/衡水市/枣强县/王常乡"
+    }
+  ]
+}

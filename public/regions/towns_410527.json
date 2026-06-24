@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "410527001",
+      "name": "繁阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/繁阳街道"
+    },
+    {
+      "code": "410527002",
+      "name": "龙庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/龙庆街道"
+    },
+    {
+      "code": "410527101",
+      "name": "东庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/东庄镇"
+    },
+    {
+      "code": "410527102",
+      "name": "井店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/井店镇"
+    },
+    {
+      "code": "410527103",
+      "name": "梁庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/梁庄镇"
+    },
+    {
+      "code": "410527104",
+      "name": "后河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/后河镇"
+    },
+    {
+      "code": "410527105",
+      "name": "楚旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/楚旺镇"
+    },
+    {
+      "code": "410527106",
+      "name": "田氏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/田氏镇"
+    },
+    {
+      "code": "410527107",
+      "name": "二安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/二安镇"
+    },
+    {
+      "code": "410527108",
+      "name": "亳城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/亳城镇"
+    },
+    {
+      "code": "410527109",
+      "name": "豆公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/豆公镇"
+    },
+    {
+      "code": "410527110",
+      "name": "中召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/中召镇"
+    },
+    {
+      "code": "410527111",
+      "name": "六村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/六村镇"
+    },
+    {
+      "code": "410527201",
+      "name": "马上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/马上乡"
+    },
+    {
+      "code": "410527202",
+      "name": "高堤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/高堤乡"
+    },
+    {
+      "code": "410527207",
+      "name": "宋村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/宋村乡"
+    },
+    {
+      "code": "410527209",
+      "name": "石盘屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410527",
+      "year": 0,
+      "name_path": "河南省/安阳市/内黄县/石盘屯乡"
+    }
+  ]
+}

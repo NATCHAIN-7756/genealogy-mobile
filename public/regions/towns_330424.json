@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "330424001",
+      "name": "武原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/武原街道"
+    },
+    {
+      "code": "330424002",
+      "name": "秦山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/秦山街道"
+    },
+    {
+      "code": "330424003",
+      "name": "望海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/望海街道"
+    },
+    {
+      "code": "330424004",
+      "name": "西塘桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/西塘桥街道"
+    },
+    {
+      "code": "330424101",
+      "name": "沈荡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/沈荡镇"
+    },
+    {
+      "code": "330424102",
+      "name": "百步镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/百步镇"
+    },
+    {
+      "code": "330424103",
+      "name": "于城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/于城镇"
+    },
+    {
+      "code": "330424105",
+      "name": "澉浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/澉浦镇"
+    },
+    {
+      "code": "330424106",
+      "name": "通元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330424",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/海盐县/通元镇"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "431221105",
+      "name": "桐木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/桐木镇"
+    },
+    {
+      "code": "431221107",
+      "name": "新建镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/新建镇"
+    },
+    {
+      "code": "431221108",
+      "name": "接龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/接龙镇"
+    },
+    {
+      "code": "431221109",
+      "name": "铜鼎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/铜鼎镇"
+    },
+    {
+      "code": "431221111",
+      "name": "中方镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/中方镇"
+    },
+    {
+      "code": "431221112",
+      "name": "泸阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/泸阳镇"
+    },
+    {
+      "code": "431221113",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/花桥镇"
+    },
+    {
+      "code": "431221114",
+      "name": "铜湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/铜湾镇"
+    },
+    {
+      "code": "431221115",
+      "name": "铁坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/铁坡镇"
+    },
+    {
+      "code": "431221116",
+      "name": "新路河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/新路河镇"
+    },
+    {
+      "code": "431221117",
+      "name": "袁家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/袁家镇"
+    },
+    {
+      "code": "431221214",
+      "name": "蒿吉坪瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431221",
+      "year": 0,
+      "name_path": "湖南省/怀化市/中方县/蒿吉坪瑶族乡"
+    }
+  ]
+}

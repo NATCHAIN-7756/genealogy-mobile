@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "371726001",
+      "name": "陈王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/陈王街道"
+    },
+    {
+      "code": "371726002",
+      "name": "古泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/古泉街道"
+    },
+    {
+      "code": "371726101",
+      "name": "什集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/什集镇"
+    },
+    {
+      "code": "371726102",
+      "name": "红船镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/红船镇"
+    },
+    {
+      "code": "371726103",
+      "name": "旧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/旧城镇"
+    },
+    {
+      "code": "371726104",
+      "name": "阎什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/阎什镇"
+    },
+    {
+      "code": "371726105",
+      "name": "箕山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/箕山镇"
+    },
+    {
+      "code": "371726106",
+      "name": "李进士堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/李进士堂镇"
+    },
+    {
+      "code": "371726107",
+      "name": "董口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/董口镇"
+    },
+    {
+      "code": "371726108",
+      "name": "临濮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/临濮镇"
+    },
+    {
+      "code": "371726109",
+      "name": "彭楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/彭楼镇"
+    },
+    {
+      "code": "371726110",
+      "name": "凤凰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/凤凰镇"
+    },
+    {
+      "code": "371726111",
+      "name": "郑营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/郑营镇"
+    },
+    {
+      "code": "371726112",
+      "name": "大埝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/大埝镇"
+    },
+    {
+      "code": "371726113",
+      "name": "引马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/引马镇"
+    },
+    {
+      "code": "371726114",
+      "name": "左营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/左营镇"
+    },
+    {
+      "code": "371726115",
+      "name": "富春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371726",
+      "year": 0,
+      "name_path": "山东省/菏泽市/鄄城县/富春镇"
+    }
+  ]
+}

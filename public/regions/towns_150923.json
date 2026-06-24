@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "150923100",
+      "name": "七台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/七台镇"
+    },
+    {
+      "code": "150923101",
+      "name": "十八顷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/十八顷镇"
+    },
+    {
+      "code": "150923102",
+      "name": "大黑沙土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/大黑沙土镇"
+    },
+    {
+      "code": "150923103",
+      "name": "西井子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/西井子镇"
+    },
+    {
+      "code": "150923104",
+      "name": "屯垦队镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/屯垦队镇"
+    },
+    {
+      "code": "150923105",
+      "name": "小海子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/小海子镇"
+    },
+    {
+      "code": "150923205",
+      "name": "大库伦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/大库伦乡"
+    },
+    {
+      "code": "150923206",
+      "name": "卯都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/卯都乡"
+    },
+    {
+      "code": "150923207",
+      "name": "玻璃忽镜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/玻璃忽镜乡"
+    },
+    {
+      "code": "150923208",
+      "name": "三大顷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150923",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/商都县/三大顷乡"
+    }
+  ]
+}

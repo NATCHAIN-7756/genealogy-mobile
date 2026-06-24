@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "533422100",
+      "name": "升平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/升平镇"
+    },
+    {
+      "code": "533422101",
+      "name": "奔子栏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/奔子栏镇"
+    },
+    {
+      "code": "533422102",
+      "name": "叶枝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/叶枝镇"
+    },
+    {
+      "code": "533422200",
+      "name": "佛山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/佛山乡"
+    },
+    {
+      "code": "533422201",
+      "name": "云岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/云岭乡"
+    },
+    {
+      "code": "533422202",
+      "name": "燕门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/燕门乡"
+    },
+    {
+      "code": "533422203",
+      "name": "拖顶傈僳族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/拖顶傈僳族乡"
+    },
+    {
+      "code": "533422204",
+      "name": "霞若傈僳族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/霞若傈僳族乡"
+    },
+    {
+      "code": "533422206",
+      "name": "羊拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/羊拉乡"
+    },
+    {
+      "code": "533422207",
+      "name": "巴迪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533422",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/德钦县/巴迪乡"
+    }
+  ]
+}

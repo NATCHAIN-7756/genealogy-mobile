@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "513232100",
+      "name": "达扎寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/达扎寺镇"
+    },
+    {
+      "code": "513232102",
+      "name": "唐克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/唐克镇"
+    },
+    {
+      "code": "513232103",
+      "name": "红星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/红星镇"
+    },
+    {
+      "code": "513232104",
+      "name": "辖曼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/辖曼镇"
+    },
+    {
+      "code": "513232105",
+      "name": "巴西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/巴西镇"
+    },
+    {
+      "code": "513232106",
+      "name": "阿西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/阿西镇"
+    },
+    {
+      "code": "513232107",
+      "name": "铁布镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/铁布镇"
+    },
+    {
+      "code": "513232205",
+      "name": "麦溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/麦溪乡"
+    },
+    {
+      "code": "513232206",
+      "name": "嫩哇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/嫩哇乡"
+    },
+    {
+      "code": "513232207",
+      "name": "降扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/降扎乡"
+    },
+    {
+      "code": "513232208",
+      "name": "占哇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/占哇乡"
+    },
+    {
+      "code": "513232214",
+      "name": "求吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/求吉乡"
+    },
+    {
+      "code": "513232215",
+      "name": "包座乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513232",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/若尔盖县/包座乡"
+    }
+  ]
+}

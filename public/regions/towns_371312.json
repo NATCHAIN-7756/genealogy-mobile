@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "371312001",
+      "name": "九曲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/九曲街道"
+    },
+    {
+      "code": "371312002",
+      "name": "相公街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/相公街道"
+    },
+    {
+      "code": "371312003",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/太平街道"
+    },
+    {
+      "code": "371312004",
+      "name": "汤头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/汤头街道"
+    },
+    {
+      "code": "371312005",
+      "name": "凤凰岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/凤凰岭街道"
+    },
+    {
+      "code": "371312006",
+      "name": "芝麻墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/芝麻墩街道"
+    },
+    {
+      "code": "371312007",
+      "name": "梅埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/梅埠街道"
+    },
+    {
+      "code": "371312008",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/朝阳街道"
+    },
+    {
+      "code": "371312104",
+      "name": "汤河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/汤河镇"
+    },
+    {
+      "code": "371312107",
+      "name": "八湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/八湖镇"
+    },
+    {
+      "code": "371312108",
+      "name": "郑旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371312",
+      "year": 0,
+      "name_path": "山东省/临沂市/河东区/郑旺镇"
+    }
+  ]
+}

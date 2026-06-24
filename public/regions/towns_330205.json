@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "330205003",
+      "name": "孔浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/孔浦街道"
+    },
+    {
+      "code": "330205004",
+      "name": "文教街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/文教街道"
+    },
+    {
+      "code": "330205005",
+      "name": "庄桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/庄桥街道"
+    },
+    {
+      "code": "330205006",
+      "name": "甬江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/甬江街道"
+    },
+    {
+      "code": "330205007",
+      "name": "洪塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/洪塘街道"
+    },
+    {
+      "code": "330205008",
+      "name": "前江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/前江街道"
+    },
+    {
+      "code": "330205009",
+      "name": "外滩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/外滩街道"
+    },
+    {
+      "code": "330205103",
+      "name": "慈城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330205",
+      "year": 0,
+      "name_path": "浙江省/宁波市/江北区/慈城镇"
+    }
+  ]
+}

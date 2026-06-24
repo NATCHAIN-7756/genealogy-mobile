@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "130609100",
+      "name": "安肃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/安肃镇"
+    },
+    {
+      "code": "130609101",
+      "name": "崔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/崔庄镇"
+    },
+    {
+      "code": "130609102",
+      "name": "大因镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/大因镇"
+    },
+    {
+      "code": "130609103",
+      "name": "遂城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/遂城镇"
+    },
+    {
+      "code": "130609104",
+      "name": "高林村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/高林村镇"
+    },
+    {
+      "code": "130609105",
+      "name": "大王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/大王店镇"
+    },
+    {
+      "code": "130609106",
+      "name": "漕河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/漕河镇"
+    },
+    {
+      "code": "130609107",
+      "name": "留村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/留村镇"
+    },
+    {
+      "code": "130609108",
+      "name": "东史端镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/东史端镇"
+    },
+    {
+      "code": "130609109",
+      "name": "正村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/正村镇"
+    },
+    {
+      "code": "130609203",
+      "name": "户木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/户木乡"
+    },
+    {
+      "code": "130609204",
+      "name": "瀑河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/瀑河乡"
+    },
+    {
+      "code": "130609205",
+      "name": "东釜山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/东釜山乡"
+    },
+    {
+      "code": "130609206",
+      "name": "义联庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130609",
+      "year": 0,
+      "name_path": "河北省/保定市/徐水区/义联庄乡"
+    }
+  ]
+}

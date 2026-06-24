@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "210203001",
+      "name": "香炉礁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210203",
+      "year": 0,
+      "name_path": "辽宁省/大连市/西岗区/香炉礁街道"
+    },
+    {
+      "code": "210203010",
+      "name": "八一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210203",
+      "year": 0,
+      "name_path": "辽宁省/大连市/西岗区/八一路街道"
+    },
+    {
+      "code": "210203013",
+      "name": "白云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210203",
+      "year": 0,
+      "name_path": "辽宁省/大连市/西岗区/白云街道"
+    },
+    {
+      "code": "210203016",
+      "name": "日新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210203",
+      "year": 0,
+      "name_path": "辽宁省/大连市/西岗区/日新街道"
+    },
+    {
+      "code": "210203017",
+      "name": "人民广场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210203",
+      "year": 0,
+      "name_path": "辽宁省/大连市/西岗区/人民广场街道"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "540322100",
+      "name": "莫洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/莫洛镇"
+    },
+    {
+      "code": "540322200",
+      "name": "相皮乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/相皮乡"
+    },
+    {
+      "code": "540322201",
+      "name": "哈加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/哈加乡"
+    },
+    {
+      "code": "540322202",
+      "name": "雄松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/雄松乡"
+    },
+    {
+      "code": "540322203",
+      "name": "拉妥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/拉妥乡"
+    },
+    {
+      "code": "540322204",
+      "name": "阿旺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/阿旺乡"
+    },
+    {
+      "code": "540322205",
+      "name": "木协乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/木协乡"
+    },
+    {
+      "code": "540322206",
+      "name": "罗麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/罗麦乡"
+    },
+    {
+      "code": "540322207",
+      "name": "沙东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/沙东乡"
+    },
+    {
+      "code": "540322208",
+      "name": "克日乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/克日乡"
+    },
+    {
+      "code": "540322209",
+      "name": "则巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/则巴乡"
+    },
+    {
+      "code": "540322210",
+      "name": "敏都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540322",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/贡觉县/敏都乡"
+    }
+  ]
+}

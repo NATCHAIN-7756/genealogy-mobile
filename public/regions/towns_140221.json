@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140221100",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/龙泉镇"
+    },
+    {
+      "code": "140221101",
+      "name": "罗文皂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/罗文皂镇"
+    },
+    {
+      "code": "140221102",
+      "name": "大白登镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/大白登镇"
+    },
+    {
+      "code": "140221103",
+      "name": "王官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/王官屯镇"
+    },
+    {
+      "code": "140221104",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/古城镇"
+    },
+    {
+      "code": "140221105",
+      "name": "东小村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/东小村镇"
+    },
+    {
+      "code": "140221106",
+      "name": "友宰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/友宰镇"
+    },
+    {
+      "code": "140221201",
+      "name": "长城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/长城乡"
+    },
+    {
+      "code": "140221204",
+      "name": "狮子屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/狮子屯乡"
+    },
+    {
+      "code": "140221209",
+      "name": "下深井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/下深井乡"
+    },
+    {
+      "code": "140221212",
+      "name": "鳌石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140221",
+      "year": 0,
+      "name_path": "山西省/大同市/阳高县/鳌石乡"
+    }
+  ]
+}

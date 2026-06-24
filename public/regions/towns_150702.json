@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150702001",
+      "name": "正阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/正阳街道"
+    },
+    {
+      "code": "150702003",
+      "name": "靠山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/靠山街道"
+    },
+    {
+      "code": "150702004",
+      "name": "健康街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/健康街道"
+    },
+    {
+      "code": "150702005",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/胜利街道"
+    },
+    {
+      "code": "150702006",
+      "name": "呼伦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/呼伦街道"
+    },
+    {
+      "code": "150702007",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/建设街道"
+    },
+    {
+      "code": "150702008",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/东山街道"
+    },
+    {
+      "code": "150702101",
+      "name": "奋斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/奋斗镇"
+    },
+    {
+      "code": "150702102",
+      "name": "哈克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150702",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/海拉尔区/哈克镇"
+    }
+  ]
+}

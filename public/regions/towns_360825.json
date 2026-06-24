@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "360825100",
+      "name": "恩江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/恩江镇"
+    },
+    {
+      "code": "360825101",
+      "name": "藤田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/藤田镇"
+    },
+    {
+      "code": "360825102",
+      "name": "石马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/石马镇"
+    },
+    {
+      "code": "360825103",
+      "name": "沙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/沙溪镇"
+    },
+    {
+      "code": "360825104",
+      "name": "坑田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/坑田镇"
+    },
+    {
+      "code": "360825105",
+      "name": "沿陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/沿陂镇"
+    },
+    {
+      "code": "360825106",
+      "name": "古县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/古县镇"
+    },
+    {
+      "code": "360825107",
+      "name": "瑶田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/瑶田镇"
+    },
+    {
+      "code": "360825200",
+      "name": "佐龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/佐龙乡"
+    },
+    {
+      "code": "360825202",
+      "name": "八江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/八江乡"
+    },
+    {
+      "code": "360825204",
+      "name": "潭城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/潭城乡"
+    },
+    {
+      "code": "360825205",
+      "name": "鹿冈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/鹿冈乡"
+    },
+    {
+      "code": "360825206",
+      "name": "七都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/七都乡"
+    },
+    {
+      "code": "360825208",
+      "name": "陶唐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/陶唐乡"
+    },
+    {
+      "code": "360825210",
+      "name": "中村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/中村乡"
+    },
+    {
+      "code": "360825211",
+      "name": "上溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/上溪乡"
+    },
+    {
+      "code": "360825213",
+      "name": "潭头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/潭头乡"
+    },
+    {
+      "code": "360825214",
+      "name": "三坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/三坊乡"
+    },
+    {
+      "code": "360825215",
+      "name": "上固乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/上固乡"
+    },
+    {
+      "code": "360825216",
+      "name": "君埠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/君埠乡"
+    },
+    {
+      "code": "360825217",
+      "name": "龙冈畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360825",
+      "year": 0,
+      "name_path": "江西省/吉安市/永丰县/龙冈畲族乡"
+    }
+  ]
+}

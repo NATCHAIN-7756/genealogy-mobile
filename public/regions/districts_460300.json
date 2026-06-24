@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "460302",
+      "name": "西沙区",
+      "level": 3,
+      "type": null,
+      "parent_code": "460300",
+      "year": 0,
+      "name_path": "全国/海南省/三沙市/西沙区"
+    },
+    {
+      "code": "460303",
+      "name": "南沙区",
+      "level": 3,
+      "type": null,
+      "parent_code": "460300",
+      "year": 0,
+      "name_path": "全国/海南省/三沙市/南沙区"
+    }
+  ]
+}

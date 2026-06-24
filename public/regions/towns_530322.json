@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "530322001",
+      "name": "中枢街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/中枢街道"
+    },
+    {
+      "code": "530322002",
+      "name": "同乐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/同乐街道"
+    },
+    {
+      "code": "530322101",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/板桥镇"
+    },
+    {
+      "code": "530322102",
+      "name": "三岔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/三岔河镇"
+    },
+    {
+      "code": "530322103",
+      "name": "马街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/马街镇"
+    },
+    {
+      "code": "530322104",
+      "name": "召夸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/召夸镇"
+    },
+    {
+      "code": "530322105",
+      "name": "大莫古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/大莫古镇"
+    },
+    {
+      "code": "530322106",
+      "name": "芳华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/芳华镇"
+    },
+    {
+      "code": "530322107",
+      "name": "小百户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/小百户镇"
+    },
+    {
+      "code": "530322200",
+      "name": "活水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/活水乡"
+    },
+    {
+      "code": "530322202",
+      "name": "龙海乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530322",
+      "year": 0,
+      "name_path": "云南省/曲靖市/陆良县/龙海乡"
+    }
+  ]
+}

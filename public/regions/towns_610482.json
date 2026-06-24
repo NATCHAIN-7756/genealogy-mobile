@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "610482001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/城关街道"
+    },
+    {
+      "code": "610482002",
+      "name": "豳风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/豳风街道"
+    },
+    {
+      "code": "610482100",
+      "name": "北极镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/北极镇"
+    },
+    {
+      "code": "610482101",
+      "name": "新民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/新民镇"
+    },
+    {
+      "code": "610482102",
+      "name": "龙高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/龙高镇"
+    },
+    {
+      "code": "610482103",
+      "name": "永乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/永乐镇"
+    },
+    {
+      "code": "610482104",
+      "name": "义门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/义门镇"
+    },
+    {
+      "code": "610482105",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/水口镇"
+    },
+    {
+      "code": "610482106",
+      "name": "韩家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/韩家镇"
+    },
+    {
+      "code": "610482107",
+      "name": "太峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610482",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/彬州市/太峪镇"
+    }
+  ]
+}

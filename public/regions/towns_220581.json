@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "220581001",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/新华街道"
+    },
+    {
+      "code": "220581002",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/和平街道"
+    },
+    {
+      "code": "220581003",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/光明街道"
+    },
+    {
+      "code": "220581004",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/解放街道"
+    },
+    {
+      "code": "220581005",
+      "name": "福民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/福民街道"
+    },
+    {
+      "code": "220581100",
+      "name": "山城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/山城镇"
+    },
+    {
+      "code": "220581101",
+      "name": "红梅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/红梅镇"
+    },
+    {
+      "code": "220581102",
+      "name": "海龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/海龙镇"
+    },
+    {
+      "code": "220581103",
+      "name": "新合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/新合镇"
+    },
+    {
+      "code": "220581105",
+      "name": "曙光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/曙光镇"
+    },
+    {
+      "code": "220581106",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/中和镇"
+    },
+    {
+      "code": "220581107",
+      "name": "黑山头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/黑山头镇"
+    },
+    {
+      "code": "220581108",
+      "name": "水道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/水道镇"
+    },
+    {
+      "code": "220581109",
+      "name": "进化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/进化镇"
+    },
+    {
+      "code": "220581110",
+      "name": "一座营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/一座营镇"
+    },
+    {
+      "code": "220581111",
+      "name": "康大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/康大营镇"
+    },
+    {
+      "code": "220581112",
+      "name": "牛心顶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/牛心顶镇"
+    },
+    {
+      "code": "220581113",
+      "name": "湾龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/湾龙镇"
+    },
+    {
+      "code": "220581114",
+      "name": "杏岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/杏岭镇"
+    },
+    {
+      "code": "220581115",
+      "name": "兴华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/兴华镇"
+    },
+    {
+      "code": "220581116",
+      "name": "双兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/双兴镇"
+    },
+    {
+      "code": "220581203",
+      "name": "李炉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/李炉乡"
+    },
+    {
+      "code": "220581207",
+      "name": "小杨满族朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/小杨满族朝鲜族乡"
+    },
+    {
+      "code": "220581209",
+      "name": "吉乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220581",
+      "year": 0,
+      "name_path": "吉林省/通化市/梅河口市/吉乐乡"
+    }
+  ]
+}

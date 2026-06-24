@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "420381001",
+      "name": "均州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/均州路街道"
+    },
+    {
+      "code": "420381002",
+      "name": "大坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/大坝街道"
+    },
+    {
+      "code": "420381003",
+      "name": "丹赵路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/丹赵路街道"
+    },
+    {
+      "code": "420381004",
+      "name": "武当山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/武当山街道"
+    },
+    {
+      "code": "420381005",
+      "name": "三官殿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/三官殿街道"
+    },
+    {
+      "code": "420381100",
+      "name": "土关垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/土关垭镇"
+    },
+    {
+      "code": "420381101",
+      "name": "浪河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/浪河镇"
+    },
+    {
+      "code": "420381102",
+      "name": "丁家营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/丁家营镇"
+    },
+    {
+      "code": "420381103",
+      "name": "六里坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/六里坪镇"
+    },
+    {
+      "code": "420381104",
+      "name": "盐池河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/盐池河镇"
+    },
+    {
+      "code": "420381105",
+      "name": "均县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/均县镇"
+    },
+    {
+      "code": "420381106",
+      "name": "习家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/习家店镇"
+    },
+    {
+      "code": "420381107",
+      "name": "蒿坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/蒿坪镇"
+    },
+    {
+      "code": "420381108",
+      "name": "石鼓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/石鼓镇"
+    },
+    {
+      "code": "420381109",
+      "name": "凉水河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/凉水河镇"
+    },
+    {
+      "code": "420381110",
+      "name": "官山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/官山镇"
+    },
+    {
+      "code": "420381111",
+      "name": "龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420381",
+      "year": 0,
+      "name_path": "湖北省/十堰市/丹江口市/龙山镇"
+    }
+  ]
+}

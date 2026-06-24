@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "522328003",
+      "name": "钱相街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/钱相街道"
+    },
+    {
+      "code": "522328004",
+      "name": "招堤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/招堤街道"
+    },
+    {
+      "code": "522328005",
+      "name": "栖凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/栖凤街道"
+    },
+    {
+      "code": "522328006",
+      "name": "五福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/五福街道"
+    },
+    {
+      "code": "522328007",
+      "name": "春潭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/春潭街道"
+    },
+    {
+      "code": "522328101",
+      "name": "龙广镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/龙广镇"
+    },
+    {
+      "code": "522328102",
+      "name": "德卧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/德卧镇"
+    },
+    {
+      "code": "522328103",
+      "name": "万峰湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/万峰湖镇"
+    },
+    {
+      "code": "522328104",
+      "name": "海子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/海子镇"
+    },
+    {
+      "code": "522328105",
+      "name": "洒雨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/洒雨镇"
+    },
+    {
+      "code": "522328107",
+      "name": "龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/龙山镇"
+    },
+    {
+      "code": "522328110",
+      "name": "笃山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/笃山镇"
+    },
+    {
+      "code": "522328111",
+      "name": "普坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/普坪镇"
+    },
+    {
+      "code": "522328112",
+      "name": "木咱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/木咱镇"
+    },
+    {
+      "code": "522328113",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522328",
+      "year": 0,
+      "name_path": "贵州省/黔西南布依族苗族自治州/安龙县/新桥镇"
+    }
+  ]
+}

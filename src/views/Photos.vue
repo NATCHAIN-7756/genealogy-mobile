@@ -22,7 +22,7 @@
     
     <van-empty v-if="photos.length === 0" description="暂无照片" />
     
-    <van-popup v-model:show="showUpload" position="bottom" round style="height: 50%">
+    <van-popup v-model:show="showUpload" position="bottom" round style="height: 50%" class="upload-popup">
       <van-cell-group inset style="margin: 16px">
         <van-cell title="上传照片" />
         <van-field v-model="newPhoto.title" label="标题" placeholder="照片说明" />
@@ -44,12 +44,7 @@
     
     <van-image-preview v-model:show="showPreview" :images="previewImages" :start-position="previewIndex" />
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -57,7 +52,8 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
-import axios from 'axios'
+import api from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -86,7 +82,7 @@ async function loadPhotos() {
     const categories = ['全部', '全家福', '老照片', '活动']
     const category = categories[activeTab.value]
     
-    const res = await axios.get(`http://45.207.215.95/api/photos/family/${familyId}`, {
+    const res = await api.get(`/api/photos/family/${familyId}`, {
       params: { category },
       headers: { Authorization: `Bearer ${token}` }
     })
@@ -104,7 +100,7 @@ async function uploadPhoto() {
     return
   }
   try {
-    await axios.post(`http://45.207.215.95/api/photos/family/${familyId}`, newPhoto.value, {
+    await api.post(`/api/photos/family/${familyId}`, newPhoto.value, {
       headers: { Authorization: `Bearer ${token}` }
     })
     showToast('上传成功')
@@ -123,4 +119,16 @@ onMounted(() => loadPhotos())
 <style scoped>
 .photos { padding-bottom: 50px; background: #f5f5f5; min-height: 100vh; }
 .photo-title { padding: 8px; font-size: 12px; color: #666; }
+
+/* 上传弹窗样式 */
+.upload-popup :deep(.van-field__label) {
+  color: #333 !important;
+  font-weight: 500;
+}
+.upload-popup :deep(.van-cell__title) {
+  color: #333 !important;
+}
+.upload-popup :deep(.van-radio__label) {
+  color: #333 !important;
+}
 </style>

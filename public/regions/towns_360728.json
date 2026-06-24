@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "360728100",
+      "name": "历市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/历市镇"
+    },
+    {
+      "code": "360728101",
+      "name": "岿美山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/岿美山镇"
+    },
+    {
+      "code": "360728102",
+      "name": "老城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/老城镇"
+    },
+    {
+      "code": "360728103",
+      "name": "天九镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/天九镇"
+    },
+    {
+      "code": "360728104",
+      "name": "龙塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/龙塘镇"
+    },
+    {
+      "code": "360728105",
+      "name": "岭北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/岭北镇"
+    },
+    {
+      "code": "360728106",
+      "name": "鹅公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360728",
+      "year": 0,
+      "name_path": "江西省/赣州市/定南县/鹅公镇"
+    }
+  ]
+}

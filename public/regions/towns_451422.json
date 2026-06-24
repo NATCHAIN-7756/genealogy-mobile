@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "451422100",
+      "name": "城中镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/城中镇"
+    },
+    {
+      "code": "451422101",
+      "name": "爱店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/爱店镇"
+    },
+    {
+      "code": "451422102",
+      "name": "明江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/明江镇"
+    },
+    {
+      "code": "451422103",
+      "name": "海渊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/海渊镇"
+    },
+    {
+      "code": "451422104",
+      "name": "那堪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/那堪镇"
+    },
+    {
+      "code": "451422105",
+      "name": "桐棉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/桐棉镇"
+    },
+    {
+      "code": "451422106",
+      "name": "亭亮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/亭亮镇"
+    },
+    {
+      "code": "451422202",
+      "name": "寨安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/寨安乡"
+    },
+    {
+      "code": "451422203",
+      "name": "峙浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/峙浪乡"
+    },
+    {
+      "code": "451422204",
+      "name": "东安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/东安乡"
+    },
+    {
+      "code": "451422205",
+      "name": "板棍乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/板棍乡"
+    },
+    {
+      "code": "451422206",
+      "name": "北江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/北江乡"
+    },
+    {
+      "code": "451422209",
+      "name": "那楠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451422",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/宁明县/那楠乡"
+    }
+  ]
+}

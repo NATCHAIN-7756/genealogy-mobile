@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "140824100",
+      "name": "稷峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/稷峰镇"
+    },
+    {
+      "code": "140824101",
+      "name": "西社镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/西社镇"
+    },
+    {
+      "code": "140824102",
+      "name": "化峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/化峪镇"
+    },
+    {
+      "code": "140824103",
+      "name": "翟店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/翟店镇"
+    },
+    {
+      "code": "140824104",
+      "name": "清河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/清河镇"
+    },
+    {
+      "code": "140824200",
+      "name": "蔡村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/蔡村乡"
+    },
+    {
+      "code": "140824201",
+      "name": "太阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140824",
+      "year": 0,
+      "name_path": "山西省/运城市/稷山县/太阳乡"
+    }
+  ]
+}

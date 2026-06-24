@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "540229100",
+      "name": "德吉林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/德吉林镇"
+    },
+    {
+      "code": "540229200",
+      "name": "康雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/康雄乡"
+    },
+    {
+      "code": "540229201",
+      "name": "普松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/普松乡"
+    },
+    {
+      "code": "540229202",
+      "name": "帕当乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/帕当乡"
+    },
+    {
+      "code": "540229203",
+      "name": "然巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/然巴乡"
+    },
+    {
+      "code": "540229204",
+      "name": "查巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/查巴乡"
+    },
+    {
+      "code": "540229205",
+      "name": "切娃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/切娃乡"
+    },
+    {
+      "code": "540229206",
+      "name": "姆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/姆乡"
+    },
+    {
+      "code": "540229207",
+      "name": "仁布乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540229",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/仁布县/仁布乡"
+    }
+  ]
+}

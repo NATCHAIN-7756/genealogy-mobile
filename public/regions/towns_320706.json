@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "320706001",
+      "name": "海州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/海州街道"
+    },
+    {
+      "code": "320706002",
+      "name": "幸福路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/幸福路街道"
+    },
+    {
+      "code": "320706003",
+      "name": "朐阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/朐阳街道"
+    },
+    {
+      "code": "320706004",
+      "name": "洪门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/洪门街道"
+    },
+    {
+      "code": "320706005",
+      "name": "云台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/云台街道"
+    },
+    {
+      "code": "320706006",
+      "name": "新浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/新浦街道"
+    },
+    {
+      "code": "320706007",
+      "name": "浦西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/浦西街道"
+    },
+    {
+      "code": "320706008",
+      "name": "新东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/新东街道"
+    },
+    {
+      "code": "320706009",
+      "name": "新南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/新南街道"
+    },
+    {
+      "code": "320706010",
+      "name": "路南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/路南街道"
+    },
+    {
+      "code": "320706011",
+      "name": "新海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/新海街道"
+    },
+    {
+      "code": "320706012",
+      "name": "花果山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/花果山街道"
+    },
+    {
+      "code": "320706013",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/南城街道"
+    },
+    {
+      "code": "320706014",
+      "name": "宁海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/宁海街道"
+    },
+    {
+      "code": "320706015",
+      "name": "郁洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/郁洲街道"
+    },
+    {
+      "code": "320706100",
+      "name": "新坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/新坝镇"
+    },
+    {
+      "code": "320706101",
+      "name": "锦屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/锦屏镇"
+    },
+    {
+      "code": "320706102",
+      "name": "板浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/板浦镇"
+    },
+    {
+      "code": "320706103",
+      "name": "浦南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320706",
+      "year": 0,
+      "name_path": "江苏省/连云港市/海州区/浦南镇"
+    }
+  ]
+}

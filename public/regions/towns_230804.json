@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "230804007",
+      "name": "永安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230804",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/前进区/永安街道"
+    },
+    {
+      "code": "230804008",
+      "name": "港湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230804",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/前进区/港湾街道"
+    },
+    {
+      "code": "230804009",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230804",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/前进区/和平街道"
+    },
+    {
+      "code": "230804010",
+      "name": "山水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230804",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/前进区/山水街道"
+    }
+  ]
+}

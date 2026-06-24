@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "code": "430725001",
+      "name": "漳江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/漳江街道"
+    },
+    {
+      "code": "430725002",
+      "name": "浔阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/浔阳街道"
+    },
+    {
+      "code": "430725101",
+      "name": "陬市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/陬市镇"
+    },
+    {
+      "code": "430725102",
+      "name": "盘塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/盘塘镇"
+    },
+    {
+      "code": "430725103",
+      "name": "热市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/热市镇"
+    },
+    {
+      "code": "430725104",
+      "name": "黄石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/黄石镇"
+    },
+    {
+      "code": "430725105",
+      "name": "漆河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/漆河镇"
+    },
+    {
+      "code": "430725106",
+      "name": "理公港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/理公港镇"
+    },
+    {
+      "code": "430725107",
+      "name": "观音寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/观音寺镇"
+    },
+    {
+      "code": "430725108",
+      "name": "龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/龙潭镇"
+    },
+    {
+      "code": "430725109",
+      "name": "三阳港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/三阳港镇"
+    },
+    {
+      "code": "430725110",
+      "name": "剪市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/剪市镇"
+    },
+    {
+      "code": "430725111",
+      "name": "茶庵铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/茶庵铺镇"
+    },
+    {
+      "code": "430725112",
+      "name": "西安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/西安镇"
+    },
+    {
+      "code": "430725113",
+      "name": "沙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/沙坪镇"
+    },
+    {
+      "code": "430725114",
+      "name": "桃花源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/桃花源镇"
+    },
+    {
+      "code": "430725115",
+      "name": "架桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/架桥镇"
+    },
+    {
+      "code": "430725116",
+      "name": "马鬃岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/马鬃岭镇"
+    },
+    {
+      "code": "430725117",
+      "name": "夷望溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/夷望溪镇"
+    },
+    {
+      "code": "430725118",
+      "name": "杨溪桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/杨溪桥镇"
+    },
+    {
+      "code": "430725119",
+      "name": "郑家驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/郑家驿镇"
+    },
+    {
+      "code": "430725120",
+      "name": "双溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/双溪口镇"
+    },
+    {
+      "code": "430725121",
+      "name": "牛车河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/牛车河镇"
+    },
+    {
+      "code": "430725122",
+      "name": "九溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/九溪镇"
+    },
+    {
+      "code": "430725123",
+      "name": "木塘垸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/木塘垸镇"
+    },
+    {
+      "code": "430725124",
+      "name": "佘家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/佘家坪镇"
+    },
+    {
+      "code": "430725200",
+      "name": "青林回族维吾尔族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/青林回族维吾尔族乡"
+    },
+    {
+      "code": "430725202",
+      "name": "枫树维吾尔族回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/枫树维吾尔族回族乡"
+    },
+    {
+      "code": "430725216",
+      "name": "泥窝潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430725",
+      "year": 0,
+      "name_path": "湖南省/常德市/桃源县/泥窝潭乡"
+    }
+  ]
+}

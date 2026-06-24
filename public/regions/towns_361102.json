@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "361102001",
+      "name": "东市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/东市街道"
+    },
+    {
+      "code": "361102002",
+      "name": "西市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/西市街道"
+    },
+    {
+      "code": "361102003",
+      "name": "水南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/水南街道"
+    },
+    {
+      "code": "361102004",
+      "name": "灵溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/灵溪街道"
+    },
+    {
+      "code": "361102005",
+      "name": "北门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/北门街道"
+    },
+    {
+      "code": "361102006",
+      "name": "茅家岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/茅家岭街道"
+    },
+    {
+      "code": "361102101",
+      "name": "沙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/沙溪镇"
+    },
+    {
+      "code": "361102102",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/朝阳镇"
+    },
+    {
+      "code": "361102103",
+      "name": "秦峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361102",
+      "year": 0,
+      "name_path": "江西省/上饶市/信州区/秦峰镇"
+    }
+  ]
+}

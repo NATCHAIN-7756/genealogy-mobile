@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "520123001",
+      "name": "龙场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/龙场街道"
+    },
+    {
+      "code": "520123002",
+      "name": "阳明洞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/阳明洞街道"
+    },
+    {
+      "code": "520123003",
+      "name": "景阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/景阳街道"
+    },
+    {
+      "code": "520123004",
+      "name": "扎佐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/扎佐街道"
+    },
+    {
+      "code": "520123005",
+      "name": "久长街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/久长街道"
+    },
+    {
+      "code": "520123103",
+      "name": "六广镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/六广镇"
+    },
+    {
+      "code": "520123104",
+      "name": "六桶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/六桶镇"
+    },
+    {
+      "code": "520123105",
+      "name": "洒坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/洒坪镇"
+    },
+    {
+      "code": "520123106",
+      "name": "六屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/六屯镇"
+    },
+    {
+      "code": "520123107",
+      "name": "谷堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/谷堡镇"
+    },
+    {
+      "code": "520123108",
+      "name": "小箐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/小箐镇"
+    },
+    {
+      "code": "520123204",
+      "name": "大石布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520123",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/修文县/大石布依族乡"
+    }
+  ]
+}

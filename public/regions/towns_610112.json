@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "610112001",
+      "name": "张家堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/张家堡街道"
+    },
+    {
+      "code": "610112002",
+      "name": "三桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/三桥街道"
+    },
+    {
+      "code": "610112003",
+      "name": "辛家庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/辛家庙街道"
+    },
+    {
+      "code": "610112004",
+      "name": "徐家湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/徐家湾街道"
+    },
+    {
+      "code": "610112005",
+      "name": "大明宫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/大明宫街道"
+    },
+    {
+      "code": "610112006",
+      "name": "谭家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/谭家街道"
+    },
+    {
+      "code": "610112007",
+      "name": "草滩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/草滩街道"
+    },
+    {
+      "code": "610112008",
+      "name": "六村堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/六村堡街道"
+    },
+    {
+      "code": "610112009",
+      "name": "未央宫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/未央宫街道"
+    },
+    {
+      "code": "610112010",
+      "name": "汉城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/汉城街道"
+    },
+    {
+      "code": "610112011",
+      "name": "建章路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/建章路街道"
+    },
+    {
+      "code": "610112012",
+      "name": "未央湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610112",
+      "year": 0,
+      "name_path": "陕西省/西安市/未央区/未央湖街道"
+    }
+  ]
+}

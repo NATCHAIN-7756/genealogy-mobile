@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "370105001",
+      "name": "无影山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/无影山街道"
+    },
+    {
+      "code": "370105003",
+      "name": "天桥东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/天桥东街街道"
+    },
+    {
+      "code": "370105004",
+      "name": "工人新村北村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/工人新村北村街道"
+    },
+    {
+      "code": "370105005",
+      "name": "工人新村南村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/工人新村南村街道"
+    },
+    {
+      "code": "370105006",
+      "name": "堤口路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/堤口路街道"
+    },
+    {
+      "code": "370105007",
+      "name": "北坦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/北坦街道"
+    },
+    {
+      "code": "370105009",
+      "name": "制锦市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/制锦市街道"
+    },
+    {
+      "code": "370105010",
+      "name": "宝华街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/宝华街街道"
+    },
+    {
+      "code": "370105011",
+      "name": "官扎营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/官扎营街道"
+    },
+    {
+      "code": "370105012",
+      "name": "纬北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/纬北路街道"
+    },
+    {
+      "code": "370105013",
+      "name": "药山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/药山街道"
+    },
+    {
+      "code": "370105014",
+      "name": "北园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/北园街道"
+    },
+    {
+      "code": "370105015",
+      "name": "泺口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/泺口街道"
+    },
+    {
+      "code": "370105016",
+      "name": "桑梓店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/桑梓店街道"
+    },
+    {
+      "code": "370105017",
+      "name": "大桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370105",
+      "year": 0,
+      "name_path": "山东省/济南市/天桥区/大桥街道"
+    }
+  ]
+}

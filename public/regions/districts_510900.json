@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "510903",
+      "name": "船山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510900",
+      "year": 0,
+      "name_path": "全国/四川省/遂宁市/船山区"
+    },
+    {
+      "code": "510904",
+      "name": "安居区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510900",
+      "year": 0,
+      "name_path": "全国/四川省/遂宁市/安居区"
+    },
+    {
+      "code": "510921",
+      "name": "蓬溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510900",
+      "year": 0,
+      "name_path": "全国/四川省/遂宁市/蓬溪县"
+    },
+    {
+      "code": "510923",
+      "name": "大英县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510900",
+      "year": 0,
+      "name_path": "全国/四川省/遂宁市/大英县"
+    },
+    {
+      "code": "510981",
+      "name": "射洪市",
+      "level": 3,
+      "type": null,
+      "parent_code": "510900",
+      "year": 0,
+      "name_path": "全国/四川省/遂宁市/射洪市"
+    }
+  ]
+}

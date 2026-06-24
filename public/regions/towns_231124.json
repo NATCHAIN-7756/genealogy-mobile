@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "231124100",
+      "name": "孙吴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/孙吴镇"
+    },
+    {
+      "code": "231124101",
+      "name": "辰清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/辰清镇"
+    },
+    {
+      "code": "231124201",
+      "name": "西兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/西兴乡"
+    },
+    {
+      "code": "231124202",
+      "name": "沿江满族达斡尔族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/沿江满族达斡尔族乡"
+    },
+    {
+      "code": "231124203",
+      "name": "腰屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/腰屯乡"
+    },
+    {
+      "code": "231124204",
+      "name": "卧牛河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/卧牛河乡"
+    },
+    {
+      "code": "231124205",
+      "name": "群山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/群山乡"
+    },
+    {
+      "code": "231124206",
+      "name": "奋斗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/奋斗乡"
+    },
+    {
+      "code": "231124207",
+      "name": "红旗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/红旗乡"
+    },
+    {
+      "code": "231124208",
+      "name": "正阳山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/正阳山乡"
+    },
+    {
+      "code": "231124210",
+      "name": "清溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231124",
+      "year": 0,
+      "name_path": "黑龙江省/黑河市/孙吴县/清溪乡"
+    }
+  ]
+}

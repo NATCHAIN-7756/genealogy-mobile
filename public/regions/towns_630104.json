@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "630104001",
+      "name": "西关大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/西关大街街道"
+    },
+    {
+      "code": "630104002",
+      "name": "古城台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/古城台街道"
+    },
+    {
+      "code": "630104003",
+      "name": "虎台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/虎台街道"
+    },
+    {
+      "code": "630104004",
+      "name": "胜利路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/胜利路街道"
+    },
+    {
+      "code": "630104005",
+      "name": "兴海路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/兴海路街道"
+    },
+    {
+      "code": "630104006",
+      "name": "文汇路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/文汇路街道"
+    },
+    {
+      "code": "630104007",
+      "name": "通海路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/通海路街道"
+    },
+    {
+      "code": "630104100",
+      "name": "彭家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630104",
+      "year": 0,
+      "name_path": "青海省/西宁市/城西区/彭家寨镇"
+    }
+  ]
+}

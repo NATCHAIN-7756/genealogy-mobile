@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230883100",
+      "name": "抚远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/抚远镇"
+    },
+    {
+      "code": "230883101",
+      "name": "寒葱沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/寒葱沟镇"
+    },
+    {
+      "code": "230883102",
+      "name": "浓桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/浓桥镇"
+    },
+    {
+      "code": "230883103",
+      "name": "乌苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/乌苏镇"
+    },
+    {
+      "code": "230883104",
+      "name": "黑瞎子岛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/黑瞎子岛镇"
+    },
+    {
+      "code": "230883105",
+      "name": "通江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/通江镇"
+    },
+    {
+      "code": "230883106",
+      "name": "海青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/海青镇"
+    },
+    {
+      "code": "230883201",
+      "name": "浓江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/浓江乡"
+    },
+    {
+      "code": "230883203",
+      "name": "别拉洪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/别拉洪乡"
+    },
+    {
+      "code": "230883204",
+      "name": "鸭南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230883",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/抚远市/鸭南乡"
+    }
+  ]
+}

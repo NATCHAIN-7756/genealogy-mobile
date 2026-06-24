@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "130403001",
+      "name": "丛台西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/丛台西街道"
+    },
+    {
+      "code": "130403002",
+      "name": "联纺西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/联纺西街道"
+    },
+    {
+      "code": "130403003",
+      "name": "联纺东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/联纺东街道"
+    },
+    {
+      "code": "130403004",
+      "name": "光明桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/光明桥街道"
+    },
+    {
+      "code": "130403005",
+      "name": "丛台东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/丛台东街道"
+    },
+    {
+      "code": "130403006",
+      "name": "四季青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/四季青街道"
+    },
+    {
+      "code": "130403007",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/和平街道"
+    },
+    {
+      "code": "130403008",
+      "name": "中华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/中华街道"
+    },
+    {
+      "code": "130403009",
+      "name": "人民路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/人民路街道"
+    },
+    {
+      "code": "130403010",
+      "name": "柳林桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/柳林桥街道"
+    },
+    {
+      "code": "130403100",
+      "name": "黄粱梦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/黄粱梦镇"
+    },
+    {
+      "code": "130403101",
+      "name": "尚璧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/尚璧镇"
+    },
+    {
+      "code": "130403102",
+      "name": "南沿村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/南沿村镇"
+    },
+    {
+      "code": "130403200",
+      "name": "苏曹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/苏曹乡"
+    },
+    {
+      "code": "130403201",
+      "name": "南吕固乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/南吕固乡"
+    },
+    {
+      "code": "130403202",
+      "name": "兼庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/兼庄乡"
+    },
+    {
+      "code": "130403203",
+      "name": "三陵乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/三陵乡"
+    },
+    {
+      "code": "130403204",
+      "name": "小西堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/小西堡乡"
+    },
+    {
+      "code": "130403205",
+      "name": "姚寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130403",
+      "year": 0,
+      "name_path": "河北省/邯郸市/丛台区/姚寨乡"
+    }
+  ]
+}

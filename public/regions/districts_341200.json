@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "341202",
+      "name": "颍州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/颍州区"
+    },
+    {
+      "code": "341203",
+      "name": "颍东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/颍东区"
+    },
+    {
+      "code": "341204",
+      "name": "颍泉区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/颍泉区"
+    },
+    {
+      "code": "341221",
+      "name": "临泉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/临泉县"
+    },
+    {
+      "code": "341222",
+      "name": "太和县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/太和县"
+    },
+    {
+      "code": "341225",
+      "name": "阜南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/阜南县"
+    },
+    {
+      "code": "341226",
+      "name": "颍上县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/颍上县"
+    },
+    {
+      "code": "341282",
+      "name": "界首市",
+      "level": 3,
+      "type": null,
+      "parent_code": "341200",
+      "year": 0,
+      "name_path": "全国/安徽省/阜阳市/界首市"
+    }
+  ]
+}

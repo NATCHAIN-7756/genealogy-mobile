@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "230406001",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/东山街道"
+    },
+    {
+      "code": "230406002",
+      "name": "三街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/三街街道"
+    },
+    {
+      "code": "230406003",
+      "name": "工人村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/工人村街道"
+    },
+    {
+      "code": "230406004",
+      "name": "新一街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/新一街道"
+    },
+    {
+      "code": "230406005",
+      "name": "鹤兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/鹤兴街道"
+    },
+    {
+      "code": "230406100",
+      "name": "新华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/新华镇"
+    },
+    {
+      "code": "230406201",
+      "name": "蔬园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/蔬园乡"
+    },
+    {
+      "code": "230406202",
+      "name": "东方红乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230406",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/东山区/东方红乡"
+    }
+  ]
+}

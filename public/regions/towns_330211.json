@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "330211001",
+      "name": "招宝山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/招宝山街道"
+    },
+    {
+      "code": "330211002",
+      "name": "蛟川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/蛟川街道"
+    },
+    {
+      "code": "330211003",
+      "name": "骆驼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/骆驼街道"
+    },
+    {
+      "code": "330211004",
+      "name": "庄市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/庄市街道"
+    },
+    {
+      "code": "330211005",
+      "name": "贵驷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/贵驷街道"
+    },
+    {
+      "code": "330211100",
+      "name": "澥浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/澥浦镇"
+    },
+    {
+      "code": "330211101",
+      "name": "九龙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330211",
+      "year": 0,
+      "name_path": "浙江省/宁波市/镇海区/九龙湖镇"
+    }
+  ]
+}

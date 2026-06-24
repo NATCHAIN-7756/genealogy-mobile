@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "341502001",
+      "name": "中市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/中市街道"
+    },
+    {
+      "code": "341502002",
+      "name": "东市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/东市街道"
+    },
+    {
+      "code": "341502003",
+      "name": "三里桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/三里桥街道"
+    },
+    {
+      "code": "341502004",
+      "name": "清水河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/清水河街道"
+    },
+    {
+      "code": "341502005",
+      "name": "望城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/望城街道"
+    },
+    {
+      "code": "341502100",
+      "name": "木厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/木厂镇"
+    },
+    {
+      "code": "341502101",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/马头镇"
+    },
+    {
+      "code": "341502102",
+      "name": "东桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/东桥镇"
+    },
+    {
+      "code": "341502103",
+      "name": "张店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/张店镇"
+    },
+    {
+      "code": "341502104",
+      "name": "毛坦厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/毛坦厂镇"
+    },
+    {
+      "code": "341502105",
+      "name": "东河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/东河口镇"
+    },
+    {
+      "code": "341502106",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/双河镇"
+    },
+    {
+      "code": "341502107",
+      "name": "施桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/施桥镇"
+    },
+    {
+      "code": "341502108",
+      "name": "孙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/孙岗镇"
+    },
+    {
+      "code": "341502109",
+      "name": "三十铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/三十铺镇"
+    },
+    {
+      "code": "341502110",
+      "name": "椿树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/椿树镇"
+    },
+    {
+      "code": "341502111",
+      "name": "城北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/城北镇"
+    },
+    {
+      "code": "341502112",
+      "name": "中店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/中店镇"
+    },
+    {
+      "code": "341502113",
+      "name": "先生店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/先生店镇"
+    },
+    {
+      "code": "341502201",
+      "name": "翁墩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/翁墩乡"
+    },
+    {
+      "code": "341502202",
+      "name": "淠东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/淠东乡"
+    },
+    {
+      "code": "341502204",
+      "name": "横塘岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341502",
+      "year": 0,
+      "name_path": "安徽省/六安市/金安区/横塘岗乡"
+    }
+  ]
+}

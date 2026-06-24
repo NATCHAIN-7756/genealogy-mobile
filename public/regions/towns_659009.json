@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "659009001",
+      "name": "玉都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659009",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昆玉市/玉都街道"
+    },
+    {
+      "code": "659009100",
+      "name": "老兵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659009",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昆玉市/老兵镇"
+    },
+    {
+      "code": "659009101",
+      "name": "昆泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659009",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昆玉市/昆泉镇"
+    },
+    {
+      "code": "659009102",
+      "name": "昆牧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659009",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昆玉市/昆牧镇"
+    },
+    {
+      "code": "659009103",
+      "name": "玉泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659009",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昆玉市/玉泉镇"
+    },
+    {
+      "code": "659009104",
+      "name": "玉园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659009",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昆玉市/玉园镇"
+    }
+  ]
+}

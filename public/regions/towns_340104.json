@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "340104001",
+      "name": "三里庵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/三里庵街道"
+    },
+    {
+      "code": "340104002",
+      "name": "南七街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/南七街道"
+    },
+    {
+      "code": "340104003",
+      "name": "稻香村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/稻香村街道"
+    },
+    {
+      "code": "340104004",
+      "name": "琥珀街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/琥珀街道"
+    },
+    {
+      "code": "340104005",
+      "name": "西园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/西园街道"
+    },
+    {
+      "code": "340104006",
+      "name": "五里墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/五里墩街道"
+    },
+    {
+      "code": "340104008",
+      "name": "荷叶地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/荷叶地街道"
+    },
+    {
+      "code": "340104009",
+      "name": "笔架山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/笔架山街道"
+    },
+    {
+      "code": "340104010",
+      "name": "高刘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/高刘街道"
+    },
+    {
+      "code": "340104100",
+      "name": "井岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/井岗镇"
+    },
+    {
+      "code": "340104110",
+      "name": "南岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/南岗镇"
+    },
+    {
+      "code": "340104112",
+      "name": "小庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340104",
+      "year": 0,
+      "name_path": "安徽省/合肥市/蜀山区/小庙镇"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "440304001",
+      "name": "南园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/南园街道"
+    },
+    {
+      "code": "440304002",
+      "name": "园岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/园岭街道"
+    },
+    {
+      "code": "440304004",
+      "name": "福田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/福田街道"
+    },
+    {
+      "code": "440304005",
+      "name": "沙头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/沙头街道"
+    },
+    {
+      "code": "440304006",
+      "name": "香蜜湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/香蜜湖街道"
+    },
+    {
+      "code": "440304007",
+      "name": "梅林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/梅林街道"
+    },
+    {
+      "code": "440304008",
+      "name": "莲花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/莲花街道"
+    },
+    {
+      "code": "440304009",
+      "name": "华富街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/华富街道"
+    },
+    {
+      "code": "440304010",
+      "name": "华强北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/华强北街道"
+    },
+    {
+      "code": "440304011",
+      "name": "福保街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440304",
+      "year": 0,
+      "name_path": "广东省/深圳市/福田区/福保街道"
+    }
+  ]
+}

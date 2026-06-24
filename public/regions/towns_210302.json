@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "210302002",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/解放街道"
+    },
+    {
+      "code": "210302003",
+      "name": "山南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/山南街道"
+    },
+    {
+      "code": "210302004",
+      "name": "园林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/园林街道"
+    },
+    {
+      "code": "210302006",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/站前街道"
+    },
+    {
+      "code": "210302008",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/和平街道"
+    },
+    {
+      "code": "210302010",
+      "name": "长甸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/长甸街道"
+    },
+    {
+      "code": "210302011",
+      "name": "湖南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/湖南街道"
+    },
+    {
+      "code": "210302013",
+      "name": "新兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/新兴街道"
+    },
+    {
+      "code": "210302014",
+      "name": "旧堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/旧堡街道"
+    },
+    {
+      "code": "210302015",
+      "name": "大孤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210302",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/铁东区/大孤山街道"
+    }
+  ]
+}

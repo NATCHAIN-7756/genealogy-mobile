@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "420527101",
+      "name": "茅坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/茅坪镇"
+    },
+    {
+      "code": "420527102",
+      "name": "归州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/归州镇"
+    },
+    {
+      "code": "420527103",
+      "name": "屈原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/屈原镇"
+    },
+    {
+      "code": "420527104",
+      "name": "沙镇溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/沙镇溪镇"
+    },
+    {
+      "code": "420527105",
+      "name": "两河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/两河口镇"
+    },
+    {
+      "code": "420527106",
+      "name": "郭家坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/郭家坝镇"
+    },
+    {
+      "code": "420527107",
+      "name": "杨林桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/杨林桥镇"
+    },
+    {
+      "code": "420527108",
+      "name": "九畹溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/九畹溪镇"
+    },
+    {
+      "code": "420527201",
+      "name": "水田坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/水田坝乡"
+    },
+    {
+      "code": "420527202",
+      "name": "泄滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/泄滩乡"
+    },
+    {
+      "code": "420527203",
+      "name": "梅家河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/梅家河乡"
+    },
+    {
+      "code": "420527204",
+      "name": "磨坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420527",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/秭归县/磨坪乡"
+    }
+  ]
+}

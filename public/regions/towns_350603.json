@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "350603001",
+      "name": "东岳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/东岳街道"
+    },
+    {
+      "code": "350603002",
+      "name": "步文街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/步文街道"
+    },
+    {
+      "code": "350603003",
+      "name": "碧湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/碧湖街道"
+    },
+    {
+      "code": "350603004",
+      "name": "蓝田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/蓝田街道"
+    },
+    {
+      "code": "350603005",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/朝阳街道"
+    },
+    {
+      "code": "350603006",
+      "name": "景山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/景山街道"
+    },
+    {
+      "code": "350603103",
+      "name": "郭坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350603",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙文区/郭坑镇"
+    }
+  ]
+}

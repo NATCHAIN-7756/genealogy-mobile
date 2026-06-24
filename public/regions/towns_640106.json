@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "640106001",
+      "name": "满城北街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/满城北街街道"
+    },
+    {
+      "code": "640106002",
+      "name": "黄河东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/黄河东路街道"
+    },
+    {
+      "code": "640106003",
+      "name": "长城中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/长城中路街道"
+    },
+    {
+      "code": "640106004",
+      "name": "北京中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/北京中路街道"
+    },
+    {
+      "code": "640106005",
+      "name": "上海西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/上海西路街道"
+    },
+    {
+      "code": "640106006",
+      "name": "贺兰山中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/贺兰山中路街道"
+    },
+    {
+      "code": "640106100",
+      "name": "良田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/良田镇"
+    },
+    {
+      "code": "640106101",
+      "name": "丰登镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640106",
+      "year": 0,
+      "name_path": "宁夏回族自治区/银川市/金凤区/丰登镇"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "530324001",
+      "name": "罗雄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/罗雄街道"
+    },
+    {
+      "code": "530324002",
+      "name": "腊山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/腊山街道"
+    },
+    {
+      "code": "530324003",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/九龙街道"
+    },
+    {
+      "code": "530324101",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/板桥镇"
+    },
+    {
+      "code": "530324102",
+      "name": "马街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/马街镇"
+    },
+    {
+      "code": "530324103",
+      "name": "富乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/富乐镇"
+    },
+    {
+      "code": "530324105",
+      "name": "阿岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/阿岗镇"
+    },
+    {
+      "code": "530324201",
+      "name": "大水井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/大水井乡"
+    },
+    {
+      "code": "530324202",
+      "name": "鲁布革布依族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/鲁布革布依族苗族乡"
+    },
+    {
+      "code": "530324203",
+      "name": "旧屋基彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/旧屋基彝族乡"
+    },
+    {
+      "code": "530324204",
+      "name": "钟山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/钟山乡"
+    },
+    {
+      "code": "530324205",
+      "name": "长底布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/长底布依族乡"
+    },
+    {
+      "code": "530324208",
+      "name": "老厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530324",
+      "year": 0,
+      "name_path": "云南省/曲靖市/罗平县/老厂乡"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "210381001",
+      "name": "海州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/海州街道"
+    },
+    {
+      "code": "210381002",
+      "name": "兴海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/兴海街道"
+    },
+    {
+      "code": "210381003",
+      "name": "响堂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/响堂街道"
+    },
+    {
+      "code": "210381004",
+      "name": "东四街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/东四街道"
+    },
+    {
+      "code": "210381006",
+      "name": "东四方台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/东四方台街道"
+    },
+    {
+      "code": "210381101",
+      "name": "孤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/孤山镇"
+    },
+    {
+      "code": "210381102",
+      "name": "岔沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/岔沟镇"
+    },
+    {
+      "code": "210381103",
+      "name": "接文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/接文镇"
+    },
+    {
+      "code": "210381104",
+      "name": "析木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/析木镇"
+    },
+    {
+      "code": "210381105",
+      "name": "马风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/马风镇"
+    },
+    {
+      "code": "210381107",
+      "name": "牌楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/牌楼镇"
+    },
+    {
+      "code": "210381108",
+      "name": "八里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/八里镇"
+    },
+    {
+      "code": "210381109",
+      "name": "毛祁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/毛祁镇"
+    },
+    {
+      "code": "210381110",
+      "name": "英落镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/英落镇"
+    },
+    {
+      "code": "210381111",
+      "name": "感王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/感王镇"
+    },
+    {
+      "code": "210381112",
+      "name": "西柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/西柳镇"
+    },
+    {
+      "code": "210381113",
+      "name": "中小镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/中小镇"
+    },
+    {
+      "code": "210381114",
+      "name": "王石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/王石镇"
+    },
+    {
+      "code": "210381115",
+      "name": "南台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/南台镇"
+    },
+    {
+      "code": "210381118",
+      "name": "腾鳌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/腾鳌镇"
+    },
+    {
+      "code": "210381121",
+      "name": "耿庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/耿庄镇"
+    },
+    {
+      "code": "210381123",
+      "name": "牛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/牛庄镇"
+    },
+    {
+      "code": "210381124",
+      "name": "西四镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/西四镇"
+    },
+    {
+      "code": "210381125",
+      "name": "望台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/望台镇"
+    },
+    {
+      "code": "210381126",
+      "name": "温香镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/温香镇"
+    },
+    {
+      "code": "210381127",
+      "name": "高坨子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210381",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/海城市/高坨子镇"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "510821100",
+      "name": "东河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/东河镇"
+    },
+    {
+      "code": "510821101",
+      "name": "嘉川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/嘉川镇"
+    },
+    {
+      "code": "510821102",
+      "name": "木门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/木门镇"
+    },
+    {
+      "code": "510821103",
+      "name": "白水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/白水镇"
+    },
+    {
+      "code": "510821105",
+      "name": "张华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/张华镇"
+    },
+    {
+      "code": "510821106",
+      "name": "黄洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/黄洋镇"
+    },
+    {
+      "code": "510821107",
+      "name": "普济镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/普济镇"
+    },
+    {
+      "code": "510821108",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/三江镇"
+    },
+    {
+      "code": "510821110",
+      "name": "五权镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/五权镇"
+    },
+    {
+      "code": "510821111",
+      "name": "高阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/高阳镇"
+    },
+    {
+      "code": "510821112",
+      "name": "双汇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/双汇镇"
+    },
+    {
+      "code": "510821113",
+      "name": "英萃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/英萃镇"
+    },
+    {
+      "code": "510821114",
+      "name": "国华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/国华镇"
+    },
+    {
+      "code": "510821115",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/九龙镇"
+    },
+    {
+      "code": "510821116",
+      "name": "龙凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/龙凤镇"
+    },
+    {
+      "code": "510821117",
+      "name": "米仓山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/米仓山镇"
+    },
+    {
+      "code": "510821118",
+      "name": "大德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/大德镇"
+    },
+    {
+      "code": "510821119",
+      "name": "大两镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/大两镇"
+    },
+    {
+      "code": "510821120",
+      "name": "水磨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/水磨镇"
+    },
+    {
+      "code": "510821121",
+      "name": "盐河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/盐河镇"
+    },
+    {
+      "code": "510821122",
+      "name": "天星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/天星镇"
+    },
+    {
+      "code": "510821204",
+      "name": "燕子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/燕子乡"
+    },
+    {
+      "code": "510821207",
+      "name": "檬子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510821",
+      "year": 0,
+      "name_path": "四川省/广元市/旺苍县/檬子乡"
+    }
+  ]
+}

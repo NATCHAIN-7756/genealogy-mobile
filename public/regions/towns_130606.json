@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "130606001",
+      "name": "和平里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/和平里街道"
+    },
+    {
+      "code": "130606002",
+      "name": "五四路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/五四路街道"
+    },
+    {
+      "code": "130606003",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/西关街道"
+    },
+    {
+      "code": "130606004",
+      "name": "中华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/中华路街道"
+    },
+    {
+      "code": "130606005",
+      "name": "东关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/东关街道"
+    },
+    {
+      "code": "130606006",
+      "name": "联盟路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/联盟路街道"
+    },
+    {
+      "code": "130606007",
+      "name": "红星路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/红星路街道"
+    },
+    {
+      "code": "130606008",
+      "name": "裕华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/裕华路街道"
+    },
+    {
+      "code": "130606009",
+      "name": "永华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/永华路街道"
+    },
+    {
+      "code": "130606010",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/南关街道"
+    },
+    {
+      "code": "130606100",
+      "name": "百楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/百楼镇"
+    },
+    {
+      "code": "130606101",
+      "name": "焦庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/焦庄镇"
+    },
+    {
+      "code": "130606102",
+      "name": "五尧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/五尧镇"
+    },
+    {
+      "code": "130606200",
+      "name": "韩庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/韩庄乡"
+    },
+    {
+      "code": "130606201",
+      "name": "东金庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/东金庄乡"
+    },
+    {
+      "code": "130606203",
+      "name": "杨庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/杨庄乡"
+    },
+    {
+      "code": "130606204",
+      "name": "南大园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130606",
+      "year": 0,
+      "name_path": "河北省/保定市/莲池区/南大园乡"
+    }
+  ]
+}

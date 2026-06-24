@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "530125001",
+      "name": "匡远街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/匡远街道"
+    },
+    {
+      "code": "530125002",
+      "name": "汤池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/汤池街道"
+    },
+    {
+      "code": "530125003",
+      "name": "南羊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/南羊街道"
+    },
+    {
+      "code": "530125101",
+      "name": "北古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/北古城镇"
+    },
+    {
+      "code": "530125103",
+      "name": "狗街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/狗街镇"
+    },
+    {
+      "code": "530125105",
+      "name": "马街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/马街镇"
+    },
+    {
+      "code": "530125106",
+      "name": "竹山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/竹山镇"
+    },
+    {
+      "code": "530125204",
+      "name": "耿家营彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/耿家营彝族苗族乡"
+    },
+    {
+      "code": "530125205",
+      "name": "九乡彝族回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530125",
+      "year": 0,
+      "name_path": "云南省/昆明市/宜良县/九乡彝族回族乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "610102",
+      "name": "新城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/新城区"
+    },
+    {
+      "code": "610103",
+      "name": "碑林区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/碑林区"
+    },
+    {
+      "code": "610104",
+      "name": "莲湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/莲湖区"
+    },
+    {
+      "code": "610111",
+      "name": "灞桥区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/灞桥区"
+    },
+    {
+      "code": "610112",
+      "name": "未央区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/未央区"
+    },
+    {
+      "code": "610113",
+      "name": "雁塔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/雁塔区"
+    },
+    {
+      "code": "610114",
+      "name": "阎良区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/阎良区"
+    },
+    {
+      "code": "610115",
+      "name": "临潼区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/临潼区"
+    },
+    {
+      "code": "610116",
+      "name": "长安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/长安区"
+    },
+    {
+      "code": "610117",
+      "name": "高陵区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/高陵区"
+    },
+    {
+      "code": "610118",
+      "name": "鄠邑区",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/鄠邑区"
+    },
+    {
+      "code": "610122",
+      "name": "蓝田县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/蓝田县"
+    },
+    {
+      "code": "610124",
+      "name": "周至县",
+      "level": 3,
+      "type": null,
+      "parent_code": "610100",
+      "year": 0,
+      "name_path": "全国/陕西省/西安市/周至县"
+    }
+  ]
+}

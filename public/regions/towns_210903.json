@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "210903005",
+      "name": "街基街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210903",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/新邱区/街基街道"
+    },
+    {
+      "code": "210903006",
+      "name": "新发屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210903",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/新邱区/新发屯街道"
+    },
+    {
+      "code": "210903101",
+      "name": "长营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210903",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/新邱区/长营子镇"
+    }
+  ]
+}

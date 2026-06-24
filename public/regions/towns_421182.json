@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "421182001",
+      "name": "武穴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/武穴街道"
+    },
+    {
+      "code": "421182002",
+      "name": "刊江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/刊江街道"
+    },
+    {
+      "code": "421182003",
+      "name": "田家镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/田家镇街道"
+    },
+    {
+      "code": "421182004",
+      "name": "万丈湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/万丈湖街道"
+    },
+    {
+      "code": "421182100",
+      "name": "梅川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/梅川镇"
+    },
+    {
+      "code": "421182101",
+      "name": "余川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/余川镇"
+    },
+    {
+      "code": "421182102",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/花桥镇"
+    },
+    {
+      "code": "421182103",
+      "name": "大金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/大金镇"
+    },
+    {
+      "code": "421182104",
+      "name": "石佛寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/石佛寺镇"
+    },
+    {
+      "code": "421182105",
+      "name": "四望镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/四望镇"
+    },
+    {
+      "code": "421182106",
+      "name": "大法寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/大法寺镇"
+    },
+    {
+      "code": "421182107",
+      "name": "龙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421182",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/武穴市/龙坪镇"
+    }
+  ]
+}

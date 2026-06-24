@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130227001",
+      "name": "栗乡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/栗乡街道"
+    },
+    {
+      "code": "130227100",
+      "name": "兴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/兴城镇"
+    },
+    {
+      "code": "130227101",
+      "name": "金厂峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/金厂峪镇"
+    },
+    {
+      "code": "130227102",
+      "name": "洒河桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/洒河桥镇"
+    },
+    {
+      "code": "130227103",
+      "name": "太平寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/太平寨镇"
+    },
+    {
+      "code": "130227104",
+      "name": "罗家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/罗家屯镇"
+    },
+    {
+      "code": "130227105",
+      "name": "东荒峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/东荒峪镇"
+    },
+    {
+      "code": "130227106",
+      "name": "新集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/新集镇"
+    },
+    {
+      "code": "130227107",
+      "name": "三屯营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/三屯营镇"
+    },
+    {
+      "code": "130227108",
+      "name": "滦阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/滦阳镇"
+    },
+    {
+      "code": "130227109",
+      "name": "汉儿庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/汉儿庄镇"
+    },
+    {
+      "code": "130227110",
+      "name": "新庄子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/新庄子镇"
+    },
+    {
+      "code": "130227111",
+      "name": "东莲花院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/东莲花院镇"
+    },
+    {
+      "code": "130227112",
+      "name": "白庙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/白庙子镇"
+    },
+    {
+      "code": "130227113",
+      "name": "上营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/上营镇"
+    },
+    {
+      "code": "130227203",
+      "name": "渔户寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/渔户寨乡"
+    },
+    {
+      "code": "130227204",
+      "name": "旧城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/旧城乡"
+    },
+    {
+      "code": "130227205",
+      "name": "尹庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130227",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁西县/尹庄乡"
+    }
+  ]
+}

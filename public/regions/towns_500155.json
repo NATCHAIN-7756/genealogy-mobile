@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "code": "500155001",
+      "name": "梁山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/梁山街道"
+    },
+    {
+      "code": "500155002",
+      "name": "双桂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/双桂街道"
+    },
+    {
+      "code": "500155003",
+      "name": "合兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/合兴街道"
+    },
+    {
+      "code": "500155004",
+      "name": "仁贤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/仁贤街道"
+    },
+    {
+      "code": "500155005",
+      "name": "金带街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/金带街道"
+    },
+    {
+      "code": "500155102",
+      "name": "礼让镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/礼让镇"
+    },
+    {
+      "code": "500155103",
+      "name": "云龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/云龙镇"
+    },
+    {
+      "code": "500155104",
+      "name": "屏锦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/屏锦镇"
+    },
+    {
+      "code": "500155106",
+      "name": "袁驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/袁驿镇"
+    },
+    {
+      "code": "500155107",
+      "name": "新盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/新盛镇"
+    },
+    {
+      "code": "500155108",
+      "name": "福禄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/福禄镇"
+    },
+    {
+      "code": "500155110",
+      "name": "聚奎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/聚奎镇"
+    },
+    {
+      "code": "500155111",
+      "name": "明达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/明达镇"
+    },
+    {
+      "code": "500155112",
+      "name": "荫平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/荫平镇"
+    },
+    {
+      "code": "500155113",
+      "name": "和林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/和林镇"
+    },
+    {
+      "code": "500155114",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/回龙镇"
+    },
+    {
+      "code": "500155115",
+      "name": "碧山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/碧山镇"
+    },
+    {
+      "code": "500155116",
+      "name": "虎城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/虎城镇"
+    },
+    {
+      "code": "500155117",
+      "name": "七星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/七星镇"
+    },
+    {
+      "code": "500155118",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/龙门镇"
+    },
+    {
+      "code": "500155119",
+      "name": "文化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/文化镇"
+    },
+    {
+      "code": "500155121",
+      "name": "石安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/石安镇"
+    },
+    {
+      "code": "500155122",
+      "name": "柏家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/柏家镇"
+    },
+    {
+      "code": "500155123",
+      "name": "大观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/大观镇"
+    },
+    {
+      "code": "500155124",
+      "name": "竹山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/竹山镇"
+    },
+    {
+      "code": "500155125",
+      "name": "蟠龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/蟠龙镇"
+    },
+    {
+      "code": "500155126",
+      "name": "星桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/星桥镇"
+    },
+    {
+      "code": "500155127",
+      "name": "曲水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/曲水镇"
+    },
+    {
+      "code": "500155128",
+      "name": "安胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/安胜镇"
+    },
+    {
+      "code": "500155129",
+      "name": "复平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/复平镇"
+    },
+    {
+      "code": "500155130",
+      "name": "紫照镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/紫照镇"
+    },
+    {
+      "code": "500155201",
+      "name": "铁门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/铁门乡"
+    },
+    {
+      "code": "500155202",
+      "name": "龙胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500155",
+      "year": 0,
+      "name_path": "重庆市/梁平区/龙胜乡"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "130283001",
+      "name": "永顺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/永顺街道"
+    },
+    {
+      "code": "130283002",
+      "name": "兴安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/兴安街道"
+    },
+    {
+      "code": "130283003",
+      "name": "滨河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/滨河街道"
+    },
+    {
+      "code": "130283004",
+      "name": "杨店子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/杨店子街道"
+    },
+    {
+      "code": "130283101",
+      "name": "夏官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/夏官营镇"
+    },
+    {
+      "code": "130283102",
+      "name": "杨各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/杨各庄镇"
+    },
+    {
+      "code": "130283103",
+      "name": "建昌营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/建昌营镇"
+    },
+    {
+      "code": "130283104",
+      "name": "赵店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/赵店子镇"
+    },
+    {
+      "code": "130283105",
+      "name": "野鸡坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/野鸡坨镇"
+    },
+    {
+      "code": "130283106",
+      "name": "大崔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/大崔庄镇"
+    },
+    {
+      "code": "130283108",
+      "name": "蔡园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/蔡园镇"
+    },
+    {
+      "code": "130283109",
+      "name": "马兰庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/马兰庄镇"
+    },
+    {
+      "code": "130283110",
+      "name": "沙河驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/沙河驿镇"
+    },
+    {
+      "code": "130283111",
+      "name": "木厂口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/木厂口镇"
+    },
+    {
+      "code": "130283112",
+      "name": "上射雁庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/上射雁庄镇"
+    },
+    {
+      "code": "130283113",
+      "name": "太平庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/太平庄镇"
+    },
+    {
+      "code": "130283114",
+      "name": "扣庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/扣庄镇"
+    },
+    {
+      "code": "130283115",
+      "name": "大五里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/大五里镇"
+    },
+    {
+      "code": "130283116",
+      "name": "五重安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/五重安镇"
+    },
+    {
+      "code": "130283117",
+      "name": "彭店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/彭店子镇"
+    },
+    {
+      "code": "130283118",
+      "name": "阎家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130283",
+      "year": 0,
+      "name_path": "河北省/唐山市/迁安市/阎家店镇"
+    }
+  ]
+}

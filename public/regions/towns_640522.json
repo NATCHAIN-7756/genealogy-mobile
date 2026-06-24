@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "640522100",
+      "name": "海城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/海城镇"
+    },
+    {
+      "code": "640522101",
+      "name": "李旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/李旺镇"
+    },
+    {
+      "code": "640522103",
+      "name": "西安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/西安镇"
+    },
+    {
+      "code": "640522104",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/三河镇"
+    },
+    {
+      "code": "640522105",
+      "name": "七营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/七营镇"
+    },
+    {
+      "code": "640522200",
+      "name": "史店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/史店乡"
+    },
+    {
+      "code": "640522201",
+      "name": "树台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/树台乡"
+    },
+    {
+      "code": "640522202",
+      "name": "关桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/关桥乡"
+    },
+    {
+      "code": "640522206",
+      "name": "高崖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/高崖乡"
+    },
+    {
+      "code": "640522207",
+      "name": "郑旗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/郑旗乡"
+    },
+    {
+      "code": "640522208",
+      "name": "贾塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/贾塘乡"
+    },
+    {
+      "code": "640522209",
+      "name": "曹洼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/曹洼乡"
+    },
+    {
+      "code": "640522210",
+      "name": "九彩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/九彩乡"
+    },
+    {
+      "code": "640522211",
+      "name": "李俊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/李俊乡"
+    },
+    {
+      "code": "640522212",
+      "name": "红羊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/红羊乡"
+    },
+    {
+      "code": "640522213",
+      "name": "关庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/关庄乡"
+    },
+    {
+      "code": "640522214",
+      "name": "甘城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640522",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/海原县/甘城乡"
+    }
+  ]
+}

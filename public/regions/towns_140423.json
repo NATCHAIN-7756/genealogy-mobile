@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "140423100",
+      "name": "古韩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/古韩镇"
+    },
+    {
+      "code": "140423101",
+      "name": "王桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/王桥镇"
+    },
+    {
+      "code": "140423102",
+      "name": "侯堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/侯堡镇"
+    },
+    {
+      "code": "140423103",
+      "name": "夏店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/夏店镇"
+    },
+    {
+      "code": "140423104",
+      "name": "虒亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/虒亭镇"
+    },
+    {
+      "code": "140423105",
+      "name": "西营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/西营镇"
+    },
+    {
+      "code": "140423106",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/王村镇"
+    },
+    {
+      "code": "140423107",
+      "name": "下良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/下良镇"
+    },
+    {
+      "code": "140423108",
+      "name": "善福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140423",
+      "year": 0,
+      "name_path": "山西省/长治市/襄垣县/善福镇"
+    }
+  ]
+}

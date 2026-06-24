@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "222424001",
+      "name": "大川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/大川街道"
+    },
+    {
+      "code": "222424002",
+      "name": "新民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/新民街道"
+    },
+    {
+      "code": "222424003",
+      "name": "长荣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/长荣街道"
+    },
+    {
+      "code": "222424101",
+      "name": "大兴沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/大兴沟镇"
+    },
+    {
+      "code": "222424102",
+      "name": "天桥岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/天桥岭镇"
+    },
+    {
+      "code": "222424103",
+      "name": "罗子沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/罗子沟镇"
+    },
+    {
+      "code": "222424104",
+      "name": "百草沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/百草沟镇"
+    },
+    {
+      "code": "222424105",
+      "name": "春阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/春阳镇"
+    },
+    {
+      "code": "222424106",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/复兴镇"
+    },
+    {
+      "code": "222424107",
+      "name": "东光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/东光镇"
+    },
+    {
+      "code": "222424109",
+      "name": "汪清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/汪清镇"
+    },
+    {
+      "code": "222424202",
+      "name": "鸡冠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222424",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/汪清县/鸡冠乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "222426001",
+      "name": "九龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/九龙街道"
+    },
+    {
+      "code": "222426002",
+      "name": "瓮声街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/瓮声街道"
+    },
+    {
+      "code": "222426003",
+      "name": "长兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/长兴街道"
+    },
+    {
+      "code": "222426100",
+      "name": "明月镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/明月镇"
+    },
+    {
+      "code": "222426101",
+      "name": "松江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/松江镇"
+    },
+    {
+      "code": "222426102",
+      "name": "二道白河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/二道白河镇"
+    },
+    {
+      "code": "222426103",
+      "name": "两江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/两江镇"
+    },
+    {
+      "code": "222426104",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/石门镇"
+    },
+    {
+      "code": "222426105",
+      "name": "万宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/万宝镇"
+    },
+    {
+      "code": "222426106",
+      "name": "亮兵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/亮兵镇"
+    },
+    {
+      "code": "222426201",
+      "name": "新合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/新合乡"
+    },
+    {
+      "code": "222426202",
+      "name": "永庆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222426",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/安图县/永庆乡"
+    }
+  ]
+}

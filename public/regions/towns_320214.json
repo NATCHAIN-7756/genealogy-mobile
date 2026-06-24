@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "320214001",
+      "name": "新安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320214",
+      "year": 0,
+      "name_path": "江苏省/无锡市/新吴区/新安街道"
+    },
+    {
+      "code": "320214002",
+      "name": "旺庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320214",
+      "year": 0,
+      "name_path": "江苏省/无锡市/新吴区/旺庄街道"
+    },
+    {
+      "code": "320214003",
+      "name": "硕放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320214",
+      "year": 0,
+      "name_path": "江苏省/无锡市/新吴区/硕放街道"
+    },
+    {
+      "code": "320214004",
+      "name": "江溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320214",
+      "year": 0,
+      "name_path": "江苏省/无锡市/新吴区/江溪街道"
+    },
+    {
+      "code": "320214005",
+      "name": "梅村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320214",
+      "year": 0,
+      "name_path": "江苏省/无锡市/新吴区/梅村街道"
+    },
+    {
+      "code": "320214006",
+      "name": "鸿山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320214",
+      "year": 0,
+      "name_path": "江苏省/无锡市/新吴区/鸿山街道"
+    }
+  ]
+}

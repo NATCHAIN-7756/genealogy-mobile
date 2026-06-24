@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "210505001",
+      "name": "南芬街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210505",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/南芬区/南芬街道"
+    },
+    {
+      "code": "210505004",
+      "name": "思山岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210505",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/南芬区/思山岭街道"
+    },
+    {
+      "code": "210505005",
+      "name": "下马塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210505",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/南芬区/下马塘街道"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "621126101",
+      "name": "岷阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/岷阳镇"
+    },
+    {
+      "code": "621126102",
+      "name": "西寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/西寨镇"
+    },
+    {
+      "code": "621126103",
+      "name": "梅川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/梅川镇"
+    },
+    {
+      "code": "621126104",
+      "name": "西江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/西江镇"
+    },
+    {
+      "code": "621126105",
+      "name": "闾井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/闾井镇"
+    },
+    {
+      "code": "621126106",
+      "name": "十里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/十里镇"
+    },
+    {
+      "code": "621126107",
+      "name": "茶埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/茶埠镇"
+    },
+    {
+      "code": "621126108",
+      "name": "中寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/中寨镇"
+    },
+    {
+      "code": "621126109",
+      "name": "蒲麻镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/蒲麻镇"
+    },
+    {
+      "code": "621126110",
+      "name": "马坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/马坞镇"
+    },
+    {
+      "code": "621126111",
+      "name": "清水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/清水镇"
+    },
+    {
+      "code": "621126112",
+      "name": "寺沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/寺沟镇"
+    },
+    {
+      "code": "621126113",
+      "name": "麻子川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/麻子川镇"
+    },
+    {
+      "code": "621126114",
+      "name": "禾驮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/禾驮镇"
+    },
+    {
+      "code": "621126115",
+      "name": "维新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/维新镇"
+    },
+    {
+      "code": "621126204",
+      "name": "秦许乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/秦许乡"
+    },
+    {
+      "code": "621126207",
+      "name": "申都乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/申都乡"
+    },
+    {
+      "code": "621126208",
+      "name": "锁龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621126",
+      "year": 0,
+      "name_path": "甘肃省/定西市/岷县/锁龙乡"
+    }
+  ]
+}

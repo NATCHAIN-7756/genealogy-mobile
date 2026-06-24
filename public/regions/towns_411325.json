@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "411325100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/城关镇"
+    },
+    {
+      "code": "411325101",
+      "name": "夏馆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/夏馆镇"
+    },
+    {
+      "code": "411325102",
+      "name": "师岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/师岗镇"
+    },
+    {
+      "code": "411325103",
+      "name": "马山口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/马山口镇"
+    },
+    {
+      "code": "411325104",
+      "name": "湍东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/湍东镇"
+    },
+    {
+      "code": "411325105",
+      "name": "赤眉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/赤眉镇"
+    },
+    {
+      "code": "411325106",
+      "name": "瓦亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/瓦亭镇"
+    },
+    {
+      "code": "411325107",
+      "name": "王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/王店镇"
+    },
+    {
+      "code": "411325108",
+      "name": "灌涨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/灌涨镇"
+    },
+    {
+      "code": "411325109",
+      "name": "桃溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/桃溪镇"
+    },
+    {
+      "code": "411325110",
+      "name": "岞𪨰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/岞𪨰镇"
+    },
+    {
+      "code": "411325111",
+      "name": "余关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/余关镇"
+    },
+    {
+      "code": "411325200",
+      "name": "板场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/板场乡"
+    },
+    {
+      "code": "411325201",
+      "name": "大桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/大桥乡"
+    },
+    {
+      "code": "411325202",
+      "name": "赵店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/赵店乡"
+    },
+    {
+      "code": "411325206",
+      "name": "七里坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411325",
+      "year": 0,
+      "name_path": "河南省/南阳市/内乡县/七里坪乡"
+    }
+  ]
+}

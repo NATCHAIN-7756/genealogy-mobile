@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "360323100",
+      "name": "芦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/芦溪镇"
+    },
+    {
+      "code": "360323101",
+      "name": "宣风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/宣风镇"
+    },
+    {
+      "code": "360323102",
+      "name": "上埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/上埠镇"
+    },
+    {
+      "code": "360323103",
+      "name": "银河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/银河镇"
+    },
+    {
+      "code": "360323104",
+      "name": "南坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/南坑镇"
+    },
+    {
+      "code": "360323105",
+      "name": "麻田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/麻田镇"
+    },
+    {
+      "code": "360323200",
+      "name": "长丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/长丰乡"
+    },
+    {
+      "code": "360323201",
+      "name": "新泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/新泉乡"
+    },
+    {
+      "code": "360323203",
+      "name": "万龙山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/万龙山乡"
+    },
+    {
+      "code": "360323204",
+      "name": "张佳坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/张佳坊乡"
+    },
+    {
+      "code": "360323206",
+      "name": "源南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360323",
+      "year": 0,
+      "name_path": "江西省/萍乡市/芦溪县/源南乡"
+    }
+  ]
+}

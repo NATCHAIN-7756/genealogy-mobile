@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "110119001",
+      "name": "百泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/百泉街道"
+    },
+    {
+      "code": "110119002",
+      "name": "香水园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/香水园街道"
+    },
+    {
+      "code": "110119003",
+      "name": "儒林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/儒林街道"
+    },
+    {
+      "code": "110119100",
+      "name": "延庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/延庆镇"
+    },
+    {
+      "code": "110119101",
+      "name": "康庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/康庄镇"
+    },
+    {
+      "code": "110119102",
+      "name": "八达岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/八达岭镇"
+    },
+    {
+      "code": "110119103",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/永宁镇"
+    },
+    {
+      "code": "110119104",
+      "name": "旧县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/旧县镇"
+    },
+    {
+      "code": "110119105",
+      "name": "张山营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/张山营镇"
+    },
+    {
+      "code": "110119106",
+      "name": "四海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/四海镇"
+    },
+    {
+      "code": "110119107",
+      "name": "千家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/千家店镇"
+    },
+    {
+      "code": "110119108",
+      "name": "沈家营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/沈家营镇"
+    },
+    {
+      "code": "110119109",
+      "name": "大榆树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/大榆树镇"
+    },
+    {
+      "code": "110119110",
+      "name": "井庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/井庄镇"
+    },
+    {
+      "code": "110119200",
+      "name": "大庄科乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/大庄科乡"
+    },
+    {
+      "code": "110119201",
+      "name": "刘斌堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/刘斌堡乡"
+    },
+    {
+      "code": "110119202",
+      "name": "香营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/香营乡"
+    },
+    {
+      "code": "110119203",
+      "name": "珍珠泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110119",
+      "year": 0,
+      "name_path": "北京市/延庆区/珍珠泉乡"
+    }
+  ]
+}

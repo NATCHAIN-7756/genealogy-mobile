@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "130407100",
+      "name": "肥乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/肥乡镇"
+    },
+    {
+      "code": "130407101",
+      "name": "天台山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/天台山镇"
+    },
+    {
+      "code": "130407102",
+      "name": "辛安镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/辛安镇镇"
+    },
+    {
+      "code": "130407103",
+      "name": "大寺上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/大寺上镇"
+    },
+    {
+      "code": "130407104",
+      "name": "东漳堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/东漳堡镇"
+    },
+    {
+      "code": "130407105",
+      "name": "毛演堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/毛演堡镇"
+    },
+    {
+      "code": "130407106",
+      "name": "西吕营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/西吕营镇"
+    },
+    {
+      "code": "130407107",
+      "name": "元固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/元固镇"
+    },
+    {
+      "code": "130407108",
+      "name": "北高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130407",
+      "year": 0,
+      "name_path": "河北省/邯郸市/肥乡区/北高镇"
+    }
+  ]
+}

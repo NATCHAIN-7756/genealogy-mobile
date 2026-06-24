@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "360102014",
+      "name": "董家窑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/董家窑街道"
+    },
+    {
+      "code": "360102015",
+      "name": "滕王阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/滕王阁街道"
+    },
+    {
+      "code": "360102016",
+      "name": "百花洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/百花洲街道"
+    },
+    {
+      "code": "360102017",
+      "name": "墩子塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/墩子塘街道"
+    },
+    {
+      "code": "360102020",
+      "name": "大院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/大院街道"
+    },
+    {
+      "code": "360102022",
+      "name": "豫章街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/豫章街道"
+    },
+    {
+      "code": "360102023",
+      "name": "彭家桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/彭家桥街道"
+    },
+    {
+      "code": "360102100",
+      "name": "扬子洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360102",
+      "year": 0,
+      "name_path": "江西省/南昌市/东湖区/扬子洲镇"
+    }
+  ]
+}

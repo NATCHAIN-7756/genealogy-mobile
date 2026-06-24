@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "231025100",
+      "name": "林口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/林口镇"
+    },
+    {
+      "code": "231025101",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/古城镇"
+    },
+    {
+      "code": "231025102",
+      "name": "刁翎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/刁翎镇"
+    },
+    {
+      "code": "231025104",
+      "name": "朱家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/朱家镇"
+    },
+    {
+      "code": "231025105",
+      "name": "柳树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/柳树镇"
+    },
+    {
+      "code": "231025106",
+      "name": "三道通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/三道通镇"
+    },
+    {
+      "code": "231025107",
+      "name": "龙爪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/龙爪镇"
+    },
+    {
+      "code": "231025108",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/莲花镇"
+    },
+    {
+      "code": "231025110",
+      "name": "青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/青山镇"
+    },
+    {
+      "code": "231025111",
+      "name": "建堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/建堂镇"
+    },
+    {
+      "code": "231025112",
+      "name": "奎山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231025",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/林口县/奎山镇"
+    }
+  ]
+}

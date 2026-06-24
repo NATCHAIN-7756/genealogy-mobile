@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230224100",
+      "name": "泰来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/泰来镇"
+    },
+    {
+      "code": "230224101",
+      "name": "平洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/平洋镇"
+    },
+    {
+      "code": "230224103",
+      "name": "江桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/江桥镇"
+    },
+    {
+      "code": "230224104",
+      "name": "塔子城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/塔子城镇"
+    },
+    {
+      "code": "230224105",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/大兴镇"
+    },
+    {
+      "code": "230224106",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/和平镇"
+    },
+    {
+      "code": "230224107",
+      "name": "克利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/克利镇"
+    },
+    {
+      "code": "230224108",
+      "name": "汤池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/汤池镇"
+    },
+    {
+      "code": "230224200",
+      "name": "胜利蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/胜利蒙古族乡"
+    },
+    {
+      "code": "230224209",
+      "name": "宁姜蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230224",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/泰来县/宁姜蒙古族乡"
+    }
+  ]
+}

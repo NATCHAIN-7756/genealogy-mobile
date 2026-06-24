@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "654028100",
+      "name": "尼勒克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/尼勒克镇"
+    },
+    {
+      "code": "654028101",
+      "name": "木斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/木斯镇"
+    },
+    {
+      "code": "654028102",
+      "name": "乌拉斯台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/乌拉斯台镇"
+    },
+    {
+      "code": "654028103",
+      "name": "乌赞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/乌赞镇"
+    },
+    {
+      "code": "654028104",
+      "name": "克令镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/克令镇"
+    },
+    {
+      "code": "654028200",
+      "name": "苏布台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/苏布台乡"
+    },
+    {
+      "code": "654028201",
+      "name": "喀拉苏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/喀拉苏乡"
+    },
+    {
+      "code": "654028202",
+      "name": "加哈乌拉斯台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/加哈乌拉斯台乡"
+    },
+    {
+      "code": "654028204",
+      "name": "科克浩特浩尔蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/科克浩特浩尔蒙古族乡"
+    },
+    {
+      "code": "654028207",
+      "name": "喀拉托别乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/喀拉托别乡"
+    },
+    {
+      "code": "654028208",
+      "name": "胡吉尔台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654028",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/尼勒克县/胡吉尔台乡"
+    }
+  ]
+}

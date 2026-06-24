@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "430102",
+      "name": "芙蓉区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/芙蓉区"
+    },
+    {
+      "code": "430103",
+      "name": "天心区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/天心区"
+    },
+    {
+      "code": "430104",
+      "name": "岳麓区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/岳麓区"
+    },
+    {
+      "code": "430105",
+      "name": "开福区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/开福区"
+    },
+    {
+      "code": "430111",
+      "name": "雨花区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/雨花区"
+    },
+    {
+      "code": "430112",
+      "name": "望城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/望城区"
+    },
+    {
+      "code": "430121",
+      "name": "长沙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/长沙县"
+    },
+    {
+      "code": "430181",
+      "name": "浏阳市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/浏阳市"
+    },
+    {
+      "code": "430182",
+      "name": "宁乡市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430100",
+      "year": 0,
+      "name_path": "全国/湖南省/长沙市/宁乡市"
+    }
+  ]
+}

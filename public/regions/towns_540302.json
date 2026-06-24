@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "540302001",
+      "name": "四川桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/四川桥街道"
+    },
+    {
+      "code": "540302002",
+      "name": "玛塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/玛塘街道"
+    },
+    {
+      "code": "540302003",
+      "name": "马草坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/马草坝街道"
+    },
+    {
+      "code": "540302100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/城关镇"
+    },
+    {
+      "code": "540302101",
+      "name": "俄洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/俄洛镇"
+    },
+    {
+      "code": "540302102",
+      "name": "卡若镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/卡若镇"
+    },
+    {
+      "code": "540302200",
+      "name": "芒达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/芒达乡"
+    },
+    {
+      "code": "540302201",
+      "name": "约巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/约巴乡"
+    },
+    {
+      "code": "540302202",
+      "name": "妥坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/妥坝乡"
+    },
+    {
+      "code": "540302203",
+      "name": "拉多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/拉多乡"
+    },
+    {
+      "code": "540302204",
+      "name": "面达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/面达乡"
+    },
+    {
+      "code": "540302205",
+      "name": "嘎玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/嘎玛乡"
+    },
+    {
+      "code": "540302206",
+      "name": "柴维乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/柴维乡"
+    },
+    {
+      "code": "540302207",
+      "name": "日通乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/日通乡"
+    },
+    {
+      "code": "540302208",
+      "name": "如意乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/如意乡"
+    },
+    {
+      "code": "540302209",
+      "name": "埃西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/埃西乡"
+    },
+    {
+      "code": "540302210",
+      "name": "若巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/若巴乡"
+    },
+    {
+      "code": "540302211",
+      "name": "沙贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540302",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/卡若区/沙贡乡"
+    }
+  ]
+}

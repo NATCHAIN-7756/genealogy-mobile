@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130929100",
+      "name": "乐寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/乐寿镇"
+    },
+    {
+      "code": "130929101",
+      "name": "淮镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/淮镇镇"
+    },
+    {
+      "code": "130929102",
+      "name": "郭庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/郭庄镇"
+    },
+    {
+      "code": "130929103",
+      "name": "河城街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/河城街镇"
+    },
+    {
+      "code": "130929104",
+      "name": "韩村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/韩村镇"
+    },
+    {
+      "code": "130929105",
+      "name": "陌南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/陌南镇"
+    },
+    {
+      "code": "130929106",
+      "name": "陈庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/陈庄镇"
+    },
+    {
+      "code": "130929107",
+      "name": "段村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/段村镇"
+    },
+    {
+      "code": "130929108",
+      "name": "高官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/高官镇"
+    },
+    {
+      "code": "130929109",
+      "name": "十五级镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/十五级镇"
+    },
+    {
+      "code": "130929110",
+      "name": "南河头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/南河头镇"
+    },
+    {
+      "code": "130929111",
+      "name": "商林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/商林镇"
+    },
+    {
+      "code": "130929208",
+      "name": "本斋回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/本斋回族乡"
+    },
+    {
+      "code": "130929209",
+      "name": "张村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/张村乡"
+    },
+    {
+      "code": "130929210",
+      "name": "临河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/临河乡"
+    },
+    {
+      "code": "130929211",
+      "name": "小平王乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/小平王乡"
+    },
+    {
+      "code": "130929213",
+      "name": "垒头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/垒头乡"
+    },
+    {
+      "code": "130929215",
+      "name": "西城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130929",
+      "year": 0,
+      "name_path": "河北省/沧州市/献县/西城乡"
+    }
+  ]
+}

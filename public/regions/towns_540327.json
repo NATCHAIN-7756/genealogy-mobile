@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540327100",
+      "name": "旺达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/旺达镇"
+    },
+    {
+      "code": "540327101",
+      "name": "田妥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/田妥镇"
+    },
+    {
+      "code": "540327102",
+      "name": "扎玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/扎玉镇"
+    },
+    {
+      "code": "540327203",
+      "name": "东坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/东坝乡"
+    },
+    {
+      "code": "540327204",
+      "name": "仁果乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/仁果乡"
+    },
+    {
+      "code": "540327207",
+      "name": "绕金乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/绕金乡"
+    },
+    {
+      "code": "540327208",
+      "name": "碧土乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/碧土乡"
+    },
+    {
+      "code": "540327210",
+      "name": "美玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/美玉乡"
+    },
+    {
+      "code": "540327211",
+      "name": "中林卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/中林卡乡"
+    },
+    {
+      "code": "540327212",
+      "name": "下林卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540327",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/左贡县/下林卡乡"
+    }
+  ]
+}

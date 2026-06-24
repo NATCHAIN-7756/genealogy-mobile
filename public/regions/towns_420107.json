@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "420107001",
+      "name": "红卫路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/红卫路街道"
+    },
+    {
+      "code": "420107002",
+      "name": "冶金街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/冶金街道"
+    },
+    {
+      "code": "420107003",
+      "name": "新沟桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/新沟桥街道"
+    },
+    {
+      "code": "420107004",
+      "name": "红钢城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/红钢城街道"
+    },
+    {
+      "code": "420107005",
+      "name": "工人村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/工人村街道"
+    },
+    {
+      "code": "420107006",
+      "name": "青山镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/青山镇街道"
+    },
+    {
+      "code": "420107008",
+      "name": "武东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/武东街道"
+    },
+    {
+      "code": "420107009",
+      "name": "白玉山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/白玉山街道"
+    },
+    {
+      "code": "420107010",
+      "name": "钢花村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/钢花村街道"
+    },
+    {
+      "code": "420107011",
+      "name": "钢都花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420107",
+      "year": 0,
+      "name_path": "湖北省/武汉市/青山区/钢都花园街道"
+    }
+  ]
+}

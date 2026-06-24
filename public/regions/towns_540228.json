@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540228100",
+      "name": "洛江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/洛江镇"
+    },
+    {
+      "code": "540228101",
+      "name": "嘎东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/嘎东镇"
+    },
+    {
+      "code": "540228200",
+      "name": "巴扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/巴扎乡"
+    },
+    {
+      "code": "540228201",
+      "name": "玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/玛乡"
+    },
+    {
+      "code": "540228202",
+      "name": "旺丹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/旺丹乡"
+    },
+    {
+      "code": "540228203",
+      "name": "曲奴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/曲奴乡"
+    },
+    {
+      "code": "540228204",
+      "name": "杜琼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/杜琼乡"
+    },
+    {
+      "code": "540228205",
+      "name": "强堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/强堆乡"
+    },
+    {
+      "code": "540228206",
+      "name": "嘎普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/嘎普乡"
+    },
+    {
+      "code": "540228207",
+      "name": "者下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/者下乡"
+    },
+    {
+      "code": "540228208",
+      "name": "东喜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540228",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/白朗县/东喜乡"
+    }
+  ]
+}

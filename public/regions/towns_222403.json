@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "222403001",
+      "name": "渤海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/渤海街道"
+    },
+    {
+      "code": "222403002",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/胜利街道"
+    },
+    {
+      "code": "222403003",
+      "name": "民主街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/民主街道"
+    },
+    {
+      "code": "222403004",
+      "name": "丹江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/丹江街道"
+    },
+    {
+      "code": "222403100",
+      "name": "大石头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/大石头镇"
+    },
+    {
+      "code": "222403101",
+      "name": "黄泥河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/黄泥河镇"
+    },
+    {
+      "code": "222403102",
+      "name": "官地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/官地镇"
+    },
+    {
+      "code": "222403103",
+      "name": "沙河沿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/沙河沿镇"
+    },
+    {
+      "code": "222403104",
+      "name": "秋梨沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/秋梨沟镇"
+    },
+    {
+      "code": "222403105",
+      "name": "额穆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/额穆镇"
+    },
+    {
+      "code": "222403106",
+      "name": "贤儒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/贤儒镇"
+    },
+    {
+      "code": "222403107",
+      "name": "大蒲柴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/大蒲柴河镇"
+    },
+    {
+      "code": "222403108",
+      "name": "雁鸣湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/雁鸣湖镇"
+    },
+    {
+      "code": "222403109",
+      "name": "江源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/江源镇"
+    },
+    {
+      "code": "222403110",
+      "name": "江南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/江南镇"
+    },
+    {
+      "code": "222403200",
+      "name": "大桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/大桥乡"
+    },
+    {
+      "code": "222403201",
+      "name": "黑石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/黑石乡"
+    },
+    {
+      "code": "222403202",
+      "name": "青沟子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/青沟子乡"
+    },
+    {
+      "code": "222403203",
+      "name": "翰章乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/翰章乡"
+    },
+    {
+      "code": "222403204",
+      "name": "红石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222403",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/敦化市/红石乡"
+    }
+  ]
+}

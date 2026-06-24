@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "230723100",
+      "name": "乌伊岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230723",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/汤旺县/乌伊岭镇"
+    },
+    {
+      "code": "230723101",
+      "name": "汤旺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230723",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/汤旺县/汤旺河镇"
+    }
+  ]
+}

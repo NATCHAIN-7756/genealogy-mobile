@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "360202001",
+      "name": "新枫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360202",
+      "year": 0,
+      "name_path": "江西省/景德镇市/昌江区/新枫街道"
+    },
+    {
+      "code": "360202002",
+      "name": "西郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360202",
+      "year": 0,
+      "name_path": "江西省/景德镇市/昌江区/西郊街道"
+    },
+    {
+      "code": "360202003",
+      "name": "吕蒙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360202",
+      "year": 0,
+      "name_path": "江西省/景德镇市/昌江区/吕蒙街道"
+    },
+    {
+      "code": "360202101",
+      "name": "鲇鱼山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360202",
+      "year": 0,
+      "name_path": "江西省/景德镇市/昌江区/鲇鱼山镇"
+    },
+    {
+      "code": "360202103",
+      "name": "丽阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360202",
+      "year": 0,
+      "name_path": "江西省/景德镇市/昌江区/丽阳镇"
+    },
+    {
+      "code": "360202201",
+      "name": "荷塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360202",
+      "year": 0,
+      "name_path": "江西省/景德镇市/昌江区/荷塘乡"
+    }
+  ]
+}

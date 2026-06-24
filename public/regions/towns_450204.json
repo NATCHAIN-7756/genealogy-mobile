@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "450204001",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/河西街道"
+    },
+    {
+      "code": "450204002",
+      "name": "柳南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/柳南街道"
+    },
+    {
+      "code": "450204003",
+      "name": "柳石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/柳石街道"
+    },
+    {
+      "code": "450204004",
+      "name": "南站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/南站街道"
+    },
+    {
+      "code": "450204005",
+      "name": "鹅山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/鹅山街道"
+    },
+    {
+      "code": "450204006",
+      "name": "银山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/银山街道"
+    },
+    {
+      "code": "450204007",
+      "name": "潭西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/潭西街道"
+    },
+    {
+      "code": "450204008",
+      "name": "南环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/南环街道"
+    },
+    {
+      "code": "450204100",
+      "name": "太阳村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/太阳村镇"
+    },
+    {
+      "code": "450204101",
+      "name": "洛满镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/洛满镇"
+    },
+    {
+      "code": "450204102",
+      "name": "流山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450204",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳南区/流山镇"
+    }
+  ]
+}

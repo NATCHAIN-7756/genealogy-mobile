@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "450602",
+      "name": "港口区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450600",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/防城港市/港口区"
+    },
+    {
+      "code": "450603",
+      "name": "防城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450600",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/防城港市/防城区"
+    },
+    {
+      "code": "450621",
+      "name": "上思县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450600",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/防城港市/上思县"
+    },
+    {
+      "code": "450681",
+      "name": "东兴市",
+      "level": 3,
+      "type": null,
+      "parent_code": "450600",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/防城港市/东兴市"
+    }
+  ]
+}

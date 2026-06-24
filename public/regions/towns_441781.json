@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "441781001",
+      "name": "春城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/春城街道"
+    },
+    {
+      "code": "441781002",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/河西街道"
+    },
+    {
+      "code": "441781101",
+      "name": "河㙟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/河㙟镇"
+    },
+    {
+      "code": "441781102",
+      "name": "松柏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/松柏镇"
+    },
+    {
+      "code": "441781103",
+      "name": "石望镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/石望镇"
+    },
+    {
+      "code": "441781105",
+      "name": "春湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/春湾镇"
+    },
+    {
+      "code": "441781106",
+      "name": "合水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/合水镇"
+    },
+    {
+      "code": "441781107",
+      "name": "陂面镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/陂面镇"
+    },
+    {
+      "code": "441781108",
+      "name": "圭岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/圭岗镇"
+    },
+    {
+      "code": "441781109",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/永宁镇"
+    },
+    {
+      "code": "441781110",
+      "name": "马水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/马水镇"
+    },
+    {
+      "code": "441781111",
+      "name": "岗美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/岗美镇"
+    },
+    {
+      "code": "441781112",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/河口镇"
+    },
+    {
+      "code": "441781113",
+      "name": "潭水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/潭水镇"
+    },
+    {
+      "code": "441781114",
+      "name": "三甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/三甲镇"
+    },
+    {
+      "code": "441781116",
+      "name": "双滘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/双滘镇"
+    },
+    {
+      "code": "441781117",
+      "name": "八甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441781",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳春市/八甲镇"
+    }
+  ]
+}

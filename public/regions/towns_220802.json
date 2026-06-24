@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "220802001",
+      "name": "海明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/海明街道"
+    },
+    {
+      "code": "220802002",
+      "name": "长庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/长庆街道"
+    },
+    {
+      "code": "220802003",
+      "name": "瑞光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/瑞光街道"
+    },
+    {
+      "code": "220802004",
+      "name": "明仁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/明仁街道"
+    },
+    {
+      "code": "220802005",
+      "name": "铁东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/铁东街道"
+    },
+    {
+      "code": "220802006",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/城南街道"
+    },
+    {
+      "code": "220802007",
+      "name": "新立街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/新立街道"
+    },
+    {
+      "code": "220802008",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/幸福街道"
+    },
+    {
+      "code": "220802009",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/新华街道"
+    },
+    {
+      "code": "220802010",
+      "name": "保平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/保平街道"
+    },
+    {
+      "code": "220802011",
+      "name": "西郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/西郊街道"
+    },
+    {
+      "code": "220802012",
+      "name": "官银号街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/官银号街道"
+    },
+    {
+      "code": "220802100",
+      "name": "岭下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/岭下镇"
+    },
+    {
+      "code": "220802101",
+      "name": "平安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/平安镇"
+    },
+    {
+      "code": "220802102",
+      "name": "青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/青山镇"
+    },
+    {
+      "code": "220802103",
+      "name": "林海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/林海镇"
+    },
+    {
+      "code": "220802104",
+      "name": "洮河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/洮河镇"
+    },
+    {
+      "code": "220802105",
+      "name": "平台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/平台镇"
+    },
+    {
+      "code": "220802106",
+      "name": "到保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/到保镇"
+    },
+    {
+      "code": "220802201",
+      "name": "东风乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/东风乡"
+    },
+    {
+      "code": "220802202",
+      "name": "三合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/三合乡"
+    },
+    {
+      "code": "220802204",
+      "name": "金祥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/金祥乡"
+    },
+    {
+      "code": "220802205",
+      "name": "东胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/东胜乡"
+    },
+    {
+      "code": "220802206",
+      "name": "德顺蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220802",
+      "year": 0,
+      "name_path": "吉林省/白城市/洮北区/德顺蒙古族乡"
+    }
+  ]
+}

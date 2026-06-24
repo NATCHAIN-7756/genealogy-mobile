@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "code": "360981001",
+      "name": "剑光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/剑光街道"
+    },
+    {
+      "code": "360981002",
+      "name": "剑南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/剑南街道"
+    },
+    {
+      "code": "360981003",
+      "name": "河洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/河洲街道"
+    },
+    {
+      "code": "360981006",
+      "name": "尚庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/尚庄街道"
+    },
+    {
+      "code": "360981007",
+      "name": "孙渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/孙渡街道"
+    },
+    {
+      "code": "360981008",
+      "name": "龙津洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/龙津洲街道"
+    },
+    {
+      "code": "360981101",
+      "name": "曲江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/曲江镇"
+    },
+    {
+      "code": "360981103",
+      "name": "泉港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/泉港镇"
+    },
+    {
+      "code": "360981104",
+      "name": "上塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/上塘镇"
+    },
+    {
+      "code": "360981106",
+      "name": "小港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/小港镇"
+    },
+    {
+      "code": "360981107",
+      "name": "拖船镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/拖船镇"
+    },
+    {
+      "code": "360981108",
+      "name": "荣塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/荣塘镇"
+    },
+    {
+      "code": "360981109",
+      "name": "秀市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/秀市镇"
+    },
+    {
+      "code": "360981110",
+      "name": "张巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/张巷镇"
+    },
+    {
+      "code": "360981111",
+      "name": "石滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/石滩镇"
+    },
+    {
+      "code": "360981112",
+      "name": "白土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/白土镇"
+    },
+    {
+      "code": "360981113",
+      "name": "袁渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/袁渡镇"
+    },
+    {
+      "code": "360981114",
+      "name": "丽村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/丽村镇"
+    },
+    {
+      "code": "360981115",
+      "name": "铁路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/铁路镇"
+    },
+    {
+      "code": "360981116",
+      "name": "淘沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/淘沙镇"
+    },
+    {
+      "code": "360981117",
+      "name": "梅林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/梅林镇"
+    },
+    {
+      "code": "360981118",
+      "name": "隍城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/隍城镇"
+    },
+    {
+      "code": "360981119",
+      "name": "董家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/董家镇"
+    },
+    {
+      "code": "360981120",
+      "name": "杜市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/杜市镇"
+    },
+    {
+      "code": "360981121",
+      "name": "桥东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/桥东镇"
+    },
+    {
+      "code": "360981123",
+      "name": "洛市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/洛市镇"
+    },
+    {
+      "code": "360981128",
+      "name": "荷湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/荷湖镇"
+    },
+    {
+      "code": "360981205",
+      "name": "蕉坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/蕉坑乡"
+    },
+    {
+      "code": "360981210",
+      "name": "筱塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/筱塘乡"
+    },
+    {
+      "code": "360981211",
+      "name": "段潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/段潭乡"
+    },
+    {
+      "code": "360981212",
+      "name": "同田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/同田乡"
+    },
+    {
+      "code": "360981214",
+      "name": "湖塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/湖塘乡"
+    },
+    {
+      "code": "360981217",
+      "name": "石江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360981",
+      "year": 0,
+      "name_path": "江西省/宜春市/丰城市/石江乡"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "450602001",
+      "name": "渔洲坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450602",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/港口区/渔洲坪街道"
+    },
+    {
+      "code": "450602002",
+      "name": "白沙𬇕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450602",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/港口区/白沙𬇕街道"
+    },
+    {
+      "code": "450602003",
+      "name": "沙潭江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450602",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/港口区/沙潭江街道"
+    },
+    {
+      "code": "450602004",
+      "name": "王府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450602",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/港口区/王府街道"
+    },
+    {
+      "code": "450602100",
+      "name": "企沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450602",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/港口区/企沙镇"
+    },
+    {
+      "code": "450602101",
+      "name": "光坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450602",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/港口区/光坡镇"
+    }
+  ]
+}

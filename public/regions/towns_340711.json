@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "340711001",
+      "name": "安庆矿区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/安庆矿区街道"
+    },
+    {
+      "code": "340711002",
+      "name": "桥南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/桥南街道"
+    },
+    {
+      "code": "340711100",
+      "name": "铜山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/铜山镇"
+    },
+    {
+      "code": "340711101",
+      "name": "大通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/大通镇"
+    },
+    {
+      "code": "340711102",
+      "name": "老洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/老洲镇"
+    },
+    {
+      "code": "340711103",
+      "name": "陈瑶湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/陈瑶湖镇"
+    },
+    {
+      "code": "340711104",
+      "name": "周潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/周潭镇"
+    },
+    {
+      "code": "340711200",
+      "name": "灰河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340711",
+      "year": 0,
+      "name_path": "安徽省/铜陵市/郊区/灰河乡"
+    }
+  ]
+}

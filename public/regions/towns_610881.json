@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "610881001",
+      "name": "滨河新区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/滨河新区街道"
+    },
+    {
+      "code": "610881002",
+      "name": "西沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/西沙街道"
+    },
+    {
+      "code": "610881003",
+      "name": "麟州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/麟州街道"
+    },
+    {
+      "code": "610881004",
+      "name": "迎宾路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/迎宾路街道"
+    },
+    {
+      "code": "610881005",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/永兴街道"
+    },
+    {
+      "code": "610881006",
+      "name": "西沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/西沟街道"
+    },
+    {
+      "code": "610881101",
+      "name": "高家堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/高家堡镇"
+    },
+    {
+      "code": "610881102",
+      "name": "店塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/店塔镇"
+    },
+    {
+      "code": "610881103",
+      "name": "孙家岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/孙家岔镇"
+    },
+    {
+      "code": "610881104",
+      "name": "大柳塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/大柳塔镇"
+    },
+    {
+      "code": "610881105",
+      "name": "花石崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/花石崖镇"
+    },
+    {
+      "code": "610881106",
+      "name": "中鸡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/中鸡镇"
+    },
+    {
+      "code": "610881107",
+      "name": "贺家川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/贺家川镇"
+    },
+    {
+      "code": "610881108",
+      "name": "尔林兔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/尔林兔镇"
+    },
+    {
+      "code": "610881109",
+      "name": "万镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/万镇"
+    },
+    {
+      "code": "610881110",
+      "name": "大保当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/大保当镇"
+    },
+    {
+      "code": "610881111",
+      "name": "马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/马镇"
+    },
+    {
+      "code": "610881112",
+      "name": "栏杆堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/栏杆堡镇"
+    },
+    {
+      "code": "610881113",
+      "name": "沙峁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/沙峁镇"
+    },
+    {
+      "code": "610881114",
+      "name": "锦界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610881",
+      "year": 0,
+      "name_path": "陕西省/榆林市/神木市/锦界镇"
+    }
+  ]
+}

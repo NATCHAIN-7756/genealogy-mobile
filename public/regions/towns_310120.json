@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "310120001",
+      "name": "西渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/西渡街道"
+    },
+    {
+      "code": "310120002",
+      "name": "奉浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/奉浦街道"
+    },
+    {
+      "code": "310120003",
+      "name": "金海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/金海街道"
+    },
+    {
+      "code": "310120004",
+      "name": "头桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/头桥街道"
+    },
+    {
+      "code": "310120101",
+      "name": "南桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/南桥镇"
+    },
+    {
+      "code": "310120102",
+      "name": "奉城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/奉城镇"
+    },
+    {
+      "code": "310120104",
+      "name": "庄行镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/庄行镇"
+    },
+    {
+      "code": "310120106",
+      "name": "金汇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/金汇镇"
+    },
+    {
+      "code": "310120111",
+      "name": "青村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/青村镇"
+    },
+    {
+      "code": "310120118",
+      "name": "柘林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/柘林镇"
+    },
+    {
+      "code": "310120123",
+      "name": "海湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/海湾镇"
+    },
+    {
+      "code": "310120124",
+      "name": "四团镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310120",
+      "year": 0,
+      "name_path": "上海市/奉贤区/四团镇"
+    }
+  ]
+}

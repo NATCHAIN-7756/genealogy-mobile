@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "410324001",
+      "name": "耕莘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/耕莘街道"
+    },
+    {
+      "code": "410324101",
+      "name": "赤土店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/赤土店镇"
+    },
+    {
+      "code": "410324102",
+      "name": "合峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/合峪镇"
+    },
+    {
+      "code": "410324103",
+      "name": "潭头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/潭头镇"
+    },
+    {
+      "code": "410324104",
+      "name": "三川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/三川镇"
+    },
+    {
+      "code": "410324105",
+      "name": "冷水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/冷水镇"
+    },
+    {
+      "code": "410324106",
+      "name": "陶湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/陶湾镇"
+    },
+    {
+      "code": "410324107",
+      "name": "石庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/石庙镇"
+    },
+    {
+      "code": "410324108",
+      "name": "庙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/庙子镇"
+    },
+    {
+      "code": "410324109",
+      "name": "狮子庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/狮子庙镇"
+    },
+    {
+      "code": "410324110",
+      "name": "白土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/白土镇"
+    },
+    {
+      "code": "410324111",
+      "name": "叫河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/叫河镇"
+    },
+    {
+      "code": "410324200",
+      "name": "栾川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/栾川乡"
+    },
+    {
+      "code": "410324203",
+      "name": "秋扒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410324",
+      "year": 0,
+      "name_path": "河南省/洛阳市/栾川县/秋扒乡"
+    }
+  ]
+}

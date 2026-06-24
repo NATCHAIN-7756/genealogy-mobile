@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "321202001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/城东街道"
+    },
+    {
+      "code": "321202002",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/城西街道"
+    },
+    {
+      "code": "321202003",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/城南街道"
+    },
+    {
+      "code": "321202004",
+      "name": "城中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/城中街道"
+    },
+    {
+      "code": "321202005",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/城北街道"
+    },
+    {
+      "code": "321202007",
+      "name": "京泰路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/京泰路街道"
+    },
+    {
+      "code": "321202008",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/凤凰街道"
+    },
+    {
+      "code": "321202009",
+      "name": "寺巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/寺巷街道"
+    },
+    {
+      "code": "321202010",
+      "name": "明珠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/明珠街道"
+    },
+    {
+      "code": "321202011",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/红旗街道"
+    },
+    {
+      "code": "321202100",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/九龙镇"
+    },
+    {
+      "code": "321202102",
+      "name": "罡杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/罡杨镇"
+    },
+    {
+      "code": "321202103",
+      "name": "苏陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/苏陈镇"
+    },
+    {
+      "code": "321202104",
+      "name": "华港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321202",
+      "year": 0,
+      "name_path": "江苏省/泰州市/海陵区/华港镇"
+    }
+  ]
+}

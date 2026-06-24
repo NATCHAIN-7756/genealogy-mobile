@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "410502001",
+      "name": "东大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/东大街街道"
+    },
+    {
+      "code": "410502002",
+      "name": "头二三道街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/头二三道街街道"
+    },
+    {
+      "code": "410502003",
+      "name": "甜水井街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/甜水井街街道"
+    },
+    {
+      "code": "410502004",
+      "name": "东关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/东关街道"
+    },
+    {
+      "code": "410502005",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/南关街道"
+    },
+    {
+      "code": "410502006",
+      "name": "西大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/西大街街道"
+    },
+    {
+      "code": "410502007",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/西关街道"
+    },
+    {
+      "code": "410502008",
+      "name": "北大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/北大街街道"
+    },
+    {
+      "code": "410502009",
+      "name": "紫薇大道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/紫薇大道街道"
+    },
+    {
+      "code": "410502010",
+      "name": "光华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/光华路街道"
+    },
+    {
+      "code": "410502011",
+      "name": "中华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/中华路街道"
+    },
+    {
+      "code": "410502012",
+      "name": "永明路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/永明路街道"
+    },
+    {
+      "code": "410502013",
+      "name": "峨嵋大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/峨嵋大街街道"
+    },
+    {
+      "code": "410502014",
+      "name": "银杏大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/银杏大街街道"
+    },
+    {
+      "code": "410502015",
+      "name": "商颂大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/商颂大街街道"
+    },
+    {
+      "code": "410502100",
+      "name": "宝莲寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410502",
+      "year": 0,
+      "name_path": "河南省/安阳市/文峰区/宝莲寺镇"
+    }
+  ]
+}

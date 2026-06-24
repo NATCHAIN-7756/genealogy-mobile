@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "130302001",
+      "name": "文化路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/文化路街道"
+    },
+    {
+      "code": "130302002",
+      "name": "海滨路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/海滨路街道"
+    },
+    {
+      "code": "130302003",
+      "name": "北环路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/北环路街道"
+    },
+    {
+      "code": "130302004",
+      "name": "建设大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/建设大街街道"
+    },
+    {
+      "code": "130302005",
+      "name": "河东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/河东街道"
+    },
+    {
+      "code": "130302006",
+      "name": "西港路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/西港路街道"
+    },
+    {
+      "code": "130302007",
+      "name": "燕山大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/燕山大街街道"
+    },
+    {
+      "code": "130302008",
+      "name": "港城大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/港城大街街道"
+    },
+    {
+      "code": "130302009",
+      "name": "东环路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/东环路街道"
+    },
+    {
+      "code": "130302010",
+      "name": "白塔岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/白塔岭街道"
+    },
+    {
+      "code": "130302011",
+      "name": "珠江道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/珠江道街道"
+    },
+    {
+      "code": "130302012",
+      "name": "黄河道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/黄河道街道"
+    },
+    {
+      "code": "130302013",
+      "name": "腾飞路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/腾飞路街道"
+    },
+    {
+      "code": "130302100",
+      "name": "东港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/东港镇"
+    },
+    {
+      "code": "130302101",
+      "name": "海港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/海港镇"
+    },
+    {
+      "code": "130302102",
+      "name": "西港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/西港镇"
+    },
+    {
+      "code": "130302103",
+      "name": "海阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/海阳镇"
+    },
+    {
+      "code": "130302104",
+      "name": "北港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/北港镇"
+    },
+    {
+      "code": "130302105",
+      "name": "石门寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/石门寨镇"
+    },
+    {
+      "code": "130302106",
+      "name": "驻操营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/驻操营镇"
+    },
+    {
+      "code": "130302107",
+      "name": "杜庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130302",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/海港区/杜庄镇"
+    }
+  ]
+}

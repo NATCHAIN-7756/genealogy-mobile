@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "341004100",
+      "name": "岩寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/岩寺镇"
+    },
+    {
+      "code": "341004101",
+      "name": "西溪南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/西溪南镇"
+    },
+    {
+      "code": "341004102",
+      "name": "潜口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/潜口镇"
+    },
+    {
+      "code": "341004103",
+      "name": "呈坎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/呈坎镇"
+    },
+    {
+      "code": "341004200",
+      "name": "洽舍乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/洽舍乡"
+    },
+    {
+      "code": "341004201",
+      "name": "杨村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/杨村乡"
+    },
+    {
+      "code": "341004202",
+      "name": "富溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341004",
+      "year": 0,
+      "name_path": "安徽省/黄山市/徽州区/富溪乡"
+    }
+  ]
+}

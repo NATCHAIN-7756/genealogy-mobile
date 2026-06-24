@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230109002",
+      "name": "太阳岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/太阳岛街道"
+    },
+    {
+      "code": "230109003",
+      "name": "船口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/船口街道"
+    },
+    {
+      "code": "230109004",
+      "name": "松祥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/松祥街道"
+    },
+    {
+      "code": "230109005",
+      "name": "松安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/松安街道"
+    },
+    {
+      "code": "230109006",
+      "name": "松北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/松北街道"
+    },
+    {
+      "code": "230109007",
+      "name": "松浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/松浦街道"
+    },
+    {
+      "code": "230109101",
+      "name": "对青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/对青山镇"
+    },
+    {
+      "code": "230109102",
+      "name": "乐业镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/乐业镇"
+    },
+    {
+      "code": "230109104",
+      "name": "万宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230109",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/松北区/万宝镇"
+    }
+  ]
+}

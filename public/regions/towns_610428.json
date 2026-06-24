@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610428001",
+      "name": "昭仁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/昭仁街道"
+    },
+    {
+      "code": "610428101",
+      "name": "相公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/相公镇"
+    },
+    {
+      "code": "610428102",
+      "name": "巨家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/巨家镇"
+    },
+    {
+      "code": "610428103",
+      "name": "丁家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/丁家镇"
+    },
+    {
+      "code": "610428104",
+      "name": "洪家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/洪家镇"
+    },
+    {
+      "code": "610428105",
+      "name": "亭口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/亭口镇"
+    },
+    {
+      "code": "610428106",
+      "name": "彭公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/彭公镇"
+    },
+    {
+      "code": "610428108",
+      "name": "枣园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610428",
+      "year": 0,
+      "name_path": "陕西省/咸阳市/长武县/枣园镇"
+    }
+  ]
+}

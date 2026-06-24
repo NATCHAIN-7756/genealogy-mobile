@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "420702",
+      "name": "梁子湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "420700",
+      "year": 0,
+      "name_path": "全国/湖北省/鄂州市/梁子湖区"
+    },
+    {
+      "code": "420703",
+      "name": "华容区",
+      "level": 3,
+      "type": null,
+      "parent_code": "420700",
+      "year": 0,
+      "name_path": "全国/湖北省/鄂州市/华容区"
+    },
+    {
+      "code": "420704",
+      "name": "鄂城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "420700",
+      "year": 0,
+      "name_path": "全国/湖北省/鄂州市/鄂城区"
+    }
+  ]
+}

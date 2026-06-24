@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "632524100",
+      "name": "子科滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/子科滩镇"
+    },
+    {
+      "code": "632524101",
+      "name": "河卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/河卡镇"
+    },
+    {
+      "code": "632524102",
+      "name": "曲什安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/曲什安镇"
+    },
+    {
+      "code": "632524200",
+      "name": "唐乃亥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/唐乃亥乡"
+    },
+    {
+      "code": "632524202",
+      "name": "中铁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/中铁乡"
+    },
+    {
+      "code": "632524204",
+      "name": "龙藏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/龙藏乡"
+    },
+    {
+      "code": "632524205",
+      "name": "温泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632524",
+      "year": 0,
+      "name_path": "青海省/海南藏族自治州/兴海县/温泉乡"
+    }
+  ]
+}

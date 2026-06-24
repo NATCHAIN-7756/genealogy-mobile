@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "321084001",
+      "name": "高邮街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/高邮街道"
+    },
+    {
+      "code": "321084002",
+      "name": "马棚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/马棚街道"
+    },
+    {
+      "code": "321084101",
+      "name": "龙虬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/龙虬镇"
+    },
+    {
+      "code": "321084103",
+      "name": "车逻镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/车逻镇"
+    },
+    {
+      "code": "321084106",
+      "name": "汤庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/汤庄镇"
+    },
+    {
+      "code": "321084107",
+      "name": "卸甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/卸甲镇"
+    },
+    {
+      "code": "321084108",
+      "name": "三垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/三垛镇"
+    },
+    {
+      "code": "321084109",
+      "name": "甘垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/甘垛镇"
+    },
+    {
+      "code": "321084112",
+      "name": "界首镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/界首镇"
+    },
+    {
+      "code": "321084113",
+      "name": "周山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/周山镇"
+    },
+    {
+      "code": "321084115",
+      "name": "临泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/临泽镇"
+    },
+    {
+      "code": "321084116",
+      "name": "送桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/送桥镇"
+    },
+    {
+      "code": "321084200",
+      "name": "菱塘回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321084",
+      "year": 0,
+      "name_path": "江苏省/扬州市/高邮市/菱塘回族乡"
+    }
+  ]
+}

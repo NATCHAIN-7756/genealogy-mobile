@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140926100",
+      "name": "鹅城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/鹅城镇"
+    },
+    {
+      "code": "140926101",
+      "name": "杜家村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/杜家村镇"
+    },
+    {
+      "code": "140926102",
+      "name": "康家会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/康家会镇"
+    },
+    {
+      "code": "140926103",
+      "name": "丰润镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/丰润镇"
+    },
+    {
+      "code": "140926104",
+      "name": "双路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/双路镇"
+    },
+    {
+      "code": "140926105",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/王村镇"
+    },
+    {
+      "code": "140926204",
+      "name": "段家寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/段家寨乡"
+    },
+    {
+      "code": "140926205",
+      "name": "辛村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/辛村乡"
+    },
+    {
+      "code": "140926207",
+      "name": "神峪沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/神峪沟乡"
+    },
+    {
+      "code": "140926208",
+      "name": "娘子神乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/娘子神乡"
+    },
+    {
+      "code": "140926209",
+      "name": "娑婆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/娑婆乡"
+    },
+    {
+      "code": "140926210",
+      "name": "赤泥窊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140926",
+      "year": 0,
+      "name_path": "山西省/忻州市/静乐县/赤泥窊乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130111100",
+      "name": "栾城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/栾城镇"
+    },
+    {
+      "code": "130111101",
+      "name": "郄马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/郄马镇"
+    },
+    {
+      "code": "130111102",
+      "name": "冶河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/冶河镇"
+    },
+    {
+      "code": "130111103",
+      "name": "窦妪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/窦妪镇"
+    },
+    {
+      "code": "130111104",
+      "name": "楼底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/楼底镇"
+    },
+    {
+      "code": "130111200",
+      "name": "南高乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/南高乡"
+    },
+    {
+      "code": "130111201",
+      "name": "柳林屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/柳林屯乡"
+    },
+    {
+      "code": "130111202",
+      "name": "西营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130111",
+      "year": 0,
+      "name_path": "河北省/石家庄市/栾城区/西营乡"
+    }
+  ]
+}

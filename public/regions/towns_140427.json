@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140427100",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/龙泉镇"
+    },
+    {
+      "code": "140427101",
+      "name": "百尺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/百尺镇"
+    },
+    {
+      "code": "140427102",
+      "name": "店上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/店上镇"
+    },
+    {
+      "code": "140427103",
+      "name": "晋庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/晋庄镇"
+    },
+    {
+      "code": "140427104",
+      "name": "树掌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/树掌镇"
+    },
+    {
+      "code": "140427105",
+      "name": "大峡谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/大峡谷镇"
+    },
+    {
+      "code": "140427106",
+      "name": "集店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/集店镇"
+    },
+    {
+      "code": "140427201",
+      "name": "黄山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/黄山乡"
+    },
+    {
+      "code": "140427202",
+      "name": "东井岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/东井岭乡"
+    },
+    {
+      "code": "140427203",
+      "name": "石坡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140427",
+      "year": 0,
+      "name_path": "山西省/长治市/壶关县/石坡乡"
+    }
+  ]
+}

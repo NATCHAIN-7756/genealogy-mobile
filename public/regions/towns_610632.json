@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "610632001",
+      "name": "桥山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610632",
+      "year": 0,
+      "name_path": "陕西省/延安市/黄陵县/桥山街道"
+    },
+    {
+      "code": "610632101",
+      "name": "店头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610632",
+      "year": 0,
+      "name_path": "陕西省/延安市/黄陵县/店头镇"
+    },
+    {
+      "code": "610632102",
+      "name": "隆坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610632",
+      "year": 0,
+      "name_path": "陕西省/延安市/黄陵县/隆坊镇"
+    },
+    {
+      "code": "610632103",
+      "name": "田庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610632",
+      "year": 0,
+      "name_path": "陕西省/延安市/黄陵县/田庄镇"
+    },
+    {
+      "code": "610632104",
+      "name": "阿党镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610632",
+      "year": 0,
+      "name_path": "陕西省/延安市/黄陵县/阿党镇"
+    },
+    {
+      "code": "610632105",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610632",
+      "year": 0,
+      "name_path": "陕西省/延安市/黄陵县/双龙镇"
+    }
+  ]
+}

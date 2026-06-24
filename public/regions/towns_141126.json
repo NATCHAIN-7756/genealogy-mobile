@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "141126100",
+      "name": "灵泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/灵泉镇"
+    },
+    {
+      "code": "141126101",
+      "name": "罗村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/罗村镇"
+    },
+    {
+      "code": "141126102",
+      "name": "义牒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/义牒镇"
+    },
+    {
+      "code": "141126103",
+      "name": "小蒜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/小蒜镇"
+    },
+    {
+      "code": "141126104",
+      "name": "辛关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/辛关镇"
+    },
+    {
+      "code": "141126200",
+      "name": "龙交乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/龙交乡"
+    },
+    {
+      "code": "141126201",
+      "name": "和合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/和合乡"
+    },
+    {
+      "code": "141126203",
+      "name": "曹家垣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/曹家垣乡"
+    },
+    {
+      "code": "141126204",
+      "name": "裴沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141126",
+      "year": 0,
+      "name_path": "山西省/吕梁市/石楼县/裴沟乡"
+    }
+  ]
+}

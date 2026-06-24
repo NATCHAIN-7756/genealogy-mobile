@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "130127100",
+      "name": "高邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130127",
+      "year": 0,
+      "name_path": "河北省/石家庄市/高邑县/高邑镇"
+    },
+    {
+      "code": "130127101",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130127",
+      "year": 0,
+      "name_path": "河北省/石家庄市/高邑县/大营镇"
+    },
+    {
+      "code": "130127102",
+      "name": "富村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130127",
+      "year": 0,
+      "name_path": "河北省/石家庄市/高邑县/富村镇"
+    },
+    {
+      "code": "130127103",
+      "name": "万城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130127",
+      "year": 0,
+      "name_path": "河北省/石家庄市/高邑县/万城镇"
+    },
+    {
+      "code": "130127104",
+      "name": "中韩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130127",
+      "year": 0,
+      "name_path": "河北省/石家庄市/高邑县/中韩镇"
+    }
+  ]
+}

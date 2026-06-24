@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "430681001",
+      "name": "天问街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/天问街道"
+    },
+    {
+      "code": "430681002",
+      "name": "归义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/归义街道"
+    },
+    {
+      "code": "430681003",
+      "name": "新市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/新市街道"
+    },
+    {
+      "code": "430681101",
+      "name": "汨罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/汨罗镇"
+    },
+    {
+      "code": "430681103",
+      "name": "古培镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/古培镇"
+    },
+    {
+      "code": "430681104",
+      "name": "白水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/白水镇"
+    },
+    {
+      "code": "430681105",
+      "name": "川山坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/川山坪镇"
+    },
+    {
+      "code": "430681107",
+      "name": "弼时镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/弼时镇"
+    },
+    {
+      "code": "430681111",
+      "name": "大荆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/大荆镇"
+    },
+    {
+      "code": "430681112",
+      "name": "桃林寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/桃林寺镇"
+    },
+    {
+      "code": "430681113",
+      "name": "三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/三江镇"
+    },
+    {
+      "code": "430681118",
+      "name": "屈子祠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/屈子祠镇"
+    },
+    {
+      "code": "430681119",
+      "name": "白塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/白塘镇"
+    },
+    {
+      "code": "430681120",
+      "name": "河市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/河市镇"
+    },
+    {
+      "code": "430681121",
+      "name": "营田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/营田镇"
+    },
+    {
+      "code": "430681124",
+      "name": "罗江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/罗江镇"
+    },
+    {
+      "code": "430681126",
+      "name": "神鼎山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/神鼎山镇"
+    },
+    {
+      "code": "430681127",
+      "name": "长乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/长乐镇"
+    },
+    {
+      "code": "430681215",
+      "name": "凤凰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430681",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/汨罗市/凤凰乡"
+    }
+  ]
+}

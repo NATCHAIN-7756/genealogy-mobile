@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "610302001",
+      "name": "金陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/金陵街道"
+    },
+    {
+      "code": "610302002",
+      "name": "经二路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/经二路街道"
+    },
+    {
+      "code": "610302003",
+      "name": "清姜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/清姜街道"
+    },
+    {
+      "code": "610302004",
+      "name": "姜谭路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/姜谭路街道"
+    },
+    {
+      "code": "610302005",
+      "name": "桥南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/桥南街道"
+    },
+    {
+      "code": "610302100",
+      "name": "马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/马营镇"
+    },
+    {
+      "code": "610302101",
+      "name": "石鼓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/石鼓镇"
+    },
+    {
+      "code": "610302102",
+      "name": "神农镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/神农镇"
+    },
+    {
+      "code": "610302103",
+      "name": "高家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/高家镇"
+    },
+    {
+      "code": "610302105",
+      "name": "八鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610302",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/渭滨区/八鱼镇"
+    }
+  ]
+}

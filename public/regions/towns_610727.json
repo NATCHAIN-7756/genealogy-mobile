@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "610727001",
+      "name": "兴州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/兴州街道"
+    },
+    {
+      "code": "610727002",
+      "name": "横现河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/横现河街道"
+    },
+    {
+      "code": "610727101",
+      "name": "接官亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/接官亭镇"
+    },
+    {
+      "code": "610727103",
+      "name": "两河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/两河口镇"
+    },
+    {
+      "code": "610727104",
+      "name": "金家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/金家河镇"
+    },
+    {
+      "code": "610727105",
+      "name": "徐家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/徐家坪镇"
+    },
+    {
+      "code": "610727106",
+      "name": "白水江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/白水江镇"
+    },
+    {
+      "code": "610727107",
+      "name": "硖口驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/硖口驿镇"
+    },
+    {
+      "code": "610727109",
+      "name": "乐素河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/乐素河镇"
+    },
+    {
+      "code": "610727110",
+      "name": "郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/郭镇"
+    },
+    {
+      "code": "610727111",
+      "name": "黑河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/黑河镇"
+    },
+    {
+      "code": "610727112",
+      "name": "白雀寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/白雀寺镇"
+    },
+    {
+      "code": "610727113",
+      "name": "西淮坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/西淮坝镇"
+    },
+    {
+      "code": "610727114",
+      "name": "五龙洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/五龙洞镇"
+    },
+    {
+      "code": "610727115",
+      "name": "观音寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/观音寺镇"
+    },
+    {
+      "code": "610727116",
+      "name": "马蹄湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/马蹄湾镇"
+    },
+    {
+      "code": "610727117",
+      "name": "仙台坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610727",
+      "year": 0,
+      "name_path": "陕西省/汉中市/略阳县/仙台坝镇"
+    }
+  ]
+}

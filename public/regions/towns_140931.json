@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140931100",
+      "name": "东关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/东关镇"
+    },
+    {
+      "code": "140931101",
+      "name": "义门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/义门镇"
+    },
+    {
+      "code": "140931102",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/桥头镇"
+    },
+    {
+      "code": "140931103",
+      "name": "杨家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/杨家湾镇"
+    },
+    {
+      "code": "140931104",
+      "name": "孙家沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/孙家沟镇"
+    },
+    {
+      "code": "140931200",
+      "name": "腰庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/腰庄乡"
+    },
+    {
+      "code": "140931201",
+      "name": "韩家川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/韩家川乡"
+    },
+    {
+      "code": "140931202",
+      "name": "林遮峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/林遮峪乡"
+    },
+    {
+      "code": "140931203",
+      "name": "冯家川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/冯家川乡"
+    },
+    {
+      "code": "140931204",
+      "name": "土崖塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/土崖塔乡"
+    },
+    {
+      "code": "140931208",
+      "name": "南河沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140931",
+      "year": 0,
+      "name_path": "山西省/忻州市/保德县/南河沟乡"
+    }
+  ]
+}

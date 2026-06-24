@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "532527100",
+      "name": "中枢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/中枢镇"
+    },
+    {
+      "code": "532527101",
+      "name": "金马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/金马镇"
+    },
+    {
+      "code": "532527103",
+      "name": "旧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/旧城镇"
+    },
+    {
+      "code": "532527105",
+      "name": "午街铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/午街铺镇"
+    },
+    {
+      "code": "532527106",
+      "name": "白水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/白水镇"
+    },
+    {
+      "code": "532527200",
+      "name": "向阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/向阳乡"
+    },
+    {
+      "code": "532527201",
+      "name": "三塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/三塘乡"
+    },
+    {
+      "code": "532527202",
+      "name": "永宁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532527",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/泸西县/永宁乡"
+    }
+  ]
+}

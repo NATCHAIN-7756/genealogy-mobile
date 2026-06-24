@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "511903001",
+      "name": "登科街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/登科街道"
+    },
+    {
+      "code": "511903002",
+      "name": "文治街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/文治街道"
+    },
+    {
+      "code": "511903003",
+      "name": "司城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/司城街道"
+    },
+    {
+      "code": "511903101",
+      "name": "玉山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/玉山镇"
+    },
+    {
+      "code": "511903102",
+      "name": "茶坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/茶坝镇"
+    },
+    {
+      "code": "511903104",
+      "name": "花丛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/花丛镇"
+    },
+    {
+      "code": "511903105",
+      "name": "柳林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/柳林镇"
+    },
+    {
+      "code": "511903106",
+      "name": "下八庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/下八庙镇"
+    },
+    {
+      "code": "511903107",
+      "name": "渔溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/渔溪镇"
+    },
+    {
+      "code": "511903111",
+      "name": "上八庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/上八庙镇"
+    },
+    {
+      "code": "511903112",
+      "name": "明阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/明阳镇"
+    },
+    {
+      "code": "511903113",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/兴隆镇"
+    },
+    {
+      "code": "511903114",
+      "name": "群乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/群乐镇"
+    },
+    {
+      "code": "511903115",
+      "name": "双胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/双胜镇"
+    },
+    {
+      "code": "511903116",
+      "name": "关公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/关公镇"
+    },
+    {
+      "code": "511903118",
+      "name": "尹家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/尹家镇"
+    },
+    {
+      "code": "511903119",
+      "name": "九镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/九镇"
+    },
+    {
+      "code": "511903120",
+      "name": "雪山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511903",
+      "year": 0,
+      "name_path": "四川省/巴中市/恩阳区/雪山镇"
+    }
+  ]
+}

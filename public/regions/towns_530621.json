@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "530621001",
+      "name": "文屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/文屏街道"
+    },
+    {
+      "code": "530621002",
+      "name": "砚池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/砚池街道"
+    },
+    {
+      "code": "530621101",
+      "name": "龙头山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/龙头山镇"
+    },
+    {
+      "code": "530621102",
+      "name": "水磨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/水磨镇"
+    },
+    {
+      "code": "530621103",
+      "name": "小寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/小寨镇"
+    },
+    {
+      "code": "530621104",
+      "name": "江底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/江底镇"
+    },
+    {
+      "code": "530621105",
+      "name": "龙树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/龙树镇"
+    },
+    {
+      "code": "530621106",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/新街镇"
+    },
+    {
+      "code": "530621107",
+      "name": "火德红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/火德红镇"
+    },
+    {
+      "code": "530621108",
+      "name": "乐红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/乐红镇"
+    },
+    {
+      "code": "530621109",
+      "name": "梭山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/梭山镇"
+    },
+    {
+      "code": "530621200",
+      "name": "桃源回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/桃源回族乡"
+    },
+    {
+      "code": "530621201",
+      "name": "茨院回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530621",
+      "year": 0,
+      "name_path": "云南省/昭通市/鲁甸县/茨院回族乡"
+    }
+  ]
+}

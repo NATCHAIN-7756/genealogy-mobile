@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "530127001",
+      "name": "嵩阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530127",
+      "year": 0,
+      "name_path": "云南省/昆明市/嵩明县/嵩阳街道"
+    },
+    {
+      "code": "530127002",
+      "name": "杨桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530127",
+      "year": 0,
+      "name_path": "云南省/昆明市/嵩明县/杨桥街道"
+    },
+    {
+      "code": "530127101",
+      "name": "小街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530127",
+      "year": 0,
+      "name_path": "云南省/昆明市/嵩明县/小街镇"
+    },
+    {
+      "code": "530127102",
+      "name": "杨林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530127",
+      "year": 0,
+      "name_path": "云南省/昆明市/嵩明县/杨林镇"
+    },
+    {
+      "code": "530127103",
+      "name": "牛栏江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530127",
+      "year": 0,
+      "name_path": "云南省/昆明市/嵩明县/牛栏江镇"
+    }
+  ]
+}

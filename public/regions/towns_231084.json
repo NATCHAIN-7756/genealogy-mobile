@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "231084100",
+      "name": "宁安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/宁安镇"
+    },
+    {
+      "code": "231084101",
+      "name": "东京城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/东京城镇"
+    },
+    {
+      "code": "231084102",
+      "name": "渤海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/渤海镇"
+    },
+    {
+      "code": "231084103",
+      "name": "石岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/石岩镇"
+    },
+    {
+      "code": "231084104",
+      "name": "沙兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/沙兰镇"
+    },
+    {
+      "code": "231084105",
+      "name": "海浪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/海浪镇"
+    },
+    {
+      "code": "231084106",
+      "name": "兰岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/兰岗镇"
+    },
+    {
+      "code": "231084107",
+      "name": "镜泊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/镜泊镇"
+    },
+    {
+      "code": "231084202",
+      "name": "江南朝鲜族满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/江南朝鲜族满族乡"
+    },
+    {
+      "code": "231084206",
+      "name": "卧龙朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/卧龙朝鲜族乡"
+    },
+    {
+      "code": "231084208",
+      "name": "马河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/马河乡"
+    },
+    {
+      "code": "231084211",
+      "name": "三陵乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231084",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/宁安市/三陵乡"
+    }
+  ]
+}

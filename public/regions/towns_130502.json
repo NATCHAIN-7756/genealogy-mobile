@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130502001",
+      "name": "南长街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/南长街街道"
+    },
+    {
+      "code": "130502002",
+      "name": "北大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/北大街街道"
+    },
+    {
+      "code": "130502003",
+      "name": "西大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/西大街街道"
+    },
+    {
+      "code": "130502004",
+      "name": "西门里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/西门里街道"
+    },
+    {
+      "code": "130502005",
+      "name": "火炬街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/火炬街道"
+    },
+    {
+      "code": "130502006",
+      "name": "泉东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/泉东街道"
+    },
+    {
+      "code": "130502007",
+      "name": "留村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/留村街道"
+    },
+    {
+      "code": "130502008",
+      "name": "豫让桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/豫让桥街道"
+    },
+    {
+      "code": "130502100",
+      "name": "东郭村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/东郭村镇"
+    },
+    {
+      "code": "130502101",
+      "name": "王快镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/王快镇"
+    },
+    {
+      "code": "130502102",
+      "name": "沙河城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/沙河城镇"
+    },
+    {
+      "code": "130502103",
+      "name": "晏家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/晏家屯镇"
+    },
+    {
+      "code": "130502104",
+      "name": "祝村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/祝村镇"
+    },
+    {
+      "code": "130502105",
+      "name": "东汪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/东汪镇"
+    },
+    {
+      "code": "130502200",
+      "name": "大梁庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130502",
+      "year": 0,
+      "name_path": "河北省/邢台市/襄都区/大梁庄乡"
+    }
+  ]
+}

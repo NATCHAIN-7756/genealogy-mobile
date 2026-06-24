@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "220106001",
+      "name": "正阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/正阳街道"
+    },
+    {
+      "code": "220106002",
+      "name": "普阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/普阳街道"
+    },
+    {
+      "code": "220106003",
+      "name": "锦程街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/锦程街道"
+    },
+    {
+      "code": "220106004",
+      "name": "春城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/春城街道"
+    },
+    {
+      "code": "220106005",
+      "name": "铁西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/铁西街道"
+    },
+    {
+      "code": "220106006",
+      "name": "青年路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/青年路街道"
+    },
+    {
+      "code": "220106007",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/东风街道"
+    },
+    {
+      "code": "220106008",
+      "name": "林园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/林园街道"
+    },
+    {
+      "code": "220106009",
+      "name": "同心街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/同心街道"
+    },
+    {
+      "code": "220106010",
+      "name": "富民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/富民街道"
+    },
+    {
+      "code": "220106011",
+      "name": "迎宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/迎宾街道"
+    },
+    {
+      "code": "220106012",
+      "name": "自立街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/自立街道"
+    },
+    {
+      "code": "220106013",
+      "name": "广兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/广兴街道"
+    },
+    {
+      "code": "220106014",
+      "name": "锦绣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/锦绣街道"
+    },
+    {
+      "code": "220106100",
+      "name": "合心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/合心镇"
+    },
+    {
+      "code": "220106101",
+      "name": "西新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/西新镇"
+    },
+    {
+      "code": "220106102",
+      "name": "城西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220106",
+      "year": 0,
+      "name_path": "吉林省/长春市/绿园区/城西镇"
+    }
+  ]
+}

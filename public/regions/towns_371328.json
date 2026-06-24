@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "371328001",
+      "name": "蒙阴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/蒙阴街道"
+    },
+    {
+      "code": "371328101",
+      "name": "常路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/常路镇"
+    },
+    {
+      "code": "371328102",
+      "name": "岱崮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/岱崮镇"
+    },
+    {
+      "code": "371328103",
+      "name": "坦埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/坦埠镇"
+    },
+    {
+      "code": "371328104",
+      "name": "垛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/垛庄镇"
+    },
+    {
+      "code": "371328105",
+      "name": "高都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/高都镇"
+    },
+    {
+      "code": "371328106",
+      "name": "野店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/野店镇"
+    },
+    {
+      "code": "371328107",
+      "name": "桃墟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/桃墟镇"
+    },
+    {
+      "code": "371328109",
+      "name": "联城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/联城镇"
+    },
+    {
+      "code": "371328201",
+      "name": "旧寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371328",
+      "year": 0,
+      "name_path": "山东省/临沂市/蒙阴县/旧寨乡"
+    }
+  ]
+}

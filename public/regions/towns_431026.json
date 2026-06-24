@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "431026102",
+      "name": "热水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/热水镇"
+    },
+    {
+      "code": "431026104",
+      "name": "泉水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/泉水镇"
+    },
+    {
+      "code": "431026106",
+      "name": "大坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/大坪镇"
+    },
+    {
+      "code": "431026107",
+      "name": "三江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/三江口镇"
+    },
+    {
+      "code": "431026108",
+      "name": "卢阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/卢阳镇"
+    },
+    {
+      "code": "431026110",
+      "name": "马桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/马桥镇"
+    },
+    {
+      "code": "431026111",
+      "name": "暖水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/暖水镇"
+    },
+    {
+      "code": "431026112",
+      "name": "土桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/土桥镇"
+    },
+    {
+      "code": "431026113",
+      "name": "井坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/井坡镇"
+    },
+    {
+      "code": "431026207",
+      "name": "南洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/南洞乡"
+    },
+    {
+      "code": "431026209",
+      "name": "濠头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/濠头乡"
+    },
+    {
+      "code": "431026215",
+      "name": "集益乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/集益乡"
+    },
+    {
+      "code": "431026216",
+      "name": "延寿瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/延寿瑶族乡"
+    },
+    {
+      "code": "431026217",
+      "name": "文明瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431026",
+      "year": 0,
+      "name_path": "湖南省/郴州市/汝城县/文明瑶族乡"
+    }
+  ]
+}

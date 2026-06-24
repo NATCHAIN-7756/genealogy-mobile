@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "530100",
+      "name": "昆明市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/昆明市"
+    },
+    {
+      "code": "530300",
+      "name": "曲靖市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/曲靖市"
+    },
+    {
+      "code": "530400",
+      "name": "玉溪市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/玉溪市"
+    },
+    {
+      "code": "530500",
+      "name": "保山市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/保山市"
+    },
+    {
+      "code": "530600",
+      "name": "昭通市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/昭通市"
+    },
+    {
+      "code": "530700",
+      "name": "丽江市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/丽江市"
+    },
+    {
+      "code": "530800",
+      "name": "普洱市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/普洱市"
+    },
+    {
+      "code": "530900",
+      "name": "临沧市",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/临沧市"
+    },
+    {
+      "code": "532300",
+      "name": "楚雄彝族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/楚雄彝族自治州"
+    },
+    {
+      "code": "532500",
+      "name": "红河哈尼族彝族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/红河哈尼族彝族自治州"
+    },
+    {
+      "code": "532600",
+      "name": "文山壮族苗族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/文山壮族苗族自治州"
+    },
+    {
+      "code": "532800",
+      "name": "西双版纳傣族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/西双版纳傣族自治州"
+    },
+    {
+      "code": "532900",
+      "name": "大理白族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/大理白族自治州"
+    },
+    {
+      "code": "533100",
+      "name": "德宏傣族景颇族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/德宏傣族景颇族自治州"
+    },
+    {
+      "code": "533300",
+      "name": "怒江傈僳族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/怒江傈僳族自治州"
+    },
+    {
+      "code": "533400",
+      "name": "迪庆藏族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "530000",
+      "year": 0,
+      "name_path": "全国/云南省/迪庆藏族自治州"
+    }
+  ]
+}

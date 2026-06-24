@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "430203001",
+      "name": "贺家土街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/贺家土街道"
+    },
+    {
+      "code": "430203002",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/建设街道"
+    },
+    {
+      "code": "430203003",
+      "name": "建宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/建宁街道"
+    },
+    {
+      "code": "430203004",
+      "name": "董家塅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/董家塅街道"
+    },
+    {
+      "code": "430203005",
+      "name": "庆云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/庆云街道"
+    },
+    {
+      "code": "430203006",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/龙泉街道"
+    },
+    {
+      "code": "430203007",
+      "name": "枫溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/枫溪街道"
+    },
+    {
+      "code": "430203100",
+      "name": "白关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430203",
+      "year": 0,
+      "name_path": "湖南省/株洲市/芦淞区/白关镇"
+    }
+  ]
+}

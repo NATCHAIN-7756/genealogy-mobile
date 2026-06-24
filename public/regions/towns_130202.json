@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130202001",
+      "name": "学院南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/学院南路街道"
+    },
+    {
+      "code": "130202002",
+      "name": "友谊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/友谊街道"
+    },
+    {
+      "code": "130202003",
+      "name": "广场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/广场街道"
+    },
+    {
+      "code": "130202004",
+      "name": "永红桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/永红桥街道"
+    },
+    {
+      "code": "130202005",
+      "name": "小山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/小山街道"
+    },
+    {
+      "code": "130202006",
+      "name": "文化北后街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/文化北后街街道"
+    },
+    {
+      "code": "130202007",
+      "name": "钱家营矿区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/钱家营矿区街道"
+    },
+    {
+      "code": "130202008",
+      "name": "惠民道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/惠民道街道"
+    },
+    {
+      "code": "130202009",
+      "name": "梁家屯路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/梁家屯路街道"
+    },
+    {
+      "code": "130202100",
+      "name": "稻地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/稻地镇"
+    },
+    {
+      "code": "130202101",
+      "name": "女织寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130202",
+      "year": 0,
+      "name_path": "河北省/唐山市/路南区/女织寨镇"
+    }
+  ]
+}

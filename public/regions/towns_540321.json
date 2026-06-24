@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "540321100",
+      "name": "江达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/江达镇"
+    },
+    {
+      "code": "540321101",
+      "name": "岗托镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/岗托镇"
+    },
+    {
+      "code": "540321200",
+      "name": "卡贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/卡贡乡"
+    },
+    {
+      "code": "540321201",
+      "name": "岩比乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/岩比乡"
+    },
+    {
+      "code": "540321202",
+      "name": "邓柯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/邓柯乡"
+    },
+    {
+      "code": "540321203",
+      "name": "生达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/生达乡"
+    },
+    {
+      "code": "540321204",
+      "name": "娘西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/娘西乡"
+    },
+    {
+      "code": "540321205",
+      "name": "字呷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/字呷乡"
+    },
+    {
+      "code": "540321206",
+      "name": "青泥洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/青泥洞乡"
+    },
+    {
+      "code": "540321207",
+      "name": "汪布顶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/汪布顶乡"
+    },
+    {
+      "code": "540321208",
+      "name": "德登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/德登乡"
+    },
+    {
+      "code": "540321209",
+      "name": "同普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/同普乡"
+    },
+    {
+      "code": "540321210",
+      "name": "波罗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540321",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/江达县/波罗乡"
+    }
+  ]
+}

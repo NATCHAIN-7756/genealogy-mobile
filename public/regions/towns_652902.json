@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "652902001",
+      "name": "热斯坦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/热斯坦街道"
+    },
+    {
+      "code": "652902002",
+      "name": "萨克萨克街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/萨克萨克街道"
+    },
+    {
+      "code": "652902003",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/新城街道"
+    },
+    {
+      "code": "652902004",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/东城街道"
+    },
+    {
+      "code": "652902005",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/城南街道"
+    },
+    {
+      "code": "652902006",
+      "name": "兴化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/兴化街道"
+    },
+    {
+      "code": "652902100",
+      "name": "乌恰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/乌恰镇"
+    },
+    {
+      "code": "652902101",
+      "name": "阿拉哈格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/阿拉哈格镇"
+    },
+    {
+      "code": "652902102",
+      "name": "齐满镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/齐满镇"
+    },
+    {
+      "code": "652902103",
+      "name": "墩阔坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/墩阔坦镇"
+    },
+    {
+      "code": "652902104",
+      "name": "牙哈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/牙哈镇"
+    },
+    {
+      "code": "652902105",
+      "name": "乌尊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/乌尊镇"
+    },
+    {
+      "code": "652902106",
+      "name": "伊西哈拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/伊西哈拉镇"
+    },
+    {
+      "code": "652902107",
+      "name": "雅克拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/雅克拉镇"
+    },
+    {
+      "code": "652902108",
+      "name": "塔里木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/塔里木镇"
+    },
+    {
+      "code": "652902200",
+      "name": "玉奇吾斯塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/玉奇吾斯塘乡"
+    },
+    {
+      "code": "652902201",
+      "name": "比西巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/比西巴格乡"
+    },
+    {
+      "code": "652902202",
+      "name": "哈尼喀塔木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/哈尼喀塔木乡"
+    },
+    {
+      "code": "652902203",
+      "name": "阿克吾斯塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/阿克吾斯塘乡"
+    },
+    {
+      "code": "652902204",
+      "name": "阿格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652902",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/库车市/阿格乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "420504001",
+      "name": "点军街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420504",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/点军区/点军街道"
+    },
+    {
+      "code": "420504101",
+      "name": "艾家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420504",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/点军区/艾家镇"
+    },
+    {
+      "code": "420504102",
+      "name": "桥边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420504",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/点军区/桥边镇"
+    },
+    {
+      "code": "420504202",
+      "name": "联棚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420504",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/点军区/联棚乡"
+    },
+    {
+      "code": "420504203",
+      "name": "土城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420504",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/点军区/土城乡"
+    }
+  ]
+}

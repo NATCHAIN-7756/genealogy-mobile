@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "320213001",
+      "name": "崇安寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/崇安寺街道"
+    },
+    {
+      "code": "320213015",
+      "name": "山北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/山北街道"
+    },
+    {
+      "code": "320213018",
+      "name": "清名桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/清名桥街道"
+    },
+    {
+      "code": "320213019",
+      "name": "惠山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/惠山街道"
+    },
+    {
+      "code": "320213020",
+      "name": "北大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/北大街街道"
+    },
+    {
+      "code": "320213021",
+      "name": "广益街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/广益街道"
+    },
+    {
+      "code": "320213022",
+      "name": "扬名街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/扬名街道"
+    },
+    {
+      "code": "320213023",
+      "name": "黄巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/黄巷街道"
+    },
+    {
+      "code": "320213024",
+      "name": "瞻江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320213",
+      "year": 0,
+      "name_path": "江苏省/无锡市/梁溪区/瞻江街道"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "530702001",
+      "name": "大研街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/大研街道"
+    },
+    {
+      "code": "530702002",
+      "name": "西安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/西安街道"
+    },
+    {
+      "code": "530702003",
+      "name": "祥和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/祥和街道"
+    },
+    {
+      "code": "530702004",
+      "name": "束河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/束河街道"
+    },
+    {
+      "code": "530702005",
+      "name": "金山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/金山街道"
+    },
+    {
+      "code": "530702006",
+      "name": "开南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/开南街道"
+    },
+    {
+      "code": "530702007",
+      "name": "文化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/文化街道"
+    },
+    {
+      "code": "530702100",
+      "name": "金安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/金安镇"
+    },
+    {
+      "code": "530702101",
+      "name": "七河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/七河镇"
+    },
+    {
+      "code": "530702207",
+      "name": "金江白族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/金江白族乡"
+    },
+    {
+      "code": "530702215",
+      "name": "大东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530702",
+      "year": 0,
+      "name_path": "云南省/丽江市/古城区/大东乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "152530100",
+      "name": "上都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/上都镇"
+    },
+    {
+      "code": "152530101",
+      "name": "桑根达来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/桑根达来镇"
+    },
+    {
+      "code": "152530102",
+      "name": "哈毕日嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/哈毕日嘎镇"
+    },
+    {
+      "code": "152530200",
+      "name": "宝绍代苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/宝绍代苏木"
+    },
+    {
+      "code": "152530201",
+      "name": "那日图苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/那日图苏木"
+    },
+    {
+      "code": "152530202",
+      "name": "赛音呼都嘎苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/赛音呼都嘎苏木"
+    },
+    {
+      "code": "152530203",
+      "name": "扎格斯台苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152530",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正蓝旗/扎格斯台苏木"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "410526001",
+      "name": "道口镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/道口镇街道"
+    },
+    {
+      "code": "410526002",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/城关街道"
+    },
+    {
+      "code": "410526003",
+      "name": "锦和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/锦和街道"
+    },
+    {
+      "code": "410526102",
+      "name": "白道口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/白道口镇"
+    },
+    {
+      "code": "410526103",
+      "name": "留固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/留固镇"
+    },
+    {
+      "code": "410526104",
+      "name": "上官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/上官镇"
+    },
+    {
+      "code": "410526105",
+      "name": "牛屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/牛屯镇"
+    },
+    {
+      "code": "410526106",
+      "name": "万古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/万古镇"
+    },
+    {
+      "code": "410526107",
+      "name": "高平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/高平镇"
+    },
+    {
+      "code": "410526108",
+      "name": "王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/王庄镇"
+    },
+    {
+      "code": "410526109",
+      "name": "老店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/老店镇"
+    },
+    {
+      "code": "410526110",
+      "name": "慈周寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/慈周寨镇"
+    },
+    {
+      "code": "410526111",
+      "name": "焦虎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/焦虎镇"
+    },
+    {
+      "code": "410526112",
+      "name": "四间房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/四间房镇"
+    },
+    {
+      "code": "410526113",
+      "name": "八里营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/八里营镇"
+    },
+    {
+      "code": "410526114",
+      "name": "赵营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/赵营镇"
+    },
+    {
+      "code": "410526115",
+      "name": "半坡店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/半坡店镇"
+    },
+    {
+      "code": "410526116",
+      "name": "大寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/大寨镇"
+    },
+    {
+      "code": "410526117",
+      "name": "小铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/小铺镇"
+    },
+    {
+      "code": "410526200",
+      "name": "枣村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/枣村乡"
+    },
+    {
+      "code": "410526205",
+      "name": "桑村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/桑村乡"
+    },
+    {
+      "code": "410526206",
+      "name": "老爷庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/老爷庙乡"
+    },
+    {
+      "code": "410526209",
+      "name": "瓦岗寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410526",
+      "year": 0,
+      "name_path": "河南省/安阳市/滑县/瓦岗寨乡"
+    }
+  ]
+}

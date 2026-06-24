@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "320282001",
+      "name": "新庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/新庄街道"
+    },
+    {
+      "code": "320282002",
+      "name": "宜城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/宜城街道"
+    },
+    {
+      "code": "320282003",
+      "name": "屺亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/屺亭街道"
+    },
+    {
+      "code": "320282005",
+      "name": "新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/新街街道"
+    },
+    {
+      "code": "320282006",
+      "name": "芳桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/芳桥街道"
+    },
+    {
+      "code": "320282101",
+      "name": "张渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/张渚镇"
+    },
+    {
+      "code": "320282102",
+      "name": "西渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/西渚镇"
+    },
+    {
+      "code": "320282103",
+      "name": "太华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/太华镇"
+    },
+    {
+      "code": "320282105",
+      "name": "徐舍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/徐舍镇"
+    },
+    {
+      "code": "320282108",
+      "name": "官林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/官林镇"
+    },
+    {
+      "code": "320282109",
+      "name": "杨巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/杨巷镇"
+    },
+    {
+      "code": "320282111",
+      "name": "新建镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/新建镇"
+    },
+    {
+      "code": "320282114",
+      "name": "和桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/和桥镇"
+    },
+    {
+      "code": "320282115",
+      "name": "高塍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/高塍镇"
+    },
+    {
+      "code": "320282118",
+      "name": "万石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/万石镇"
+    },
+    {
+      "code": "320282119",
+      "name": "周铁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/周铁镇"
+    },
+    {
+      "code": "320282123",
+      "name": "丁蜀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/丁蜀镇"
+    },
+    {
+      "code": "320282125",
+      "name": "湖㳇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320282",
+      "year": 0,
+      "name_path": "江苏省/无锡市/宜兴市/湖㳇镇"
+    }
+  ]
+}

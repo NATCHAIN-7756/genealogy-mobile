@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "430382100",
+      "name": "清溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430382",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/韶山市/清溪镇"
+    },
+    {
+      "code": "430382101",
+      "name": "银田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430382",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/韶山市/银田镇"
+    },
+    {
+      "code": "430382200",
+      "name": "韶山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430382",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/韶山市/韶山乡"
+    },
+    {
+      "code": "430382203",
+      "name": "杨林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430382",
+      "year": 0,
+      "name_path": "湖南省/湘潭市/韶山市/杨林乡"
+    }
+  ]
+}

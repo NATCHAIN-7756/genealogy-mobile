@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230603011",
+      "name": "兴化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/兴化街道"
+    },
+    {
+      "code": "230603012",
+      "name": "卧里屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/卧里屯街道"
+    },
+    {
+      "code": "230603013",
+      "name": "东光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/东光街道"
+    },
+    {
+      "code": "230603014",
+      "name": "龙凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/龙凤街道"
+    },
+    {
+      "code": "230603015",
+      "name": "三永街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/三永街道"
+    },
+    {
+      "code": "230603016",
+      "name": "龙政街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/龙政街道"
+    },
+    {
+      "code": "230603017",
+      "name": "湿地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/湿地街道"
+    },
+    {
+      "code": "230603018",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/光明街道"
+    },
+    {
+      "code": "230603019",
+      "name": "黎明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/黎明街道"
+    },
+    {
+      "code": "230603100",
+      "name": "龙凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230603",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/龙凤区/龙凤镇"
+    }
+  ]
+}

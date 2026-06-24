@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "141021100",
+      "name": "乐昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/乐昌镇"
+    },
+    {
+      "code": "141021101",
+      "name": "史村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/史村镇"
+    },
+    {
+      "code": "141021102",
+      "name": "曲村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/曲村镇"
+    },
+    {
+      "code": "141021103",
+      "name": "高显镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/高显镇"
+    },
+    {
+      "code": "141021104",
+      "name": "里村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/里村镇"
+    },
+    {
+      "code": "141021200",
+      "name": "北董乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/北董乡"
+    },
+    {
+      "code": "141021201",
+      "name": "杨谈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141021",
+      "year": 0,
+      "name_path": "山西省/临汾市/曲沃县/杨谈乡"
+    }
+  ]
+}

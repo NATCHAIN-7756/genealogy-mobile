@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "220822001",
+      "name": "树满街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/树满街道"
+    },
+    {
+      "code": "220822002",
+      "name": "八区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/八区街道"
+    },
+    {
+      "code": "220822003",
+      "name": "迎新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/迎新街道"
+    },
+    {
+      "code": "220822004",
+      "name": "永青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/永青街道"
+    },
+    {
+      "code": "220822100",
+      "name": "开通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/开通镇"
+    },
+    {
+      "code": "220822101",
+      "name": "瞻榆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/瞻榆镇"
+    },
+    {
+      "code": "220822102",
+      "name": "双岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/双岗镇"
+    },
+    {
+      "code": "220822103",
+      "name": "兴隆山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/兴隆山镇"
+    },
+    {
+      "code": "220822104",
+      "name": "边昭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/边昭镇"
+    },
+    {
+      "code": "220822105",
+      "name": "鸿兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/鸿兴镇"
+    },
+    {
+      "code": "220822107",
+      "name": "新华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/新华镇"
+    },
+    {
+      "code": "220822108",
+      "name": "乌兰花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/乌兰花镇"
+    },
+    {
+      "code": "220822201",
+      "name": "新发乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/新发乡"
+    },
+    {
+      "code": "220822202",
+      "name": "新兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/新兴乡"
+    },
+    {
+      "code": "220822204",
+      "name": "向海蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/向海蒙古族乡"
+    },
+    {
+      "code": "220822205",
+      "name": "包拉温都蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/包拉温都蒙古族乡"
+    },
+    {
+      "code": "220822206",
+      "name": "团结乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/团结乡"
+    },
+    {
+      "code": "220822207",
+      "name": "十花道乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/十花道乡"
+    },
+    {
+      "code": "220822208",
+      "name": "八面乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/八面乡"
+    },
+    {
+      "code": "220822209",
+      "name": "苏公坨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220822",
+      "year": 0,
+      "name_path": "吉林省/白城市/通榆县/苏公坨乡"
+    }
+  ]
+}

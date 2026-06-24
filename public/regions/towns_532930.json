@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "532930100",
+      "name": "茈碧湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/茈碧湖镇"
+    },
+    {
+      "code": "532930103",
+      "name": "邓川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/邓川镇"
+    },
+    {
+      "code": "532930104",
+      "name": "右所镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/右所镇"
+    },
+    {
+      "code": "532930105",
+      "name": "三营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/三营镇"
+    },
+    {
+      "code": "532930106",
+      "name": "凤羽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/凤羽镇"
+    },
+    {
+      "code": "532930107",
+      "name": "乔后镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/乔后镇"
+    },
+    {
+      "code": "532930201",
+      "name": "牛街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/牛街乡"
+    },
+    {
+      "code": "532930202",
+      "name": "炼铁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/炼铁乡"
+    },
+    {
+      "code": "532930203",
+      "name": "西山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532930",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/洱源县/西山乡"
+    }
+  ]
+}

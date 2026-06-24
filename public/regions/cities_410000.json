@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "410100",
+      "name": "郑州市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/郑州市"
+    },
+    {
+      "code": "410200",
+      "name": "开封市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/开封市"
+    },
+    {
+      "code": "410300",
+      "name": "洛阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/洛阳市"
+    },
+    {
+      "code": "410400",
+      "name": "平顶山市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/平顶山市"
+    },
+    {
+      "code": "410500",
+      "name": "安阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/安阳市"
+    },
+    {
+      "code": "410600",
+      "name": "鹤壁市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/鹤壁市"
+    },
+    {
+      "code": "410700",
+      "name": "新乡市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市"
+    },
+    {
+      "code": "410800",
+      "name": "焦作市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/焦作市"
+    },
+    {
+      "code": "410900",
+      "name": "濮阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市"
+    },
+    {
+      "code": "411000",
+      "name": "许昌市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/许昌市"
+    },
+    {
+      "code": "411100",
+      "name": "漯河市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/漯河市"
+    },
+    {
+      "code": "411200",
+      "name": "三门峡市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/三门峡市"
+    },
+    {
+      "code": "411300",
+      "name": "南阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/南阳市"
+    },
+    {
+      "code": "411400",
+      "name": "商丘市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/商丘市"
+    },
+    {
+      "code": "411500",
+      "name": "信阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/信阳市"
+    },
+    {
+      "code": "411600",
+      "name": "周口市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/周口市"
+    },
+    {
+      "code": "411700",
+      "name": "驻马店市",
+      "level": 2,
+      "type": null,
+      "parent_code": "410000",
+      "year": 0,
+      "name_path": "全国/河南省/驻马店市"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "371103005",
+      "name": "岚山头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/岚山头街道"
+    },
+    {
+      "code": "371103006",
+      "name": "安东卫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/安东卫街道"
+    },
+    {
+      "code": "371103104",
+      "name": "高兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/高兴镇"
+    },
+    {
+      "code": "371103105",
+      "name": "巨峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/巨峰镇"
+    },
+    {
+      "code": "371103111",
+      "name": "黄墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/黄墩镇"
+    },
+    {
+      "code": "371103112",
+      "name": "虎山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/虎山镇"
+    },
+    {
+      "code": "371103113",
+      "name": "碑廓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/碑廓镇"
+    },
+    {
+      "code": "371103114",
+      "name": "中楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/中楼镇"
+    },
+    {
+      "code": "371103201",
+      "name": "前三岛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371103",
+      "year": 0,
+      "name_path": "山东省/日照市/岚山区/前三岛乡"
+    }
+  ]
+}

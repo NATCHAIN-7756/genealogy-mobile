@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "code": "230113001",
+      "name": "五家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/五家街道"
+    },
+    {
+      "code": "230113002",
+      "name": "新兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/新兴街道"
+    },
+    {
+      "code": "230113003",
+      "name": "兰棱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/兰棱街道"
+    },
+    {
+      "code": "230113004",
+      "name": "周家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/周家街道"
+    },
+    {
+      "code": "230113005",
+      "name": "公正街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/公正街道"
+    },
+    {
+      "code": "230113006",
+      "name": "承旭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/承旭街道"
+    },
+    {
+      "code": "230113007",
+      "name": "承恩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/承恩街道"
+    },
+    {
+      "code": "230113008",
+      "name": "永治街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/永治街道"
+    },
+    {
+      "code": "230113009",
+      "name": "永和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/永和街道"
+    },
+    {
+      "code": "230113010",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/幸福街道"
+    },
+    {
+      "code": "230113104",
+      "name": "韩甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/韩甸镇"
+    },
+    {
+      "code": "230113105",
+      "name": "单城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/单城镇"
+    },
+    {
+      "code": "230113106",
+      "name": "东官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/东官镇"
+    },
+    {
+      "code": "230113107",
+      "name": "农丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/农丰镇"
+    },
+    {
+      "code": "230113108",
+      "name": "杏山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/杏山镇"
+    },
+    {
+      "code": "230113110",
+      "name": "西官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/西官镇"
+    },
+    {
+      "code": "230113112",
+      "name": "联兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/联兴镇"
+    },
+    {
+      "code": "230113113",
+      "name": "永胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/永胜镇"
+    },
+    {
+      "code": "230113114",
+      "name": "胜丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/胜丰镇"
+    },
+    {
+      "code": "230113201",
+      "name": "金城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/金城乡"
+    },
+    {
+      "code": "230113202",
+      "name": "青岭满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/青岭满族乡"
+    },
+    {
+      "code": "230113206",
+      "name": "临江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/临江乡"
+    },
+    {
+      "code": "230113207",
+      "name": "水泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/水泉乡"
+    },
+    {
+      "code": "230113208",
+      "name": "乐群满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/乐群满族乡"
+    },
+    {
+      "code": "230113209",
+      "name": "万隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/万隆乡"
+    },
+    {
+      "code": "230113210",
+      "name": "希勤满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/希勤满族乡"
+    },
+    {
+      "code": "230113211",
+      "name": "同心满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230113",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/双城区/同心满族乡"
+    }
+  ]
+}

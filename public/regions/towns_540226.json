@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "540226100",
+      "name": "卡嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/卡嘎镇"
+    },
+    {
+      "code": "540226101",
+      "name": "桑桑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/桑桑镇"
+    },
+    {
+      "code": "540226200",
+      "name": "达若乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/达若乡"
+    },
+    {
+      "code": "540226201",
+      "name": "贡久布乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/贡久布乡"
+    },
+    {
+      "code": "540226202",
+      "name": "措迈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/措迈乡"
+    },
+    {
+      "code": "540226203",
+      "name": "雄巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/雄巴乡"
+    },
+    {
+      "code": "540226204",
+      "name": "查孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/查孜乡"
+    },
+    {
+      "code": "540226205",
+      "name": "阿木雄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/阿木雄乡"
+    },
+    {
+      "code": "540226206",
+      "name": "如萨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/如萨乡"
+    },
+    {
+      "code": "540226207",
+      "name": "孔隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/孔隆乡"
+    },
+    {
+      "code": "540226208",
+      "name": "尼果乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/尼果乡"
+    },
+    {
+      "code": "540226209",
+      "name": "日吾其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/日吾其乡"
+    },
+    {
+      "code": "540226210",
+      "name": "多白乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/多白乡"
+    },
+    {
+      "code": "540226211",
+      "name": "切热乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/切热乡"
+    },
+    {
+      "code": "540226212",
+      "name": "秋窝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/秋窝乡"
+    },
+    {
+      "code": "540226213",
+      "name": "达居乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/达居乡"
+    },
+    {
+      "code": "540226214",
+      "name": "亚木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540226",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/昂仁县/亚木乡"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "511102004",
+      "name": "大佛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/大佛街道"
+    },
+    {
+      "code": "511102007",
+      "name": "通江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/通江街道"
+    },
+    {
+      "code": "511102008",
+      "name": "海棠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/海棠街道"
+    },
+    {
+      "code": "511102009",
+      "name": "绿心街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/绿心街道"
+    },
+    {
+      "code": "511102010",
+      "name": "全福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/全福街道"
+    },
+    {
+      "code": "511102101",
+      "name": "牟子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/牟子镇"
+    },
+    {
+      "code": "511102102",
+      "name": "土主镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/土主镇"
+    },
+    {
+      "code": "511102103",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/白马镇"
+    },
+    {
+      "code": "511102104",
+      "name": "茅桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/茅桥镇"
+    },
+    {
+      "code": "511102105",
+      "name": "青平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/青平镇"
+    },
+    {
+      "code": "511102106",
+      "name": "苏稽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/苏稽镇"
+    },
+    {
+      "code": "511102107",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/水口镇"
+    },
+    {
+      "code": "511102108",
+      "name": "安谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/安谷镇"
+    },
+    {
+      "code": "511102109",
+      "name": "棉竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/棉竹镇"
+    },
+    {
+      "code": "511102116",
+      "name": "平兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/平兴镇"
+    },
+    {
+      "code": "511102117",
+      "name": "悦来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/悦来镇"
+    },
+    {
+      "code": "511102118",
+      "name": "剑峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511102",
+      "year": 0,
+      "name_path": "四川省/乐山市/市中区/剑峰镇"
+    }
+  ]
+}

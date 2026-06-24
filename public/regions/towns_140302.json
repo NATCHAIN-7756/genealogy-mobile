@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "140302001",
+      "name": "上站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140302",
+      "year": 0,
+      "name_path": "山西省/阳泉市/城区/上站街道"
+    },
+    {
+      "code": "140302002",
+      "name": "下站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140302",
+      "year": 0,
+      "name_path": "山西省/阳泉市/城区/下站街道"
+    },
+    {
+      "code": "140302003",
+      "name": "北大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140302",
+      "year": 0,
+      "name_path": "山西省/阳泉市/城区/北大街街道"
+    },
+    {
+      "code": "140302004",
+      "name": "南山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140302",
+      "year": 0,
+      "name_path": "山西省/阳泉市/城区/南山路街道"
+    },
+    {
+      "code": "140302005",
+      "name": "义井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140302",
+      "year": 0,
+      "name_path": "山西省/阳泉市/城区/义井街道"
+    }
+  ]
+}

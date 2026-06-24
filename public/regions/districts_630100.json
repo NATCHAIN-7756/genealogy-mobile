@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "630102",
+      "name": "城东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/城东区"
+    },
+    {
+      "code": "630103",
+      "name": "城中区",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/城中区"
+    },
+    {
+      "code": "630104",
+      "name": "城西区",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/城西区"
+    },
+    {
+      "code": "630105",
+      "name": "城北区",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/城北区"
+    },
+    {
+      "code": "630106",
+      "name": "湟中区",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/湟中区"
+    },
+    {
+      "code": "630121",
+      "name": "大通回族土族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/大通回族土族自治县"
+    },
+    {
+      "code": "630123",
+      "name": "湟源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "630100",
+      "year": 0,
+      "name_path": "全国/青海省/西宁市/湟源县"
+    }
+  ]
+}

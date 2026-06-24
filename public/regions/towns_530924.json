@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530924100",
+      "name": "凤尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/凤尾镇"
+    },
+    {
+      "code": "530924101",
+      "name": "勐捧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/勐捧镇"
+    },
+    {
+      "code": "530924102",
+      "name": "南伞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/南伞镇"
+    },
+    {
+      "code": "530924200",
+      "name": "忙丙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/忙丙乡"
+    },
+    {
+      "code": "530924201",
+      "name": "勐堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/勐堆乡"
+    },
+    {
+      "code": "530924203",
+      "name": "木场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/木场乡"
+    },
+    {
+      "code": "530924204",
+      "name": "军赛佤族拉祜族傈僳族德昂族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530924",
+      "year": 0,
+      "name_path": "云南省/临沧市/镇康县/军赛佤族拉祜族傈僳族德昂族乡"
+    }
+  ]
+}

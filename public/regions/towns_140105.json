@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140105001",
+      "name": "坞城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/坞城街道"
+    },
+    {
+      "code": "140105002",
+      "name": "营盘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/营盘街道"
+    },
+    {
+      "code": "140105003",
+      "name": "北营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/北营街道"
+    },
+    {
+      "code": "140105004",
+      "name": "平阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/平阳路街道"
+    },
+    {
+      "code": "140105005",
+      "name": "黄陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/黄陵街道"
+    },
+    {
+      "code": "140105006",
+      "name": "小店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/小店街道"
+    },
+    {
+      "code": "140105007",
+      "name": "龙城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/龙城街道"
+    },
+    {
+      "code": "140105008",
+      "name": "学府街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/学府街道"
+    },
+    {
+      "code": "140105009",
+      "name": "唐槐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/唐槐街道"
+    },
+    {
+      "code": "140105100",
+      "name": "北格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/北格镇"
+    },
+    {
+      "code": "140105200",
+      "name": "西温庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/西温庄乡"
+    },
+    {
+      "code": "140105201",
+      "name": "刘家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140105",
+      "year": 0,
+      "name_path": "山西省/太原市/小店区/刘家堡乡"
+    }
+  ]
+}

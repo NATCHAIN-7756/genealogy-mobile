@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "410404001",
+      "name": "高庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410404",
+      "year": 0,
+      "name_path": "河南省/平顶山市/石龙区/高庄街道"
+    },
+    {
+      "code": "410404002",
+      "name": "龙兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410404",
+      "year": 0,
+      "name_path": "河南省/平顶山市/石龙区/龙兴街道"
+    },
+    {
+      "code": "410404003",
+      "name": "人民路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410404",
+      "year": 0,
+      "name_path": "河南省/平顶山市/石龙区/人民路街道"
+    },
+    {
+      "code": "410404004",
+      "name": "龙河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410404",
+      "year": 0,
+      "name_path": "河南省/平顶山市/石龙区/龙河街道"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450326100",
+      "name": "永福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/永福镇"
+    },
+    {
+      "code": "450326101",
+      "name": "罗锦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/罗锦镇"
+    },
+    {
+      "code": "450326102",
+      "name": "百寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/百寿镇"
+    },
+    {
+      "code": "450326103",
+      "name": "苏桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/苏桥镇"
+    },
+    {
+      "code": "450326104",
+      "name": "三皇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/三皇镇"
+    },
+    {
+      "code": "450326105",
+      "name": "堡里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/堡里镇"
+    },
+    {
+      "code": "450326202",
+      "name": "广福乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/广福乡"
+    },
+    {
+      "code": "450326204",
+      "name": "永安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/永安乡"
+    },
+    {
+      "code": "450326205",
+      "name": "龙江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450326",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/永福县/龙江乡"
+    }
+  ]
+}

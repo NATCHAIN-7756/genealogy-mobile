@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "610831001",
+      "name": "双湖峪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/双湖峪街道"
+    },
+    {
+      "code": "610831101",
+      "name": "何家集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/何家集镇"
+    },
+    {
+      "code": "610831102",
+      "name": "老君殿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/老君殿镇"
+    },
+    {
+      "code": "610831103",
+      "name": "裴家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/裴家湾镇"
+    },
+    {
+      "code": "610831104",
+      "name": "苗家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/苗家坪镇"
+    },
+    {
+      "code": "610831105",
+      "name": "三川口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/三川口镇"
+    },
+    {
+      "code": "610831106",
+      "name": "马蹄沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/马蹄沟镇"
+    },
+    {
+      "code": "610831107",
+      "name": "周家硷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/周家硷镇"
+    },
+    {
+      "code": "610831108",
+      "name": "电市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/电市镇"
+    },
+    {
+      "code": "610831109",
+      "name": "砖庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/砖庙镇"
+    },
+    {
+      "code": "610831110",
+      "name": "淮宁湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/淮宁湾镇"
+    },
+    {
+      "code": "610831111",
+      "name": "马岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/马岔镇"
+    },
+    {
+      "code": "610831200",
+      "name": "驼耳巷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "610831",
+      "year": 0,
+      "name_path": "陕西省/榆林市/子洲县/驼耳巷乡"
+    }
+  ]
+}

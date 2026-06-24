@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450421105",
+      "name": "岭脚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/岭脚镇"
+    },
+    {
+      "code": "450421108",
+      "name": "京南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/京南镇"
+    },
+    {
+      "code": "450421109",
+      "name": "狮寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/狮寨镇"
+    },
+    {
+      "code": "450421112",
+      "name": "六堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/六堡镇"
+    },
+    {
+      "code": "450421113",
+      "name": "梨埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/梨埠镇"
+    },
+    {
+      "code": "450421114",
+      "name": "木双镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/木双镇"
+    },
+    {
+      "code": "450421115",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/石桥镇"
+    },
+    {
+      "code": "450421116",
+      "name": "沙头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/沙头镇"
+    },
+    {
+      "code": "450421117",
+      "name": "旺甫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450421",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/苍梧县/旺甫镇"
+    }
+  ]
+}

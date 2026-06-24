@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "532926100",
+      "name": "南涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/南涧镇"
+    },
+    {
+      "code": "532926101",
+      "name": "小湾东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/小湾东镇"
+    },
+    {
+      "code": "532926103",
+      "name": "宝华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/宝华镇"
+    },
+    {
+      "code": "532926104",
+      "name": "公郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/公郎镇"
+    },
+    {
+      "code": "532926105",
+      "name": "无量山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/无量山镇"
+    },
+    {
+      "code": "532926201",
+      "name": "拥翠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/拥翠乡"
+    },
+    {
+      "code": "532926202",
+      "name": "乐秋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/乐秋乡"
+    },
+    {
+      "code": "532926203",
+      "name": "碧溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532926",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/南涧彝族自治县/碧溪乡"
+    }
+  ]
+}

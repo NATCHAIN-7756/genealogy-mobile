@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "533325001",
+      "name": "金顶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/金顶街道"
+    },
+    {
+      "code": "533325002",
+      "name": "翠屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/翠屏街道"
+    },
+    {
+      "code": "533325101",
+      "name": "啦井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/啦井镇"
+    },
+    {
+      "code": "533325102",
+      "name": "营盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/营盘镇"
+    },
+    {
+      "code": "533325103",
+      "name": "通甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/通甸镇"
+    },
+    {
+      "code": "533325201",
+      "name": "河西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/河西乡"
+    },
+    {
+      "code": "533325202",
+      "name": "中排乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/中排乡"
+    },
+    {
+      "code": "533325203",
+      "name": "石登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/石登乡"
+    },
+    {
+      "code": "533325204",
+      "name": "兔峨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533325",
+      "year": 0,
+      "name_path": "云南省/怒江傈僳族自治州/兰坪白族普米族自治县/兔峨乡"
+    }
+  ]
+}

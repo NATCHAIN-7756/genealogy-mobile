@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "370322001",
+      "name": "田镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/田镇街道"
+    },
+    {
+      "code": "370322002",
+      "name": "芦湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/芦湖街道"
+    },
+    {
+      "code": "370322101",
+      "name": "青城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/青城镇"
+    },
+    {
+      "code": "370322102",
+      "name": "高城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/高城镇"
+    },
+    {
+      "code": "370322103",
+      "name": "黑里寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/黑里寨镇"
+    },
+    {
+      "code": "370322104",
+      "name": "唐坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/唐坊镇"
+    },
+    {
+      "code": "370322105",
+      "name": "常家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/常家镇"
+    },
+    {
+      "code": "370322106",
+      "name": "花沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/花沟镇"
+    },
+    {
+      "code": "370322108",
+      "name": "木李镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370322",
+      "year": 0,
+      "name_path": "山东省/淄博市/高青县/木李镇"
+    }
+  ]
+}

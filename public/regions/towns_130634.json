@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130634100",
+      "name": "恒州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/恒州镇"
+    },
+    {
+      "code": "130634101",
+      "name": "灵山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/灵山镇"
+    },
+    {
+      "code": "130634102",
+      "name": "燕赵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/燕赵镇"
+    },
+    {
+      "code": "130634103",
+      "name": "羊平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/羊平镇"
+    },
+    {
+      "code": "130634104",
+      "name": "文德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/文德镇"
+    },
+    {
+      "code": "130634105",
+      "name": "晓林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/晓林镇"
+    },
+    {
+      "code": "130634106",
+      "name": "邸村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/邸村镇"
+    },
+    {
+      "code": "130634107",
+      "name": "齐村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/齐村镇"
+    },
+    {
+      "code": "130634108",
+      "name": "孝墓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/孝墓镇"
+    },
+    {
+      "code": "130634109",
+      "name": "产德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/产德镇"
+    },
+    {
+      "code": "130634110",
+      "name": "下河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/下河镇"
+    },
+    {
+      "code": "130634111",
+      "name": "嘉禾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/嘉禾镇"
+    },
+    {
+      "code": "130634112",
+      "name": "党城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/党城镇"
+    },
+    {
+      "code": "130634113",
+      "name": "郎家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/郎家庄镇"
+    },
+    {
+      "code": "130634200",
+      "name": "路庄子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/路庄子乡"
+    },
+    {
+      "code": "130634202",
+      "name": "庄窠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/庄窠乡"
+    },
+    {
+      "code": "130634212",
+      "name": "范家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/范家庄乡"
+    },
+    {
+      "code": "130634213",
+      "name": "北台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130634",
+      "year": 0,
+      "name_path": "河北省/保定市/曲阳县/北台乡"
+    }
+  ]
+}

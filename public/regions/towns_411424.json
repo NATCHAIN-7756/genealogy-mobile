@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "411424001",
+      "name": "浦东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/浦东街道"
+    },
+    {
+      "code": "411424002",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/凤凰街道"
+    },
+    {
+      "code": "411424003",
+      "name": "春水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/春水街道"
+    },
+    {
+      "code": "411424004",
+      "name": "双河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/双河街道"
+    },
+    {
+      "code": "411424101",
+      "name": "陈青集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/陈青集镇"
+    },
+    {
+      "code": "411424102",
+      "name": "起台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/起台镇"
+    },
+    {
+      "code": "411424103",
+      "name": "胡襄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/胡襄镇"
+    },
+    {
+      "code": "411424104",
+      "name": "慈圣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/慈圣镇"
+    },
+    {
+      "code": "411424105",
+      "name": "安平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/安平镇"
+    },
+    {
+      "code": "411424106",
+      "name": "远襄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/远襄镇"
+    },
+    {
+      "code": "411424107",
+      "name": "岗王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/岗王镇"
+    },
+    {
+      "code": "411424108",
+      "name": "伯岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/伯岗镇"
+    },
+    {
+      "code": "411424109",
+      "name": "张桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/张桥镇"
+    },
+    {
+      "code": "411424110",
+      "name": "朱襄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/朱襄镇"
+    },
+    {
+      "code": "411424111",
+      "name": "老王集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/老王集镇"
+    },
+    {
+      "code": "411424203",
+      "name": "洪恩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/洪恩乡"
+    },
+    {
+      "code": "411424206",
+      "name": "马集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/马集乡"
+    },
+    {
+      "code": "411424207",
+      "name": "牛城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/牛城乡"
+    },
+    {
+      "code": "411424208",
+      "name": "惠济乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/惠济乡"
+    },
+    {
+      "code": "411424212",
+      "name": "申桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/申桥乡"
+    },
+    {
+      "code": "411424213",
+      "name": "李原乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/李原乡"
+    },
+    {
+      "code": "411424214",
+      "name": "皇集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411424",
+      "year": 0,
+      "name_path": "河南省/商丘市/柘城县/皇集乡"
+    }
+  ]
+}

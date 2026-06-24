@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "330411002",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/新城街道"
+    },
+    {
+      "code": "330411003",
+      "name": "高照街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/高照街道"
+    },
+    {
+      "code": "330411004",
+      "name": "嘉北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/嘉北街道"
+    },
+    {
+      "code": "330411005",
+      "name": "塘汇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/塘汇街道"
+    },
+    {
+      "code": "330411101",
+      "name": "王江泾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/王江泾镇"
+    },
+    {
+      "code": "330411103",
+      "name": "油车港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/油车港镇"
+    },
+    {
+      "code": "330411104",
+      "name": "新塍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/新塍镇"
+    },
+    {
+      "code": "330411105",
+      "name": "王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/王店镇"
+    },
+    {
+      "code": "330411106",
+      "name": "洪合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330411",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/秀洲区/洪合镇"
+    }
+  ]
+}

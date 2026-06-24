@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130225001",
+      "name": "乐安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/乐安街道"
+    },
+    {
+      "code": "130225100",
+      "name": "乐亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/乐亭镇"
+    },
+    {
+      "code": "130225101",
+      "name": "汤家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/汤家河镇"
+    },
+    {
+      "code": "130225102",
+      "name": "胡家坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/胡家坨镇"
+    },
+    {
+      "code": "130225103",
+      "name": "王滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/王滩镇"
+    },
+    {
+      "code": "130225104",
+      "name": "闫各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/闫各庄镇"
+    },
+    {
+      "code": "130225105",
+      "name": "马头营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/马头营镇"
+    },
+    {
+      "code": "130225106",
+      "name": "新寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/新寨镇"
+    },
+    {
+      "code": "130225107",
+      "name": "汀流河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/汀流河镇"
+    },
+    {
+      "code": "130225108",
+      "name": "姜各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/姜各庄镇"
+    },
+    {
+      "code": "130225109",
+      "name": "毛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/毛庄镇"
+    },
+    {
+      "code": "130225110",
+      "name": "中堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/中堡镇"
+    },
+    {
+      "code": "130225111",
+      "name": "大相各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/大相各庄镇"
+    },
+    {
+      "code": "130225201",
+      "name": "庞各庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/庞各庄乡"
+    },
+    {
+      "code": "130225203",
+      "name": "古河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130225",
+      "year": 0,
+      "name_path": "河北省/唐山市/乐亭县/古河乡"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "330683001",
+      "name": "剡湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/剡湖街道"
+    },
+    {
+      "code": "330683002",
+      "name": "三江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/三江街道"
+    },
+    {
+      "code": "330683003",
+      "name": "鹿山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/鹿山街道"
+    },
+    {
+      "code": "330683004",
+      "name": "浦口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/浦口街道"
+    },
+    {
+      "code": "330683100",
+      "name": "甘霖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/甘霖镇"
+    },
+    {
+      "code": "330683101",
+      "name": "长乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/长乐镇"
+    },
+    {
+      "code": "330683102",
+      "name": "崇仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/崇仁镇"
+    },
+    {
+      "code": "330683103",
+      "name": "黄泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/黄泽镇"
+    },
+    {
+      "code": "330683104",
+      "name": "三界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/三界镇"
+    },
+    {
+      "code": "330683107",
+      "name": "仙岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/仙岩镇"
+    },
+    {
+      "code": "330683110",
+      "name": "下王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/下王镇"
+    },
+    {
+      "code": "330683111",
+      "name": "石璜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/石璜镇"
+    },
+    {
+      "code": "330683112",
+      "name": "谷来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/谷来镇"
+    },
+    {
+      "code": "330683113",
+      "name": "金庭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/金庭镇"
+    },
+    {
+      "code": "330683206",
+      "name": "贵门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330683",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/嵊州市/贵门乡"
+    }
+  ]
+}

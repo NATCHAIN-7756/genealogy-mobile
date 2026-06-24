@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "140302",
+      "name": "城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140300",
+      "year": 0,
+      "name_path": "全国/山西省/阳泉市/城区"
+    },
+    {
+      "code": "140303",
+      "name": "矿区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140300",
+      "year": 0,
+      "name_path": "全国/山西省/阳泉市/矿区"
+    },
+    {
+      "code": "140311",
+      "name": "郊区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140300",
+      "year": 0,
+      "name_path": "全国/山西省/阳泉市/郊区"
+    },
+    {
+      "code": "140321",
+      "name": "平定县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140300",
+      "year": 0,
+      "name_path": "全国/山西省/阳泉市/平定县"
+    },
+    {
+      "code": "140322",
+      "name": "盂县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140300",
+      "year": 0,
+      "name_path": "全国/山西省/阳泉市/盂县"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "360922001",
+      "name": "康乐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/康乐街道"
+    },
+    {
+      "code": "360922101",
+      "name": "株潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/株潭镇"
+    },
+    {
+      "code": "360922102",
+      "name": "黄茅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/黄茅镇"
+    },
+    {
+      "code": "360922103",
+      "name": "潭埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/潭埠镇"
+    },
+    {
+      "code": "360922104",
+      "name": "双桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/双桥镇"
+    },
+    {
+      "code": "360922105",
+      "name": "高村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/高村镇"
+    },
+    {
+      "code": "360922106",
+      "name": "罗城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/罗城镇"
+    },
+    {
+      "code": "360922107",
+      "name": "三兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/三兴镇"
+    },
+    {
+      "code": "360922108",
+      "name": "高城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/高城镇"
+    },
+    {
+      "code": "360922109",
+      "name": "白良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/白良镇"
+    },
+    {
+      "code": "360922200",
+      "name": "鹅峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/鹅峰乡"
+    },
+    {
+      "code": "360922201",
+      "name": "马步乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/马步乡"
+    },
+    {
+      "code": "360922204",
+      "name": "赤兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/赤兴乡"
+    },
+    {
+      "code": "360922205",
+      "name": "岭东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/岭东乡"
+    },
+    {
+      "code": "360922206",
+      "name": "白水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/白水乡"
+    },
+    {
+      "code": "360922207",
+      "name": "仙源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/仙源乡"
+    },
+    {
+      "code": "360922214",
+      "name": "茭湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360922",
+      "year": 0,
+      "name_path": "江西省/宜春市/万载县/茭湖乡"
+    }
+  ]
+}

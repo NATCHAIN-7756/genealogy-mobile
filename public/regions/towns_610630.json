@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "610630001",
+      "name": "丹州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/丹州街道"
+    },
+    {
+      "code": "610630101",
+      "name": "秋林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/秋林镇"
+    },
+    {
+      "code": "610630104",
+      "name": "集义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/集义镇"
+    },
+    {
+      "code": "610630105",
+      "name": "云岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/云岩镇"
+    },
+    {
+      "code": "610630106",
+      "name": "壶口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/壶口镇"
+    },
+    {
+      "code": "610630200",
+      "name": "英旺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/英旺乡"
+    },
+    {
+      "code": "610630201",
+      "name": "交里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "610630",
+      "year": 0,
+      "name_path": "陕西省/延安市/宜川县/交里乡"
+    }
+  ]
+}

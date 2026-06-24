@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "341821001",
+      "name": "郎步街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/郎步街道"
+    },
+    {
+      "code": "341821002",
+      "name": "郎川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/郎川街道"
+    },
+    {
+      "code": "341821003",
+      "name": "钟桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/钟桥街道"
+    },
+    {
+      "code": "341821100",
+      "name": "建平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/建平镇"
+    },
+    {
+      "code": "341821102",
+      "name": "梅渚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/梅渚镇"
+    },
+    {
+      "code": "341821103",
+      "name": "涛城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/涛城镇"
+    },
+    {
+      "code": "341821104",
+      "name": "十字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/十字镇"
+    },
+    {
+      "code": "341821107",
+      "name": "毕桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/毕桥镇"
+    },
+    {
+      "code": "341821108",
+      "name": "新发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/新发镇"
+    },
+    {
+      "code": "341821109",
+      "name": "飞鲤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/飞鲤镇"
+    },
+    {
+      "code": "341821110",
+      "name": "凌笪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/凌笪镇"
+    },
+    {
+      "code": "341821111",
+      "name": "姚村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341821",
+      "year": 0,
+      "name_path": "安徽省/宣城市/郎溪县/姚村镇"
+    }
+  ]
+}

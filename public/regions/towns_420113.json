@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "420113001",
+      "name": "纱帽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420113",
+      "year": 0,
+      "name_path": "湖北省/武汉市/汉南区/纱帽街道"
+    },
+    {
+      "code": "420113002",
+      "name": "东荆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420113",
+      "year": 0,
+      "name_path": "湖北省/武汉市/汉南区/东荆街道"
+    },
+    {
+      "code": "420113003",
+      "name": "湘口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420113",
+      "year": 0,
+      "name_path": "湖北省/武汉市/汉南区/湘口街道"
+    },
+    {
+      "code": "420113004",
+      "name": "邓南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420113",
+      "year": 0,
+      "name_path": "湖北省/武汉市/汉南区/邓南街道"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "632521",
+      "name": "共和县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632500",
+      "year": 0,
+      "name_path": "全国/青海省/海南藏族自治州/共和县"
+    },
+    {
+      "code": "632522",
+      "name": "同德县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632500",
+      "year": 0,
+      "name_path": "全国/青海省/海南藏族自治州/同德县"
+    },
+    {
+      "code": "632523",
+      "name": "贵德县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632500",
+      "year": 0,
+      "name_path": "全国/青海省/海南藏族自治州/贵德县"
+    },
+    {
+      "code": "632524",
+      "name": "兴海县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632500",
+      "year": 0,
+      "name_path": "全国/青海省/海南藏族自治州/兴海县"
+    },
+    {
+      "code": "632525",
+      "name": "贵南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "632500",
+      "year": 0,
+      "name_path": "全国/青海省/海南藏族自治州/贵南县"
+    }
+  ]
+}

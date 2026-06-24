@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "421381001",
+      "name": "应山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/应山街道"
+    },
+    {
+      "code": "421381002",
+      "name": "十里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/十里街道"
+    },
+    {
+      "code": "421381003",
+      "name": "广水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/广水街道"
+    },
+    {
+      "code": "421381004",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/城郊街道"
+    },
+    {
+      "code": "421381100",
+      "name": "武胜关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/武胜关镇"
+    },
+    {
+      "code": "421381101",
+      "name": "杨寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/杨寨镇"
+    },
+    {
+      "code": "421381102",
+      "name": "陈巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/陈巷镇"
+    },
+    {
+      "code": "421381104",
+      "name": "长岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/长岭镇"
+    },
+    {
+      "code": "421381105",
+      "name": "马坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/马坪镇"
+    },
+    {
+      "code": "421381106",
+      "name": "关庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/关庙镇"
+    },
+    {
+      "code": "421381107",
+      "name": "余店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/余店镇"
+    },
+    {
+      "code": "421381108",
+      "name": "吴店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/吴店镇"
+    },
+    {
+      "code": "421381109",
+      "name": "郝店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/郝店镇"
+    },
+    {
+      "code": "421381110",
+      "name": "蔡河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/蔡河镇"
+    },
+    {
+      "code": "421381111",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/太平镇"
+    },
+    {
+      "code": "421381112",
+      "name": "李店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/李店镇"
+    },
+    {
+      "code": "421381113",
+      "name": "骆店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421381",
+      "year": 0,
+      "name_path": "湖北省/随州市/广水市/骆店镇"
+    }
+  ]
+}

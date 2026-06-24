@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "331003001",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/东城街道"
+    },
+    {
+      "code": "331003002",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/南城街道"
+    },
+    {
+      "code": "331003003",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/西城街道"
+    },
+    {
+      "code": "331003004",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/北城街道"
+    },
+    {
+      "code": "331003005",
+      "name": "新前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/新前街道"
+    },
+    {
+      "code": "331003006",
+      "name": "澄江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/澄江街道"
+    },
+    {
+      "code": "331003007",
+      "name": "江口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/江口街道"
+    },
+    {
+      "code": "331003008",
+      "name": "高桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/高桥街道"
+    },
+    {
+      "code": "331003101",
+      "name": "宁溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/宁溪镇"
+    },
+    {
+      "code": "331003102",
+      "name": "北洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/北洋镇"
+    },
+    {
+      "code": "331003103",
+      "name": "头陀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/头陀镇"
+    },
+    {
+      "code": "331003107",
+      "name": "院桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/院桥镇"
+    },
+    {
+      "code": "331003108",
+      "name": "沙埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/沙埠镇"
+    },
+    {
+      "code": "331003200",
+      "name": "屿头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/屿头乡"
+    },
+    {
+      "code": "331003201",
+      "name": "上郑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/上郑乡"
+    },
+    {
+      "code": "331003202",
+      "name": "富山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/富山乡"
+    },
+    {
+      "code": "331003203",
+      "name": "茅畲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/茅畲乡"
+    },
+    {
+      "code": "331003204",
+      "name": "上垟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/上垟乡"
+    },
+    {
+      "code": "331003205",
+      "name": "平田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "331003",
+      "year": 0,
+      "name_path": "浙江省/台州市/黄岩区/平田乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "371703001",
+      "name": "天中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/天中街道"
+    },
+    {
+      "code": "371703002",
+      "name": "滨河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/滨河街道"
+    },
+    {
+      "code": "371703101",
+      "name": "陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/陈集镇"
+    },
+    {
+      "code": "371703102",
+      "name": "冉堌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/冉堌镇"
+    },
+    {
+      "code": "371703103",
+      "name": "张湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/张湾镇"
+    },
+    {
+      "code": "371703104",
+      "name": "黄店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/黄店镇"
+    },
+    {
+      "code": "371703105",
+      "name": "孟海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/孟海镇"
+    },
+    {
+      "code": "371703106",
+      "name": "马集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/马集镇"
+    },
+    {
+      "code": "371703107",
+      "name": "半堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/半堤镇"
+    },
+    {
+      "code": "371703108",
+      "name": "仿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/仿山镇"
+    },
+    {
+      "code": "371703109",
+      "name": "杜堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/杜堂镇"
+    },
+    {
+      "code": "371703110",
+      "name": "南王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371703",
+      "year": 0,
+      "name_path": "山东省/菏泽市/定陶区/南王店镇"
+    }
+  ]
+}

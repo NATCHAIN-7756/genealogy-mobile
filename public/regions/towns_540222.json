@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "540222100",
+      "name": "江孜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/江孜镇"
+    },
+    {
+      "code": "540222200",
+      "name": "纳如乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/纳如乡"
+    },
+    {
+      "code": "540222201",
+      "name": "卡麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/卡麦乡"
+    },
+    {
+      "code": "540222202",
+      "name": "卡堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/卡堆乡"
+    },
+    {
+      "code": "540222203",
+      "name": "藏改乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/藏改乡"
+    },
+    {
+      "code": "540222204",
+      "name": "日朗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/日朗乡"
+    },
+    {
+      "code": "540222205",
+      "name": "达孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/达孜乡"
+    },
+    {
+      "code": "540222206",
+      "name": "热索乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/热索乡"
+    },
+    {
+      "code": "540222207",
+      "name": "重孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/重孜乡"
+    },
+    {
+      "code": "540222208",
+      "name": "龙马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/龙马乡"
+    },
+    {
+      "code": "540222209",
+      "name": "加克西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/加克西乡"
+    },
+    {
+      "code": "540222210",
+      "name": "紫金乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/紫金乡"
+    },
+    {
+      "code": "540222211",
+      "name": "江热乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/江热乡"
+    },
+    {
+      "code": "540222212",
+      "name": "年堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/年堆乡"
+    },
+    {
+      "code": "540222213",
+      "name": "康卓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/康卓乡"
+    },
+    {
+      "code": "540222214",
+      "name": "金嘎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/金嘎乡"
+    },
+    {
+      "code": "540222215",
+      "name": "日星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/日星乡"
+    },
+    {
+      "code": "540222216",
+      "name": "车仁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/车仁乡"
+    },
+    {
+      "code": "540222217",
+      "name": "热龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540222",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/江孜县/热龙乡"
+    }
+  ]
+}

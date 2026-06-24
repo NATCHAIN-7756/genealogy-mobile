@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "210100",
+      "name": "沈阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市"
+    },
+    {
+      "code": "210200",
+      "name": "大连市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/大连市"
+    },
+    {
+      "code": "210300",
+      "name": "鞍山市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市"
+    },
+    {
+      "code": "210400",
+      "name": "抚顺市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/抚顺市"
+    },
+    {
+      "code": "210500",
+      "name": "本溪市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市"
+    },
+    {
+      "code": "210600",
+      "name": "丹东市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/丹东市"
+    },
+    {
+      "code": "210700",
+      "name": "锦州市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市"
+    },
+    {
+      "code": "210800",
+      "name": "营口市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/营口市"
+    },
+    {
+      "code": "210900",
+      "name": "阜新市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市"
+    },
+    {
+      "code": "211000",
+      "name": "辽阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/辽阳市"
+    },
+    {
+      "code": "211100",
+      "name": "盘锦市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/盘锦市"
+    },
+    {
+      "code": "211200",
+      "name": "铁岭市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/铁岭市"
+    },
+    {
+      "code": "211300",
+      "name": "朝阳市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/朝阳市"
+    },
+    {
+      "code": "211400",
+      "name": "葫芦岛市",
+      "level": 2,
+      "type": null,
+      "parent_code": "210000",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "331004001",
+      "name": "路南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/路南街道"
+    },
+    {
+      "code": "331004002",
+      "name": "路桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/路桥街道"
+    },
+    {
+      "code": "331004003",
+      "name": "路北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/路北街道"
+    },
+    {
+      "code": "331004004",
+      "name": "螺洋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/螺洋街道"
+    },
+    {
+      "code": "331004005",
+      "name": "桐屿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/桐屿街道"
+    },
+    {
+      "code": "331004006",
+      "name": "峰江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/峰江街道"
+    },
+    {
+      "code": "331004103",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/新桥镇"
+    },
+    {
+      "code": "331004104",
+      "name": "横街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/横街镇"
+    },
+    {
+      "code": "331004106",
+      "name": "金清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/金清镇"
+    },
+    {
+      "code": "331004107",
+      "name": "蓬街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331004",
+      "year": 0,
+      "name_path": "浙江省/台州市/路桥区/蓬街镇"
+    }
+  ]
+}

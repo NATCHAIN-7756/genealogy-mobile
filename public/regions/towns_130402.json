@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "130402001",
+      "name": "火磨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/火磨街道"
+    },
+    {
+      "code": "130402002",
+      "name": "陵园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/陵园路街道"
+    },
+    {
+      "code": "130402003",
+      "name": "光明路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/光明路街道"
+    },
+    {
+      "code": "130402004",
+      "name": "滏东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/滏东街道"
+    },
+    {
+      "code": "130402005",
+      "name": "罗城头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/罗城头街道"
+    },
+    {
+      "code": "130402006",
+      "name": "渚河路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/渚河路街道"
+    },
+    {
+      "code": "130402007",
+      "name": "浴新南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/浴新南街道"
+    },
+    {
+      "code": "130402008",
+      "name": "农林路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/农林路街道"
+    },
+    {
+      "code": "130402009",
+      "name": "贸东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/贸东街道"
+    },
+    {
+      "code": "130402010",
+      "name": "贸西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/贸西街道"
+    },
+    {
+      "code": "130402011",
+      "name": "盛和路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/盛和路街道"
+    },
+    {
+      "code": "130402100",
+      "name": "北张庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/北张庄镇"
+    },
+    {
+      "code": "130402101",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/马头镇"
+    },
+    {
+      "code": "130402102",
+      "name": "河沙镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/河沙镇镇"
+    },
+    {
+      "code": "130402103",
+      "name": "高臾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/高臾镇"
+    },
+    {
+      "code": "130402104",
+      "name": "光禄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/光禄镇"
+    },
+    {
+      "code": "130402201",
+      "name": "南堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/南堡乡"
+    },
+    {
+      "code": "130402202",
+      "name": "代召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/代召乡"
+    },
+    {
+      "code": "130402203",
+      "name": "辛庄营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/辛庄营乡"
+    },
+    {
+      "code": "130402204",
+      "name": "花官营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/花官营乡"
+    },
+    {
+      "code": "130402205",
+      "name": "台城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130402",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邯山区/台城乡"
+    }
+  ]
+}

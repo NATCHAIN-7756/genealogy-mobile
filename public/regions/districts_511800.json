@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "511802",
+      "name": "雨城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/雨城区"
+    },
+    {
+      "code": "511803",
+      "name": "名山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/名山区"
+    },
+    {
+      "code": "511822",
+      "name": "荥经县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/荥经县"
+    },
+    {
+      "code": "511823",
+      "name": "汉源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/汉源县"
+    },
+    {
+      "code": "511824",
+      "name": "石棉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/石棉县"
+    },
+    {
+      "code": "511825",
+      "name": "天全县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/天全县"
+    },
+    {
+      "code": "511826",
+      "name": "芦山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/芦山县"
+    },
+    {
+      "code": "511827",
+      "name": "宝兴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511800",
+      "year": 0,
+      "name_path": "全国/四川省/雅安市/宝兴县"
+    }
+  ]
+}

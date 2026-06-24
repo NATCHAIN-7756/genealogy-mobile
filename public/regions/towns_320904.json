@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "320904001",
+      "name": "丰华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/丰华街道"
+    },
+    {
+      "code": "320904002",
+      "name": "大中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/大中街道"
+    },
+    {
+      "code": "320904101",
+      "name": "草堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/草堰镇"
+    },
+    {
+      "code": "320904102",
+      "name": "白驹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/白驹镇"
+    },
+    {
+      "code": "320904103",
+      "name": "刘庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/刘庄镇"
+    },
+    {
+      "code": "320904106",
+      "name": "小海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/小海镇"
+    },
+    {
+      "code": "320904107",
+      "name": "西团镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/西团镇"
+    },
+    {
+      "code": "320904108",
+      "name": "新丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/新丰镇"
+    },
+    {
+      "code": "320904110",
+      "name": "大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/大桥镇"
+    },
+    {
+      "code": "320904111",
+      "name": "草庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/草庙镇"
+    },
+    {
+      "code": "320904112",
+      "name": "万盈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/万盈镇"
+    },
+    {
+      "code": "320904114",
+      "name": "南阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/南阳镇"
+    },
+    {
+      "code": "320904116",
+      "name": "三龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320904",
+      "year": 0,
+      "name_path": "江苏省/盐城市/大丰区/三龙镇"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "411282100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/城关镇"
+    },
+    {
+      "code": "411282101",
+      "name": "尹庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/尹庄镇"
+    },
+    {
+      "code": "411282102",
+      "name": "朱阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/朱阳镇"
+    },
+    {
+      "code": "411282103",
+      "name": "阳平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/阳平镇"
+    },
+    {
+      "code": "411282104",
+      "name": "故县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/故县镇"
+    },
+    {
+      "code": "411282105",
+      "name": "豫灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/豫灵镇"
+    },
+    {
+      "code": "411282106",
+      "name": "大王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/大王镇"
+    },
+    {
+      "code": "411282107",
+      "name": "阳店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/阳店镇"
+    },
+    {
+      "code": "411282108",
+      "name": "函谷关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/函谷关镇"
+    },
+    {
+      "code": "411282109",
+      "name": "焦村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/焦村镇"
+    },
+    {
+      "code": "411282110",
+      "name": "川口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/川口镇"
+    },
+    {
+      "code": "411282201",
+      "name": "寺河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/寺河乡"
+    },
+    {
+      "code": "411282202",
+      "name": "苏村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/苏村乡"
+    },
+    {
+      "code": "411282203",
+      "name": "五亩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/五亩乡"
+    },
+    {
+      "code": "411282204",
+      "name": "西阎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411282",
+      "year": 0,
+      "name_path": "河南省/三门峡市/灵宝市/西阎乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "321102001",
+      "name": "正东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/正东路街道"
+    },
+    {
+      "code": "321102002",
+      "name": "健康路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/健康路街道"
+    },
+    {
+      "code": "321102003",
+      "name": "大市口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/大市口街道"
+    },
+    {
+      "code": "321102004",
+      "name": "四牌楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/四牌楼街道"
+    },
+    {
+      "code": "321102005",
+      "name": "谏壁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/谏壁街道"
+    },
+    {
+      "code": "321102006",
+      "name": "象山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/象山街道"
+    },
+    {
+      "code": "321102007",
+      "name": "丁卯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/丁卯街道"
+    },
+    {
+      "code": "321102008",
+      "name": "大港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/大港街道"
+    },
+    {
+      "code": "321102100",
+      "name": "丁岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/丁岗镇"
+    },
+    {
+      "code": "321102101",
+      "name": "大路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/大路镇"
+    },
+    {
+      "code": "321102102",
+      "name": "姚桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321102",
+      "year": 0,
+      "name_path": "江苏省/镇江市/京口区/姚桥镇"
+    }
+  ]
+}

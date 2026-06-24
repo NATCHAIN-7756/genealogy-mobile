@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "530113001",
+      "name": "铜都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/铜都街道"
+    },
+    {
+      "code": "530113002",
+      "name": "碧谷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/碧谷街道"
+    },
+    {
+      "code": "530113003",
+      "name": "集义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/集义街道"
+    },
+    {
+      "code": "530113102",
+      "name": "汤丹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/汤丹镇"
+    },
+    {
+      "code": "530113103",
+      "name": "因民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/因民镇"
+    },
+    {
+      "code": "530113104",
+      "name": "阿旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/阿旺镇"
+    },
+    {
+      "code": "530113106",
+      "name": "乌龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/乌龙镇"
+    },
+    {
+      "code": "530113107",
+      "name": "拖布卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/拖布卡镇"
+    },
+    {
+      "code": "530113108",
+      "name": "红土地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530113",
+      "year": 0,
+      "name_path": "云南省/昆明市/东川区/红土地镇"
+    }
+  ]
+}

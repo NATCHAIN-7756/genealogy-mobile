@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "320106001",
+      "name": "宁海路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/宁海路街道"
+    },
+    {
+      "code": "320106002",
+      "name": "华侨路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/华侨路街道"
+    },
+    {
+      "code": "320106003",
+      "name": "湖南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/湖南路街道"
+    },
+    {
+      "code": "320106004",
+      "name": "中央门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/中央门街道"
+    },
+    {
+      "code": "320106005",
+      "name": "挹江门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/挹江门街道"
+    },
+    {
+      "code": "320106006",
+      "name": "江东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/江东街道"
+    },
+    {
+      "code": "320106007",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/凤凰街道"
+    },
+    {
+      "code": "320106008",
+      "name": "下关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/下关街道"
+    },
+    {
+      "code": "320106009",
+      "name": "热河南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/热河南路街道"
+    },
+    {
+      "code": "320106010",
+      "name": "幕府山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/幕府山街道"
+    },
+    {
+      "code": "320106011",
+      "name": "建宁路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/建宁路街道"
+    },
+    {
+      "code": "320106012",
+      "name": "宝塔桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/宝塔桥街道"
+    },
+    {
+      "code": "320106013",
+      "name": "小市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320106",
+      "year": 0,
+      "name_path": "江苏省/南京市/鼓楼区/小市街道"
+    }
+  ]
+}

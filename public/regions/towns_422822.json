@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "422822100",
+      "name": "业州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/业州镇"
+    },
+    {
+      "code": "422822101",
+      "name": "高坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/高坪镇"
+    },
+    {
+      "code": "422822102",
+      "name": "红岩寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/红岩寺镇"
+    },
+    {
+      "code": "422822103",
+      "name": "景阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/景阳镇"
+    },
+    {
+      "code": "422822104",
+      "name": "官店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/官店镇"
+    },
+    {
+      "code": "422822105",
+      "name": "花坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/花坪镇"
+    },
+    {
+      "code": "422822106",
+      "name": "长梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/长梁镇"
+    },
+    {
+      "code": "422822201",
+      "name": "茅田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/茅田乡"
+    },
+    {
+      "code": "422822202",
+      "name": "龙坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/龙坪乡"
+    },
+    {
+      "code": "422822203",
+      "name": "三里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422822",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/建始县/三里乡"
+    }
+  ]
+}

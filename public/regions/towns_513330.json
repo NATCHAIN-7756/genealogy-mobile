@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "513330100",
+      "name": "更庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/更庆镇"
+    },
+    {
+      "code": "513330101",
+      "name": "马尼干戈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/马尼干戈镇"
+    },
+    {
+      "code": "513330102",
+      "name": "竹庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/竹庆镇"
+    },
+    {
+      "code": "513330103",
+      "name": "阿须镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/阿须镇"
+    },
+    {
+      "code": "513330105",
+      "name": "错阿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/错阿镇"
+    },
+    {
+      "code": "513330106",
+      "name": "龚垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/龚垭镇"
+    },
+    {
+      "code": "513330107",
+      "name": "温拖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/温拖镇"
+    },
+    {
+      "code": "513330108",
+      "name": "打滚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/打滚镇"
+    },
+    {
+      "code": "513330109",
+      "name": "麦宿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/麦宿镇"
+    },
+    {
+      "code": "513330110",
+      "name": "中扎科镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/中扎科镇"
+    },
+    {
+      "code": "513330202",
+      "name": "岳巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/岳巴乡"
+    },
+    {
+      "code": "513330203",
+      "name": "八帮乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/八帮乡"
+    },
+    {
+      "code": "513330205",
+      "name": "白垭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/白垭乡"
+    },
+    {
+      "code": "513330206",
+      "name": "汪布顶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/汪布顶乡"
+    },
+    {
+      "code": "513330207",
+      "name": "柯洛洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/柯洛洞乡"
+    },
+    {
+      "code": "513330208",
+      "name": "卡松渡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/卡松渡乡"
+    },
+    {
+      "code": "513330209",
+      "name": "俄南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/俄南乡"
+    },
+    {
+      "code": "513330211",
+      "name": "俄支乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/俄支乡"
+    },
+    {
+      "code": "513330213",
+      "name": "玉隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/玉隆乡"
+    },
+    {
+      "code": "513330216",
+      "name": "上然姑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/上然姑乡"
+    },
+    {
+      "code": "513330219",
+      "name": "年古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/年古乡"
+    },
+    {
+      "code": "513330220",
+      "name": "浪多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/浪多乡"
+    },
+    {
+      "code": "513330223",
+      "name": "亚丁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513330",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/德格县/亚丁乡"
+    }
+  ]
+}

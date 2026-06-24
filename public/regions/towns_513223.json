@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "513223100",
+      "name": "凤仪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/凤仪镇"
+    },
+    {
+      "code": "513223101",
+      "name": "南新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/南新镇"
+    },
+    {
+      "code": "513223102",
+      "name": "叠溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/叠溪镇"
+    },
+    {
+      "code": "513223105",
+      "name": "富顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/富顺镇"
+    },
+    {
+      "code": "513223107",
+      "name": "土门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/土门镇"
+    },
+    {
+      "code": "513223109",
+      "name": "洼底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/洼底镇"
+    },
+    {
+      "code": "513223110",
+      "name": "沙坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/沙坝镇"
+    },
+    {
+      "code": "513223111",
+      "name": "渭门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/渭门镇"
+    },
+    {
+      "code": "513223112",
+      "name": "黑虎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/黑虎镇"
+    },
+    {
+      "code": "513223113",
+      "name": "沟口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/沟口镇"
+    },
+    {
+      "code": "513223114",
+      "name": "赤不苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513223",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/茂县/赤不苏镇"
+    }
+  ]
+}

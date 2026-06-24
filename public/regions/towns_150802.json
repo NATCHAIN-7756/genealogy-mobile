@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "150802001",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/团结街道"
+    },
+    {
+      "code": "150802002",
+      "name": "车站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/车站街道"
+    },
+    {
+      "code": "150802003",
+      "name": "先锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/先锋街道"
+    },
+    {
+      "code": "150802004",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/解放街道"
+    },
+    {
+      "code": "150802005",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/新华街道"
+    },
+    {
+      "code": "150802006",
+      "name": "东环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/东环街道"
+    },
+    {
+      "code": "150802007",
+      "name": "铁南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/铁南街道"
+    },
+    {
+      "code": "150802008",
+      "name": "西环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/西环街道"
+    },
+    {
+      "code": "150802009",
+      "name": "北环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/北环街道"
+    },
+    {
+      "code": "150802010",
+      "name": "金川街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/金川街道"
+    },
+    {
+      "code": "150802011",
+      "name": "汇丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/汇丰街道"
+    },
+    {
+      "code": "150802100",
+      "name": "狼山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/狼山镇"
+    },
+    {
+      "code": "150802101",
+      "name": "新华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/新华镇"
+    },
+    {
+      "code": "150802102",
+      "name": "干召庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/干召庙镇"
+    },
+    {
+      "code": "150802104",
+      "name": "乌兰图克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/乌兰图克镇"
+    },
+    {
+      "code": "150802107",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/双河镇"
+    },
+    {
+      "code": "150802109",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/城关镇"
+    },
+    {
+      "code": "150802110",
+      "name": "白脑包镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/白脑包镇"
+    },
+    {
+      "code": "150802200",
+      "name": "八一乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/八一乡"
+    },
+    {
+      "code": "150802201",
+      "name": "曙光乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150802",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/临河区/曙光乡"
+    }
+  ]
+}

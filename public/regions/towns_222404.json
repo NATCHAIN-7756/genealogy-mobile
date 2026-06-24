@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "222404001",
+      "name": "靖和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/靖和街道"
+    },
+    {
+      "code": "222404002",
+      "name": "新安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/新安街道"
+    },
+    {
+      "code": "222404003",
+      "name": "河南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/河南街道"
+    },
+    {
+      "code": "222404004",
+      "name": "近海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/近海街道"
+    },
+    {
+      "code": "222404006",
+      "name": "海东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/海东街道"
+    },
+    {
+      "code": "222404100",
+      "name": "春化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/春化镇"
+    },
+    {
+      "code": "222404101",
+      "name": "敬信镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/敬信镇"
+    },
+    {
+      "code": "222404102",
+      "name": "板石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/板石镇"
+    },
+    {
+      "code": "222404103",
+      "name": "英安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/英安镇"
+    },
+    {
+      "code": "222404200",
+      "name": "马川子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/马川子乡"
+    },
+    {
+      "code": "222404201",
+      "name": "杨泡满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/杨泡满族乡"
+    },
+    {
+      "code": "222404202",
+      "name": "三家子满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/三家子满族乡"
+    },
+    {
+      "code": "222404203",
+      "name": "密江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/密江乡"
+    },
+    {
+      "code": "222404204",
+      "name": "哈达门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "222404",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/珲春市/哈达门乡"
+    }
+  ]
+}

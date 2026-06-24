@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "450205001",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/解放街道"
+    },
+    {
+      "code": "450205002",
+      "name": "雅儒街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/雅儒街道"
+    },
+    {
+      "code": "450205003",
+      "name": "胜利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/胜利街道"
+    },
+    {
+      "code": "450205004",
+      "name": "雀儿山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/雀儿山街道"
+    },
+    {
+      "code": "450205005",
+      "name": "钢城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/钢城街道"
+    },
+    {
+      "code": "450205006",
+      "name": "柳长街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/柳长街道"
+    },
+    {
+      "code": "450205007",
+      "name": "锦绣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/锦绣街道"
+    },
+    {
+      "code": "450205008",
+      "name": "白露街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/白露街道"
+    },
+    {
+      "code": "450205009",
+      "name": "跃进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/跃进街道"
+    },
+    {
+      "code": "450205100",
+      "name": "石碑坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/石碑坪镇"
+    },
+    {
+      "code": "450205101",
+      "name": "沙塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/沙塘镇"
+    },
+    {
+      "code": "450205102",
+      "name": "长塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450205",
+      "year": 0,
+      "name_path": "广西壮族自治区/柳州市/柳北区/长塘镇"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "411423100",
+      "name": "城关回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/城关回族镇"
+    },
+    {
+      "code": "411423101",
+      "name": "张弓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/张弓镇"
+    },
+    {
+      "code": "411423102",
+      "name": "柳河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/柳河镇"
+    },
+    {
+      "code": "411423103",
+      "name": "逻岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/逻岗镇"
+    },
+    {
+      "code": "411423104",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/石桥镇"
+    },
+    {
+      "code": "411423105",
+      "name": "黄岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/黄岗镇"
+    },
+    {
+      "code": "411423106",
+      "name": "华堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/华堡镇"
+    },
+    {
+      "code": "411423107",
+      "name": "阳驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/阳驿镇"
+    },
+    {
+      "code": "411423203",
+      "name": "刘楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/刘楼乡"
+    },
+    {
+      "code": "411423204",
+      "name": "程楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/程楼乡"
+    },
+    {
+      "code": "411423205",
+      "name": "乔楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/乔楼乡"
+    },
+    {
+      "code": "411423206",
+      "name": "城郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/城郊乡"
+    },
+    {
+      "code": "411423209",
+      "name": "孔集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/孔集乡"
+    },
+    {
+      "code": "411423210",
+      "name": "赵村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411423",
+      "year": 0,
+      "name_path": "河南省/商丘市/宁陵县/赵村乡"
+    }
+  ]
+}

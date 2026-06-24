@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "620923101",
+      "name": "马鬃山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620923",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃北蒙古族自治县/马鬃山镇"
+    },
+    {
+      "code": "620923102",
+      "name": "党城湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620923",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃北蒙古族自治县/党城湾镇"
+    },
+    {
+      "code": "620923202",
+      "name": "石包城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620923",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃北蒙古族自治县/石包城乡"
+    },
+    {
+      "code": "620923203",
+      "name": "盐池湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620923",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃北蒙古族自治县/盐池湾乡"
+    }
+  ]
+}

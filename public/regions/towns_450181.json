@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "450181100",
+      "name": "横州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/横州镇"
+    },
+    {
+      "code": "450181101",
+      "name": "百合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/百合镇"
+    },
+    {
+      "code": "450181102",
+      "name": "那阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/那阳镇"
+    },
+    {
+      "code": "450181103",
+      "name": "南乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/南乡镇"
+    },
+    {
+      "code": "450181104",
+      "name": "新福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/新福镇"
+    },
+    {
+      "code": "450181105",
+      "name": "莲塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/莲塘镇"
+    },
+    {
+      "code": "450181106",
+      "name": "平马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/平马镇"
+    },
+    {
+      "code": "450181107",
+      "name": "峦城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/峦城镇"
+    },
+    {
+      "code": "450181108",
+      "name": "六景镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/六景镇"
+    },
+    {
+      "code": "450181110",
+      "name": "石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/石塘镇"
+    },
+    {
+      "code": "450181112",
+      "name": "陶圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/陶圩镇"
+    },
+    {
+      "code": "450181113",
+      "name": "校椅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/校椅镇"
+    },
+    {
+      "code": "450181114",
+      "name": "云表镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/云表镇"
+    },
+    {
+      "code": "450181115",
+      "name": "马岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/马岭镇"
+    },
+    {
+      "code": "450181116",
+      "name": "马山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/马山镇"
+    },
+    {
+      "code": "450181117",
+      "name": "平朗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/平朗镇"
+    },
+    {
+      "code": "450181204",
+      "name": "镇龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450181",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/横州市/镇龙乡"
+    }
+  ]
+}

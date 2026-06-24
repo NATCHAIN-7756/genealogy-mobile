@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "211402",
+      "name": "连山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211400",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市/连山区"
+    },
+    {
+      "code": "211403",
+      "name": "龙港区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211400",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市/龙港区"
+    },
+    {
+      "code": "211404",
+      "name": "南票区",
+      "level": 3,
+      "type": null,
+      "parent_code": "211400",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市/南票区"
+    },
+    {
+      "code": "211421",
+      "name": "绥中县",
+      "level": 3,
+      "type": null,
+      "parent_code": "211400",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市/绥中县"
+    },
+    {
+      "code": "211422",
+      "name": "建昌县",
+      "level": 3,
+      "type": null,
+      "parent_code": "211400",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市/建昌县"
+    },
+    {
+      "code": "211481",
+      "name": "兴城市",
+      "level": 3,
+      "type": null,
+      "parent_code": "211400",
+      "year": 0,
+      "name_path": "全国/辽宁省/葫芦岛市/兴城市"
+    }
+  ]
+}

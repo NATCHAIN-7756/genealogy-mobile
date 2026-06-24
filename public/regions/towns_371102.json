@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "371102001",
+      "name": "日照街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/日照街道"
+    },
+    {
+      "code": "371102002",
+      "name": "石臼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/石臼街道"
+    },
+    {
+      "code": "371102004",
+      "name": "秦楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/秦楼街道"
+    },
+    {
+      "code": "371102005",
+      "name": "卧龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/卧龙山街道"
+    },
+    {
+      "code": "371102006",
+      "name": "两城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/两城街道"
+    },
+    {
+      "code": "371102007",
+      "name": "奎山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/奎山街道"
+    },
+    {
+      "code": "371102008",
+      "name": "北京路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/北京路街道"
+    },
+    {
+      "code": "371102101",
+      "name": "河山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/河山镇"
+    },
+    {
+      "code": "371102103",
+      "name": "涛雒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/涛雒镇"
+    },
+    {
+      "code": "371102107",
+      "name": "西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/西湖镇"
+    },
+    {
+      "code": "371102108",
+      "name": "陈疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/陈疃镇"
+    },
+    {
+      "code": "371102109",
+      "name": "南湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/南湖镇"
+    },
+    {
+      "code": "371102110",
+      "name": "三庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/三庄镇"
+    },
+    {
+      "code": "371102111",
+      "name": "后村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371102",
+      "year": 0,
+      "name_path": "山东省/日照市/东港区/后村镇"
+    }
+  ]
+}

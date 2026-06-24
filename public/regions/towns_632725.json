@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "632725100",
+      "name": "香达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/香达镇"
+    },
+    {
+      "code": "632725201",
+      "name": "白扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/白扎乡"
+    },
+    {
+      "code": "632725202",
+      "name": "娘拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/娘拉乡"
+    },
+    {
+      "code": "632725203",
+      "name": "毛庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/毛庄乡"
+    },
+    {
+      "code": "632725204",
+      "name": "觉拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/觉拉乡"
+    },
+    {
+      "code": "632725205",
+      "name": "东坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/东坝乡"
+    },
+    {
+      "code": "632725206",
+      "name": "吉曲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/吉曲乡"
+    },
+    {
+      "code": "632725207",
+      "name": "尕羊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/尕羊乡"
+    },
+    {
+      "code": "632725208",
+      "name": "吉尼赛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/吉尼赛乡"
+    },
+    {
+      "code": "632725209",
+      "name": "着晓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632725",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/囊谦县/着晓乡"
+    }
+  ]
+}

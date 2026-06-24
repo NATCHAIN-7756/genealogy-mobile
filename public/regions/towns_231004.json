@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "231004001",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/向阳街道"
+    },
+    {
+      "code": "231004002",
+      "name": "黄花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/黄花街道"
+    },
+    {
+      "code": "231004003",
+      "name": "铁北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/铁北街道"
+    },
+    {
+      "code": "231004004",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/新华街道"
+    },
+    {
+      "code": "231004005",
+      "name": "大庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/大庆街道"
+    },
+    {
+      "code": "231004006",
+      "name": "兴平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/兴平街道"
+    },
+    {
+      "code": "231004007",
+      "name": "北山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/北山街道"
+    },
+    {
+      "code": "231004100",
+      "name": "三道关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231004",
+      "year": 0,
+      "name_path": "黑龙江省/牡丹江市/爱民区/三道关镇"
+    }
+  ]
+}

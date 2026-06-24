@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "610925100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/城关镇"
+    },
+    {
+      "code": "610925101",
+      "name": "佐龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/佐龙镇"
+    },
+    {
+      "code": "610925103",
+      "name": "滔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/滔河镇"
+    },
+    {
+      "code": "610925104",
+      "name": "官元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/官元镇"
+    },
+    {
+      "code": "610925105",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/石门镇"
+    },
+    {
+      "code": "610925106",
+      "name": "民主镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/民主镇"
+    },
+    {
+      "code": "610925107",
+      "name": "大道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/大道河镇"
+    },
+    {
+      "code": "610925108",
+      "name": "蔺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/蔺河镇"
+    },
+    {
+      "code": "610925110",
+      "name": "四季镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/四季镇"
+    },
+    {
+      "code": "610925111",
+      "name": "孟石岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/孟石岭镇"
+    },
+    {
+      "code": "610925113",
+      "name": "堰门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/堰门镇"
+    },
+    {
+      "code": "610925115",
+      "name": "南宫山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610925",
+      "year": 0,
+      "name_path": "陕西省/安康市/岚皋县/南宫山镇"
+    }
+  ]
+}

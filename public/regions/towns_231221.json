@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "231221100",
+      "name": "望奎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/望奎镇"
+    },
+    {
+      "code": "231221101",
+      "name": "通江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/通江镇"
+    },
+    {
+      "code": "231221102",
+      "name": "卫星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/卫星镇"
+    },
+    {
+      "code": "231221103",
+      "name": "海丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/海丰镇"
+    },
+    {
+      "code": "231221104",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/莲花镇"
+    },
+    {
+      "code": "231221105",
+      "name": "惠七镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/惠七镇"
+    },
+    {
+      "code": "231221106",
+      "name": "先锋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/先锋镇"
+    },
+    {
+      "code": "231221107",
+      "name": "火箭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/火箭镇"
+    },
+    {
+      "code": "231221108",
+      "name": "东郊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/东郊镇"
+    },
+    {
+      "code": "231221109",
+      "name": "灯塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/灯塔镇"
+    },
+    {
+      "code": "231221202",
+      "name": "灵山满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/灵山满族乡"
+    },
+    {
+      "code": "231221203",
+      "name": "后三乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/后三乡"
+    },
+    {
+      "code": "231221209",
+      "name": "东升乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/东升乡"
+    },
+    {
+      "code": "231221210",
+      "name": "恭六乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/恭六乡"
+    },
+    {
+      "code": "231221211",
+      "name": "厢白满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231221",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/望奎县/厢白满族乡"
+    }
+  ]
+}

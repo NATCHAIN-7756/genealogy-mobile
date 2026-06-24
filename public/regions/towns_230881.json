@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "230881001",
+      "name": "繁荣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/繁荣街道"
+    },
+    {
+      "code": "230881002",
+      "name": "兴华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/兴华街道"
+    },
+    {
+      "code": "230881100",
+      "name": "同江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/同江镇"
+    },
+    {
+      "code": "230881101",
+      "name": "乐业镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/乐业镇"
+    },
+    {
+      "code": "230881102",
+      "name": "三村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/三村镇"
+    },
+    {
+      "code": "230881103",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/临江镇"
+    },
+    {
+      "code": "230881104",
+      "name": "向阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/向阳镇"
+    },
+    {
+      "code": "230881105",
+      "name": "青河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/青河镇"
+    },
+    {
+      "code": "230881204",
+      "name": "街津口赫哲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/街津口赫哲族乡"
+    },
+    {
+      "code": "230881205",
+      "name": "八岔赫哲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/八岔赫哲族乡"
+    },
+    {
+      "code": "230881206",
+      "name": "金川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/金川乡"
+    },
+    {
+      "code": "230881207",
+      "name": "银川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230881",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/同江市/银川乡"
+    }
+  ]
+}

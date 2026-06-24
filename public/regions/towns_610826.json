@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "610826101",
+      "name": "薛家峁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/薛家峁镇"
+    },
+    {
+      "code": "610826102",
+      "name": "崔家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/崔家湾镇"
+    },
+    {
+      "code": "610826103",
+      "name": "定仙墕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/定仙墕镇"
+    },
+    {
+      "code": "610826104",
+      "name": "枣林坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/枣林坪镇"
+    },
+    {
+      "code": "610826105",
+      "name": "义合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/义合镇"
+    },
+    {
+      "code": "610826106",
+      "name": "吉镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/吉镇镇"
+    },
+    {
+      "code": "610826107",
+      "name": "薛家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/薛家河镇"
+    },
+    {
+      "code": "610826109",
+      "name": "石家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/石家湾镇"
+    },
+    {
+      "code": "610826110",
+      "name": "田庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/田庄镇"
+    },
+    {
+      "code": "610826112",
+      "name": "中角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/中角镇"
+    },
+    {
+      "code": "610826113",
+      "name": "四十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/四十里铺镇"
+    },
+    {
+      "code": "610826114",
+      "name": "名州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/名州镇"
+    },
+    {
+      "code": "610826115",
+      "name": "张家砭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/张家砭镇"
+    },
+    {
+      "code": "610826116",
+      "name": "白家硷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/白家硷镇"
+    },
+    {
+      "code": "610826117",
+      "name": "满堂川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610826",
+      "year": 0,
+      "name_path": "陕西省/榆林市/绥德县/满堂川镇"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "511523100",
+      "name": "江安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/江安镇"
+    },
+    {
+      "code": "511523101",
+      "name": "红桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/红桥镇"
+    },
+    {
+      "code": "511523104",
+      "name": "怡乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/怡乐镇"
+    },
+    {
+      "code": "511523105",
+      "name": "留耕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/留耕镇"
+    },
+    {
+      "code": "511523108",
+      "name": "五矿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/五矿镇"
+    },
+    {
+      "code": "511523109",
+      "name": "迎安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/迎安镇"
+    },
+    {
+      "code": "511523110",
+      "name": "夕佳山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/夕佳山镇"
+    },
+    {
+      "code": "511523113",
+      "name": "铁清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/铁清镇"
+    },
+    {
+      "code": "511523114",
+      "name": "四面山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/四面山镇"
+    },
+    {
+      "code": "511523115",
+      "name": "大井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/大井镇"
+    },
+    {
+      "code": "511523116",
+      "name": "阳春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/阳春镇"
+    },
+    {
+      "code": "511523117",
+      "name": "下长镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/下长镇"
+    },
+    {
+      "code": "511523118",
+      "name": "大妙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/大妙镇"
+    },
+    {
+      "code": "511523119",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511523",
+      "year": 0,
+      "name_path": "四川省/宜宾市/江安县/仁和镇"
+    }
+  ]
+}

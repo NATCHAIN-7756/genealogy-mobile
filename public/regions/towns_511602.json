@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "511602001",
+      "name": "浓洄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/浓洄街道"
+    },
+    {
+      "code": "511602002",
+      "name": "北辰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/北辰街道"
+    },
+    {
+      "code": "511602004",
+      "name": "广福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/广福街道"
+    },
+    {
+      "code": "511602005",
+      "name": "万盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/万盛街道"
+    },
+    {
+      "code": "511602006",
+      "name": "中桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/中桥街道"
+    },
+    {
+      "code": "511602007",
+      "name": "枣山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/枣山街道"
+    },
+    {
+      "code": "511602101",
+      "name": "官盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/官盛镇"
+    },
+    {
+      "code": "511602102",
+      "name": "协兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/协兴镇"
+    },
+    {
+      "code": "511602103",
+      "name": "浓溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/浓溪镇"
+    },
+    {
+      "code": "511602104",
+      "name": "悦来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/悦来镇"
+    },
+    {
+      "code": "511602105",
+      "name": "兴平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/兴平镇"
+    },
+    {
+      "code": "511602106",
+      "name": "井河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/井河镇"
+    },
+    {
+      "code": "511602107",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/花桥镇"
+    },
+    {
+      "code": "511602108",
+      "name": "龙台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/龙台镇"
+    },
+    {
+      "code": "511602109",
+      "name": "肖溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/肖溪镇"
+    },
+    {
+      "code": "511602110",
+      "name": "恒升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/恒升镇"
+    },
+    {
+      "code": "511602111",
+      "name": "石笋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/石笋镇"
+    },
+    {
+      "code": "511602112",
+      "name": "白市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/白市镇"
+    },
+    {
+      "code": "511602113",
+      "name": "大安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/大安镇"
+    },
+    {
+      "code": "511602121",
+      "name": "穿石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/穿石镇"
+    },
+    {
+      "code": "511602122",
+      "name": "大龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/大龙镇"
+    },
+    {
+      "code": "511602123",
+      "name": "东岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/东岳镇"
+    },
+    {
+      "code": "511602207",
+      "name": "龙安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/龙安乡"
+    },
+    {
+      "code": "511602208",
+      "name": "彭家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/彭家乡"
+    },
+    {
+      "code": "511602216",
+      "name": "白马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511602",
+      "year": 0,
+      "name_path": "四川省/广安市/广安区/白马乡"
+    }
+  ]
+}

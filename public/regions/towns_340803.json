@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "340803001",
+      "name": "德宽路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/德宽路街道"
+    },
+    {
+      "code": "340803002",
+      "name": "玉琳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/玉琳路街道"
+    },
+    {
+      "code": "340803003",
+      "name": "龙山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/龙山路街道"
+    },
+    {
+      "code": "340803004",
+      "name": "菱湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/菱湖街道"
+    },
+    {
+      "code": "340803005",
+      "name": "集贤路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/集贤路街道"
+    },
+    {
+      "code": "340803006",
+      "name": "石化路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/石化路街道"
+    },
+    {
+      "code": "340803007",
+      "name": "花亭路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/花亭路街道"
+    },
+    {
+      "code": "340803100",
+      "name": "海口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/海口镇"
+    },
+    {
+      "code": "340803200",
+      "name": "山口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/山口乡"
+    },
+    {
+      "code": "340803201",
+      "name": "十里铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340803",
+      "year": 0,
+      "name_path": "安徽省/安庆市/大观区/十里铺乡"
+    }
+  ]
+}

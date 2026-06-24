@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "330102",
+      "name": "上城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/上城区"
+    },
+    {
+      "code": "330105",
+      "name": "拱墅区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/拱墅区"
+    },
+    {
+      "code": "330106",
+      "name": "西湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/西湖区"
+    },
+    {
+      "code": "330108",
+      "name": "滨江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/滨江区"
+    },
+    {
+      "code": "330109",
+      "name": "萧山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/萧山区"
+    },
+    {
+      "code": "330110",
+      "name": "余杭区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/余杭区"
+    },
+    {
+      "code": "330111",
+      "name": "富阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/富阳区"
+    },
+    {
+      "code": "330112",
+      "name": "临安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/临安区"
+    },
+    {
+      "code": "330113",
+      "name": "临平区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/临平区"
+    },
+    {
+      "code": "330114",
+      "name": "钱塘区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/钱塘区"
+    },
+    {
+      "code": "330122",
+      "name": "桐庐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/桐庐县"
+    },
+    {
+      "code": "330127",
+      "name": "淳安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/淳安县"
+    },
+    {
+      "code": "330182",
+      "name": "建德市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330100",
+      "year": 0,
+      "name_path": "全国/浙江省/杭州市/建德市"
+    }
+  ]
+}

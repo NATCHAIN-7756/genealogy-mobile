@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140212",
+      "name": "新荣区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/新荣区"
+    },
+    {
+      "code": "140213",
+      "name": "平城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/平城区"
+    },
+    {
+      "code": "140214",
+      "name": "云冈区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/云冈区"
+    },
+    {
+      "code": "140215",
+      "name": "云州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/云州区"
+    },
+    {
+      "code": "140221",
+      "name": "阳高县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/阳高县"
+    },
+    {
+      "code": "140222",
+      "name": "天镇县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/天镇县"
+    },
+    {
+      "code": "140223",
+      "name": "广灵县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/广灵县"
+    },
+    {
+      "code": "140224",
+      "name": "灵丘县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/灵丘县"
+    },
+    {
+      "code": "140225",
+      "name": "浑源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/浑源县"
+    },
+    {
+      "code": "140226",
+      "name": "左云县",
+      "level": 3,
+      "type": null,
+      "parent_code": "140200",
+      "year": 0,
+      "name_path": "全国/山西省/大同市/左云县"
+    }
+  ]
+}

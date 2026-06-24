@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "440308001",
+      "name": "梅沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440308",
+      "year": 0,
+      "name_path": "广东省/深圳市/盐田区/梅沙街道"
+    },
+    {
+      "code": "440308002",
+      "name": "盐田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440308",
+      "year": 0,
+      "name_path": "广东省/深圳市/盐田区/盐田街道"
+    },
+    {
+      "code": "440308003",
+      "name": "沙头角街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440308",
+      "year": 0,
+      "name_path": "广东省/深圳市/盐田区/沙头角街道"
+    },
+    {
+      "code": "440308004",
+      "name": "海山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440308",
+      "year": 0,
+      "name_path": "广东省/深圳市/盐田区/海山街道"
+    }
+  ]
+}

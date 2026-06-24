@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230826101",
+      "name": "横头山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/横头山镇"
+    },
+    {
+      "code": "230826103",
+      "name": "苏家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/苏家店镇"
+    },
+    {
+      "code": "230826104",
+      "name": "悦来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/悦来镇"
+    },
+    {
+      "code": "230826105",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/新城镇"
+    },
+    {
+      "code": "230826108",
+      "name": "四马架镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/四马架镇"
+    },
+    {
+      "code": "230826201",
+      "name": "东河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/东河乡"
+    },
+    {
+      "code": "230826202",
+      "name": "梨丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/梨丰乡"
+    },
+    {
+      "code": "230826205",
+      "name": "创业乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/创业乡"
+    },
+    {
+      "code": "230826207",
+      "name": "星火朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230826",
+      "year": 0,
+      "name_path": "黑龙江省/佳木斯市/桦川县/星火朝鲜族乡"
+    }
+  ]
+}

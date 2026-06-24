@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540424100",
+      "name": "扎木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/扎木镇"
+    },
+    {
+      "code": "540424101",
+      "name": "倾多镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/倾多镇"
+    },
+    {
+      "code": "540424102",
+      "name": "松宗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/松宗镇"
+    },
+    {
+      "code": "540424200",
+      "name": "易贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/易贡乡"
+    },
+    {
+      "code": "540424201",
+      "name": "玉普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/玉普乡"
+    },
+    {
+      "code": "540424202",
+      "name": "康玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/康玉乡"
+    },
+    {
+      "code": "540424203",
+      "name": "多吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/多吉乡"
+    },
+    {
+      "code": "540424204",
+      "name": "玉许乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/玉许乡"
+    },
+    {
+      "code": "540424205",
+      "name": "八盖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/八盖乡"
+    },
+    {
+      "code": "540424207",
+      "name": "古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540424",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/波密县/古乡"
+    }
+  ]
+}

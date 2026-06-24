@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "621224100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/城关镇"
+    },
+    {
+      "code": "621224101",
+      "name": "平洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/平洛镇"
+    },
+    {
+      "code": "621224102",
+      "name": "大堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/大堡镇"
+    },
+    {
+      "code": "621224103",
+      "name": "岸门口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/岸门口镇"
+    },
+    {
+      "code": "621224104",
+      "name": "两河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/两河镇"
+    },
+    {
+      "code": "621224105",
+      "name": "长坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/长坝镇"
+    },
+    {
+      "code": "621224106",
+      "name": "云台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/云台镇"
+    },
+    {
+      "code": "621224107",
+      "name": "阳坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/阳坝镇"
+    },
+    {
+      "code": "621224108",
+      "name": "周家坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/周家坝镇"
+    },
+    {
+      "code": "621224109",
+      "name": "望关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/望关镇"
+    },
+    {
+      "code": "621224110",
+      "name": "王坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/王坝镇"
+    },
+    {
+      "code": "621224111",
+      "name": "大南峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/大南峪镇"
+    },
+    {
+      "code": "621224112",
+      "name": "碾坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/碾坝镇"
+    },
+    {
+      "code": "621224113",
+      "name": "豆坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/豆坝镇"
+    },
+    {
+      "code": "621224114",
+      "name": "铜钱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/铜钱镇"
+    },
+    {
+      "code": "621224115",
+      "name": "三河坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/三河坝镇"
+    },
+    {
+      "code": "621224116",
+      "name": "白杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/白杨镇"
+    },
+    {
+      "code": "621224117",
+      "name": "寺台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/寺台镇"
+    },
+    {
+      "code": "621224204",
+      "name": "迷坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/迷坝乡"
+    },
+    {
+      "code": "621224209",
+      "name": "店子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/店子乡"
+    },
+    {
+      "code": "621224214",
+      "name": "太石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621224",
+      "year": 0,
+      "name_path": "甘肃省/陇南市/康县/太石乡"
+    }
+  ]
+}

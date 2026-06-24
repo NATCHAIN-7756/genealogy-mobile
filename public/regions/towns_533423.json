@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "533423100",
+      "name": "保和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/保和镇"
+    },
+    {
+      "code": "533423101",
+      "name": "塔城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/塔城镇"
+    },
+    {
+      "code": "533423200",
+      "name": "永春乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/永春乡"
+    },
+    {
+      "code": "533423201",
+      "name": "攀天阁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/攀天阁乡"
+    },
+    {
+      "code": "533423202",
+      "name": "白济汛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/白济汛乡"
+    },
+    {
+      "code": "533423203",
+      "name": "康普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/康普乡"
+    },
+    {
+      "code": "533423207",
+      "name": "中路乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/中路乡"
+    },
+    {
+      "code": "533423208",
+      "name": "维登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533423",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/维西傈僳族自治县/维登乡"
+    }
+  ]
+}

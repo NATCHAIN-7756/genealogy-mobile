@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "441881001",
+      "name": "英城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/英城街道"
+    },
+    {
+      "code": "441881101",
+      "name": "沙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/沙口镇"
+    },
+    {
+      "code": "441881102",
+      "name": "望埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/望埠镇"
+    },
+    {
+      "code": "441881103",
+      "name": "横石水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/横石水镇"
+    },
+    {
+      "code": "441881104",
+      "name": "东华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/东华镇"
+    },
+    {
+      "code": "441881105",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/桥头镇"
+    },
+    {
+      "code": "441881106",
+      "name": "青塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/青塘镇"
+    },
+    {
+      "code": "441881108",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/白沙镇"
+    },
+    {
+      "code": "441881109",
+      "name": "大站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/大站镇"
+    },
+    {
+      "code": "441881110",
+      "name": "西牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/西牛镇"
+    },
+    {
+      "code": "441881111",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/九龙镇"
+    },
+    {
+      "code": "441881112",
+      "name": "浛洸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/浛洸镇"
+    },
+    {
+      "code": "441881114",
+      "name": "大湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/大湾镇"
+    },
+    {
+      "code": "441881115",
+      "name": "石灰铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/石灰铺镇"
+    },
+    {
+      "code": "441881116",
+      "name": "石牯塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/石牯塘镇"
+    },
+    {
+      "code": "441881120",
+      "name": "下𱳪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/下𱳪镇"
+    },
+    {
+      "code": "441881121",
+      "name": "黄花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/黄花镇"
+    },
+    {
+      "code": "441881124",
+      "name": "波罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/波罗镇"
+    },
+    {
+      "code": "441881125",
+      "name": "横石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/横石塘镇"
+    },
+    {
+      "code": "441881126",
+      "name": "大洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/大洞镇"
+    },
+    {
+      "code": "441881129",
+      "name": "连江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/连江口镇"
+    },
+    {
+      "code": "441881130",
+      "name": "黎溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/黎溪镇"
+    },
+    {
+      "code": "441881131",
+      "name": "水边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/水边镇"
+    },
+    {
+      "code": "441881132",
+      "name": "英红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441881",
+      "year": 0,
+      "name_path": "广东省/清远市/英德市/英红镇"
+    }
+  ]
+}

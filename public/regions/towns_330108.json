@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "330108001",
+      "name": "西兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330108",
+      "year": 0,
+      "name_path": "浙江省/杭州市/滨江区/西兴街道"
+    },
+    {
+      "code": "330108002",
+      "name": "浦沿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330108",
+      "year": 0,
+      "name_path": "浙江省/杭州市/滨江区/浦沿街道"
+    },
+    {
+      "code": "330108003",
+      "name": "长河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330108",
+      "year": 0,
+      "name_path": "浙江省/杭州市/滨江区/长河街道"
+    }
+  ]
+}

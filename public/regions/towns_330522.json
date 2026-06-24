@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "330522001",
+      "name": "雉城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/雉城街道"
+    },
+    {
+      "code": "330522002",
+      "name": "画溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/画溪街道"
+    },
+    {
+      "code": "330522003",
+      "name": "太湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/太湖街道"
+    },
+    {
+      "code": "330522004",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/龙山街道"
+    },
+    {
+      "code": "330522101",
+      "name": "洪桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/洪桥镇"
+    },
+    {
+      "code": "330522102",
+      "name": "李家巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/李家巷镇"
+    },
+    {
+      "code": "330522103",
+      "name": "夹浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/夹浦镇"
+    },
+    {
+      "code": "330522104",
+      "name": "林城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/林城镇"
+    },
+    {
+      "code": "330522105",
+      "name": "泗安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/泗安镇"
+    },
+    {
+      "code": "330522106",
+      "name": "虹星桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/虹星桥镇"
+    },
+    {
+      "code": "330522107",
+      "name": "和平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/和平镇"
+    },
+    {
+      "code": "330522108",
+      "name": "小浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/小浦镇"
+    },
+    {
+      "code": "330522109",
+      "name": "煤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/煤山镇"
+    },
+    {
+      "code": "330522200",
+      "name": "水口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/水口乡"
+    },
+    {
+      "code": "330522202",
+      "name": "吕山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330522",
+      "year": 0,
+      "name_path": "浙江省/湖州市/长兴县/吕山乡"
+    }
+  ]
+}

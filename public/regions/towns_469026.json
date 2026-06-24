@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "469026100",
+      "name": "石碌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/石碌镇"
+    },
+    {
+      "code": "469026101",
+      "name": "叉河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/叉河镇"
+    },
+    {
+      "code": "469026102",
+      "name": "十月田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/十月田镇"
+    },
+    {
+      "code": "469026103",
+      "name": "乌烈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/乌烈镇"
+    },
+    {
+      "code": "469026104",
+      "name": "昌化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/昌化镇"
+    },
+    {
+      "code": "469026105",
+      "name": "海尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/海尾镇"
+    },
+    {
+      "code": "469026106",
+      "name": "七叉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/七叉镇"
+    },
+    {
+      "code": "469026200",
+      "name": "王下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469026",
+      "year": 0,
+      "name_path": "海南省/昌江黎族自治县/王下乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130632100",
+      "name": "安新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/安新镇"
+    },
+    {
+      "code": "130632101",
+      "name": "大王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/大王镇"
+    },
+    {
+      "code": "130632102",
+      "name": "三台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/三台镇"
+    },
+    {
+      "code": "130632103",
+      "name": "端村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/端村镇"
+    },
+    {
+      "code": "130632104",
+      "name": "赵北口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/赵北口镇"
+    },
+    {
+      "code": "130632105",
+      "name": "同口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/同口镇"
+    },
+    {
+      "code": "130632106",
+      "name": "刘李庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/刘李庄镇"
+    },
+    {
+      "code": "130632107",
+      "name": "安州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/安州镇"
+    },
+    {
+      "code": "130632108",
+      "name": "老河头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/老河头镇"
+    },
+    {
+      "code": "130632200",
+      "name": "圈头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/圈头乡"
+    },
+    {
+      "code": "130632201",
+      "name": "寨里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/寨里乡"
+    },
+    {
+      "code": "130632202",
+      "name": "芦庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130632",
+      "year": 0,
+      "name_path": "河北省/保定市/安新县/芦庄乡"
+    }
+  ]
+}

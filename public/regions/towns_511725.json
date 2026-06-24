@@ -1,0 +1,337 @@
+{
+  "data": [
+    {
+      "code": "511725001",
+      "name": "渠江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/渠江街道"
+    },
+    {
+      "code": "511725002",
+      "name": "天星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/天星街道"
+    },
+    {
+      "code": "511725003",
+      "name": "渠南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/渠南街道"
+    },
+    {
+      "code": "511725102",
+      "name": "临巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/临巴镇"
+    },
+    {
+      "code": "511725103",
+      "name": "三汇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/三汇镇"
+    },
+    {
+      "code": "511725104",
+      "name": "涌兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/涌兴镇"
+    },
+    {
+      "code": "511725105",
+      "name": "有庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/有庆镇"
+    },
+    {
+      "code": "511725106",
+      "name": "土溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/土溪镇"
+    },
+    {
+      "code": "511725107",
+      "name": "文崇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/文崇镇"
+    },
+    {
+      "code": "511725108",
+      "name": "贵福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/贵福镇"
+    },
+    {
+      "code": "511725109",
+      "name": "岩峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/岩峰镇"
+    },
+    {
+      "code": "511725110",
+      "name": "静边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/静边镇"
+    },
+    {
+      "code": "511725111",
+      "name": "清溪场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/清溪场镇"
+    },
+    {
+      "code": "511725112",
+      "name": "宝城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/宝城镇"
+    },
+    {
+      "code": "511725113",
+      "name": "𰝟渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/𰝟渡镇"
+    },
+    {
+      "code": "511725114",
+      "name": "琅琊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/琅琊镇"
+    },
+    {
+      "code": "511725115",
+      "name": "李渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/李渡镇"
+    },
+    {
+      "code": "511725116",
+      "name": "中滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/中滩镇"
+    },
+    {
+      "code": "511725118",
+      "name": "三板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/三板镇"
+    },
+    {
+      "code": "511725119",
+      "name": "丰乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/丰乐镇"
+    },
+    {
+      "code": "511725120",
+      "name": "李馥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/李馥镇"
+    },
+    {
+      "code": "511725123",
+      "name": "青龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/青龙镇"
+    },
+    {
+      "code": "511725125",
+      "name": "卷硐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/卷硐镇"
+    },
+    {
+      "code": "511725126",
+      "name": "望溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/望溪镇"
+    },
+    {
+      "code": "511725128",
+      "name": "龙凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/龙凤镇"
+    },
+    {
+      "code": "511725129",
+      "name": "新市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/新市镇"
+    },
+    {
+      "code": "511725131",
+      "name": "渠北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/渠北镇"
+    },
+    {
+      "code": "511725132",
+      "name": "定远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/定远镇"
+    },
+    {
+      "code": "511725133",
+      "name": "合力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/合力镇"
+    },
+    {
+      "code": "511725134",
+      "name": "万寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/万寿镇"
+    },
+    {
+      "code": "511725135",
+      "name": "东安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/东安镇"
+    },
+    {
+      "code": "511725227",
+      "name": "报恩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/报恩乡"
+    },
+    {
+      "code": "511725228",
+      "name": "安北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/安北乡"
+    },
+    {
+      "code": "511725238",
+      "name": "大义乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/大义乡"
+    },
+    {
+      "code": "511725245",
+      "name": "巨光乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/巨光乡"
+    },
+    {
+      "code": "511725255",
+      "name": "望江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/望江乡"
+    },
+    {
+      "code": "511725263",
+      "name": "拱市乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511725",
+      "year": 0,
+      "name_path": "四川省/达州市/渠县/拱市乡"
+    }
+  ]
+}

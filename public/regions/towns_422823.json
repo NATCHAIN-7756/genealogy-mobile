@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "422823100",
+      "name": "信陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/信陵镇"
+    },
+    {
+      "code": "422823101",
+      "name": "东瀼口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/东瀼口镇"
+    },
+    {
+      "code": "422823102",
+      "name": "沿渡河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/沿渡河镇"
+    },
+    {
+      "code": "422823103",
+      "name": "官渡口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/官渡口镇"
+    },
+    {
+      "code": "422823104",
+      "name": "茶店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/茶店子镇"
+    },
+    {
+      "code": "422823105",
+      "name": "绿葱坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/绿葱坡镇"
+    },
+    {
+      "code": "422823106",
+      "name": "大支坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/大支坪镇"
+    },
+    {
+      "code": "422823107",
+      "name": "野三关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/野三关镇"
+    },
+    {
+      "code": "422823108",
+      "name": "水布垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/水布垭镇"
+    },
+    {
+      "code": "422823109",
+      "name": "清太坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/清太坪镇"
+    },
+    {
+      "code": "422823200",
+      "name": "溪丘湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/溪丘湾乡"
+    },
+    {
+      "code": "422823201",
+      "name": "金果坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "422823",
+      "year": 0,
+      "name_path": "湖北省/恩施土家族苗族自治州/巴东县/金果坪乡"
+    }
+  ]
+}

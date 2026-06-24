@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "430921100",
+      "name": "南洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/南洲镇"
+    },
+    {
+      "code": "430921101",
+      "name": "华阁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/华阁镇"
+    },
+    {
+      "code": "430921102",
+      "name": "明山头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/明山头镇"
+    },
+    {
+      "code": "430921103",
+      "name": "青树嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/青树嘴镇"
+    },
+    {
+      "code": "430921104",
+      "name": "三仙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/三仙湖镇"
+    },
+    {
+      "code": "430921105",
+      "name": "茅草街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/茅草街镇"
+    },
+    {
+      "code": "430921106",
+      "name": "厂窖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/厂窖镇"
+    },
+    {
+      "code": "430921107",
+      "name": "武圣宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/武圣宫镇"
+    },
+    {
+      "code": "430921108",
+      "name": "麻河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/麻河口镇"
+    },
+    {
+      "code": "430921125",
+      "name": "浪拔湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/浪拔湖镇"
+    },
+    {
+      "code": "430921126",
+      "name": "中鱼口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/中鱼口镇"
+    },
+    {
+      "code": "430921127",
+      "name": "金盆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/金盆镇"
+    },
+    {
+      "code": "430921128",
+      "name": "北洲子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/北洲子镇"
+    },
+    {
+      "code": "430921129",
+      "name": "河坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/河坝镇"
+    },
+    {
+      "code": "430921201",
+      "name": "乌嘴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430921",
+      "year": 0,
+      "name_path": "湖南省/益阳市/南县/乌嘴乡"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "320903001",
+      "name": "张庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/张庄街道"
+    },
+    {
+      "code": "320903002",
+      "name": "潘黄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/潘黄街道"
+    },
+    {
+      "code": "320903003",
+      "name": "新都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/新都街道"
+    },
+    {
+      "code": "320903004",
+      "name": "盐龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/盐龙街道"
+    },
+    {
+      "code": "320903005",
+      "name": "盐渎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/盐渎街道"
+    },
+    {
+      "code": "320903006",
+      "name": "科城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/科城街道"
+    },
+    {
+      "code": "320903103",
+      "name": "学富镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/学富镇"
+    },
+    {
+      "code": "320903109",
+      "name": "龙冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/龙冈镇"
+    },
+    {
+      "code": "320903111",
+      "name": "郭猛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/郭猛镇"
+    },
+    {
+      "code": "320903112",
+      "name": "大冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/大冈镇"
+    },
+    {
+      "code": "320903113",
+      "name": "大纵湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/大纵湖镇"
+    },
+    {
+      "code": "320903114",
+      "name": "楼王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/楼王镇"
+    },
+    {
+      "code": "320903115",
+      "name": "尚庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/尚庄镇"
+    },
+    {
+      "code": "320903116",
+      "name": "秦南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320903",
+      "year": 0,
+      "name_path": "江苏省/盐城市/盐都区/秦南镇"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "code": "220184001",
+      "name": "河南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/河南街道"
+    },
+    {
+      "code": "220184002",
+      "name": "河北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/河北街道"
+    },
+    {
+      "code": "220184003",
+      "name": "东三街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/东三街道"
+    },
+    {
+      "code": "220184004",
+      "name": "岭东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/岭东街道"
+    },
+    {
+      "code": "220184005",
+      "name": "铁北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/铁北街道"
+    },
+    {
+      "code": "220184006",
+      "name": "岭西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/岭西街道"
+    },
+    {
+      "code": "220184007",
+      "name": "南崴子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/南崴子街道"
+    },
+    {
+      "code": "220184008",
+      "name": "刘房子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/刘房子街道"
+    },
+    {
+      "code": "220184009",
+      "name": "苇子沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/苇子沟街道"
+    },
+    {
+      "code": "220184010",
+      "name": "环岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/环岭街道"
+    },
+    {
+      "code": "220184100",
+      "name": "二十家子满族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/二十家子满族镇"
+    },
+    {
+      "code": "220184101",
+      "name": "黑林子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/黑林子镇"
+    },
+    {
+      "code": "220184102",
+      "name": "陶家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/陶家屯镇"
+    },
+    {
+      "code": "220184103",
+      "name": "范家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/范家屯镇"
+    },
+    {
+      "code": "220184104",
+      "name": "响水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/响水镇"
+    },
+    {
+      "code": "220184105",
+      "name": "大岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/大岭镇"
+    },
+    {
+      "code": "220184106",
+      "name": "怀德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/怀德镇"
+    },
+    {
+      "code": "220184107",
+      "name": "双城堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/双城堡镇"
+    },
+    {
+      "code": "220184108",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/双龙镇"
+    },
+    {
+      "code": "220184109",
+      "name": "杨大城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/杨大城子镇"
+    },
+    {
+      "code": "220184110",
+      "name": "毛城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/毛城子镇"
+    },
+    {
+      "code": "220184111",
+      "name": "玻璃城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/玻璃城子镇"
+    },
+    {
+      "code": "220184112",
+      "name": "朝阳坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/朝阳坡镇"
+    },
+    {
+      "code": "220184113",
+      "name": "大榆树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/大榆树镇"
+    },
+    {
+      "code": "220184114",
+      "name": "秦家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/秦家屯镇"
+    },
+    {
+      "code": "220184115",
+      "name": "八屋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/八屋镇"
+    },
+    {
+      "code": "220184116",
+      "name": "十屋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/十屋镇"
+    },
+    {
+      "code": "220184117",
+      "name": "桑树台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/桑树台镇"
+    },
+    {
+      "code": "220184200",
+      "name": "龙山满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/龙山满族乡"
+    },
+    {
+      "code": "220184201",
+      "name": "永发乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220184",
+      "year": 0,
+      "name_path": "吉林省/长春市/公主岭市/永发乡"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "530326001",
+      "name": "金钟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/金钟街道"
+    },
+    {
+      "code": "530326002",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/古城街道"
+    },
+    {
+      "code": "530326003",
+      "name": "宝云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/宝云街道"
+    },
+    {
+      "code": "530326007",
+      "name": "钟屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/钟屏街道"
+    },
+    {
+      "code": "530326008",
+      "name": "以礼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/以礼街道"
+    },
+    {
+      "code": "530326101",
+      "name": "娜姑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/娜姑镇"
+    },
+    {
+      "code": "530326102",
+      "name": "迤车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/迤车镇"
+    },
+    {
+      "code": "530326104",
+      "name": "矿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/矿山镇"
+    },
+    {
+      "code": "530326105",
+      "name": "者海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/者海镇"
+    },
+    {
+      "code": "530326106",
+      "name": "待补镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/待补镇"
+    },
+    {
+      "code": "530326107",
+      "name": "乐业镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/乐业镇"
+    },
+    {
+      "code": "530326108",
+      "name": "大井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/大井镇"
+    },
+    {
+      "code": "530326200",
+      "name": "纸厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/纸厂乡"
+    },
+    {
+      "code": "530326202",
+      "name": "马路乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/马路乡"
+    },
+    {
+      "code": "530326203",
+      "name": "火红乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/火红乡"
+    },
+    {
+      "code": "530326206",
+      "name": "新街回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/新街回族乡"
+    },
+    {
+      "code": "530326208",
+      "name": "雨碌乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/雨碌乡"
+    },
+    {
+      "code": "530326209",
+      "name": "大海乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/大海乡"
+    },
+    {
+      "code": "530326210",
+      "name": "鲁纳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/鲁纳乡"
+    },
+    {
+      "code": "530326211",
+      "name": "老厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/老厂乡"
+    },
+    {
+      "code": "530326212",
+      "name": "上村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/上村乡"
+    },
+    {
+      "code": "530326213",
+      "name": "五星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/五星乡"
+    },
+    {
+      "code": "530326214",
+      "name": "驾车乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/驾车乡"
+    },
+    {
+      "code": "530326215",
+      "name": "大桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/大桥乡"
+    },
+    {
+      "code": "530326216",
+      "name": "田坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530326",
+      "year": 0,
+      "name_path": "云南省/曲靖市/会泽县/田坝乡"
+    }
+  ]
+}

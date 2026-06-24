@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "450821001",
+      "name": "平南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/平南街道"
+    },
+    {
+      "code": "450821002",
+      "name": "上渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/上渡街道"
+    },
+    {
+      "code": "450821101",
+      "name": "平山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/平山镇"
+    },
+    {
+      "code": "450821102",
+      "name": "寺面镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/寺面镇"
+    },
+    {
+      "code": "450821103",
+      "name": "六陈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/六陈镇"
+    },
+    {
+      "code": "450821104",
+      "name": "大新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/大新镇"
+    },
+    {
+      "code": "450821105",
+      "name": "大安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/大安镇"
+    },
+    {
+      "code": "450821106",
+      "name": "武林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/武林镇"
+    },
+    {
+      "code": "450821107",
+      "name": "大坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/大坡镇"
+    },
+    {
+      "code": "450821108",
+      "name": "大洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/大洲镇"
+    },
+    {
+      "code": "450821109",
+      "name": "镇隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/镇隆镇"
+    },
+    {
+      "code": "450821112",
+      "name": "安怀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/安怀镇"
+    },
+    {
+      "code": "450821113",
+      "name": "丹竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/丹竹镇"
+    },
+    {
+      "code": "450821114",
+      "name": "官成镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/官成镇"
+    },
+    {
+      "code": "450821115",
+      "name": "思旺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/思旺镇"
+    },
+    {
+      "code": "450821116",
+      "name": "大鹏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/大鹏镇"
+    },
+    {
+      "code": "450821117",
+      "name": "同和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/同和镇"
+    },
+    {
+      "code": "450821118",
+      "name": "东华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/东华镇"
+    },
+    {
+      "code": "450821202",
+      "name": "思界乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/思界乡"
+    },
+    {
+      "code": "450821203",
+      "name": "国安瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/国安瑶族乡"
+    },
+    {
+      "code": "450821204",
+      "name": "马练瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450821",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/平南县/马练瑶族乡"
+    }
+  ]
+}

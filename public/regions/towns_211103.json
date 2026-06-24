@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "211103001",
+      "name": "振兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/振兴街道"
+    },
+    {
+      "code": "211103002",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/兴隆街道"
+    },
+    {
+      "code": "211103003",
+      "name": "渤海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/渤海街道"
+    },
+    {
+      "code": "211103004",
+      "name": "新工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/新工街道"
+    },
+    {
+      "code": "211103007",
+      "name": "曙光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/曙光街道"
+    },
+    {
+      "code": "211103008",
+      "name": "欢喜岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/欢喜岭街道"
+    },
+    {
+      "code": "211103013",
+      "name": "沈采街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/沈采街道"
+    },
+    {
+      "code": "211103016",
+      "name": "创新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/创新街道"
+    },
+    {
+      "code": "211103017",
+      "name": "兴盛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/兴盛街道"
+    },
+    {
+      "code": "211103018",
+      "name": "兴海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/兴海街道"
+    },
+    {
+      "code": "211103019",
+      "name": "东郭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/东郭街道"
+    },
+    {
+      "code": "211103020",
+      "name": "惠宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211103",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/兴隆台区/惠宾街道"
+    }
+  ]
+}

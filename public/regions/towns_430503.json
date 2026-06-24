@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "430503001",
+      "name": "中心路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/中心路街道"
+    },
+    {
+      "code": "430503002",
+      "name": "红旗路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/红旗路街道"
+    },
+    {
+      "code": "430503003",
+      "name": "城北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/城北路街道"
+    },
+    {
+      "code": "430503004",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/城西街道"
+    },
+    {
+      "code": "430503005",
+      "name": "翠园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/翠园街道"
+    },
+    {
+      "code": "430503006",
+      "name": "百春园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/百春园街道"
+    },
+    {
+      "code": "430503007",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/城南街道"
+    },
+    {
+      "code": "430503008",
+      "name": "火车南站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/火车南站街道"
+    },
+    {
+      "code": "430503009",
+      "name": "学院路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/学院路街道"
+    },
+    {
+      "code": "430503010",
+      "name": "雨溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/雨溪街道"
+    },
+    {
+      "code": "430503011",
+      "name": "檀江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/檀江街道"
+    },
+    {
+      "code": "430503101",
+      "name": "罗市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/罗市镇"
+    },
+    {
+      "code": "430503203",
+      "name": "蔡锷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/蔡锷乡"
+    },
+    {
+      "code": "430503204",
+      "name": "板桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430503",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/大祥区/板桥乡"
+    }
+  ]
+}

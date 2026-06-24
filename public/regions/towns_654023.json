@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "654023100",
+      "name": "水定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/水定镇"
+    },
+    {
+      "code": "654023101",
+      "name": "清水河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/清水河镇"
+    },
+    {
+      "code": "654023102",
+      "name": "芦草沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/芦草沟镇"
+    },
+    {
+      "code": "654023103",
+      "name": "惠远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/惠远镇"
+    },
+    {
+      "code": "654023104",
+      "name": "萨尔布拉克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/萨尔布拉克镇"
+    },
+    {
+      "code": "654023105",
+      "name": "兰干镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/兰干镇"
+    },
+    {
+      "code": "654023106",
+      "name": "大西沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/大西沟镇"
+    },
+    {
+      "code": "654023201",
+      "name": "三道河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/三道河乡"
+    },
+    {
+      "code": "654023204",
+      "name": "三宫回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654023",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/伊犁哈萨克自治州/霍城县/三宫回族乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "211302003",
+      "name": "前进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/前进街道"
+    },
+    {
+      "code": "211302004",
+      "name": "凌河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/凌河街道"
+    },
+    {
+      "code": "211302005",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/光明街道"
+    },
+    {
+      "code": "211302006",
+      "name": "凌凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/凌凤街道"
+    },
+    {
+      "code": "211302007",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/龙山街道"
+    },
+    {
+      "code": "211302008",
+      "name": "站南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/站南街道"
+    },
+    {
+      "code": "211302009",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/红旗街道"
+    },
+    {
+      "code": "211302010",
+      "name": "燕北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/燕北街道"
+    },
+    {
+      "code": "211302012",
+      "name": "双塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/双塔街道"
+    },
+    {
+      "code": "211302111",
+      "name": "桃花吐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/桃花吐镇"
+    },
+    {
+      "code": "211302113",
+      "name": "他拉皋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/他拉皋镇"
+    },
+    {
+      "code": "211302114",
+      "name": "孙家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/孙家湾镇"
+    },
+    {
+      "code": "211302212",
+      "name": "长宝营子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211302",
+      "year": 0,
+      "name_path": "辽宁省/朝阳市/双塔区/长宝营子乡"
+    }
+  ]
+}

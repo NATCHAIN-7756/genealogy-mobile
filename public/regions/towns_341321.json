@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "341321102",
+      "name": "李庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/李庄镇"
+    },
+    {
+      "code": "341321103",
+      "name": "唐寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/唐寨镇"
+    },
+    {
+      "code": "341321104",
+      "name": "葛集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/葛集镇"
+    },
+    {
+      "code": "341321107",
+      "name": "官庄坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/官庄坝镇"
+    },
+    {
+      "code": "341321108",
+      "name": "曹庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/曹庄镇"
+    },
+    {
+      "code": "341321110",
+      "name": "朱楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/朱楼镇"
+    },
+    {
+      "code": "341321112",
+      "name": "程庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/程庄镇"
+    },
+    {
+      "code": "341321113",
+      "name": "良梨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/良梨镇"
+    },
+    {
+      "code": "341321114",
+      "name": "砀城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/砀城镇"
+    },
+    {
+      "code": "341321115",
+      "name": "玄庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/玄庙镇"
+    },
+    {
+      "code": "341321116",
+      "name": "周寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/周寨镇"
+    },
+    {
+      "code": "341321117",
+      "name": "关帝庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/关帝庙镇"
+    },
+    {
+      "code": "341321118",
+      "name": "赵屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341321",
+      "year": 0,
+      "name_path": "安徽省/宿州市/砀山县/赵屯镇"
+    }
+  ]
+}

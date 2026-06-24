@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "510402",
+      "name": "东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510400",
+      "year": 0,
+      "name_path": "全国/四川省/攀枝花市/东区"
+    },
+    {
+      "code": "510403",
+      "name": "西区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510400",
+      "year": 0,
+      "name_path": "全国/四川省/攀枝花市/西区"
+    },
+    {
+      "code": "510411",
+      "name": "仁和区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510400",
+      "year": 0,
+      "name_path": "全国/四川省/攀枝花市/仁和区"
+    },
+    {
+      "code": "510421",
+      "name": "米易县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510400",
+      "year": 0,
+      "name_path": "全国/四川省/攀枝花市/米易县"
+    },
+    {
+      "code": "510422",
+      "name": "盐边县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510400",
+      "year": 0,
+      "name_path": "全国/四川省/攀枝花市/盐边县"
+    }
+  ]
+}

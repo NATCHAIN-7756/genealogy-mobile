@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "code": "321322001",
+      "name": "沭城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/沭城街道"
+    },
+    {
+      "code": "321322002",
+      "name": "南湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/南湖街道"
+    },
+    {
+      "code": "321322003",
+      "name": "梦溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/梦溪街道"
+    },
+    {
+      "code": "321322004",
+      "name": "十字街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/十字街道"
+    },
+    {
+      "code": "321322006",
+      "name": "七雄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/七雄街道"
+    },
+    {
+      "code": "321322007",
+      "name": "章集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/章集街道"
+    },
+    {
+      "code": "321322101",
+      "name": "陇集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/陇集镇"
+    },
+    {
+      "code": "321322102",
+      "name": "胡集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/胡集镇"
+    },
+    {
+      "code": "321322105",
+      "name": "马厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/马厂镇"
+    },
+    {
+      "code": "321322106",
+      "name": "沂涛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/沂涛镇"
+    },
+    {
+      "code": "321322107",
+      "name": "庙头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/庙头镇"
+    },
+    {
+      "code": "321322109",
+      "name": "华冲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/华冲镇"
+    },
+    {
+      "code": "321322111",
+      "name": "悦来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/悦来镇"
+    },
+    {
+      "code": "321322112",
+      "name": "刘集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/刘集镇"
+    },
+    {
+      "code": "321322115",
+      "name": "扎下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/扎下镇"
+    },
+    {
+      "code": "321322116",
+      "name": "颜集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/颜集镇"
+    },
+    {
+      "code": "321322117",
+      "name": "潼阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/潼阳镇"
+    },
+    {
+      "code": "321322118",
+      "name": "龙庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/龙庙镇"
+    },
+    {
+      "code": "321322124",
+      "name": "新河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/新河镇"
+    },
+    {
+      "code": "321322126",
+      "name": "吴集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/吴集镇"
+    },
+    {
+      "code": "321322128",
+      "name": "青伊湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/青伊湖镇"
+    },
+    {
+      "code": "321322129",
+      "name": "钱集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/钱集镇"
+    },
+    {
+      "code": "321322130",
+      "name": "塘沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/塘沟镇"
+    },
+    {
+      "code": "321322131",
+      "name": "韩山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/韩山镇"
+    },
+    {
+      "code": "321322132",
+      "name": "桑墟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/桑墟镇"
+    },
+    {
+      "code": "321322133",
+      "name": "李恒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/李恒镇"
+    },
+    {
+      "code": "321322134",
+      "name": "高墟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/高墟镇"
+    },
+    {
+      "code": "321322135",
+      "name": "耿圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/耿圩镇"
+    },
+    {
+      "code": "321322136",
+      "name": "贤官镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/贤官镇"
+    },
+    {
+      "code": "321322205",
+      "name": "西圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321322",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/沭阳县/西圩乡"
+    }
+  ]
+}

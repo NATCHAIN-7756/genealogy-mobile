@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "230622100",
+      "name": "肇源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/肇源镇"
+    },
+    {
+      "code": "230622101",
+      "name": "三站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/三站镇"
+    },
+    {
+      "code": "230622102",
+      "name": "二站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/二站镇"
+    },
+    {
+      "code": "230622103",
+      "name": "茂兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/茂兴镇"
+    },
+    {
+      "code": "230622104",
+      "name": "古龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/古龙镇"
+    },
+    {
+      "code": "230622105",
+      "name": "新站镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/新站镇"
+    },
+    {
+      "code": "230622106",
+      "name": "头台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/头台镇"
+    },
+    {
+      "code": "230622107",
+      "name": "古恰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/古恰镇"
+    },
+    {
+      "code": "230622200",
+      "name": "福兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/福兴乡"
+    },
+    {
+      "code": "230622201",
+      "name": "薄荷台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/薄荷台乡"
+    },
+    {
+      "code": "230622203",
+      "name": "和平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/和平乡"
+    },
+    {
+      "code": "230622207",
+      "name": "超等蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/超等蒙古族乡"
+    },
+    {
+      "code": "230622208",
+      "name": "民意乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/民意乡"
+    },
+    {
+      "code": "230622210",
+      "name": "义顺蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/义顺蒙古族乡"
+    },
+    {
+      "code": "230622211",
+      "name": "浩德蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/浩德蒙古族乡"
+    },
+    {
+      "code": "230622212",
+      "name": "大兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230622",
+      "year": 0,
+      "name_path": "黑龙江省/大庆市/肇源县/大兴乡"
+    }
+  ]
+}

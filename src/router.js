@@ -1,10 +1,11 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 const routes = [
-  { path: '/login', name: 'Login', component: () => import('./views/Login.vue') },
+  { path: '/login', name: 'Login', component: () => import('./views/Login.vue'), meta: { public: true } },
   { path: '/', name: 'Home', component: () => import('./views/Home.vue') },
   { path: '/family', name: 'Family', component: () => import('./views/FamilySelect.vue') },
   { path: '/family/:id', name: 'Genealogy', component: () => import('./views/Genealogy.vue') },
+  { path: '/family/:id/book', component: () => import('./views/GenealogyBook.vue') },
   { path: '/family/:id/preface', component: () => import('./views/Preface.vue') },
   { path: '/family/:id/legend', component: () => import('./views/Legend.vue') },
   { path: '/family/:id/overview', component: () => import('./views/Overview.vue') },
@@ -31,23 +32,50 @@ const routes = [
   { path: '/books', component: () => import('./views/Books.vue') },
   { path: '/books/:id', component: () => import('./views/BookReader.vue') },
   { path: '/profile', name: 'Profile', component: () => import('./views/Profile.vue') },
+  { path: '/userinfo', name: 'UserInfo', component: () => import('./views/UserInfo.vue') },
   { path: '/infocard', component: () => import('./views/InfoCard.vue') },
   { path: '/my-submissions', component: () => import('./views/MySubmissions.vue') },
   { path: '/my-submissions/:chapterId/new', component: () => import('./views/SubmissionEdit.vue') },
   { path: '/my-submissions/:chapterId/:itemId', component: () => import('./views/SubmissionDetail.vue') },
   { path: '/my-submissions/:chapterId/:itemId/edit', component: () => import('./views/SubmissionEdit.vue') },
-  { path: '/committee', component: () => import('./views/Committee.vue') },
-  { path: '/committee/members', component: () => import('./views/CommitteeMembers.vue') },
-  { path: '/committee/members/pending', component: () => import('./views/CommitteePending.vue') },
-  { path: '/committee/stories', component: () => import('./views/CommitteeStories.vue') },
-  { path: '/committee/photos', component: () => import('./views/CommitteePhotos.vue') },
-  { path: '/committee/events', component: () => import('./views/CommitteeEvents.vue') },
-  { path: '/committee/sponsors', component: () => import('./views/CommitteeSponsors.vue') }
+  { path: '/committee', component: () => import('./views/Committee.vue'), meta: { requiresRole: 'committee' } },
+  { path: '/committee/members', component: () => import('./views/CommitteeMembers.vue'), meta: { requiresRole: 'committee' } },
+  { path: '/committee/members/pending', component: () => import('./views/CommitteePending.vue'), meta: { requiresRole: 'committee' } },
+  { path: '/committee/stories', component: () => import('./views/CommitteeStories.vue'), meta: { requiresRole: 'committee' } },
+  { path: '/committee/photos', component: () => import('./views/CommitteePhotos.vue'), meta: { requiresRole: 'committee' } },
+  { path: '/committee/events', component: () => import('./views/CommitteeEvents.vue'), meta: { requiresRole: 'committee' } },
+  { path: '/committee/sponsors', component: () => import('./views/CommitteeSponsors.vue'), meta: { requiresRole: 'committee' } }
 ]
 
 const router = createRouter({
   history: createWebHistory('/m/'),
   routes
+})
+
+// 权限守卫
+router.beforeEach((to, from, next) => {
+  const token = localStorage.getItem('token')
+  const user = JSON.parse(localStorage.getItem('user') || '{}')
+  
+  // 公开页面直接放行
+  if (to.meta.public) {
+    next()
+    return
+  }
+  
+  // 未登录跳转登录页
+  if (!token) {
+    next('/login')
+    return
+  }
+  
+  // 需要特定角色的页面
+  if (to.meta.requiresRole === 'committee' && user.role !== 'committee' && user.role !== 'admin') {
+    next('/')
+    return
+  }
+  
+  next()
 })
 
 export default router

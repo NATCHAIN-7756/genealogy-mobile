@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "511403001",
+      "name": "凤鸣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/凤鸣街道"
+    },
+    {
+      "code": "511403003",
+      "name": "青龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/青龙街道"
+    },
+    {
+      "code": "511403004",
+      "name": "观音街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/观音街道"
+    },
+    {
+      "code": "511403006",
+      "name": "谢家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/谢家街道"
+    },
+    {
+      "code": "511403007",
+      "name": "江口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/江口街道"
+    },
+    {
+      "code": "511403103",
+      "name": "公义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/公义镇"
+    },
+    {
+      "code": "511403107",
+      "name": "黄丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/黄丰镇"
+    },
+    {
+      "code": "511403110",
+      "name": "锦江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511403",
+      "year": 0,
+      "name_path": "四川省/眉山市/彭山区/锦江镇"
+    }
+  ]
+}

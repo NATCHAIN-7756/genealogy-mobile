@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "421303",
+      "name": "曾都区",
+      "level": 3,
+      "type": null,
+      "parent_code": "421300",
+      "year": 0,
+      "name_path": "全国/湖北省/随州市/曾都区"
+    },
+    {
+      "code": "421321",
+      "name": "随县",
+      "level": 3,
+      "type": null,
+      "parent_code": "421300",
+      "year": 0,
+      "name_path": "全国/湖北省/随州市/随县"
+    },
+    {
+      "code": "421381",
+      "name": "广水市",
+      "level": 3,
+      "type": null,
+      "parent_code": "421300",
+      "year": 0,
+      "name_path": "全国/湖北省/随州市/广水市"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "150721100",
+      "name": "那吉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/那吉镇"
+    },
+    {
+      "code": "150721102",
+      "name": "六合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/六合镇"
+    },
+    {
+      "code": "150721104",
+      "name": "亚东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/亚东镇"
+    },
+    {
+      "code": "150721105",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/复兴镇"
+    },
+    {
+      "code": "150721106",
+      "name": "霍尔奇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/霍尔奇镇"
+    },
+    {
+      "code": "150721108",
+      "name": "向阳峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/向阳峪镇"
+    },
+    {
+      "code": "150721109",
+      "name": "三岔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/三岔河镇"
+    },
+    {
+      "code": "150721110",
+      "name": "兴安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/兴安镇"
+    },
+    {
+      "code": "150721200",
+      "name": "得力其尔鄂温克民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/得力其尔鄂温克民族乡"
+    },
+    {
+      "code": "150721201",
+      "name": "查巴奇鄂温克民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/查巴奇鄂温克民族乡"
+    },
+    {
+      "code": "150721202",
+      "name": "音河达斡尔鄂温克民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/音河达斡尔鄂温克民族乡"
+    },
+    {
+      "code": "150721203",
+      "name": "新发朝鲜民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150721",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/阿荣旗/新发朝鲜民族乡"
+    }
+  ]
+}

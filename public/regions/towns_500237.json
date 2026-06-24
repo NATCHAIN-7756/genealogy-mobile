@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "500237001",
+      "name": "高唐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/高唐街道"
+    },
+    {
+      "code": "500237002",
+      "name": "龙门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/龙门街道"
+    },
+    {
+      "code": "500237100",
+      "name": "巫峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/巫峡镇"
+    },
+    {
+      "code": "500237101",
+      "name": "庙宇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/庙宇镇"
+    },
+    {
+      "code": "500237102",
+      "name": "大昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/大昌镇"
+    },
+    {
+      "code": "500237103",
+      "name": "福田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/福田镇"
+    },
+    {
+      "code": "500237104",
+      "name": "龙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/龙溪镇"
+    },
+    {
+      "code": "500237105",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/双龙镇"
+    },
+    {
+      "code": "500237106",
+      "name": "官阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/官阳镇"
+    },
+    {
+      "code": "500237107",
+      "name": "骡坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/骡坪镇"
+    },
+    {
+      "code": "500237108",
+      "name": "抱龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/抱龙镇"
+    },
+    {
+      "code": "500237109",
+      "name": "官渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/官渡镇"
+    },
+    {
+      "code": "500237110",
+      "name": "铜鼓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/铜鼓镇"
+    },
+    {
+      "code": "500237200",
+      "name": "红椿土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/红椿土家族乡"
+    },
+    {
+      "code": "500237207",
+      "name": "两坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/两坪乡"
+    },
+    {
+      "code": "500237208",
+      "name": "曲尺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/曲尺乡"
+    },
+    {
+      "code": "500237210",
+      "name": "建平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/建平乡"
+    },
+    {
+      "code": "500237211",
+      "name": "大溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/大溪乡"
+    },
+    {
+      "code": "500237214",
+      "name": "金坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/金坪乡"
+    },
+    {
+      "code": "500237216",
+      "name": "平河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/平河乡"
+    },
+    {
+      "code": "500237219",
+      "name": "当阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/当阳乡"
+    },
+    {
+      "code": "500237222",
+      "name": "竹贤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/竹贤乡"
+    },
+    {
+      "code": "500237225",
+      "name": "三溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/三溪乡"
+    },
+    {
+      "code": "500237227",
+      "name": "培石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/培石乡"
+    },
+    {
+      "code": "500237229",
+      "name": "笃坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/笃坪乡"
+    },
+    {
+      "code": "500237231",
+      "name": "邓家土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500237",
+      "year": 0,
+      "name_path": "重庆市/巫山县/邓家土家族乡"
+    }
+  ]
+}

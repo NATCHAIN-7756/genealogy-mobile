@@ -340,8 +340,33 @@ function onBloodTypeSelect(action) {
   saveInfo()
 }
 
-function saveInfo() {
+async function saveInfo() {
+  // 保存到localStorage
   localStorage.setItem('user_info_card', JSON.stringify(info.value))
+  
+  // 保存基本信息到API
+  const token = localStorage.getItem('token')
+  if (token && (currentField.value.key === 'name' || currentField.value.key === 'gender' || currentField.value.key === 'birth_date')) {
+    try {
+      const data = {
+        name: info.value.name,
+        gender: info.value.gender === '男' ? 'male' : info.value.gender === '女' ? 'female' : 'male',
+        birth_date: info.value.birth_date
+      }
+      await api.put('/auth/info', data, {
+        headers: { Authorization: 'Bearer ' + token }
+      })
+      // 更新localStorage中的user，确保Profile页面数据一致
+      const user = JSON.parse(localStorage.getItem('user') || '{}')
+      user.name = info.value.name
+      user.gender = info.value.gender === '男' ? 'male' : info.value.gender === '女' ? 'female' : ''
+      user.birth_date = info.value.birth_date
+      user.info_completed = true
+      localStorage.setItem('user', JSON.stringify(user))
+    } catch (e) {
+      console.error('保存到API失败', e)
+    }
+  }
 }
 
 async function syncToFamily() {
@@ -418,9 +443,46 @@ function onShareSelect(option, index) {
 }
 
 async function loadInfo() {
+  const token = localStorage.getItem('token')
+  console.log('=== InfoCard loadInfo ===')
+  console.log('token:', token ? 'exists' : 'null')
+  
+  // 1. 先清空基本信息（防止显示旧数据）
+  info.value.name = ''
+  info.value.gender = ''
+  info.value.birth_date = ''
+  info.value.phone = ''
+  
+  // 2. 从localStorage加载详细信息（详细信息不冲突）
   const saved = localStorage.getItem('user_info_card')
+  console.log('localStorage user_info_card:', saved)
   if (saved) {
-    info.value = { ...info.value, ...JSON.parse(saved) }
+    const savedInfo = JSON.parse(saved)
+    // 只加载详细字段，不加载基本字段
+    const detailFields = ['birth_place', 'hometown', 'ethnicity', 'generation', 'blood_type', 'genetic_disease', 'avatar']
+    detailFields.forEach(key => {
+      if (savedInfo[key]) info.value[key] = savedInfo[key]
+    })
+  }
+  
+  // 3. 从API加载基本信息（API优先级更高，会覆盖localStorage）
+  if (token) {
+    try {
+      console.log('Fetching from API...')
+      const res = await api.get('/...')
+      console.log('API response:', res.data)
+      // 基本信息从API加载，确保与Profile页面一致
+      info.value.name = res.data.name || ''
+      info.value.gender = res.data.gender === 'male' ? '男' : res.data.gender === 'female' ? '女' : ''
+      info.value.birth_date = res.data.birth_date || ''
+      info.value.phone = res.data.phone || ''
+      // 如果API有avatar且localStorage没有，才使用API的
+      if (!info.value.avatar && res.data.avatar) {
+        info.value.avatar = res.data.avatar
+      }
+    } catch (e) {
+      console.error('加载用户信息失败', e)
+    }
   }
   
   try {
@@ -436,6 +498,17 @@ async function loadInfo() {
 }
 
 onMounted(() => {
+  // 清理旧的localStorage数据（可能包含错误的姓名）
+  const saved = localStorage.getItem('user_info_card')
+  if (saved) {
+    const savedInfo = JSON.parse(saved)
+    // 移除可能不一致的基本字段，让API重新加载
+    delete savedInfo.name
+    delete savedInfo.gender
+    delete savedInfo.birth_date
+    delete savedInfo.phone
+    localStorage.setItem('user_info_card', JSON.stringify(savedInfo))
+  }
   loadInfo()
 })
 </script>

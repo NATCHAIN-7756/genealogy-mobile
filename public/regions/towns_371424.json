@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "371424001",
+      "name": "临盘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/临盘街道"
+    },
+    {
+      "code": "371424002",
+      "name": "邢侗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/邢侗街道"
+    },
+    {
+      "code": "371424003",
+      "name": "恒源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/恒源街道"
+    },
+    {
+      "code": "371424100",
+      "name": "临邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/临邑镇"
+    },
+    {
+      "code": "371424102",
+      "name": "临南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/临南镇"
+    },
+    {
+      "code": "371424103",
+      "name": "德平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/德平镇"
+    },
+    {
+      "code": "371424104",
+      "name": "林子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/林子镇"
+    },
+    {
+      "code": "371424105",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/兴隆镇"
+    },
+    {
+      "code": "371424106",
+      "name": "孟寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/孟寺镇"
+    },
+    {
+      "code": "371424107",
+      "name": "翟家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/翟家镇"
+    },
+    {
+      "code": "371424108",
+      "name": "理合务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/理合务镇"
+    },
+    {
+      "code": "371424200",
+      "name": "宿安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371424",
+      "year": 0,
+      "name_path": "山东省/德州市/临邑县/宿安乡"
+    }
+  ]
+}

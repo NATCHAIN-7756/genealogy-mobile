@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "340202001",
+      "name": "张家山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/张家山街道"
+    },
+    {
+      "code": "340202002",
+      "name": "赭麓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/赭麓街道"
+    },
+    {
+      "code": "340202003",
+      "name": "范罗山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/范罗山街道"
+    },
+    {
+      "code": "340202005",
+      "name": "赭山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/赭山街道"
+    },
+    {
+      "code": "340202006",
+      "name": "弋矶山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/弋矶山街道"
+    },
+    {
+      "code": "340202007",
+      "name": "汀棠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/汀棠街道"
+    },
+    {
+      "code": "340202008",
+      "name": "天门山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/天门山街道"
+    },
+    {
+      "code": "340202010",
+      "name": "大砻坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/大砻坊街道"
+    },
+    {
+      "code": "340202011",
+      "name": "荆山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/荆山街道"
+    },
+    {
+      "code": "340202012",
+      "name": "方村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340202",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/镜湖区/方村街道"
+    }
+  ]
+}

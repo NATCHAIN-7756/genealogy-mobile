@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "330106002",
+      "name": "北山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/北山街道"
+    },
+    {
+      "code": "330106003",
+      "name": "灵隐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/灵隐街道"
+    },
+    {
+      "code": "330106004",
+      "name": "西溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/西溪街道"
+    },
+    {
+      "code": "330106005",
+      "name": "翠苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/翠苑街道"
+    },
+    {
+      "code": "330106006",
+      "name": "文新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/文新街道"
+    },
+    {
+      "code": "330106011",
+      "name": "转塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/转塘街道"
+    },
+    {
+      "code": "330106012",
+      "name": "蒋村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/蒋村街道"
+    },
+    {
+      "code": "330106013",
+      "name": "留下街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/留下街道"
+    },
+    {
+      "code": "330106014",
+      "name": "古荡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/古荡街道"
+    },
+    {
+      "code": "330106015",
+      "name": "西湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/西湖街道"
+    },
+    {
+      "code": "330106109",
+      "name": "三墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/三墩镇"
+    },
+    {
+      "code": "330106110",
+      "name": "双浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330106",
+      "year": 0,
+      "name_path": "浙江省/杭州市/西湖区/双浦镇"
+    }
+  ]
+}

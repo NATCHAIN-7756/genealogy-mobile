@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140681001",
+      "name": "云西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/云西街道"
+    },
+    {
+      "code": "140681002",
+      "name": "云中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/云中街道"
+    },
+    {
+      "code": "140681003",
+      "name": "云东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/云东街道"
+    },
+    {
+      "code": "140681101",
+      "name": "吴家窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/吴家窑镇"
+    },
+    {
+      "code": "140681102",
+      "name": "金沙滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/金沙滩镇"
+    },
+    {
+      "code": "140681103",
+      "name": "毛家皂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/毛家皂镇"
+    },
+    {
+      "code": "140681200",
+      "name": "何家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/何家堡乡"
+    },
+    {
+      "code": "140681201",
+      "name": "新家园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/新家园乡"
+    },
+    {
+      "code": "140681202",
+      "name": "亲和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/亲和乡"
+    },
+    {
+      "code": "140681203",
+      "name": "海北头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/海北头乡"
+    },
+    {
+      "code": "140681205",
+      "name": "河头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140681",
+      "year": 0,
+      "name_path": "山西省/朔州市/怀仁市/河头乡"
+    }
+  ]
+}

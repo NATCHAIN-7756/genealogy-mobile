@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "110117001",
+      "name": "滨河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/滨河街道"
+    },
+    {
+      "code": "110117002",
+      "name": "兴谷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/兴谷街道"
+    },
+    {
+      "code": "110117003",
+      "name": "平谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/平谷镇"
+    },
+    {
+      "code": "110117004",
+      "name": "峪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/峪口镇"
+    },
+    {
+      "code": "110117005",
+      "name": "马坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/马坊镇"
+    },
+    {
+      "code": "110117006",
+      "name": "金海湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/金海湖镇"
+    },
+    {
+      "code": "110117101",
+      "name": "东高村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/东高村镇"
+    },
+    {
+      "code": "110117102",
+      "name": "山东庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/山东庄镇"
+    },
+    {
+      "code": "110117104",
+      "name": "南独乐河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/南独乐河镇"
+    },
+    {
+      "code": "110117105",
+      "name": "大华山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/大华山镇"
+    },
+    {
+      "code": "110117106",
+      "name": "夏各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/夏各庄镇"
+    },
+    {
+      "code": "110117108",
+      "name": "马昌营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/马昌营镇"
+    },
+    {
+      "code": "110117110",
+      "name": "王辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/王辛庄镇"
+    },
+    {
+      "code": "110117111",
+      "name": "大兴庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/大兴庄镇"
+    },
+    {
+      "code": "110117112",
+      "name": "刘家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/刘家店镇"
+    },
+    {
+      "code": "110117114",
+      "name": "镇罗营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/镇罗营镇"
+    },
+    {
+      "code": "110117213",
+      "name": "黄松峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/黄松峪乡"
+    },
+    {
+      "code": "110117214",
+      "name": "熊儿寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "110117",
+      "year": 0,
+      "name_path": "北京市/平谷区/熊儿寨乡"
+    }
+  ]
+}

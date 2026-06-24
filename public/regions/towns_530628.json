@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "530628001",
+      "name": "角奎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/角奎街道"
+    },
+    {
+      "code": "530628002",
+      "name": "发界街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/发界街道"
+    },
+    {
+      "code": "530628101",
+      "name": "洛泽河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/洛泽河镇"
+    },
+    {
+      "code": "530628102",
+      "name": "牛街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/牛街镇"
+    },
+    {
+      "code": "530628103",
+      "name": "小草坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/小草坝镇"
+    },
+    {
+      "code": "530628104",
+      "name": "龙安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/龙安镇"
+    },
+    {
+      "code": "530628105",
+      "name": "龙海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/龙海镇"
+    },
+    {
+      "code": "530628106",
+      "name": "荞山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/荞山镇"
+    },
+    {
+      "code": "530628107",
+      "name": "钟鸣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/钟鸣镇"
+    },
+    {
+      "code": "530628108",
+      "name": "海子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/海子镇"
+    },
+    {
+      "code": "530628109",
+      "name": "两河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/两河镇"
+    },
+    {
+      "code": "530628202",
+      "name": "龙街苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/龙街苗族彝族乡"
+    },
+    {
+      "code": "530628203",
+      "name": "奎香苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/奎香苗族彝族乡"
+    },
+    {
+      "code": "530628204",
+      "name": "树林彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/树林彝族苗族乡"
+    },
+    {
+      "code": "530628213",
+      "name": "柳溪苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/柳溪苗族乡"
+    },
+    {
+      "code": "530628214",
+      "name": "洛旺苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530628",
+      "year": 0,
+      "name_path": "云南省/昭通市/彝良县/洛旺苗族乡"
+    }
+  ]
+}

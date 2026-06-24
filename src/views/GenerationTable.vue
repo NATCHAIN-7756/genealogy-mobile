@@ -47,17 +47,17 @@
         <div class="example-item">
           <span class="example-gen">第15代</span>
           <span class="example-char">{{ generations[14] || '明' }}</span>
-          <span class="example-name">→ 张{{ generations[14] || '明' }}华</span>
+          <span class="example-name">→ {{ family.surname || '张' }}{{ generations[14] || '明' }}华</span>
         </div>
         <div class="example-item">
           <span class="example-gen">第16代</span>
           <span class="example-char">{{ generations[15] || '德' }}</span>
-          <span class="example-name">→ 张{{ generations[15] || '德' }}强</span>
+          <span class="example-name">→ {{ family.surname || '张' }}{{ generations[15] || '德' }}强</span>
         </div>
         <div class="example-item">
           <span class="example-gen">第17代</span>
           <span class="example-char">{{ generations[16] || '传' }}</span>
-          <span class="example-name">→ 张{{ generations[16] || '传' }}伟</span>
+          <span class="example-name">→ {{ family.surname || '张' }}{{ generations[16] || '传' }}伟</span>
         </div>
       </div>
     </van-cell-group>
@@ -71,80 +71,129 @@
           type="textarea"
           rows="8"
           label="字辈"
-          placeholder="每行一个字辈，如：&#10;大&#10;德&#10;传&#10;家..."
+          placeholder="每行一个字辈，或直接输入连续字符如：大德传家永..."
         />
-        <van-field v-model="desc" type="textarea" rows="3" label="说明" placeholder="字辈说明" />
+        <div class="tips">
+          <van-notice-bar left-icon="info-o" background="#f0f9ff" color="#1989fa">
+            提示：输入连续字符或每行一个字，将自动同步到家族概述
+          </van-notice-bar>
+        </div>
         <div style="padding: 16px">
-          <van-button type="primary" block @click="saveGenerations">保存</van-button>
+          <van-button type="primary" block @click="saveGenerations" :loading="saving">保存</van-button>
         </div>
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <!-- 单字编辑弹窗 -->
+    <van-popup v-model:show="showCharEdit" position="center" round>
+      <van-cell-group inset style="margin: 16px; width: 280px">
+        <van-cell title="编辑字辈" />
+        <van-field v-model="editCharValue" label="字辈" placeholder="请输入字辈" />
+        <div style="padding: 16px">
+          <van-button type="primary" block @click="saveChar">确定</van-button>
+        </div>
+      </van-cell-group>
+    </van-popup>
+    
+    <AppTabbar />
   </div>
 </template>
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import { showToast } from 'vant'
+import { showToast, showSuccessToast } from 'vant'
+import api from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
 const familyId = route.params.id
 const activeTabbar = ref(1)
 const editMode = ref(false)
+const saving = ref(false)
 
-const generations = ref([
-  '三', '大', '明', '清', '传',
-  '家', '立', '业', '光', '宗',
-  '耀', '祖', '德', '泽', '明',
-  '德', '传', '家', '永', '昌',
-  '盛', '兴', '隆', '福', '寿'
-])
-
+const family = ref({})
+const generations = ref([])
+const generationText = ref('')
 const desc = ref('')
+const showCharEdit = ref(false)
+const editCharIndex = ref(0)
+const editCharValue = ref('')
 
-const generationText = computed({
-  get: () => generations.value.join('\n'),
-  set: (val) => {
-    generations.value = val.split('\n').filter(c => c.trim())
+const token = localStorage.getItem('token')
+
+function back() { router.back() }
+
+// 从generation_rule字符串解析字辈数组
+function parseGenerationRule(rule) {
+  if (!rule) return []
+  // 移除空格和换行
+  const chars = rule.replace(/[\s\n]/g, '')
+  return chars.split('')
+}
+
+// 将字辈数组转为字符串
+function arrayToRule(arr) {
+  return arr.join('')
+}
+
+async function loadFamily() {
+  try {
+    const res = await api.get('/...')
+    family.value = res.data
+    
+    // 从generation_rule解析字辈表
+    generations.value = parseGenerationRule(res.data.generation_rule)
+    generationText.value = res.data.generation_rule || ''
+    
+    console.log('加载家族信息:', res.data.name, '字辈:', res.data.generation_rule)
+  } catch (e) {
+    console.error('加载失败:', e)
+    showToast('加载失败')
   }
-})
-
-function back() {
-  router.back()
 }
 
 function editChar(index) {
-  const newChar = prompt('请输入字辈', generations.value[index])
-  if (newChar) {
-    generations.value[index] = newChar
+  editCharIndex.value = index
+  editCharValue.value = generations.value[index] || ''
+  showCharEdit.value = true
+}
+
+function saveChar() {
+  generations.value[editCharIndex.value] = editCharValue.value
+  generationText.value = arrayToRule(generations.value)
+  showCharEdit.value = false
+}
+
+async function saveGenerations() {
+  // 将文本转换为字辈数组
+  const text = generationText.value.replace(/[\s\n]/g, '')
+  generations.value = text.split('')
+  
+  saving.value = true
+  try {
+    // 保存到family.generation_rule
+    await api.put(`/families/${familyId}`, 
+      { generation_rule: text },
+      { headers: { Authorization: `Bearer ${token}` } }
+    )
+    
+    family.value.generation_rule = text
+    showSuccessToast('保存成功，已同步到家族概述')
+    editMode.value = false
+    
+    // 通知其他页面更新
+    localStorage.setItem('family_generation_updated', Date.now())
+  } catch (e) {
+    console.error('保存失败:', e)
+    showToast('保存失败')
+  } finally {
+    saving.value = false
   }
 }
 
-function saveGenerations() {
-  localStorage.setItem(`family_${familyId}_generations`, JSON.stringify(generations.value))
-  localStorage.setItem(`family_${familyId}_gen_desc`, desc.value)
-  showToast('已保存')
-  editMode.value = false
-}
-
-onMounted(() => {
-  const saved = localStorage.getItem(`family_${familyId}_generations`)
-  if (saved) {
-    generations.value = JSON.parse(saved)
-  }
-  const savedDesc = localStorage.getItem(`family_${familyId}_gen_desc`)
-  if (savedDesc) {
-    desc.value = savedDesc
-  }
-})
+onMounted(() => loadFamily())
 </script>
 
 <style scoped>
@@ -156,7 +205,7 @@ onMounted(() => {
 
 .generation-desc {
   font-size: 14px;
-  line-height: 1.8;
+  line-height: 1.6;
   color: #666;
 }
 
@@ -168,7 +217,6 @@ onMounted(() => {
 .generation-table-content {
   width: 100%;
   border-collapse: collapse;
-  font-size: 14px;
 }
 
 .generation-table-content th,
@@ -228,5 +276,9 @@ onMounted(() => {
 .example-name {
   font-size: 14px;
   color: #333;
+}
+
+.tips {
+  padding: 12px;
 }
 </style>

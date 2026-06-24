@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "152502001",
+      "name": "希日塔拉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/希日塔拉街道"
+    },
+    {
+      "code": "152502002",
+      "name": "宝力根街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/宝力根街道"
+    },
+    {
+      "code": "152502003",
+      "name": "杭盖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/杭盖街道"
+    },
+    {
+      "code": "152502004",
+      "name": "楚古兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/楚古兰街道"
+    },
+    {
+      "code": "152502005",
+      "name": "额尔敦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/额尔敦街道"
+    },
+    {
+      "code": "152502006",
+      "name": "南郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/南郊街道"
+    },
+    {
+      "code": "152502007",
+      "name": "巴彦锡勒街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/巴彦锡勒街道"
+    },
+    {
+      "code": "152502008",
+      "name": "巴彦查干街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/巴彦查干街道"
+    },
+    {
+      "code": "152502100",
+      "name": "阿尔善宝拉格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/阿尔善宝拉格镇"
+    },
+    {
+      "code": "152502200",
+      "name": "宝力根苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/宝力根苏木"
+    },
+    {
+      "code": "152502201",
+      "name": "朝克乌拉苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/朝克乌拉苏木"
+    },
+    {
+      "code": "152502202",
+      "name": "巴彦宝拉格苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152502",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/锡林浩特市/巴彦宝拉格苏木"
+    }
+  ]
+}

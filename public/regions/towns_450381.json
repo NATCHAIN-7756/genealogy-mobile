@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "450381100",
+      "name": "荔城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/荔城镇"
+    },
+    {
+      "code": "450381101",
+      "name": "东昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/东昌镇"
+    },
+    {
+      "code": "450381102",
+      "name": "新坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/新坪镇"
+    },
+    {
+      "code": "450381103",
+      "name": "杜莫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/杜莫镇"
+    },
+    {
+      "code": "450381104",
+      "name": "青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/青山镇"
+    },
+    {
+      "code": "450381105",
+      "name": "修仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/修仁镇"
+    },
+    {
+      "code": "450381106",
+      "name": "大塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/大塘镇"
+    },
+    {
+      "code": "450381107",
+      "name": "花篢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/花篢镇"
+    },
+    {
+      "code": "450381108",
+      "name": "双江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/双江镇"
+    },
+    {
+      "code": "450381109",
+      "name": "马岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/马岭镇"
+    },
+    {
+      "code": "450381200",
+      "name": "龙怀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/龙怀乡"
+    },
+    {
+      "code": "450381201",
+      "name": "茶城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/茶城乡"
+    },
+    {
+      "code": "450381202",
+      "name": "蒲芦瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450381",
+      "year": 0,
+      "name_path": "广西壮族自治区/桂林市/荔浦市/蒲芦瑶族乡"
+    }
+  ]
+}

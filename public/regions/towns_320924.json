@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "320924100",
+      "name": "合德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/合德镇"
+    },
+    {
+      "code": "320924101",
+      "name": "临海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/临海镇"
+    },
+    {
+      "code": "320924102",
+      "name": "千秋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/千秋镇"
+    },
+    {
+      "code": "320924104",
+      "name": "四明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/四明镇"
+    },
+    {
+      "code": "320924106",
+      "name": "海河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/海河镇"
+    },
+    {
+      "code": "320924108",
+      "name": "海通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/海通镇"
+    },
+    {
+      "code": "320924109",
+      "name": "兴桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/兴桥镇"
+    },
+    {
+      "code": "320924110",
+      "name": "新坍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/新坍镇"
+    },
+    {
+      "code": "320924111",
+      "name": "长荡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/长荡镇"
+    },
+    {
+      "code": "320924112",
+      "name": "盘湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/盘湾镇"
+    },
+    {
+      "code": "320924113",
+      "name": "特庸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/特庸镇"
+    },
+    {
+      "code": "320924114",
+      "name": "洋马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/洋马镇"
+    },
+    {
+      "code": "320924117",
+      "name": "黄沙港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320924",
+      "year": 0,
+      "name_path": "江苏省/盐城市/射阳县/黄沙港镇"
+    }
+  ]
+}

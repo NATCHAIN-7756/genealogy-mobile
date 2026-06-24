@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "140902001",
+      "name": "秀容街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/秀容街道"
+    },
+    {
+      "code": "140902002",
+      "name": "长征街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/长征街街道"
+    },
+    {
+      "code": "140902003",
+      "name": "新建路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/新建路街道"
+    },
+    {
+      "code": "140902004",
+      "name": "云中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/云中路街道"
+    },
+    {
+      "code": "140902005",
+      "name": "九原街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/九原街街道"
+    },
+    {
+      "code": "140902006",
+      "name": "旭来街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/旭来街街道"
+    },
+    {
+      "code": "140902007",
+      "name": "桥西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/桥西街街道"
+    },
+    {
+      "code": "140902008",
+      "name": "和平街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/和平街街道"
+    },
+    {
+      "code": "140902101",
+      "name": "奇村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/奇村镇"
+    },
+    {
+      "code": "140902102",
+      "name": "三交镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/三交镇"
+    },
+    {
+      "code": "140902103",
+      "name": "庄磨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/庄磨镇"
+    },
+    {
+      "code": "140902104",
+      "name": "豆罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/豆罗镇"
+    },
+    {
+      "code": "140902105",
+      "name": "董村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/董村镇"
+    },
+    {
+      "code": "140902106",
+      "name": "西张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/西张镇"
+    },
+    {
+      "code": "140902107",
+      "name": "忻口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/忻口镇"
+    },
+    {
+      "code": "140902108",
+      "name": "合索镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/合索镇"
+    },
+    {
+      "code": "140902206",
+      "name": "兰村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/兰村乡"
+    },
+    {
+      "code": "140902209",
+      "name": "东楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/东楼乡"
+    },
+    {
+      "code": "140902210",
+      "name": "北义井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140902",
+      "year": 0,
+      "name_path": "山西省/忻州市/忻府区/北义井乡"
+    }
+  ]
+}

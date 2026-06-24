@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "350702001",
+      "name": "梅山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/梅山街道"
+    },
+    {
+      "code": "350702002",
+      "name": "黄墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/黄墩街道"
+    },
+    {
+      "code": "350702003",
+      "name": "紫云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/紫云街道"
+    },
+    {
+      "code": "350702004",
+      "name": "四鹤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/四鹤街道"
+    },
+    {
+      "code": "350702005",
+      "name": "水南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/水南街道"
+    },
+    {
+      "code": "350702006",
+      "name": "水东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/水东街道"
+    },
+    {
+      "code": "350702100",
+      "name": "来舟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/来舟镇"
+    },
+    {
+      "code": "350702101",
+      "name": "樟湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/樟湖镇"
+    },
+    {
+      "code": "350702102",
+      "name": "夏道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/夏道镇"
+    },
+    {
+      "code": "350702103",
+      "name": "西芹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/西芹镇"
+    },
+    {
+      "code": "350702104",
+      "name": "峡阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/峡阳镇"
+    },
+    {
+      "code": "350702105",
+      "name": "南山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/南山镇"
+    },
+    {
+      "code": "350702106",
+      "name": "大横镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/大横镇"
+    },
+    {
+      "code": "350702107",
+      "name": "王台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/王台镇"
+    },
+    {
+      "code": "350702108",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/太平镇"
+    },
+    {
+      "code": "350702109",
+      "name": "塔前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/塔前镇"
+    },
+    {
+      "code": "350702111",
+      "name": "洋后镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/洋后镇"
+    },
+    {
+      "code": "350702112",
+      "name": "炉下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/炉下镇"
+    },
+    {
+      "code": "350702113",
+      "name": "茫荡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/茫荡镇"
+    },
+    {
+      "code": "350702200",
+      "name": "巨口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/巨口乡"
+    },
+    {
+      "code": "350702202",
+      "name": "赤门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350702",
+      "year": 0,
+      "name_path": "福建省/南平市/延平区/赤门乡"
+    }
+  ]
+}

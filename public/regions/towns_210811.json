@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "210811003",
+      "name": "老边街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210811",
+      "year": 0,
+      "name_path": "辽宁省/营口市/老边区/老边街道"
+    },
+    {
+      "code": "210811101",
+      "name": "路南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210811",
+      "year": 0,
+      "name_path": "辽宁省/营口市/老边区/路南镇"
+    },
+    {
+      "code": "210811102",
+      "name": "柳树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210811",
+      "year": 0,
+      "name_path": "辽宁省/营口市/老边区/柳树镇"
+    },
+    {
+      "code": "210811103",
+      "name": "边城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210811",
+      "year": 0,
+      "name_path": "辽宁省/营口市/老边区/边城镇"
+    }
+  ]
+}

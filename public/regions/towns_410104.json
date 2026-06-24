@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "410104001",
+      "name": "北下街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/北下街街道"
+    },
+    {
+      "code": "410104002",
+      "name": "西大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/西大街街道"
+    },
+    {
+      "code": "410104003",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/南关街道"
+    },
+    {
+      "code": "410104004",
+      "name": "城东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/城东路街道"
+    },
+    {
+      "code": "410104005",
+      "name": "东大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/东大街街道"
+    },
+    {
+      "code": "410104006",
+      "name": "二里岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/二里岗街道"
+    },
+    {
+      "code": "410104007",
+      "name": "陇海马路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/陇海马路街道"
+    },
+    {
+      "code": "410104008",
+      "name": "紫荆山南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/紫荆山南路街道"
+    },
+    {
+      "code": "410104009",
+      "name": "航海东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/航海东路街道"
+    },
+    {
+      "code": "410104010",
+      "name": "十八里河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/十八里河街道"
+    },
+    {
+      "code": "410104011",
+      "name": "南曹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/南曹街道"
+    },
+    {
+      "code": "410104012",
+      "name": "金岱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/金岱街道"
+    },
+    {
+      "code": "410104013",
+      "name": "圃田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410104",
+      "year": 0,
+      "name_path": "河南省/郑州市/管城回族区/圃田街道"
+    }
+  ]
+}

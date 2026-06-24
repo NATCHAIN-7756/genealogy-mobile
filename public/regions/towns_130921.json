@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "130921100",
+      "name": "旧州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/旧州镇"
+    },
+    {
+      "code": "130921101",
+      "name": "兴济镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/兴济镇"
+    },
+    {
+      "code": "130921102",
+      "name": "杜生镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/杜生镇"
+    },
+    {
+      "code": "130921103",
+      "name": "崔尔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/崔尔庄镇"
+    },
+    {
+      "code": "130921104",
+      "name": "李天木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/李天木镇"
+    },
+    {
+      "code": "130921105",
+      "name": "纸房头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/纸房头镇"
+    },
+    {
+      "code": "130921106",
+      "name": "姚官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/姚官屯镇"
+    },
+    {
+      "code": "130921107",
+      "name": "杜林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/杜林镇"
+    },
+    {
+      "code": "130921108",
+      "name": "汪家铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/汪家铺镇"
+    },
+    {
+      "code": "130921109",
+      "name": "张官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/张官屯镇"
+    },
+    {
+      "code": "130921110",
+      "name": "大官厅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/大官厅镇"
+    },
+    {
+      "code": "130921111",
+      "name": "风化店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/风化店镇"
+    },
+    {
+      "code": "130921112",
+      "name": "捷地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/捷地镇"
+    },
+    {
+      "code": "130921200",
+      "name": "薛官屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/薛官屯乡"
+    },
+    {
+      "code": "130921208",
+      "name": "刘家庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/刘家庙乡"
+    },
+    {
+      "code": "130921209",
+      "name": "仵龙堂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/仵龙堂乡"
+    },
+    {
+      "code": "130921211",
+      "name": "高川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/高川乡"
+    },
+    {
+      "code": "130921212",
+      "name": "黄递铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/黄递铺乡"
+    },
+    {
+      "code": "130921213",
+      "name": "大褚村回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130921",
+      "year": 0,
+      "name_path": "河北省/沧州市/沧县/大褚村回族乡"
+    }
+  ]
+}

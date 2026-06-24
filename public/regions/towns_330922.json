@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "330922100",
+      "name": "菜园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/菜园镇"
+    },
+    {
+      "code": "330922101",
+      "name": "嵊山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/嵊山镇"
+    },
+    {
+      "code": "330922102",
+      "name": "洋山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/洋山镇"
+    },
+    {
+      "code": "330922200",
+      "name": "五龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/五龙乡"
+    },
+    {
+      "code": "330922201",
+      "name": "黄龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/黄龙乡"
+    },
+    {
+      "code": "330922202",
+      "name": "枸杞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/枸杞乡"
+    },
+    {
+      "code": "330922203",
+      "name": "花鸟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330922",
+      "year": 0,
+      "name_path": "浙江省/舟山市/嵊泗县/花鸟乡"
+    }
+  ]
+}

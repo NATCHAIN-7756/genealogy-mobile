@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "450502001",
+      "name": "中街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/中街街道"
+    },
+    {
+      "code": "450502002",
+      "name": "东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/东街街道"
+    },
+    {
+      "code": "450502003",
+      "name": "西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/西街街道"
+    },
+    {
+      "code": "450502004",
+      "name": "海角街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/海角街道"
+    },
+    {
+      "code": "450502005",
+      "name": "地角街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/地角街道"
+    },
+    {
+      "code": "450502006",
+      "name": "高德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/高德街道"
+    },
+    {
+      "code": "450502007",
+      "name": "驿马街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/驿马街道"
+    },
+    {
+      "code": "450502100",
+      "name": "涠洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450502",
+      "year": 0,
+      "name_path": "广西壮族自治区/北海市/海城区/涠洲镇"
+    }
+  ]
+}

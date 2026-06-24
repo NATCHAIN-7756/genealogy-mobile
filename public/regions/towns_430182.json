@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "code": "430182001",
+      "name": "玉潭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/玉潭街道"
+    },
+    {
+      "code": "430182002",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/城郊街道"
+    },
+    {
+      "code": "430182003",
+      "name": "白马桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/白马桥街道"
+    },
+    {
+      "code": "430182004",
+      "name": "历经铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/历经铺街道"
+    },
+    {
+      "code": "430182101",
+      "name": "道林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/道林镇"
+    },
+    {
+      "code": "430182102",
+      "name": "花明楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/花明楼镇"
+    },
+    {
+      "code": "430182103",
+      "name": "东湖塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/东湖塘镇"
+    },
+    {
+      "code": "430182104",
+      "name": "夏铎铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/夏铎铺镇"
+    },
+    {
+      "code": "430182105",
+      "name": "双江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/双江口镇"
+    },
+    {
+      "code": "430182106",
+      "name": "煤炭坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/煤炭坝镇"
+    },
+    {
+      "code": "430182107",
+      "name": "坝塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/坝塘镇"
+    },
+    {
+      "code": "430182109",
+      "name": "灰汤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/灰汤镇"
+    },
+    {
+      "code": "430182110",
+      "name": "双凫铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/双凫铺镇"
+    },
+    {
+      "code": "430182111",
+      "name": "老粮仓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/老粮仓镇"
+    },
+    {
+      "code": "430182112",
+      "name": "流沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/流沙河镇"
+    },
+    {
+      "code": "430182113",
+      "name": "巷子口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/巷子口镇"
+    },
+    {
+      "code": "430182114",
+      "name": "龙田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/龙田镇"
+    },
+    {
+      "code": "430182115",
+      "name": "黄材镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/黄材镇"
+    },
+    {
+      "code": "430182116",
+      "name": "横市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/横市镇"
+    },
+    {
+      "code": "430182117",
+      "name": "回龙铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/回龙铺镇"
+    },
+    {
+      "code": "430182118",
+      "name": "大成桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/大成桥镇"
+    },
+    {
+      "code": "430182119",
+      "name": "青山桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/青山桥镇"
+    },
+    {
+      "code": "430182120",
+      "name": "金洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/金洲镇"
+    },
+    {
+      "code": "430182121",
+      "name": "大屯营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/大屯营镇"
+    },
+    {
+      "code": "430182122",
+      "name": "资福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/资福镇"
+    },
+    {
+      "code": "430182203",
+      "name": "菁华铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/菁华铺乡"
+    },
+    {
+      "code": "430182209",
+      "name": "喻家坳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/喻家坳乡"
+    },
+    {
+      "code": "430182211",
+      "name": "沩山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/沩山乡"
+    },
+    {
+      "code": "430182213",
+      "name": "沙田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430182",
+      "year": 0,
+      "name_path": "湖南省/长沙市/宁乡市/沙田乡"
+    }
+  ]
+}

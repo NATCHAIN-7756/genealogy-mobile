@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "331081001",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/太平街道"
+    },
+    {
+      "code": "331081002",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/城东街道"
+    },
+    {
+      "code": "331081003",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/城西街道"
+    },
+    {
+      "code": "331081004",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/城北街道"
+    },
+    {
+      "code": "331081005",
+      "name": "横峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/横峰街道"
+    },
+    {
+      "code": "331081100",
+      "name": "泽国镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/泽国镇"
+    },
+    {
+      "code": "331081101",
+      "name": "大溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/大溪镇"
+    },
+    {
+      "code": "331081102",
+      "name": "松门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/松门镇"
+    },
+    {
+      "code": "331081103",
+      "name": "箬横镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/箬横镇"
+    },
+    {
+      "code": "331081104",
+      "name": "新河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/新河镇"
+    },
+    {
+      "code": "331081105",
+      "name": "石塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/石塘镇"
+    },
+    {
+      "code": "331081106",
+      "name": "滨海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/滨海镇"
+    },
+    {
+      "code": "331081107",
+      "name": "温峤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/温峤镇"
+    },
+    {
+      "code": "331081108",
+      "name": "城南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/城南镇"
+    },
+    {
+      "code": "331081109",
+      "name": "石桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/石桥头镇"
+    },
+    {
+      "code": "331081110",
+      "name": "坞根镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "331081",
+      "year": 0,
+      "name_path": "浙江省/台州市/温岭市/坞根镇"
+    }
+  ]
+}

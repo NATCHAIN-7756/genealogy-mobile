@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "610629001",
+      "name": "凤栖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/凤栖街道"
+    },
+    {
+      "code": "610629101",
+      "name": "旧县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/旧县镇"
+    },
+    {
+      "code": "610629102",
+      "name": "交口河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/交口河镇"
+    },
+    {
+      "code": "610629103",
+      "name": "老庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/老庙镇"
+    },
+    {
+      "code": "610629104",
+      "name": "土基镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/土基镇"
+    },
+    {
+      "code": "610629105",
+      "name": "石头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/石头镇"
+    },
+    {
+      "code": "610629106",
+      "name": "槐柏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/槐柏镇"
+    },
+    {
+      "code": "610629107",
+      "name": "永乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/永乡镇"
+    },
+    {
+      "code": "610629108",
+      "name": "菩提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610629",
+      "year": 0,
+      "name_path": "陕西省/延安市/洛川县/菩提镇"
+    }
+  ]
+}

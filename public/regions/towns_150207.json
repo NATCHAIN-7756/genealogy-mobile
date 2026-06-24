@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "150207001",
+      "name": "沙河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/沙河街道"
+    },
+    {
+      "code": "150207002",
+      "name": "赛汗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/赛汗街道"
+    },
+    {
+      "code": "150207003",
+      "name": "萨如拉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/萨如拉街道"
+    },
+    {
+      "code": "150207004",
+      "name": "白音席勒街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/白音席勒街道"
+    },
+    {
+      "code": "150207005",
+      "name": "稀土路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/稀土路街道"
+    },
+    {
+      "code": "150207103",
+      "name": "麻池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/麻池镇"
+    },
+    {
+      "code": "150207104",
+      "name": "哈业胡同镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/哈业胡同镇"
+    },
+    {
+      "code": "150207105",
+      "name": "哈林格尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/哈林格尔镇"
+    },
+    {
+      "code": "150207106",
+      "name": "万水泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/万水泉镇"
+    },
+    {
+      "code": "150207205",
+      "name": "阿嘎如泰苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150207",
+      "year": 0,
+      "name_path": "内蒙古自治区/包头市/九原区/阿嘎如泰苏木"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "110106001",
+      "name": "右安门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/右安门街道"
+    },
+    {
+      "code": "110106002",
+      "name": "太平桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/太平桥街道"
+    },
+    {
+      "code": "110106003",
+      "name": "西罗园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/西罗园街道"
+    },
+    {
+      "code": "110106004",
+      "name": "大红门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/大红门街道"
+    },
+    {
+      "code": "110106005",
+      "name": "南苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/南苑街道"
+    },
+    {
+      "code": "110106006",
+      "name": "东高地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/东高地街道"
+    },
+    {
+      "code": "110106007",
+      "name": "东铁匠营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/东铁匠营街道"
+    },
+    {
+      "code": "110106008",
+      "name": "六里桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/六里桥街道"
+    },
+    {
+      "code": "110106009",
+      "name": "丰台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/丰台街道"
+    },
+    {
+      "code": "110106010",
+      "name": "新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/新村街道"
+    },
+    {
+      "code": "110106011",
+      "name": "长辛店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/长辛店街道"
+    },
+    {
+      "code": "110106012",
+      "name": "云岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/云岗街道"
+    },
+    {
+      "code": "110106013",
+      "name": "方庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/方庄街道"
+    },
+    {
+      "code": "110106014",
+      "name": "宛平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/宛平街道"
+    },
+    {
+      "code": "110106015",
+      "name": "马家堡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/马家堡街道"
+    },
+    {
+      "code": "110106016",
+      "name": "和义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/和义街道"
+    },
+    {
+      "code": "110106017",
+      "name": "卢沟桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/卢沟桥街道"
+    },
+    {
+      "code": "110106018",
+      "name": "花乡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/花乡街道"
+    },
+    {
+      "code": "110106020",
+      "name": "成寿寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/成寿寺街道"
+    },
+    {
+      "code": "110106021",
+      "name": "石榴庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/石榴庄街道"
+    },
+    {
+      "code": "110106022",
+      "name": "玉泉营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/玉泉营街道"
+    },
+    {
+      "code": "110106023",
+      "name": "看丹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/看丹街道"
+    },
+    {
+      "code": "110106024",
+      "name": "五里店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/五里店街道"
+    },
+    {
+      "code": "110106025",
+      "name": "青塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/青塔街道"
+    },
+    {
+      "code": "110106100",
+      "name": "北宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/北宫镇"
+    },
+    {
+      "code": "110106101",
+      "name": "王佐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "110106",
+      "year": 0,
+      "name_path": "北京市/丰台区/王佐镇"
+    }
+  ]
+}

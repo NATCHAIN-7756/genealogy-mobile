@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "130105001",
+      "name": "革新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/革新街道"
+    },
+    {
+      "code": "130105003",
+      "name": "新华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/新华路街道"
+    },
+    {
+      "code": "130105004",
+      "name": "宁安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/宁安街道"
+    },
+    {
+      "code": "130105005",
+      "name": "东焦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/东焦街道"
+    },
+    {
+      "code": "130105006",
+      "name": "西苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/西苑街道"
+    },
+    {
+      "code": "130105007",
+      "name": "合作路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/合作路街道"
+    },
+    {
+      "code": "130105008",
+      "name": "联盟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/联盟街道"
+    },
+    {
+      "code": "130105009",
+      "name": "石岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/石岗街道"
+    },
+    {
+      "code": "130105011",
+      "name": "天苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/天苑街道"
+    },
+    {
+      "code": "130105012",
+      "name": "北苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/北苑街道"
+    },
+    {
+      "code": "130105013",
+      "name": "赵陵铺路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/赵陵铺路街道"
+    },
+    {
+      "code": "130105014",
+      "name": "赵佗路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/赵佗路街道"
+    },
+    {
+      "code": "130105015",
+      "name": "大郭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/大郭街道"
+    },
+    {
+      "code": "130105016",
+      "name": "西三庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/西三庄街道"
+    },
+    {
+      "code": "130105017",
+      "name": "杜北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130105",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新华区/杜北街道"
+    }
+  ]
+}

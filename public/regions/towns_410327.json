@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "410327001",
+      "name": "兴宜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/兴宜街道"
+    },
+    {
+      "code": "410327102",
+      "name": "柳泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/柳泉镇"
+    },
+    {
+      "code": "410327103",
+      "name": "韩城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/韩城镇"
+    },
+    {
+      "code": "410327104",
+      "name": "白杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/白杨镇"
+    },
+    {
+      "code": "410327105",
+      "name": "香鹿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/香鹿山镇"
+    },
+    {
+      "code": "410327106",
+      "name": "锦屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/锦屏镇"
+    },
+    {
+      "code": "410327107",
+      "name": "三乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/三乡镇"
+    },
+    {
+      "code": "410327108",
+      "name": "张坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/张坞镇"
+    },
+    {
+      "code": "410327109",
+      "name": "莲庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/莲庄镇"
+    },
+    {
+      "code": "410327111",
+      "name": "赵保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/赵保镇"
+    },
+    {
+      "code": "410327112",
+      "name": "樊村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/樊村镇"
+    },
+    {
+      "code": "410327113",
+      "name": "高村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/高村镇"
+    },
+    {
+      "code": "410327114",
+      "name": "董王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/董王庄镇"
+    },
+    {
+      "code": "410327115",
+      "name": "盐镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/盐镇镇"
+    },
+    {
+      "code": "410327208",
+      "name": "花果山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/花果山乡"
+    },
+    {
+      "code": "410327209",
+      "name": "上观乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410327",
+      "year": 0,
+      "name_path": "河南省/洛阳市/宜阳县/上观乡"
+    }
+  ]
+}

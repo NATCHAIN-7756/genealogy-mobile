@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "320583100",
+      "name": "玉山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/玉山镇"
+    },
+    {
+      "code": "320583102",
+      "name": "巴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/巴城镇"
+    },
+    {
+      "code": "320583105",
+      "name": "周市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/周市镇"
+    },
+    {
+      "code": "320583107",
+      "name": "陆家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/陆家镇"
+    },
+    {
+      "code": "320583108",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/花桥镇"
+    },
+    {
+      "code": "320583110",
+      "name": "淀山湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/淀山湖镇"
+    },
+    {
+      "code": "320583111",
+      "name": "张浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/张浦镇"
+    },
+    {
+      "code": "320583112",
+      "name": "周庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/周庄镇"
+    },
+    {
+      "code": "320583113",
+      "name": "千灯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/千灯镇"
+    },
+    {
+      "code": "320583114",
+      "name": "锦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320583",
+      "year": 0,
+      "name_path": "江苏省/苏州市/昆山市/锦溪镇"
+    }
+  ]
+}

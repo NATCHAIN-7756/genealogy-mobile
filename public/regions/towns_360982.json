@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "360982001",
+      "name": "淦阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/淦阳街道"
+    },
+    {
+      "code": "360982002",
+      "name": "鹿江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/鹿江街道"
+    },
+    {
+      "code": "360982003",
+      "name": "福城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/福城街道"
+    },
+    {
+      "code": "360982005",
+      "name": "张家山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/张家山街道"
+    },
+    {
+      "code": "360982006",
+      "name": "大桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/大桥街道"
+    },
+    {
+      "code": "360982101",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/临江镇"
+    },
+    {
+      "code": "360982102",
+      "name": "永泰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/永泰镇"
+    },
+    {
+      "code": "360982103",
+      "name": "黄土岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/黄土岗镇"
+    },
+    {
+      "code": "360982104",
+      "name": "经楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/经楼镇"
+    },
+    {
+      "code": "360982105",
+      "name": "昌傅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/昌傅镇"
+    },
+    {
+      "code": "360982106",
+      "name": "店下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/店下镇"
+    },
+    {
+      "code": "360982108",
+      "name": "𬮤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/𬮤山镇"
+    },
+    {
+      "code": "360982109",
+      "name": "刘公庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/刘公庙镇"
+    },
+    {
+      "code": "360982110",
+      "name": "观上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/观上镇"
+    },
+    {
+      "code": "360982111",
+      "name": "义成镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/义成镇"
+    },
+    {
+      "code": "360982200",
+      "name": "中洲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/中洲乡"
+    },
+    {
+      "code": "360982204",
+      "name": "洲上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/洲上乡"
+    },
+    {
+      "code": "360982207",
+      "name": "洋湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/洋湖乡"
+    },
+    {
+      "code": "360982209",
+      "name": "吴城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360982",
+      "year": 0,
+      "name_path": "江西省/宜春市/樟树市/吴城乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "620825100",
+      "name": "水洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/水洛镇"
+    },
+    {
+      "code": "620825101",
+      "name": "南湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/南湖镇"
+    },
+    {
+      "code": "620825102",
+      "name": "朱店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/朱店镇"
+    },
+    {
+      "code": "620825103",
+      "name": "万泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/万泉镇"
+    },
+    {
+      "code": "620825104",
+      "name": "韩店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/韩店镇"
+    },
+    {
+      "code": "620825105",
+      "name": "卧龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/卧龙镇"
+    },
+    {
+      "code": "620825106",
+      "name": "阳川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/阳川镇"
+    },
+    {
+      "code": "620825107",
+      "name": "盘安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/盘安镇"
+    },
+    {
+      "code": "620825108",
+      "name": "通化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/通化镇"
+    },
+    {
+      "code": "620825109",
+      "name": "大庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/大庄镇"
+    },
+    {
+      "code": "620825110",
+      "name": "永宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/永宁镇"
+    },
+    {
+      "code": "620825111",
+      "name": "良邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/良邑镇"
+    },
+    {
+      "code": "620825112",
+      "name": "岳堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/岳堡镇"
+    },
+    {
+      "code": "620825113",
+      "name": "柳梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/柳梁镇"
+    },
+    {
+      "code": "620825114",
+      "name": "南坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/南坪镇"
+    },
+    {
+      "code": "620825201",
+      "name": "杨河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/杨河乡"
+    },
+    {
+      "code": "620825202",
+      "name": "赵墩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/赵墩乡"
+    },
+    {
+      "code": "620825215",
+      "name": "郑河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620825",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/庄浪县/郑河乡"
+    }
+  ]
+}

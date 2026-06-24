@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "140213009",
+      "name": "大庆路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/大庆路街道"
+    },
+    {
+      "code": "140213013",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/古城街道"
+    },
+    {
+      "code": "140213014",
+      "name": "新旺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/新旺街道"
+    },
+    {
+      "code": "140213015",
+      "name": "马军营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/马军营街道"
+    },
+    {
+      "code": "140213016",
+      "name": "白登山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/白登山街道"
+    },
+    {
+      "code": "140213017",
+      "name": "文瀛湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/文瀛湖街道"
+    },
+    {
+      "code": "140213018",
+      "name": "水泊寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/水泊寺街道"
+    },
+    {
+      "code": "140213019",
+      "name": "小南头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/小南头街道"
+    },
+    {
+      "code": "140213020",
+      "name": "永泰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/永泰街道"
+    },
+    {
+      "code": "140213021",
+      "name": "清远街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/清远街道"
+    },
+    {
+      "code": "140213022",
+      "name": "武定街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/武定街道"
+    },
+    {
+      "code": "140213023",
+      "name": "鹿苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/鹿苑街道"
+    },
+    {
+      "code": "140213024",
+      "name": "振华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/振华街道"
+    },
+    {
+      "code": "140213025",
+      "name": "迎宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/迎宾街道"
+    },
+    {
+      "code": "140213026",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/新华街道"
+    },
+    {
+      "code": "140213027",
+      "name": "卧虎湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/卧虎湾街道"
+    },
+    {
+      "code": "140213028",
+      "name": "御河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/御河街道"
+    },
+    {
+      "code": "140213029",
+      "name": "开源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140213",
+      "year": 0,
+      "name_path": "山西省/大同市/平城区/开源街道"
+    }
+  ]
+}

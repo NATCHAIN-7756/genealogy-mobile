@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "659008001",
+      "name": "金山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/金山街道"
+    },
+    {
+      "code": "659008002",
+      "name": "花城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/花城街道"
+    },
+    {
+      "code": "659008100",
+      "name": "榆树庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/榆树庄镇"
+    },
+    {
+      "code": "659008101",
+      "name": "苇湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/苇湖镇"
+    },
+    {
+      "code": "659008102",
+      "name": "长丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/长丰镇"
+    },
+    {
+      "code": "659008103",
+      "name": "金梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/金梁镇"
+    },
+    {
+      "code": "659008104",
+      "name": "金屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659008",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/可克达拉市/金屯镇"
+    }
+  ]
+}

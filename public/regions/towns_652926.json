@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "652926100",
+      "name": "拜城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/拜城镇"
+    },
+    {
+      "code": "652926101",
+      "name": "铁热克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/铁热克镇"
+    },
+    {
+      "code": "652926102",
+      "name": "察尔齐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/察尔齐镇"
+    },
+    {
+      "code": "652926103",
+      "name": "赛里木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/赛里木镇"
+    },
+    {
+      "code": "652926104",
+      "name": "康其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/康其镇"
+    },
+    {
+      "code": "652926200",
+      "name": "黑英山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/黑英山乡"
+    },
+    {
+      "code": "652926201",
+      "name": "克孜尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/克孜尔乡"
+    },
+    {
+      "code": "652926203",
+      "name": "托克逊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/托克逊乡"
+    },
+    {
+      "code": "652926204",
+      "name": "亚吐尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/亚吐尔乡"
+    },
+    {
+      "code": "652926206",
+      "name": "布隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/布隆乡"
+    },
+    {
+      "code": "652926207",
+      "name": "米吉克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/米吉克乡"
+    },
+    {
+      "code": "652926208",
+      "name": "温巴什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/温巴什乡"
+    },
+    {
+      "code": "652926209",
+      "name": "大桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/大桥乡"
+    },
+    {
+      "code": "652926210",
+      "name": "老虎台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652926",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/拜城县/老虎台乡"
+    }
+  ]
+}

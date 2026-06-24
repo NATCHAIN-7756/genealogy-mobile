@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "210703002",
+      "name": "石桥子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210703",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/凌河区/石桥子街道"
+    },
+    {
+      "code": "210703003",
+      "name": "龙江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210703",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/凌河区/龙江街道"
+    },
+    {
+      "code": "210703004",
+      "name": "榴花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210703",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/凌河区/榴花街道"
+    },
+    {
+      "code": "210703008",
+      "name": "康宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210703",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/凌河区/康宁街道"
+    },
+    {
+      "code": "210703009",
+      "name": "锦铁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210703",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/凌河区/锦铁街道"
+    },
+    {
+      "code": "210703011",
+      "name": "紫荆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210703",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/凌河区/紫荆街道"
+    }
+  ]
+}

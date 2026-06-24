@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "360404001",
+      "name": "沙河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/沙河街道"
+    },
+    {
+      "code": "360404002",
+      "name": "狮子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/狮子街道"
+    },
+    {
+      "code": "360404003",
+      "name": "城门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/城门街道"
+    },
+    {
+      "code": "360404004",
+      "name": "岳师街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/岳师街道"
+    },
+    {
+      "code": "360404005",
+      "name": "赛城湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/赛城湖街道"
+    },
+    {
+      "code": "360404101",
+      "name": "马回岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/马回岭镇"
+    },
+    {
+      "code": "360404102",
+      "name": "江洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/江洲镇"
+    },
+    {
+      "code": "360404103",
+      "name": "城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/城子镇"
+    },
+    {
+      "code": "360404104",
+      "name": "港口街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/港口街镇"
+    },
+    {
+      "code": "360404105",
+      "name": "新合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/新合镇"
+    },
+    {
+      "code": "360404202",
+      "name": "涌泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/涌泉乡"
+    },
+    {
+      "code": "360404203",
+      "name": "新塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/新塘乡"
+    },
+    {
+      "code": "360404208",
+      "name": "岷山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/岷山乡"
+    },
+    {
+      "code": "360404209",
+      "name": "永安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360404",
+      "year": 0,
+      "name_path": "江西省/九江市/柴桑区/永安乡"
+    }
+  ]
+}

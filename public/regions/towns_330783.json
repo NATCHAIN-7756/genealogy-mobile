@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "330783001",
+      "name": "吴宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/吴宁街道"
+    },
+    {
+      "code": "330783002",
+      "name": "南市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/南市街道"
+    },
+    {
+      "code": "330783003",
+      "name": "白云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/白云街道"
+    },
+    {
+      "code": "330783004",
+      "name": "江北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/江北街道"
+    },
+    {
+      "code": "330783005",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/城东街道"
+    },
+    {
+      "code": "330783006",
+      "name": "六石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/六石街道"
+    },
+    {
+      "code": "330783128",
+      "name": "歌山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/歌山镇"
+    },
+    {
+      "code": "330783129",
+      "name": "巍山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/巍山镇"
+    },
+    {
+      "code": "330783130",
+      "name": "虎鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/虎鹿镇"
+    },
+    {
+      "code": "330783131",
+      "name": "佐村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/佐村镇"
+    },
+    {
+      "code": "330783133",
+      "name": "东阳江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/东阳江镇"
+    },
+    {
+      "code": "330783134",
+      "name": "湖溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/湖溪镇"
+    },
+    {
+      "code": "330783135",
+      "name": "横店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/横店镇"
+    },
+    {
+      "code": "330783136",
+      "name": "马宅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/马宅镇"
+    },
+    {
+      "code": "330783137",
+      "name": "千祥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/千祥镇"
+    },
+    {
+      "code": "330783138",
+      "name": "南马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/南马镇"
+    },
+    {
+      "code": "330783139",
+      "name": "画水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/画水镇"
+    },
+    {
+      "code": "330783200",
+      "name": "三单乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330783",
+      "year": 0,
+      "name_path": "浙江省/金华市/东阳市/三单乡"
+    }
+  ]
+}

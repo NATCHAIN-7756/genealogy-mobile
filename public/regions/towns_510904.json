@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "510904001",
+      "name": "柔刚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/柔刚街道"
+    },
+    {
+      "code": "510904002",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/凤凰街道"
+    },
+    {
+      "code": "510904101",
+      "name": "安居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/安居镇"
+    },
+    {
+      "code": "510904102",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/白马镇"
+    },
+    {
+      "code": "510904103",
+      "name": "中兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/中兴镇"
+    },
+    {
+      "code": "510904104",
+      "name": "横山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/横山镇"
+    },
+    {
+      "code": "510904105",
+      "name": "会龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/会龙镇"
+    },
+    {
+      "code": "510904106",
+      "name": "东禅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/东禅镇"
+    },
+    {
+      "code": "510904107",
+      "name": "分水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/分水镇"
+    },
+    {
+      "code": "510904108",
+      "name": "石洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/石洞镇"
+    },
+    {
+      "code": "510904109",
+      "name": "拦江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/拦江镇"
+    },
+    {
+      "code": "510904110",
+      "name": "保石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/保石镇"
+    },
+    {
+      "code": "510904111",
+      "name": "三家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/三家镇"
+    },
+    {
+      "code": "510904112",
+      "name": "玉丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/玉丰镇"
+    },
+    {
+      "code": "510904113",
+      "name": "西眉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/西眉镇"
+    },
+    {
+      "code": "510904114",
+      "name": "磨溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/磨溪镇"
+    },
+    {
+      "code": "510904115",
+      "name": "聚贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/聚贤镇"
+    },
+    {
+      "code": "510904116",
+      "name": "常理镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510904",
+      "year": 0,
+      "name_path": "四川省/遂宁市/安居区/常理镇"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "210502",
+      "name": "平山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210500",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市/平山区"
+    },
+    {
+      "code": "210503",
+      "name": "溪湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210500",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市/溪湖区"
+    },
+    {
+      "code": "210504",
+      "name": "明山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210500",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市/明山区"
+    },
+    {
+      "code": "210505",
+      "name": "南芬区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210500",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市/南芬区"
+    },
+    {
+      "code": "210521",
+      "name": "本溪满族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210500",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市/本溪满族自治县"
+    },
+    {
+      "code": "210522",
+      "name": "桓仁满族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210500",
+      "year": 0,
+      "name_path": "全国/辽宁省/本溪市/桓仁满族自治县"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "441224001",
+      "name": "怀城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/怀城街道"
+    },
+    {
+      "code": "441224002",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/幸福街道"
+    },
+    {
+      "code": "441224102",
+      "name": "坳仔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/坳仔镇"
+    },
+    {
+      "code": "441224103",
+      "name": "汶朗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/汶朗镇"
+    },
+    {
+      "code": "441224104",
+      "name": "甘洒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/甘洒镇"
+    },
+    {
+      "code": "441224105",
+      "name": "凤岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/凤岗镇"
+    },
+    {
+      "code": "441224106",
+      "name": "洽水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/洽水镇"
+    },
+    {
+      "code": "441224107",
+      "name": "梁村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/梁村镇"
+    },
+    {
+      "code": "441224108",
+      "name": "大岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/大岗镇"
+    },
+    {
+      "code": "441224109",
+      "name": "岗坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/岗坪镇"
+    },
+    {
+      "code": "441224110",
+      "name": "冷坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/冷坑镇"
+    },
+    {
+      "code": "441224111",
+      "name": "马宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/马宁镇"
+    },
+    {
+      "code": "441224112",
+      "name": "蓝钟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/蓝钟镇"
+    },
+    {
+      "code": "441224113",
+      "name": "永固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/永固镇"
+    },
+    {
+      "code": "441224114",
+      "name": "诗洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/诗洞镇"
+    },
+    {
+      "code": "441224115",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/桥头镇"
+    },
+    {
+      "code": "441224116",
+      "name": "中洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/中洲镇"
+    },
+    {
+      "code": "441224118",
+      "name": "连麦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/连麦镇"
+    },
+    {
+      "code": "441224200",
+      "name": "下帅壮族瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "441224",
+      "year": 0,
+      "name_path": "广东省/肇庆市/怀集县/下帅壮族瑶族乡"
+    }
+  ]
+}

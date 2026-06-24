@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511525100",
+      "name": "文江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/文江镇"
+    },
+    {
+      "code": "511525101",
+      "name": "庆符镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/庆符镇"
+    },
+    {
+      "code": "511525102",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/沙河镇"
+    },
+    {
+      "code": "511525103",
+      "name": "嘉乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/嘉乐镇"
+    },
+    {
+      "code": "511525105",
+      "name": "罗场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/罗场镇"
+    },
+    {
+      "code": "511525106",
+      "name": "蕉村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/蕉村镇"
+    },
+    {
+      "code": "511525107",
+      "name": "可久镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/可久镇"
+    },
+    {
+      "code": "511525108",
+      "name": "来复镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/来复镇"
+    },
+    {
+      "code": "511525109",
+      "name": "月江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/月江镇"
+    },
+    {
+      "code": "511525110",
+      "name": "胜天镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/胜天镇"
+    },
+    {
+      "code": "511525111",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/复兴镇"
+    },
+    {
+      "code": "511525115",
+      "name": "落润镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/落润镇"
+    },
+    {
+      "code": "511525116",
+      "name": "庆岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511525",
+      "year": 0,
+      "name_path": "四川省/宜宾市/高县/庆岭镇"
+    }
+  ]
+}

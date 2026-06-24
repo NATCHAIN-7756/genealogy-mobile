@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "340322100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/城关镇"
+    },
+    {
+      "code": "340322101",
+      "name": "新集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/新集镇"
+    },
+    {
+      "code": "340322103",
+      "name": "小溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/小溪镇"
+    },
+    {
+      "code": "340322104",
+      "name": "双忠庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/双忠庙镇"
+    },
+    {
+      "code": "340322105",
+      "name": "小圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/小圩镇"
+    },
+    {
+      "code": "340322106",
+      "name": "东刘集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/东刘集镇"
+    },
+    {
+      "code": "340322107",
+      "name": "头铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/头铺镇"
+    },
+    {
+      "code": "340322108",
+      "name": "大新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/大新镇"
+    },
+    {
+      "code": "340322109",
+      "name": "武桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/武桥镇"
+    },
+    {
+      "code": "340322110",
+      "name": "朱顶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/朱顶镇"
+    },
+    {
+      "code": "340322111",
+      "name": "浍南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/浍南镇"
+    },
+    {
+      "code": "340322112",
+      "name": "申集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/申集镇"
+    },
+    {
+      "code": "340322200",
+      "name": "沱湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/沱湖乡"
+    },
+    {
+      "code": "340322201",
+      "name": "临北回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340322",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/五河县/临北回族乡"
+    }
+  ]
+}

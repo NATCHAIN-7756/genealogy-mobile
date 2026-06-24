@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "130304001",
+      "name": "西山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130304",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/北戴河区/西山街道"
+    },
+    {
+      "code": "130304002",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130304",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/北戴河区/东山街道"
+    },
+    {
+      "code": "130304003",
+      "name": "南戴河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130304",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/北戴河区/南戴河街道"
+    },
+    {
+      "code": "130304100",
+      "name": "海滨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130304",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/北戴河区/海滨镇"
+    },
+    {
+      "code": "130304101",
+      "name": "戴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130304",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/北戴河区/戴河镇"
+    },
+    {
+      "code": "130304102",
+      "name": "牛头崖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130304",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/北戴河区/牛头崖镇"
+    }
+  ]
+}

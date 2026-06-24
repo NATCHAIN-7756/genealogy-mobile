@@ -49,20 +49,16 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
-import axios from 'axios'
+import { storyApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -77,17 +73,13 @@ const activeTabbar = ref(1)
 const stories = ref([])
 const newStory = ref({ title: '', category: 'memoir', content: '' })
 
-const token = localStorage.getItem('token')
-
 function back() { router.back() }
 function goStory(story) { router.push(`/family/${familyId}/story/${story.id}`) }
 
 async function loadStories() {
   loading.value = true
   try {
-    const res = await axios.get(`http://45.207.215.95/api/stories/family/${familyId}`, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    const res = await storyApi.list(familyId)
     stories.value = res.data
     finished.value = true
   } catch (e) {
@@ -106,9 +98,7 @@ async function submitStory() {
   }
   submitting.value = true
   try {
-    await axios.post(`http://45.207.215.95/api/stories/family/${familyId}`, newStory.value, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    await storyApi.create(familyId, newStory.value)
     showToast('提交成功')
     showCreate.value = false
     newStory.value = { title: '', category: 'memoir', content: '' }

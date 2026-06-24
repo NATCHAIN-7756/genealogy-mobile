@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "230803",
+      "name": "向阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/向阳区"
+    },
+    {
+      "code": "230804",
+      "name": "前进区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/前进区"
+    },
+    {
+      "code": "230805",
+      "name": "东风区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/东风区"
+    },
+    {
+      "code": "230811",
+      "name": "郊区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/郊区"
+    },
+    {
+      "code": "230822",
+      "name": "桦南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/桦南县"
+    },
+    {
+      "code": "230826",
+      "name": "桦川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/桦川县"
+    },
+    {
+      "code": "230828",
+      "name": "汤原县",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/汤原县"
+    },
+    {
+      "code": "230881",
+      "name": "同江市",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/同江市"
+    },
+    {
+      "code": "230882",
+      "name": "富锦市",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/富锦市"
+    },
+    {
+      "code": "230883",
+      "name": "抚远市",
+      "level": 3,
+      "type": null,
+      "parent_code": "230800",
+      "year": 0,
+      "name_path": "全国/黑龙江省/佳木斯市/抚远市"
+    }
+  ]
+}

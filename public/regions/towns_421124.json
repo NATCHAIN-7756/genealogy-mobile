@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "421124100",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/温泉镇"
+    },
+    {
+      "code": "421124101",
+      "name": "南河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/南河镇"
+    },
+    {
+      "code": "421124102",
+      "name": "红山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/红山镇"
+    },
+    {
+      "code": "421124103",
+      "name": "金家铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/金家铺镇"
+    },
+    {
+      "code": "421124104",
+      "name": "石头咀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/石头咀镇"
+    },
+    {
+      "code": "421124105",
+      "name": "草盘地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/草盘地镇"
+    },
+    {
+      "code": "421124106",
+      "name": "雷家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/雷家店镇"
+    },
+    {
+      "code": "421124107",
+      "name": "杨柳湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/杨柳湾镇"
+    },
+    {
+      "code": "421124200",
+      "name": "方家咀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/方家咀乡"
+    },
+    {
+      "code": "421124201",
+      "name": "孔家坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/孔家坊乡"
+    },
+    {
+      "code": "421124202",
+      "name": "陶家河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421124",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/英山县/陶家河乡"
+    }
+  ]
+}

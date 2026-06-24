@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "230718100",
+      "name": "乌马河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230718",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/乌翠区/乌马河镇"
+    },
+    {
+      "code": "230718101",
+      "name": "翠峦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230718",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/乌翠区/翠峦镇"
+    }
+  ]
+}

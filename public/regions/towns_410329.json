@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "410329001",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/城关街道"
+    },
+    {
+      "code": "410329002",
+      "name": "河滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/河滨街道"
+    },
+    {
+      "code": "410329101",
+      "name": "鸣皋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/鸣皋镇"
+    },
+    {
+      "code": "410329102",
+      "name": "水寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/水寨镇"
+    },
+    {
+      "code": "410329103",
+      "name": "彭婆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/彭婆镇"
+    },
+    {
+      "code": "410329104",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/白沙镇"
+    },
+    {
+      "code": "410329105",
+      "name": "江左镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/江左镇"
+    },
+    {
+      "code": "410329106",
+      "name": "高山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/高山镇"
+    },
+    {
+      "code": "410329107",
+      "name": "吕店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/吕店镇"
+    },
+    {
+      "code": "410329108",
+      "name": "半坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/半坡镇"
+    },
+    {
+      "code": "410329109",
+      "name": "酒后镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/酒后镇"
+    },
+    {
+      "code": "410329110",
+      "name": "白元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/白元镇"
+    },
+    {
+      "code": "410329111",
+      "name": "葛寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/葛寨镇"
+    },
+    {
+      "code": "410329112",
+      "name": "鸦岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/鸦岭镇"
+    },
+    {
+      "code": "410329203",
+      "name": "平等乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410329",
+      "year": 0,
+      "name_path": "河南省/洛阳市/伊川县/平等乡"
+    }
+  ]
+}

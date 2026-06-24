@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "450103001",
+      "name": "新竹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/新竹街道"
+    },
+    {
+      "code": "450103002",
+      "name": "中山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/中山街道"
+    },
+    {
+      "code": "450103003",
+      "name": "建政街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/建政街道"
+    },
+    {
+      "code": "450103004",
+      "name": "南湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/南湖街道"
+    },
+    {
+      "code": "450103005",
+      "name": "津头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/津头街道"
+    },
+    {
+      "code": "450103100",
+      "name": "刘圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/刘圩镇"
+    },
+    {
+      "code": "450103101",
+      "name": "南阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/南阳镇"
+    },
+    {
+      "code": "450103102",
+      "name": "伶俐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/伶俐镇"
+    },
+    {
+      "code": "450103103",
+      "name": "长塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450103",
+      "year": 0,
+      "name_path": "广西壮族自治区/南宁市/青秀区/长塘镇"
+    }
+  ]
+}

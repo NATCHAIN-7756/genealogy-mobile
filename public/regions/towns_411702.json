@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "411702001",
+      "name": "人民街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/人民街街道"
+    },
+    {
+      "code": "411702002",
+      "name": "东风路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/东风路街道"
+    },
+    {
+      "code": "411702003",
+      "name": "西园街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/西园街街道"
+    },
+    {
+      "code": "411702004",
+      "name": "新华街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/新华街街道"
+    },
+    {
+      "code": "411702005",
+      "name": "南海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/南海街道"
+    },
+    {
+      "code": "411702006",
+      "name": "雪松街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/雪松街道"
+    },
+    {
+      "code": "411702007",
+      "name": "顺河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/顺河街道"
+    },
+    {
+      "code": "411702008",
+      "name": "老街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/老街街道"
+    },
+    {
+      "code": "411702009",
+      "name": "橡林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/橡林街道"
+    },
+    {
+      "code": "411702010",
+      "name": "刘阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/刘阁街道"
+    },
+    {
+      "code": "411702012",
+      "name": "香山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/香山街道"
+    },
+    {
+      "code": "411702013",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/古城街道"
+    },
+    {
+      "code": "411702100",
+      "name": "水屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/水屯镇"
+    },
+    {
+      "code": "411702101",
+      "name": "蚁蜂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/蚁蜂镇"
+    },
+    {
+      "code": "411702102",
+      "name": "沙河店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/沙河店镇"
+    },
+    {
+      "code": "411702103",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/板桥镇"
+    },
+    {
+      "code": "411702104",
+      "name": "诸市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/诸市镇"
+    },
+    {
+      "code": "411702207",
+      "name": "朱古洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/朱古洞乡"
+    },
+    {
+      "code": "411702208",
+      "name": "胡庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/胡庙乡"
+    },
+    {
+      "code": "411702211",
+      "name": "老河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/老河乡"
+    },
+    {
+      "code": "411702212",
+      "name": "关王庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411702",
+      "year": 0,
+      "name_path": "河南省/驻马店市/驿城区/关王庙乡"
+    }
+  ]
+}

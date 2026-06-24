@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "540481100",
+      "name": "米林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/米林镇"
+    },
+    {
+      "code": "540481101",
+      "name": "派镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/派镇"
+    },
+    {
+      "code": "540481102",
+      "name": "卧龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/卧龙镇"
+    },
+    {
+      "code": "540481200",
+      "name": "丹娘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/丹娘乡"
+    },
+    {
+      "code": "540481201",
+      "name": "南伊珞巴民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/南伊珞巴民族乡"
+    },
+    {
+      "code": "540481202",
+      "name": "扎西绕登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/扎西绕登乡"
+    },
+    {
+      "code": "540481203",
+      "name": "里龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/里龙乡"
+    },
+    {
+      "code": "540481204",
+      "name": "羌纳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540481",
+      "year": 0,
+      "name_path": "西藏自治区/林芝市/米林市/羌纳乡"
+    }
+  ]
+}

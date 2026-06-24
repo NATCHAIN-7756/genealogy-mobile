@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150121100",
+      "name": "察素齐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/察素齐镇"
+    },
+    {
+      "code": "150121101",
+      "name": "毕克齐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/毕克齐镇"
+    },
+    {
+      "code": "150121102",
+      "name": "善岱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/善岱镇"
+    },
+    {
+      "code": "150121103",
+      "name": "白庙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/白庙子镇"
+    },
+    {
+      "code": "150121104",
+      "name": "台阁牧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/台阁牧镇"
+    },
+    {
+      "code": "150121105",
+      "name": "沙尔沁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/沙尔沁镇"
+    },
+    {
+      "code": "150121106",
+      "name": "敕勒川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/敕勒川镇"
+    },
+    {
+      "code": "150121207",
+      "name": "北什轴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/北什轴乡"
+    },
+    {
+      "code": "150121208",
+      "name": "塔布赛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150121",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼和浩特市/土默特左旗/塔布赛乡"
+    }
+  ]
+}

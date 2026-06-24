@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "451122100",
+      "name": "钟山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/钟山镇"
+    },
+    {
+      "code": "451122105",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/回龙镇"
+    },
+    {
+      "code": "451122106",
+      "name": "石龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/石龙镇"
+    },
+    {
+      "code": "451122107",
+      "name": "凤翔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/凤翔镇"
+    },
+    {
+      "code": "451122108",
+      "name": "珊瑚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/珊瑚镇"
+    },
+    {
+      "code": "451122109",
+      "name": "同古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/同古镇"
+    },
+    {
+      "code": "451122110",
+      "name": "公安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/公安镇"
+    },
+    {
+      "code": "451122112",
+      "name": "清塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/清塘镇"
+    },
+    {
+      "code": "451122113",
+      "name": "燕塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/燕塘镇"
+    },
+    {
+      "code": "451122114",
+      "name": "红花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/红花镇"
+    },
+    {
+      "code": "451122200",
+      "name": "花山瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/花山瑶族乡"
+    },
+    {
+      "code": "451122201",
+      "name": "两安瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451122",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/钟山县/两安瑶族乡"
+    }
+  ]
+}

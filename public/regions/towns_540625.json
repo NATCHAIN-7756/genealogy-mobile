@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "540625100",
+      "name": "申扎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/申扎镇"
+    },
+    {
+      "code": "540625101",
+      "name": "雄梅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/雄梅镇"
+    },
+    {
+      "code": "540625201",
+      "name": "下过乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/下过乡"
+    },
+    {
+      "code": "540625202",
+      "name": "恰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/恰乡"
+    },
+    {
+      "code": "540625203",
+      "name": "巴扎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/巴扎乡"
+    },
+    {
+      "code": "540625204",
+      "name": "塔尔玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/塔尔玛乡"
+    },
+    {
+      "code": "540625206",
+      "name": "买巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/买巴乡"
+    },
+    {
+      "code": "540625207",
+      "name": "马跃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540625",
+      "year": 0,
+      "name_path": "西藏自治区/那曲市/申扎县/马跃乡"
+    }
+  ]
+}

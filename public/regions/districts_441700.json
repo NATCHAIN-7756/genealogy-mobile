@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "441702",
+      "name": "江城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "441700",
+      "year": 0,
+      "name_path": "全国/广东省/阳江市/江城区"
+    },
+    {
+      "code": "441704",
+      "name": "阳东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "441700",
+      "year": 0,
+      "name_path": "全国/广东省/阳江市/阳东区"
+    },
+    {
+      "code": "441721",
+      "name": "阳西县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441700",
+      "year": 0,
+      "name_path": "全国/广东省/阳江市/阳西县"
+    },
+    {
+      "code": "441781",
+      "name": "阳春市",
+      "level": 3,
+      "type": null,
+      "parent_code": "441700",
+      "year": 0,
+      "name_path": "全国/广东省/阳江市/阳春市"
+    }
+  ]
+}

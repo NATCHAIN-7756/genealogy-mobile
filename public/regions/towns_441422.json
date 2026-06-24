@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "441422100",
+      "name": "湖寮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/湖寮镇"
+    },
+    {
+      "code": "441422101",
+      "name": "茶阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/茶阳镇"
+    },
+    {
+      "code": "441422102",
+      "name": "高陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/高陂镇"
+    },
+    {
+      "code": "441422103",
+      "name": "青溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/青溪镇"
+    },
+    {
+      "code": "441422105",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/三河镇"
+    },
+    {
+      "code": "441422107",
+      "name": "大麻镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/大麻镇"
+    },
+    {
+      "code": "441422108",
+      "name": "银江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/银江镇"
+    },
+    {
+      "code": "441422109",
+      "name": "洲瑞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/洲瑞镇"
+    },
+    {
+      "code": "441422112",
+      "name": "光德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/光德镇"
+    },
+    {
+      "code": "441422113",
+      "name": "桃源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/桃源镇"
+    },
+    {
+      "code": "441422114",
+      "name": "枫朗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/枫朗镇"
+    },
+    {
+      "code": "441422116",
+      "name": "百侯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/百侯镇"
+    },
+    {
+      "code": "441422117",
+      "name": "大东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/大东镇"
+    },
+    {
+      "code": "441422118",
+      "name": "西河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441422",
+      "year": 0,
+      "name_path": "广东省/梅州市/大埔县/西河镇"
+    }
+  ]
+}

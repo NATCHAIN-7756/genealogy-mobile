@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "540528100",
+      "name": "加查镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/加查镇"
+    },
+    {
+      "code": "540528101",
+      "name": "安绕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/安绕镇"
+    },
+    {
+      "code": "540528200",
+      "name": "拉绥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/拉绥乡"
+    },
+    {
+      "code": "540528201",
+      "name": "崔久乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/崔久乡"
+    },
+    {
+      "code": "540528202",
+      "name": "坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/坝乡"
+    },
+    {
+      "code": "540528203",
+      "name": "冷达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/冷达乡"
+    },
+    {
+      "code": "540528204",
+      "name": "洛林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540528",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/加查县/洛林乡"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "440311001",
+      "name": "公明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440311",
+      "year": 0,
+      "name_path": "广东省/深圳市/光明区/公明街道"
+    },
+    {
+      "code": "440311002",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440311",
+      "year": 0,
+      "name_path": "广东省/深圳市/光明区/光明街道"
+    },
+    {
+      "code": "440311003",
+      "name": "新湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440311",
+      "year": 0,
+      "name_path": "广东省/深圳市/光明区/新湖街道"
+    },
+    {
+      "code": "440311004",
+      "name": "凤凰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440311",
+      "year": 0,
+      "name_path": "广东省/深圳市/光明区/凤凰街道"
+    },
+    {
+      "code": "440311005",
+      "name": "玉塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440311",
+      "year": 0,
+      "name_path": "广东省/深圳市/光明区/玉塘街道"
+    },
+    {
+      "code": "440311006",
+      "name": "马田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440311",
+      "year": 0,
+      "name_path": "广东省/深圳市/光明区/马田街道"
+    }
+  ]
+}

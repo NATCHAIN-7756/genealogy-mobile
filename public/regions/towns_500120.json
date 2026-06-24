@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "500120001",
+      "name": "璧城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/璧城街道"
+    },
+    {
+      "code": "500120002",
+      "name": "青杠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/青杠街道"
+    },
+    {
+      "code": "500120003",
+      "name": "璧泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/璧泉街道"
+    },
+    {
+      "code": "500120004",
+      "name": "来凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/来凤街道"
+    },
+    {
+      "code": "500120005",
+      "name": "丁家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/丁家街道"
+    },
+    {
+      "code": "500120006",
+      "name": "大路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/大路街道"
+    },
+    {
+      "code": "500120100",
+      "name": "河边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/河边镇"
+    },
+    {
+      "code": "500120101",
+      "name": "福禄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/福禄镇"
+    },
+    {
+      "code": "500120102",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/大兴镇"
+    },
+    {
+      "code": "500120103",
+      "name": "广普镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/广普镇"
+    },
+    {
+      "code": "500120104",
+      "name": "三合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/三合镇"
+    },
+    {
+      "code": "500120105",
+      "name": "正兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/正兴镇"
+    },
+    {
+      "code": "500120106",
+      "name": "八塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/八塘镇"
+    },
+    {
+      "code": "500120107",
+      "name": "七塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/七塘镇"
+    },
+    {
+      "code": "500120108",
+      "name": "健龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500120",
+      "year": 0,
+      "name_path": "重庆市/璧山区/健龙镇"
+    }
+  ]
+}

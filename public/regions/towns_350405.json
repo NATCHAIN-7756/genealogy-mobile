@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "350405001",
+      "name": "凤岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/凤岗街道"
+    },
+    {
+      "code": "350405002",
+      "name": "虬江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/虬江街道"
+    },
+    {
+      "code": "350405100",
+      "name": "青州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/青州镇"
+    },
+    {
+      "code": "350405101",
+      "name": "夏茂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/夏茂镇"
+    },
+    {
+      "code": "350405102",
+      "name": "高砂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/高砂镇"
+    },
+    {
+      "code": "350405103",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/高桥镇"
+    },
+    {
+      "code": "350405104",
+      "name": "富口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/富口镇"
+    },
+    {
+      "code": "350405105",
+      "name": "大洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/大洛镇"
+    },
+    {
+      "code": "350405200",
+      "name": "南霞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/南霞乡"
+    },
+    {
+      "code": "350405201",
+      "name": "南阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/南阳乡"
+    },
+    {
+      "code": "350405202",
+      "name": "郑湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/郑湖乡"
+    },
+    {
+      "code": "350405203",
+      "name": "湖源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350405",
+      "year": 0,
+      "name_path": "福建省/三明市/沙县区/湖源乡"
+    }
+  ]
+}

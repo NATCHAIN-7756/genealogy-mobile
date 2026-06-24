@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "360521001",
+      "name": "钤东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/钤东街道"
+    },
+    {
+      "code": "360521002",
+      "name": "钤西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/钤西街道"
+    },
+    {
+      "code": "360521100",
+      "name": "分宜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/分宜镇"
+    },
+    {
+      "code": "360521101",
+      "name": "杨桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/杨桥镇"
+    },
+    {
+      "code": "360521102",
+      "name": "湖泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/湖泽镇"
+    },
+    {
+      "code": "360521104",
+      "name": "双林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/双林镇"
+    },
+    {
+      "code": "360521105",
+      "name": "钤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/钤山镇"
+    },
+    {
+      "code": "360521107",
+      "name": "洋江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/洋江镇"
+    },
+    {
+      "code": "360521108",
+      "name": "凤阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/凤阳镇"
+    },
+    {
+      "code": "360521109",
+      "name": "操场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/操场镇"
+    },
+    {
+      "code": "360521204",
+      "name": "洞村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/洞村乡"
+    },
+    {
+      "code": "360521205",
+      "name": "高岚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360521",
+      "year": 0,
+      "name_path": "江西省/新余市/分宜县/高岚乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "360111001",
+      "name": "青山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/青山路街道"
+    },
+    {
+      "code": "360111002",
+      "name": "上海路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/上海路街道"
+    },
+    {
+      "code": "360111003",
+      "name": "南钢街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/南钢街道"
+    },
+    {
+      "code": "360111004",
+      "name": "站东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/站东街道"
+    },
+    {
+      "code": "360111101",
+      "name": "罗家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/罗家镇"
+    },
+    {
+      "code": "360111103",
+      "name": "湖坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/湖坊镇"
+    },
+    {
+      "code": "360111104",
+      "name": "塘山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/塘山镇"
+    },
+    {
+      "code": "360111106",
+      "name": "京东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360111",
+      "year": 0,
+      "name_path": "江西省/南昌市/青山湖区/京东镇"
+    }
+  ]
+}

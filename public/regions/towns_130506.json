@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130506100",
+      "name": "和阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/和阳镇"
+    },
+    {
+      "code": "130506101",
+      "name": "贾宋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/贾宋镇"
+    },
+    {
+      "code": "130506102",
+      "name": "郝桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/郝桥镇"
+    },
+    {
+      "code": "130506103",
+      "name": "三思镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/三思镇"
+    },
+    {
+      "code": "130506104",
+      "name": "河郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/河郭镇"
+    },
+    {
+      "code": "130506105",
+      "name": "阎里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/阎里镇"
+    },
+    {
+      "code": "130506200",
+      "name": "东三召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/东三召乡"
+    },
+    {
+      "code": "130506203",
+      "name": "史召乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130506",
+      "year": 0,
+      "name_path": "河北省/邢台市/南和区/史召乡"
+    }
+  ]
+}

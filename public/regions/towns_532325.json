@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "532325100",
+      "name": "栋川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/栋川镇"
+    },
+    {
+      "code": "532325101",
+      "name": "光禄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/光禄镇"
+    },
+    {
+      "code": "532325102",
+      "name": "前场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/前场镇"
+    },
+    {
+      "code": "532325103",
+      "name": "官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/官屯镇"
+    },
+    {
+      "code": "532325106",
+      "name": "弥兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/弥兴镇"
+    },
+    {
+      "code": "532325108",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/太平镇"
+    },
+    {
+      "code": "532325204",
+      "name": "适中乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/适中乡"
+    },
+    {
+      "code": "532325205",
+      "name": "左门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/左门乡"
+    },
+    {
+      "code": "532325208",
+      "name": "大河口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532325",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/姚安县/大河口乡"
+    }
+  ]
+}

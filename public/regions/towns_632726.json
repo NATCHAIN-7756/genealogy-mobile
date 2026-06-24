@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "632726100",
+      "name": "约改镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632726",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/曲麻莱县/约改镇"
+    },
+    {
+      "code": "632726200",
+      "name": "巴干乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632726",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/曲麻莱县/巴干乡"
+    },
+    {
+      "code": "632726202",
+      "name": "秋智乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632726",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/曲麻莱县/秋智乡"
+    },
+    {
+      "code": "632726203",
+      "name": "叶格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632726",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/曲麻莱县/叶格乡"
+    },
+    {
+      "code": "632726204",
+      "name": "麻多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632726",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/曲麻莱县/麻多乡"
+    },
+    {
+      "code": "632726205",
+      "name": "曲麻河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632726",
+      "year": 0,
+      "name_path": "青海省/玉树藏族自治州/曲麻莱县/曲麻河乡"
+    }
+  ]
+}

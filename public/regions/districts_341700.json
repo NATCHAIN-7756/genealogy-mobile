@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "341702",
+      "name": "贵池区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341700",
+      "year": 0,
+      "name_path": "全国/安徽省/池州市/贵池区"
+    },
+    {
+      "code": "341721",
+      "name": "东至县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341700",
+      "year": 0,
+      "name_path": "全国/安徽省/池州市/东至县"
+    },
+    {
+      "code": "341722",
+      "name": "石台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341700",
+      "year": 0,
+      "name_path": "全国/安徽省/池州市/石台县"
+    },
+    {
+      "code": "341723",
+      "name": "青阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341700",
+      "year": 0,
+      "name_path": "全国/安徽省/池州市/青阳县"
+    }
+  ]
+}

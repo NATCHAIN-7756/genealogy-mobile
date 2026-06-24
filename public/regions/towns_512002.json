@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "512002001",
+      "name": "莲花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/莲花街道"
+    },
+    {
+      "code": "512002002",
+      "name": "三贤祠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/三贤祠街道"
+    },
+    {
+      "code": "512002003",
+      "name": "资溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/资溪街道"
+    },
+    {
+      "code": "512002004",
+      "name": "狮子山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/狮子山街道"
+    },
+    {
+      "code": "512002005",
+      "name": "宝莲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/宝莲街道"
+    },
+    {
+      "code": "512002100",
+      "name": "雁江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/雁江镇"
+    },
+    {
+      "code": "512002101",
+      "name": "松涛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/松涛镇"
+    },
+    {
+      "code": "512002102",
+      "name": "宝台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/宝台镇"
+    },
+    {
+      "code": "512002103",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/临江镇"
+    },
+    {
+      "code": "512002104",
+      "name": "保和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/保和镇"
+    },
+    {
+      "code": "512002105",
+      "name": "老君镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/老君镇"
+    },
+    {
+      "code": "512002106",
+      "name": "中和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/中和镇"
+    },
+    {
+      "code": "512002107",
+      "name": "丹山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/丹山镇"
+    },
+    {
+      "code": "512002108",
+      "name": "小院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/小院镇"
+    },
+    {
+      "code": "512002109",
+      "name": "堪嘉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/堪嘉镇"
+    },
+    {
+      "code": "512002110",
+      "name": "伍隍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/伍隍镇"
+    },
+    {
+      "code": "512002111",
+      "name": "石岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/石岭镇"
+    },
+    {
+      "code": "512002112",
+      "name": "东峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/东峰镇"
+    },
+    {
+      "code": "512002113",
+      "name": "南津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/南津镇"
+    },
+    {
+      "code": "512002116",
+      "name": "丰裕镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/丰裕镇"
+    },
+    {
+      "code": "512002117",
+      "name": "迎接镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/迎接镇"
+    },
+    {
+      "code": "512002118",
+      "name": "祥符镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "512002",
+      "year": 0,
+      "name_path": "四川省/资阳市/雁江区/祥符镇"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "350622100",
+      "name": "云陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/云陵镇"
+    },
+    {
+      "code": "350622101",
+      "name": "陈岱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/陈岱镇"
+    },
+    {
+      "code": "350622102",
+      "name": "东厦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/东厦镇"
+    },
+    {
+      "code": "350622103",
+      "name": "莆美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/莆美镇"
+    },
+    {
+      "code": "350622104",
+      "name": "列屿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/列屿镇"
+    },
+    {
+      "code": "350622105",
+      "name": "火田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/火田镇"
+    },
+    {
+      "code": "350622200",
+      "name": "下河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/下河乡"
+    },
+    {
+      "code": "350622201",
+      "name": "马铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/马铺乡"
+    },
+    {
+      "code": "350622202",
+      "name": "和平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350622",
+      "year": 0,
+      "name_path": "福建省/漳州市/云霄县/和平乡"
+    }
+  ]
+}

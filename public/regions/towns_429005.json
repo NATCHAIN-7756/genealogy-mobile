@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "429005001",
+      "name": "园林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/园林街道"
+    },
+    {
+      "code": "429005002",
+      "name": "泽口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/泽口街道"
+    },
+    {
+      "code": "429005003",
+      "name": "广华寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/广华寺街道"
+    },
+    {
+      "code": "429005004",
+      "name": "周矶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/周矶街道"
+    },
+    {
+      "code": "429005005",
+      "name": "杨市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/杨市街道"
+    },
+    {
+      "code": "429005006",
+      "name": "泰丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/泰丰街道"
+    },
+    {
+      "code": "429005007",
+      "name": "高场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/高场街道"
+    },
+    {
+      "code": "429005100",
+      "name": "竹根滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/竹根滩镇"
+    },
+    {
+      "code": "429005101",
+      "name": "渔洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/渔洋镇"
+    },
+    {
+      "code": "429005102",
+      "name": "老新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/老新镇"
+    },
+    {
+      "code": "429005103",
+      "name": "熊口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/熊口镇"
+    },
+    {
+      "code": "429005104",
+      "name": "王场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/王场镇"
+    },
+    {
+      "code": "429005105",
+      "name": "高石碑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/高石碑镇"
+    },
+    {
+      "code": "429005106",
+      "name": "积玉口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/积玉口镇"
+    },
+    {
+      "code": "429005107",
+      "name": "浩口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/浩口镇"
+    },
+    {
+      "code": "429005108",
+      "name": "张金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/张金镇"
+    },
+    {
+      "code": "429005109",
+      "name": "龙湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "429005",
+      "year": 0,
+      "name_path": "湖北省/潜江市/龙湾镇"
+    }
+  ]
+}

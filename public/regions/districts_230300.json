@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230302",
+      "name": "鸡冠区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/鸡冠区"
+    },
+    {
+      "code": "230303",
+      "name": "恒山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/恒山区"
+    },
+    {
+      "code": "230304",
+      "name": "滴道区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/滴道区"
+    },
+    {
+      "code": "230305",
+      "name": "梨树区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/梨树区"
+    },
+    {
+      "code": "230306",
+      "name": "城子河区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/城子河区"
+    },
+    {
+      "code": "230307",
+      "name": "麻山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/麻山区"
+    },
+    {
+      "code": "230321",
+      "name": "鸡东县",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/鸡东县"
+    },
+    {
+      "code": "230381",
+      "name": "虎林市",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/虎林市"
+    },
+    {
+      "code": "230382",
+      "name": "密山市",
+      "level": 3,
+      "type": null,
+      "parent_code": "230300",
+      "year": 0,
+      "name_path": "全国/黑龙江省/鸡西市/密山市"
+    }
+  ]
+}

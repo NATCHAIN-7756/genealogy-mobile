@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "620421100",
+      "name": "乌兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/乌兰镇"
+    },
+    {
+      "code": "620421101",
+      "name": "北湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/北湾镇"
+    },
+    {
+      "code": "620421102",
+      "name": "东湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/东湾镇"
+    },
+    {
+      "code": "620421103",
+      "name": "刘川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/刘川镇"
+    },
+    {
+      "code": "620421104",
+      "name": "北滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/北滩镇"
+    },
+    {
+      "code": "620421105",
+      "name": "平堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/平堡镇"
+    },
+    {
+      "code": "620421106",
+      "name": "糜滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/糜滩镇"
+    },
+    {
+      "code": "620421107",
+      "name": "三滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/三滩镇"
+    },
+    {
+      "code": "620421108",
+      "name": "大芦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/大芦镇"
+    },
+    {
+      "code": "620421109",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/双龙镇"
+    },
+    {
+      "code": "620421110",
+      "name": "东升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/东升镇"
+    },
+    {
+      "code": "620421111",
+      "name": "高湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/高湾镇"
+    },
+    {
+      "code": "620421112",
+      "name": "五合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/五合镇"
+    },
+    {
+      "code": "620421206",
+      "name": "兴隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/兴隆乡"
+    },
+    {
+      "code": "620421208",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/石门乡"
+    },
+    {
+      "code": "620421211",
+      "name": "靖安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/靖安乡"
+    },
+    {
+      "code": "620421215",
+      "name": "永新乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/永新乡"
+    },
+    {
+      "code": "620421216",
+      "name": "若笠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620421",
+      "year": 0,
+      "name_path": "甘肃省/白银市/靖远县/若笠乡"
+    }
+  ]
+}

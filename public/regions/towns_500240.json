@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "code": "500240001",
+      "name": "南宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/南宾街道"
+    },
+    {
+      "code": "500240002",
+      "name": "万安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/万安街道"
+    },
+    {
+      "code": "500240003",
+      "name": "下路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/下路街道"
+    },
+    {
+      "code": "500240101",
+      "name": "西沱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/西沱镇"
+    },
+    {
+      "code": "500240103",
+      "name": "悦崃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/悦崃镇"
+    },
+    {
+      "code": "500240104",
+      "name": "临溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/临溪镇"
+    },
+    {
+      "code": "500240105",
+      "name": "黄水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/黄水镇"
+    },
+    {
+      "code": "500240106",
+      "name": "马武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/马武镇"
+    },
+    {
+      "code": "500240107",
+      "name": "沙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/沙子镇"
+    },
+    {
+      "code": "500240108",
+      "name": "王场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/王场镇"
+    },
+    {
+      "code": "500240109",
+      "name": "沿溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/沿溪镇"
+    },
+    {
+      "code": "500240110",
+      "name": "龙沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/龙沙镇"
+    },
+    {
+      "code": "500240111",
+      "name": "鱼池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/鱼池镇"
+    },
+    {
+      "code": "500240112",
+      "name": "大歇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/大歇镇"
+    },
+    {
+      "code": "500240113",
+      "name": "三河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/三河镇"
+    },
+    {
+      "code": "500240114",
+      "name": "万朝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/万朝镇"
+    },
+    {
+      "code": "500240115",
+      "name": "桥头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/桥头镇"
+    },
+    {
+      "code": "500240116",
+      "name": "冷水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/冷水镇"
+    },
+    {
+      "code": "500240117",
+      "name": "黄鹤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/黄鹤镇"
+    },
+    {
+      "code": "500240118",
+      "name": "枫木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/枫木镇"
+    },
+    {
+      "code": "500240124",
+      "name": "金铃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/金铃镇"
+    },
+    {
+      "code": "500240125",
+      "name": "新乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/新乐镇"
+    },
+    {
+      "code": "500240203",
+      "name": "黎场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/黎场乡"
+    },
+    {
+      "code": "500240204",
+      "name": "三星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/三星乡"
+    },
+    {
+      "code": "500240205",
+      "name": "六塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/六塘乡"
+    },
+    {
+      "code": "500240207",
+      "name": "三益乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/三益乡"
+    },
+    {
+      "code": "500240208",
+      "name": "王家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/王家乡"
+    },
+    {
+      "code": "500240209",
+      "name": "河嘴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/河嘴乡"
+    },
+    {
+      "code": "500240210",
+      "name": "石家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/石家乡"
+    },
+    {
+      "code": "500240213",
+      "name": "中益乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/中益乡"
+    },
+    {
+      "code": "500240216",
+      "name": "龙潭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "500240",
+      "year": 0,
+      "name_path": "重庆市/石柱土家族自治县/龙潭乡"
+    }
+  ]
+}

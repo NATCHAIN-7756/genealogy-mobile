@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "632322100",
+      "name": "马克唐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/马克唐镇"
+    },
+    {
+      "code": "632322101",
+      "name": "康杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/康杨镇"
+    },
+    {
+      "code": "632322102",
+      "name": "坎布拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/坎布拉镇"
+    },
+    {
+      "code": "632322200",
+      "name": "贾加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/贾加乡"
+    },
+    {
+      "code": "632322201",
+      "name": "措周乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/措周乡"
+    },
+    {
+      "code": "632322202",
+      "name": "昂拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/昂拉乡"
+    },
+    {
+      "code": "632322203",
+      "name": "能科乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/能科乡"
+    },
+    {
+      "code": "632322204",
+      "name": "当顺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/当顺乡"
+    },
+    {
+      "code": "632322205",
+      "name": "尖扎滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632322",
+      "year": 0,
+      "name_path": "青海省/黄南藏族自治州/尖扎县/尖扎滩乡"
+    }
+  ]
+}

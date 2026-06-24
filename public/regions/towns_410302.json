@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "410302001",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/西关街道"
+    },
+    {
+      "code": "410302002",
+      "name": "西南隅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/西南隅街道"
+    },
+    {
+      "code": "410302003",
+      "name": "西北隅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/西北隅街道"
+    },
+    {
+      "code": "410302004",
+      "name": "东南隅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/东南隅街道"
+    },
+    {
+      "code": "410302005",
+      "name": "东北隅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/东北隅街道"
+    },
+    {
+      "code": "410302006",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/南关街道"
+    },
+    {
+      "code": "410302007",
+      "name": "洛浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/洛浦街道"
+    },
+    {
+      "code": "410302008",
+      "name": "邙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410302",
+      "year": 0,
+      "name_path": "河南省/洛阳市/老城区/邙山街道"
+    }
+  ]
+}

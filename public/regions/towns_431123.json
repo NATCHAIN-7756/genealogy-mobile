@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "431123100",
+      "name": "泷泊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/泷泊镇"
+    },
+    {
+      "code": "431123101",
+      "name": "江村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/江村镇"
+    },
+    {
+      "code": "431123102",
+      "name": "五里牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/五里牌镇"
+    },
+    {
+      "code": "431123103",
+      "name": "茶林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/茶林镇"
+    },
+    {
+      "code": "431123104",
+      "name": "何家洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/何家洞镇"
+    },
+    {
+      "code": "431123105",
+      "name": "麻江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/麻江镇"
+    },
+    {
+      "code": "431123206",
+      "name": "塘底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/塘底乡"
+    },
+    {
+      "code": "431123207",
+      "name": "上梧江瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/上梧江瑶族乡"
+    },
+    {
+      "code": "431123208",
+      "name": "理家坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/理家坪乡"
+    },
+    {
+      "code": "431123209",
+      "name": "五星岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/五星岭乡"
+    },
+    {
+      "code": "431123210",
+      "name": "打鼓坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431123",
+      "year": 0,
+      "name_path": "湖南省/永州市/双牌县/打鼓坪乡"
+    }
+  ]
+}

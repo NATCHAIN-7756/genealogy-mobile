@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "510604100",
+      "name": "万安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/万安镇"
+    },
+    {
+      "code": "510604101",
+      "name": "鄢家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/鄢家镇"
+    },
+    {
+      "code": "510604102",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/金山镇"
+    },
+    {
+      "code": "510604103",
+      "name": "略坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/略坪镇"
+    },
+    {
+      "code": "510604106",
+      "name": "调元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/调元镇"
+    },
+    {
+      "code": "510604107",
+      "name": "新盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/新盛镇"
+    },
+    {
+      "code": "510604109",
+      "name": "白马关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510604",
+      "year": 0,
+      "name_path": "四川省/德阳市/罗江区/白马关镇"
+    }
+  ]
+}

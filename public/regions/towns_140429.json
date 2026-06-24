@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140429100",
+      "name": "丰州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/丰州镇"
+    },
+    {
+      "code": "140429101",
+      "name": "洪水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/洪水镇"
+    },
+    {
+      "code": "140429102",
+      "name": "蟠龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/蟠龙镇"
+    },
+    {
+      "code": "140429103",
+      "name": "监漳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/监漳镇"
+    },
+    {
+      "code": "140429104",
+      "name": "故城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/故城镇"
+    },
+    {
+      "code": "140429105",
+      "name": "韩北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/韩北镇"
+    },
+    {
+      "code": "140429202",
+      "name": "大有乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/大有乡"
+    },
+    {
+      "code": "140429203",
+      "name": "贾豁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/贾豁乡"
+    },
+    {
+      "code": "140429205",
+      "name": "上司乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/上司乡"
+    },
+    {
+      "code": "140429206",
+      "name": "石北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/石北乡"
+    },
+    {
+      "code": "140429207",
+      "name": "涌泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/涌泉乡"
+    },
+    {
+      "code": "140429208",
+      "name": "分水岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140429",
+      "year": 0,
+      "name_path": "山西省/长治市/武乡县/分水岭乡"
+    }
+  ]
+}

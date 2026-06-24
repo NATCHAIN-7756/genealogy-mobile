@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "653228100",
+      "name": "昆岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653228",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和康县/昆岭镇"
+    },
+    {
+      "code": "653228101",
+      "name": "吉良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653228",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和康县/吉良镇"
+    }
+  ]
+}

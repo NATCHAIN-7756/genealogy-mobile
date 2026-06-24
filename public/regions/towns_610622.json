@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610622001",
+      "name": "大禹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/大禹街道"
+    },
+    {
+      "code": "610622101",
+      "name": "永坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/永坪镇"
+    },
+    {
+      "code": "610622102",
+      "name": "延水关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/延水关镇"
+    },
+    {
+      "code": "610622103",
+      "name": "文安驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/文安驿镇"
+    },
+    {
+      "code": "610622104",
+      "name": "杨家圪坮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/杨家圪坮镇"
+    },
+    {
+      "code": "610622105",
+      "name": "贾家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/贾家坪镇"
+    },
+    {
+      "code": "610622107",
+      "name": "关庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/关庄镇"
+    },
+    {
+      "code": "610622108",
+      "name": "乾坤湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610622",
+      "year": 0,
+      "name_path": "陕西省/延安市/延川县/乾坤湾镇"
+    }
+  ]
+}

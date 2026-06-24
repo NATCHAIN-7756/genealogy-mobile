@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "341002001",
+      "name": "昱东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/昱东街道"
+    },
+    {
+      "code": "341002002",
+      "name": "昱中街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/昱中街道"
+    },
+    {
+      "code": "341002003",
+      "name": "昱西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/昱西街道"
+    },
+    {
+      "code": "341002004",
+      "name": "老街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/老街街道"
+    },
+    {
+      "code": "341002100",
+      "name": "屯光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/屯光镇"
+    },
+    {
+      "code": "341002101",
+      "name": "阳湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/阳湖镇"
+    },
+    {
+      "code": "341002102",
+      "name": "黎阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/黎阳镇"
+    },
+    {
+      "code": "341002103",
+      "name": "新潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/新潭镇"
+    },
+    {
+      "code": "341002104",
+      "name": "奕棋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341002",
+      "year": 0,
+      "name_path": "安徽省/黄山市/屯溪区/奕棋镇"
+    }
+  ]
+}

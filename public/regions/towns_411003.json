@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "411003001",
+      "name": "新元街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/新元街道"
+    },
+    {
+      "code": "411003002",
+      "name": "许由街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/许由街道"
+    },
+    {
+      "code": "411003003",
+      "name": "邓庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/邓庄街道"
+    },
+    {
+      "code": "411003004",
+      "name": "长村张街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/长村张街道"
+    },
+    {
+      "code": "411003005",
+      "name": "小召街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/小召街道"
+    },
+    {
+      "code": "411003100",
+      "name": "将官池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/将官池镇"
+    },
+    {
+      "code": "411003101",
+      "name": "五女店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/五女店镇"
+    },
+    {
+      "code": "411003102",
+      "name": "尚集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/尚集镇"
+    },
+    {
+      "code": "411003103",
+      "name": "苏桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/苏桥镇"
+    },
+    {
+      "code": "411003104",
+      "name": "蒋李集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/蒋李集镇"
+    },
+    {
+      "code": "411003105",
+      "name": "张潘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/张潘镇"
+    },
+    {
+      "code": "411003106",
+      "name": "灵井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/灵井镇"
+    },
+    {
+      "code": "411003200",
+      "name": "陈曹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/陈曹乡"
+    },
+    {
+      "code": "411003203",
+      "name": "河街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/河街乡"
+    },
+    {
+      "code": "411003204",
+      "name": "桂村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/桂村乡"
+    },
+    {
+      "code": "411003205",
+      "name": "椹涧乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/椹涧乡"
+    },
+    {
+      "code": "411003206",
+      "name": "榆林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/榆林乡"
+    },
+    {
+      "code": "411003208",
+      "name": "艾庄回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411003",
+      "year": 0,
+      "name_path": "河南省/许昌市/建安区/艾庄回族乡"
+    }
+  ]
+}

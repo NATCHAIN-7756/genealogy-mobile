@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "361024100",
+      "name": "巴山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/巴山镇"
+    },
+    {
+      "code": "361024101",
+      "name": "相山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/相山镇"
+    },
+    {
+      "code": "361024102",
+      "name": "航埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/航埠镇"
+    },
+    {
+      "code": "361024103",
+      "name": "孙坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/孙坊镇"
+    },
+    {
+      "code": "361024104",
+      "name": "河上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/河上镇"
+    },
+    {
+      "code": "361024105",
+      "name": "礼陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/礼陂镇"
+    },
+    {
+      "code": "361024106",
+      "name": "马鞍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/马鞍镇"
+    },
+    {
+      "code": "361024200",
+      "name": "石庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/石庄乡"
+    },
+    {
+      "code": "361024201",
+      "name": "六家桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/六家桥乡"
+    },
+    {
+      "code": "361024202",
+      "name": "白路乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/白路乡"
+    },
+    {
+      "code": "361024203",
+      "name": "三山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/三山乡"
+    },
+    {
+      "code": "361024204",
+      "name": "白陂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/白陂乡"
+    },
+    {
+      "code": "361024205",
+      "name": "桃源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/桃源乡"
+    },
+    {
+      "code": "361024206",
+      "name": "许坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/许坊乡"
+    },
+    {
+      "code": "361024207",
+      "name": "郭圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361024",
+      "year": 0,
+      "name_path": "江西省/抚州市/崇仁县/郭圩乡"
+    }
+  ]
+}

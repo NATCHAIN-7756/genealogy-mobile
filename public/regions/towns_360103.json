@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "360103014",
+      "name": "南浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/南浦街道"
+    },
+    {
+      "code": "360103016",
+      "name": "绳金塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/绳金塔街道"
+    },
+    {
+      "code": "360103018",
+      "name": "南站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/南站街道"
+    },
+    {
+      "code": "360103019",
+      "name": "朝阳洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/朝阳洲街道"
+    },
+    {
+      "code": "360103021",
+      "name": "广润门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/广润门街道"
+    },
+    {
+      "code": "360103023",
+      "name": "丁公路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/丁公路街道"
+    },
+    {
+      "code": "360103024",
+      "name": "桃源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/桃源街道"
+    },
+    {
+      "code": "360103025",
+      "name": "朝农街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/朝农街道"
+    },
+    {
+      "code": "360103026",
+      "name": "桃花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/桃花街道"
+    },
+    {
+      "code": "360103027",
+      "name": "九洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360103",
+      "year": 0,
+      "name_path": "江西省/南昌市/西湖区/九洲街道"
+    }
+  ]
+}

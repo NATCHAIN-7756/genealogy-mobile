@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "441882100",
+      "name": "连州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/连州镇"
+    },
+    {
+      "code": "441882101",
+      "name": "星子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/星子镇"
+    },
+    {
+      "code": "441882102",
+      "name": "大路边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/大路边镇"
+    },
+    {
+      "code": "441882103",
+      "name": "龙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/龙坪镇"
+    },
+    {
+      "code": "441882104",
+      "name": "西岸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/西岸镇"
+    },
+    {
+      "code": "441882105",
+      "name": "保安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/保安镇"
+    },
+    {
+      "code": "441882106",
+      "name": "丰阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/丰阳镇"
+    },
+    {
+      "code": "441882107",
+      "name": "东陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/东陂镇"
+    },
+    {
+      "code": "441882109",
+      "name": "九陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/九陂镇"
+    },
+    {
+      "code": "441882118",
+      "name": "西江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/西江镇"
+    },
+    {
+      "code": "441882200",
+      "name": "瑶安瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/瑶安瑶族乡"
+    },
+    {
+      "code": "441882201",
+      "name": "三水瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "441882",
+      "year": 0,
+      "name_path": "广东省/清远市/连州市/三水瑶族乡"
+    }
+  ]
+}

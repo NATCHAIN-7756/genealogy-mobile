@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "419001001",
+      "name": "沁园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/沁园街道"
+    },
+    {
+      "code": "419001002",
+      "name": "济水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/济水街道"
+    },
+    {
+      "code": "419001003",
+      "name": "北海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/北海街道"
+    },
+    {
+      "code": "419001004",
+      "name": "天坛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/天坛街道"
+    },
+    {
+      "code": "419001005",
+      "name": "玉泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/玉泉街道"
+    },
+    {
+      "code": "419001100",
+      "name": "克井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/克井镇"
+    },
+    {
+      "code": "419001101",
+      "name": "五龙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/五龙口镇"
+    },
+    {
+      "code": "419001102",
+      "name": "轵城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/轵城镇"
+    },
+    {
+      "code": "419001103",
+      "name": "承留镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/承留镇"
+    },
+    {
+      "code": "419001104",
+      "name": "邵原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/邵原镇"
+    },
+    {
+      "code": "419001105",
+      "name": "坡头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/坡头镇"
+    },
+    {
+      "code": "419001106",
+      "name": "梨林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/梨林镇"
+    },
+    {
+      "code": "419001107",
+      "name": "大峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/大峪镇"
+    },
+    {
+      "code": "419001108",
+      "name": "思礼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/思礼镇"
+    },
+    {
+      "code": "419001109",
+      "name": "王屋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/王屋镇"
+    },
+    {
+      "code": "419001110",
+      "name": "下冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "419001",
+      "year": 0,
+      "name_path": "河南省/济源市/下冶镇"
+    }
+  ]
+}

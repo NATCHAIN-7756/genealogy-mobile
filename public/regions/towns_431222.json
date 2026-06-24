@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "431222101",
+      "name": "明溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/明溪口镇"
+    },
+    {
+      "code": "431222102",
+      "name": "麻溪铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/麻溪铺镇"
+    },
+    {
+      "code": "431222103",
+      "name": "凉水井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/凉水井镇"
+    },
+    {
+      "code": "431222104",
+      "name": "官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/官庄镇"
+    },
+    {
+      "code": "431222105",
+      "name": "五强溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/五强溪镇"
+    },
+    {
+      "code": "431222107",
+      "name": "筲箕湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/筲箕湾镇"
+    },
+    {
+      "code": "431222108",
+      "name": "七甲坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/七甲坪镇"
+    },
+    {
+      "code": "431222109",
+      "name": "沅陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/沅陵镇"
+    },
+    {
+      "code": "431222204",
+      "name": "盘古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/盘古乡"
+    },
+    {
+      "code": "431222207",
+      "name": "二酉苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/二酉苗族乡"
+    },
+    {
+      "code": "431222215",
+      "name": "荔溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/荔溪乡"
+    },
+    {
+      "code": "431222223",
+      "name": "杜家坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/杜家坪乡"
+    },
+    {
+      "code": "431222224",
+      "name": "楠木铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/楠木铺乡"
+    },
+    {
+      "code": "431222225",
+      "name": "马底驿乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/马底驿乡"
+    },
+    {
+      "code": "431222228",
+      "name": "北溶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/北溶乡"
+    },
+    {
+      "code": "431222230",
+      "name": "肖家桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/肖家桥乡"
+    },
+    {
+      "code": "431222232",
+      "name": "大合坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/大合坪乡"
+    },
+    {
+      "code": "431222234",
+      "name": "火场土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/火场土家族乡"
+    },
+    {
+      "code": "431222235",
+      "name": "借母溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/借母溪乡"
+    },
+    {
+      "code": "431222238",
+      "name": "陈家滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/陈家滩乡"
+    },
+    {
+      "code": "431222239",
+      "name": "清浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431222",
+      "year": 0,
+      "name_path": "湖南省/怀化市/沅陵县/清浪乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130110100",
+      "name": "获鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/获鹿镇"
+    },
+    {
+      "code": "130110101",
+      "name": "铜冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/铜冶镇"
+    },
+    {
+      "code": "130110102",
+      "name": "寺家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/寺家庄镇"
+    },
+    {
+      "code": "130110103",
+      "name": "上庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/上庄镇"
+    },
+    {
+      "code": "130110104",
+      "name": "李村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/李村镇"
+    },
+    {
+      "code": "130110105",
+      "name": "宜安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/宜安镇"
+    },
+    {
+      "code": "130110106",
+      "name": "黄壁庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/黄壁庄镇"
+    },
+    {
+      "code": "130110107",
+      "name": "大河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/大河镇"
+    },
+    {
+      "code": "130110108",
+      "name": "山尹村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/山尹村镇"
+    },
+    {
+      "code": "130110200",
+      "name": "石井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/石井乡"
+    },
+    {
+      "code": "130110201",
+      "name": "白鹿泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/白鹿泉乡"
+    },
+    {
+      "code": "130110202",
+      "name": "上寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130110",
+      "year": 0,
+      "name_path": "河北省/石家庄市/鹿泉区/上寨乡"
+    }
+  ]
+}

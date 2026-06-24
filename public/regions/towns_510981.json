@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "510981001",
+      "name": "平安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/平安街道"
+    },
+    {
+      "code": "510981002",
+      "name": "太和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/太和街道"
+    },
+    {
+      "code": "510981101",
+      "name": "大榆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/大榆镇"
+    },
+    {
+      "code": "510981102",
+      "name": "广兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/广兴镇"
+    },
+    {
+      "code": "510981103",
+      "name": "金华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/金华镇"
+    },
+    {
+      "code": "510981104",
+      "name": "沱牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/沱牌镇"
+    },
+    {
+      "code": "510981105",
+      "name": "太乙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/太乙镇"
+    },
+    {
+      "code": "510981106",
+      "name": "金家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/金家镇"
+    },
+    {
+      "code": "510981107",
+      "name": "复兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/复兴镇"
+    },
+    {
+      "code": "510981108",
+      "name": "天仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/天仙镇"
+    },
+    {
+      "code": "510981109",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/仁和镇"
+    },
+    {
+      "code": "510981110",
+      "name": "青岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/青岗镇"
+    },
+    {
+      "code": "510981111",
+      "name": "洋溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/洋溪镇"
+    },
+    {
+      "code": "510981112",
+      "name": "香山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/香山镇"
+    },
+    {
+      "code": "510981113",
+      "name": "明星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/明星镇"
+    },
+    {
+      "code": "510981114",
+      "name": "涪西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/涪西镇"
+    },
+    {
+      "code": "510981117",
+      "name": "潼射镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/潼射镇"
+    },
+    {
+      "code": "510981118",
+      "name": "曹碑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/曹碑镇"
+    },
+    {
+      "code": "510981119",
+      "name": "官升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/官升镇"
+    },
+    {
+      "code": "510981120",
+      "name": "文升镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/文升镇"
+    },
+    {
+      "code": "510981121",
+      "name": "东岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/东岳镇"
+    },
+    {
+      "code": "510981122",
+      "name": "瞿河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/瞿河镇"
+    },
+    {
+      "code": "510981123",
+      "name": "武安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510981",
+      "year": 0,
+      "name_path": "四川省/遂宁市/射洪市/武安镇"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "220582001",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/团结街道"
+    },
+    {
+      "code": "220582002",
+      "name": "黎明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/黎明街道"
+    },
+    {
+      "code": "220582003",
+      "name": "通胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/通胜街道"
+    },
+    {
+      "code": "220582004",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/城东街道"
+    },
+    {
+      "code": "220582100",
+      "name": "青石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/青石镇"
+    },
+    {
+      "code": "220582101",
+      "name": "榆林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/榆林镇"
+    },
+    {
+      "code": "220582102",
+      "name": "花甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/花甸镇"
+    },
+    {
+      "code": "220582103",
+      "name": "头道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/头道镇"
+    },
+    {
+      "code": "220582104",
+      "name": "清河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/清河镇"
+    },
+    {
+      "code": "220582105",
+      "name": "台上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/台上镇"
+    },
+    {
+      "code": "220582106",
+      "name": "财源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/财源镇"
+    },
+    {
+      "code": "220582107",
+      "name": "大路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/大路镇"
+    },
+    {
+      "code": "220582108",
+      "name": "太王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/太王镇"
+    },
+    {
+      "code": "220582200",
+      "name": "麻线乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/麻线乡"
+    },
+    {
+      "code": "220582201",
+      "name": "凉水朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220582",
+      "year": 0,
+      "name_path": "吉林省/通化市/集安市/凉水朝鲜族乡"
+    }
+  ]
+}

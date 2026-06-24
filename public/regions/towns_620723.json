@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "620723101",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/沙河镇"
+    },
+    {
+      "code": "620723102",
+      "name": "新华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/新华镇"
+    },
+    {
+      "code": "620723103",
+      "name": "蓼泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/蓼泉镇"
+    },
+    {
+      "code": "620723104",
+      "name": "平川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/平川镇"
+    },
+    {
+      "code": "620723105",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/板桥镇"
+    },
+    {
+      "code": "620723106",
+      "name": "鸭暖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/鸭暖镇"
+    },
+    {
+      "code": "620723107",
+      "name": "倪家营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620723",
+      "year": 0,
+      "name_path": "甘肃省/张掖市/临泽县/倪家营镇"
+    }
+  ]
+}

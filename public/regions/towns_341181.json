@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "341181002",
+      "name": "千秋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/千秋街道"
+    },
+    {
+      "code": "341181003",
+      "name": "广陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/广陵街道"
+    },
+    {
+      "code": "341181100",
+      "name": "铜城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/铜城镇"
+    },
+    {
+      "code": "341181101",
+      "name": "汊涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/汊涧镇"
+    },
+    {
+      "code": "341181102",
+      "name": "秦栏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/秦栏镇"
+    },
+    {
+      "code": "341181103",
+      "name": "大通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/大通镇"
+    },
+    {
+      "code": "341181104",
+      "name": "杨村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/杨村镇"
+    },
+    {
+      "code": "341181105",
+      "name": "石梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/石梁镇"
+    },
+    {
+      "code": "341181106",
+      "name": "金集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/金集镇"
+    },
+    {
+      "code": "341181108",
+      "name": "仁和集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/仁和集镇"
+    },
+    {
+      "code": "341181109",
+      "name": "冶山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/冶山镇"
+    },
+    {
+      "code": "341181110",
+      "name": "郑集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/郑集镇"
+    },
+    {
+      "code": "341181111",
+      "name": "张铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/张铺镇"
+    },
+    {
+      "code": "341181112",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/永丰镇"
+    },
+    {
+      "code": "341181113",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/新街镇"
+    },
+    {
+      "code": "341181114",
+      "name": "万寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341181",
+      "year": 0,
+      "name_path": "安徽省/滁州市/天长市/万寿镇"
+    }
+  ]
+}

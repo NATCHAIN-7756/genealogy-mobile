@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "220302001",
+      "name": "仁兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/仁兴街道"
+    },
+    {
+      "code": "220302002",
+      "name": "英雄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/英雄街道"
+    },
+    {
+      "code": "220302003",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/站前街道"
+    },
+    {
+      "code": "220302004",
+      "name": "北沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/北沟街道"
+    },
+    {
+      "code": "220302005",
+      "name": "地直街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/地直街道"
+    },
+    {
+      "code": "220302100",
+      "name": "十家堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/十家堡镇"
+    },
+    {
+      "code": "220302101",
+      "name": "郭家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/郭家店镇"
+    },
+    {
+      "code": "220302102",
+      "name": "孟家岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/孟家岭镇"
+    },
+    {
+      "code": "220302200",
+      "name": "平西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220302",
+      "year": 0,
+      "name_path": "吉林省/四平市/铁西区/平西乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "370505001",
+      "name": "垦利街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/垦利街道"
+    },
+    {
+      "code": "370505002",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/兴隆街道"
+    },
+    {
+      "code": "370505100",
+      "name": "胜坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/胜坨镇"
+    },
+    {
+      "code": "370505101",
+      "name": "郝家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/郝家镇"
+    },
+    {
+      "code": "370505102",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/永安镇"
+    },
+    {
+      "code": "370505103",
+      "name": "黄河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/黄河口镇"
+    },
+    {
+      "code": "370505104",
+      "name": "董集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370505",
+      "year": 0,
+      "name_path": "山东省/东营市/垦利区/董集镇"
+    }
+  ]
+}

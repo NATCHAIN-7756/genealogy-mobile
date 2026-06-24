@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "code": "511703001",
+      "name": "三里坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/三里坪街道"
+    },
+    {
+      "code": "511703002",
+      "name": "翠屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/翠屏街道"
+    },
+    {
+      "code": "511703003",
+      "name": "石板街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/石板街道"
+    },
+    {
+      "code": "511703004",
+      "name": "斌郎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/斌郎街道"
+    },
+    {
+      "code": "511703005",
+      "name": "明月江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/明月江街道"
+    },
+    {
+      "code": "511703006",
+      "name": "杨柳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/杨柳街道"
+    },
+    {
+      "code": "511703100",
+      "name": "亭子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/亭子镇"
+    },
+    {
+      "code": "511703101",
+      "name": "麻柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/麻柳镇"
+    },
+    {
+      "code": "511703103",
+      "name": "大树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/大树镇"
+    },
+    {
+      "code": "511703104",
+      "name": "南岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/南岳镇"
+    },
+    {
+      "code": "511703105",
+      "name": "景市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/景市镇"
+    },
+    {
+      "code": "511703106",
+      "name": "赵家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/赵家镇"
+    },
+    {
+      "code": "511703107",
+      "name": "河市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/河市镇"
+    },
+    {
+      "code": "511703109",
+      "name": "渡市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/渡市镇"
+    },
+    {
+      "code": "511703110",
+      "name": "管村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/管村镇"
+    },
+    {
+      "code": "511703111",
+      "name": "石梯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/石梯镇"
+    },
+    {
+      "code": "511703112",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/石桥镇"
+    },
+    {
+      "code": "511703113",
+      "name": "堡子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/堡子镇"
+    },
+    {
+      "code": "511703114",
+      "name": "福善镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/福善镇"
+    },
+    {
+      "code": "511703115",
+      "name": "万家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/万家镇"
+    },
+    {
+      "code": "511703116",
+      "name": "百节镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/百节镇"
+    },
+    {
+      "code": "511703117",
+      "name": "金垭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/金垭镇"
+    },
+    {
+      "code": "511703119",
+      "name": "双庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/双庙镇"
+    },
+    {
+      "code": "511703120",
+      "name": "桥湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/桥湾镇"
+    },
+    {
+      "code": "511703121",
+      "name": "赵固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/赵固镇"
+    },
+    {
+      "code": "511703123",
+      "name": "平滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/平滩镇"
+    },
+    {
+      "code": "511703125",
+      "name": "大堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/大堰镇"
+    },
+    {
+      "code": "511703127",
+      "name": "罐子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/罐子镇"
+    },
+    {
+      "code": "511703203",
+      "name": "安仁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/安仁乡"
+    },
+    {
+      "code": "511703215",
+      "name": "幺塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/幺塘乡"
+    },
+    {
+      "code": "511703217",
+      "name": "龙会乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/龙会乡"
+    },
+    {
+      "code": "511703234",
+      "name": "虎让乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/虎让乡"
+    },
+    {
+      "code": "511703235",
+      "name": "米城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511703",
+      "year": 0,
+      "name_path": "四川省/达州市/达川区/米城乡"
+    }
+  ]
+}

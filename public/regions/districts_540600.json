@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540602",
+      "name": "色尼区",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/色尼区"
+    },
+    {
+      "code": "540621",
+      "name": "嘉黎县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/嘉黎县"
+    },
+    {
+      "code": "540622",
+      "name": "比如县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/比如县"
+    },
+    {
+      "code": "540623",
+      "name": "聂荣县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/聂荣县"
+    },
+    {
+      "code": "540624",
+      "name": "安多县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/安多县"
+    },
+    {
+      "code": "540625",
+      "name": "申扎县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/申扎县"
+    },
+    {
+      "code": "540626",
+      "name": "索县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/索县"
+    },
+    {
+      "code": "540627",
+      "name": "班戈县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/班戈县"
+    },
+    {
+      "code": "540628",
+      "name": "巴青县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/巴青县"
+    },
+    {
+      "code": "540629",
+      "name": "尼玛县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/尼玛县"
+    },
+    {
+      "code": "540630",
+      "name": "双湖县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540600",
+      "year": 0,
+      "name_path": "全国/西藏自治区/那曲市/双湖县"
+    }
+  ]
+}

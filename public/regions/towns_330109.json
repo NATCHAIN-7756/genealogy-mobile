@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "330109001",
+      "name": "城厢街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/城厢街道"
+    },
+    {
+      "code": "330109002",
+      "name": "北干街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/北干街道"
+    },
+    {
+      "code": "330109003",
+      "name": "蜀山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/蜀山街道"
+    },
+    {
+      "code": "330109004",
+      "name": "新塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/新塘街道"
+    },
+    {
+      "code": "330109005",
+      "name": "靖江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/靖江街道"
+    },
+    {
+      "code": "330109006",
+      "name": "南阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/南阳街道"
+    },
+    {
+      "code": "330109012",
+      "name": "新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/新街街道"
+    },
+    {
+      "code": "330109013",
+      "name": "闻堰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/闻堰街道"
+    },
+    {
+      "code": "330109014",
+      "name": "宁围街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/宁围街道"
+    },
+    {
+      "code": "330109015",
+      "name": "盈丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/盈丰街道"
+    },
+    {
+      "code": "330109100",
+      "name": "楼塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/楼塔镇"
+    },
+    {
+      "code": "330109101",
+      "name": "河上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/河上镇"
+    },
+    {
+      "code": "330109102",
+      "name": "戴村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/戴村镇"
+    },
+    {
+      "code": "330109103",
+      "name": "浦阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/浦阳镇"
+    },
+    {
+      "code": "330109104",
+      "name": "进化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/进化镇"
+    },
+    {
+      "code": "330109105",
+      "name": "临浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/临浦镇"
+    },
+    {
+      "code": "330109106",
+      "name": "义桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/义桥镇"
+    },
+    {
+      "code": "330109107",
+      "name": "所前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/所前镇"
+    },
+    {
+      "code": "330109108",
+      "name": "衙前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/衙前镇"
+    },
+    {
+      "code": "330109113",
+      "name": "瓜沥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/瓜沥镇"
+    },
+    {
+      "code": "330109115",
+      "name": "益农镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/益农镇"
+    },
+    {
+      "code": "330109120",
+      "name": "党湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330109",
+      "year": 0,
+      "name_path": "浙江省/杭州市/萧山区/党湾镇"
+    }
+  ]
+}

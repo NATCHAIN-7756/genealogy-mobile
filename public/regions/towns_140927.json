@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140927100",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/龙泉镇"
+    },
+    {
+      "code": "140927101",
+      "name": "义井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/义井镇"
+    },
+    {
+      "code": "140927102",
+      "name": "八角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/八角镇"
+    },
+    {
+      "code": "140927200",
+      "name": "东湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/东湖乡"
+    },
+    {
+      "code": "140927203",
+      "name": "贺职乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/贺职乡"
+    },
+    {
+      "code": "140927204",
+      "name": "长畛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/长畛乡"
+    },
+    {
+      "code": "140927205",
+      "name": "烈堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/烈堡乡"
+    },
+    {
+      "code": "140927206",
+      "name": "大严备乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140927",
+      "year": 0,
+      "name_path": "山西省/忻州市/神池县/大严备乡"
+    }
+  ]
+}

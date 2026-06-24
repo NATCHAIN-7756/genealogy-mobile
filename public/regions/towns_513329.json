@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "513329100",
+      "name": "如龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/如龙镇"
+    },
+    {
+      "code": "513329101",
+      "name": "拉日马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/拉日马镇"
+    },
+    {
+      "code": "513329102",
+      "name": "大盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/大盖镇"
+    },
+    {
+      "code": "513329103",
+      "name": "色威镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/色威镇"
+    },
+    {
+      "code": "513329104",
+      "name": "通宵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/通宵镇"
+    },
+    {
+      "code": "513329105",
+      "name": "尤拉西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/尤拉西镇"
+    },
+    {
+      "code": "513329200",
+      "name": "沙堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/沙堆乡"
+    },
+    {
+      "code": "513329203",
+      "name": "绕鲁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/绕鲁乡"
+    },
+    {
+      "code": "513329207",
+      "name": "博美乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/博美乡"
+    },
+    {
+      "code": "513329209",
+      "name": "子拖西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/子拖西乡"
+    },
+    {
+      "code": "513329210",
+      "name": "和平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/和平乡"
+    },
+    {
+      "code": "513329211",
+      "name": "洛古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/洛古乡"
+    },
+    {
+      "code": "513329212",
+      "name": "雄龙西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/雄龙西乡"
+    },
+    {
+      "code": "513329213",
+      "name": "麻日乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/麻日乡"
+    },
+    {
+      "code": "513329215",
+      "name": "友谊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/友谊乡"
+    },
+    {
+      "code": "513329217",
+      "name": "银多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513329",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/新龙县/银多乡"
+    }
+  ]
+}

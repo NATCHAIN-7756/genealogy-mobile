@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "440203001",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/新华街道"
+    },
+    {
+      "code": "440203002",
+      "name": "惠民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/惠民街道"
+    },
+    {
+      "code": "440203100",
+      "name": "西联镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/西联镇"
+    },
+    {
+      "code": "440203101",
+      "name": "西河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/西河镇"
+    },
+    {
+      "code": "440203102",
+      "name": "重阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/重阳镇"
+    },
+    {
+      "code": "440203103",
+      "name": "龙归镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/龙归镇"
+    },
+    {
+      "code": "440203104",
+      "name": "江湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440203",
+      "year": 0,
+      "name_path": "广东省/韶关市/武江区/江湾镇"
+    }
+  ]
+}

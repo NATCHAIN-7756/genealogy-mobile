@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "532622100",
+      "name": "江那镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/江那镇"
+    },
+    {
+      "code": "532622101",
+      "name": "平远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/平远镇"
+    },
+    {
+      "code": "532622102",
+      "name": "稼依镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/稼依镇"
+    },
+    {
+      "code": "532622103",
+      "name": "阿猛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/阿猛镇"
+    },
+    {
+      "code": "532622200",
+      "name": "阿舍彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/阿舍彝族乡"
+    },
+    {
+      "code": "532622201",
+      "name": "维摩彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/维摩彝族乡"
+    },
+    {
+      "code": "532622202",
+      "name": "盘龙彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/盘龙彝族乡"
+    },
+    {
+      "code": "532622203",
+      "name": "八嘎乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/八嘎乡"
+    },
+    {
+      "code": "532622204",
+      "name": "者腊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/者腊乡"
+    },
+    {
+      "code": "532622205",
+      "name": "蚌峨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/蚌峨乡"
+    },
+    {
+      "code": "532622207",
+      "name": "干河彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532622",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/砚山县/干河彝族乡"
+    }
+  ]
+}

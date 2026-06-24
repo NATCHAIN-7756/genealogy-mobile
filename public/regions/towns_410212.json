@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "410212001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/城东街道"
+    },
+    {
+      "code": "410212002",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/兴隆街道"
+    },
+    {
+      "code": "410212101",
+      "name": "陈留镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/陈留镇"
+    },
+    {
+      "code": "410212102",
+      "name": "仇楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/仇楼镇"
+    },
+    {
+      "code": "410212103",
+      "name": "八里湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/八里湾镇"
+    },
+    {
+      "code": "410212104",
+      "name": "曲兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/曲兴镇"
+    },
+    {
+      "code": "410212105",
+      "name": "朱仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/朱仙镇"
+    },
+    {
+      "code": "410212106",
+      "name": "罗王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/罗王镇"
+    },
+    {
+      "code": "410212107",
+      "name": "西姜寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/西姜寨镇"
+    },
+    {
+      "code": "410212108",
+      "name": "杜良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/杜良镇"
+    },
+    {
+      "code": "410212200",
+      "name": "半坡店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/半坡店乡"
+    },
+    {
+      "code": "410212202",
+      "name": "刘店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/刘店乡"
+    },
+    {
+      "code": "410212203",
+      "name": "袁坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/袁坊乡"
+    },
+    {
+      "code": "410212207",
+      "name": "万隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/万隆乡"
+    },
+    {
+      "code": "410212208",
+      "name": "范村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410212",
+      "year": 0,
+      "name_path": "河南省/开封市/祥符区/范村乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "210321001",
+      "name": "八角台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/八角台街道"
+    },
+    {
+      "code": "210321002",
+      "name": "台东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/台东街道"
+    },
+    {
+      "code": "210321101",
+      "name": "西佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/西佛镇"
+    },
+    {
+      "code": "210321102",
+      "name": "新开河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/新开河镇"
+    },
+    {
+      "code": "210321103",
+      "name": "黄沙坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/黄沙坨镇"
+    },
+    {
+      "code": "210321104",
+      "name": "高力房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/高力房镇"
+    },
+    {
+      "code": "210321105",
+      "name": "桑林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/桑林镇"
+    },
+    {
+      "code": "210321106",
+      "name": "富家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/富家镇"
+    },
+    {
+      "code": "210321107",
+      "name": "达牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/达牛镇"
+    },
+    {
+      "code": "210321109",
+      "name": "韭菜台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/韭菜台镇"
+    },
+    {
+      "code": "210321110",
+      "name": "新台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/新台镇"
+    },
+    {
+      "code": "210321111",
+      "name": "桓洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210321",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/台安县/桓洞镇"
+    }
+  ]
+}

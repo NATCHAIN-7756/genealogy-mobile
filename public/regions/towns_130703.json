@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130703001",
+      "name": "明德南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/明德南街街道"
+    },
+    {
+      "code": "130703002",
+      "name": "大境门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/大境门街道"
+    },
+    {
+      "code": "130703003",
+      "name": "明德北街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/明德北街街道"
+    },
+    {
+      "code": "130703004",
+      "name": "新华街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/新华街街道"
+    },
+    {
+      "code": "130703005",
+      "name": "堡子里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/堡子里街道"
+    },
+    {
+      "code": "130703006",
+      "name": "南营坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/南营坊街道"
+    },
+    {
+      "code": "130703007",
+      "name": "工人新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/工人新村街道"
+    },
+    {
+      "code": "130703100",
+      "name": "东窑子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/东窑子镇"
+    },
+    {
+      "code": "130703102",
+      "name": "沈家屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/沈家屯镇"
+    },
+    {
+      "code": "130703103",
+      "name": "沙岭子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/沙岭子镇"
+    },
+    {
+      "code": "130703104",
+      "name": "姚家房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130703",
+      "year": 0,
+      "name_path": "河北省/张家口市/桥西区/姚家房镇"
+    }
+  ]
+}

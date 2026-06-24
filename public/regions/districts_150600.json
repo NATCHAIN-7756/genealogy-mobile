@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150602",
+      "name": "东胜区",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/东胜区"
+    },
+    {
+      "code": "150603",
+      "name": "康巴什区",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/康巴什区"
+    },
+    {
+      "code": "150621",
+      "name": "达拉特旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/达拉特旗"
+    },
+    {
+      "code": "150622",
+      "name": "准格尔旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/准格尔旗"
+    },
+    {
+      "code": "150623",
+      "name": "鄂托克前旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/鄂托克前旗"
+    },
+    {
+      "code": "150624",
+      "name": "鄂托克旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/鄂托克旗"
+    },
+    {
+      "code": "150625",
+      "name": "杭锦旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/杭锦旗"
+    },
+    {
+      "code": "150626",
+      "name": "乌审旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/乌审旗"
+    },
+    {
+      "code": "150627",
+      "name": "伊金霍洛旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150600",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/鄂尔多斯市/伊金霍洛旗"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "610921100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/城关镇"
+    },
+    {
+      "code": "610921101",
+      "name": "涧池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/涧池镇"
+    },
+    {
+      "code": "610921102",
+      "name": "蒲溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/蒲溪镇"
+    },
+    {
+      "code": "610921103",
+      "name": "平梁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/平梁镇"
+    },
+    {
+      "code": "610921104",
+      "name": "双乳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/双乳镇"
+    },
+    {
+      "code": "610921105",
+      "name": "铁佛寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/铁佛寺镇"
+    },
+    {
+      "code": "610921107",
+      "name": "漩涡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/漩涡镇"
+    },
+    {
+      "code": "610921108",
+      "name": "汉阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/汉阳镇"
+    },
+    {
+      "code": "610921110",
+      "name": "双河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/双河口镇"
+    },
+    {
+      "code": "610921112",
+      "name": "观音河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610921",
+      "year": 0,
+      "name_path": "陕西省/安康市/汉阴县/观音河镇"
+    }
+  ]
+}

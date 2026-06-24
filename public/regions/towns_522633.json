@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "522633001",
+      "name": "丙梅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/丙梅街道"
+    },
+    {
+      "code": "522633101",
+      "name": "贯洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/贯洞镇"
+    },
+    {
+      "code": "522633102",
+      "name": "洛香镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/洛香镇"
+    },
+    {
+      "code": "522633103",
+      "name": "下江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/下江镇"
+    },
+    {
+      "code": "522633104",
+      "name": "宰便镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/宰便镇"
+    },
+    {
+      "code": "522633105",
+      "name": "西山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/西山镇"
+    },
+    {
+      "code": "522633106",
+      "name": "停洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/停洞镇"
+    },
+    {
+      "code": "522633107",
+      "name": "往洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/往洞镇"
+    },
+    {
+      "code": "522633108",
+      "name": "加鸠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/加鸠镇"
+    },
+    {
+      "code": "522633109",
+      "name": "斗里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/斗里镇"
+    },
+    {
+      "code": "522633110",
+      "name": "庆云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/庆云镇"
+    },
+    {
+      "code": "522633111",
+      "name": "东朗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/东朗镇"
+    },
+    {
+      "code": "522633112",
+      "name": "丙妹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/丙妹镇"
+    },
+    {
+      "code": "522633200",
+      "name": "高增乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/高增乡"
+    },
+    {
+      "code": "522633201",
+      "name": "谷坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/谷坪乡"
+    },
+    {
+      "code": "522633204",
+      "name": "刚边壮族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/刚边壮族乡"
+    },
+    {
+      "code": "522633205",
+      "name": "加榜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/加榜乡"
+    },
+    {
+      "code": "522633206",
+      "name": "秀塘壮族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/秀塘壮族乡"
+    },
+    {
+      "code": "522633208",
+      "name": "翠里瑶族壮族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/翠里瑶族壮族乡"
+    },
+    {
+      "code": "522633212",
+      "name": "加勉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522633",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/从江县/加勉乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "510113002",
+      "name": "大弯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/大弯街道"
+    },
+    {
+      "code": "510113003",
+      "name": "大同街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/大同街道"
+    },
+    {
+      "code": "510113102",
+      "name": "弥牟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/弥牟镇"
+    },
+    {
+      "code": "510113104",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/城厢镇"
+    },
+    {
+      "code": "510113106",
+      "name": "姚渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/姚渡镇"
+    },
+    {
+      "code": "510113107",
+      "name": "清泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/清泉镇"
+    },
+    {
+      "code": "510113108",
+      "name": "福洪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510113",
+      "year": 0,
+      "name_path": "四川省/成都市/青白江区/福洪镇"
+    }
+  ]
+}

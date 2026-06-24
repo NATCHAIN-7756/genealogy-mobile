@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "522625100",
+      "name": "㵲阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/㵲阳镇"
+    },
+    {
+      "code": "522625101",
+      "name": "蕉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/蕉溪镇"
+    },
+    {
+      "code": "522625102",
+      "name": "青溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/青溪镇"
+    },
+    {
+      "code": "522625103",
+      "name": "羊坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/羊坪镇"
+    },
+    {
+      "code": "522625104",
+      "name": "羊场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/羊场镇"
+    },
+    {
+      "code": "522625105",
+      "name": "都坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/都坪镇"
+    },
+    {
+      "code": "522625106",
+      "name": "江古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/江古镇"
+    },
+    {
+      "code": "522625107",
+      "name": "金堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/金堡镇"
+    },
+    {
+      "code": "522625201",
+      "name": "涌溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/涌溪乡"
+    },
+    {
+      "code": "522625203",
+      "name": "报京乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/报京乡"
+    },
+    {
+      "code": "522625204",
+      "name": "大地乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/大地乡"
+    },
+    {
+      "code": "522625205",
+      "name": "尚寨土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522625",
+      "year": 0,
+      "name_path": "贵州省/黔东南苗族侗族自治州/镇远县/尚寨土家族乡"
+    }
+  ]
+}

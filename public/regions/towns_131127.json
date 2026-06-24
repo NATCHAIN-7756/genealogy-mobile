@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "131127100",
+      "name": "景州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/景州镇"
+    },
+    {
+      "code": "131127101",
+      "name": "龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/龙华镇"
+    },
+    {
+      "code": "131127102",
+      "name": "广川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/广川镇"
+    },
+    {
+      "code": "131127103",
+      "name": "王瞳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/王瞳镇"
+    },
+    {
+      "code": "131127104",
+      "name": "洚河流镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/洚河流镇"
+    },
+    {
+      "code": "131127105",
+      "name": "安陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/安陵镇"
+    },
+    {
+      "code": "131127106",
+      "name": "杜桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/杜桥镇"
+    },
+    {
+      "code": "131127107",
+      "name": "王谦寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/王谦寺镇"
+    },
+    {
+      "code": "131127108",
+      "name": "留智庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/留智庙镇"
+    },
+    {
+      "code": "131127109",
+      "name": "北留智镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/北留智镇"
+    },
+    {
+      "code": "131127110",
+      "name": "梁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/梁集镇"
+    },
+    {
+      "code": "131127111",
+      "name": "温城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/温城镇"
+    },
+    {
+      "code": "131127112",
+      "name": "青兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/青兰镇"
+    },
+    {
+      "code": "131127200",
+      "name": "刘集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/刘集乡"
+    },
+    {
+      "code": "131127201",
+      "name": "连镇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/连镇乡"
+    },
+    {
+      "code": "131127204",
+      "name": "后留名府乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131127",
+      "year": 0,
+      "name_path": "河北省/衡水市/景县/后留名府乡"
+    }
+  ]
+}

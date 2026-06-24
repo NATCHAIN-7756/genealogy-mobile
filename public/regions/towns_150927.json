@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "150927100",
+      "name": "科布尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/科布尔镇"
+    },
+    {
+      "code": "150927101",
+      "name": "铁沙盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/铁沙盖镇"
+    },
+    {
+      "code": "150927102",
+      "name": "乌素图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/乌素图镇"
+    },
+    {
+      "code": "150927103",
+      "name": "广益隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/广益隆镇"
+    },
+    {
+      "code": "150927104",
+      "name": "黄羊城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/黄羊城镇"
+    },
+    {
+      "code": "150927203",
+      "name": "宏盘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/宏盘乡"
+    },
+    {
+      "code": "150927204",
+      "name": "巴音乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/巴音乡"
+    },
+    {
+      "code": "150927211",
+      "name": "大滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/大滩乡"
+    },
+    {
+      "code": "150927214",
+      "name": "乌兰哈页苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/乌兰哈页苏木"
+    },
+    {
+      "code": "150927215",
+      "name": "库伦苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/库伦苏木"
+    },
+    {
+      "code": "150927216",
+      "name": "土城子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150927",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌兰察布市/察哈尔右翼中旗/土城子乡"
+    }
+  ]
+}

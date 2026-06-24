@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "340881002",
+      "name": "文昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/文昌街道"
+    },
+    {
+      "code": "340881003",
+      "name": "龙眠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/龙眠街道"
+    },
+    {
+      "code": "340881004",
+      "name": "龙腾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/龙腾街道"
+    },
+    {
+      "code": "340881100",
+      "name": "双港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/双港镇"
+    },
+    {
+      "code": "340881101",
+      "name": "新渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/新渡镇"
+    },
+    {
+      "code": "340881102",
+      "name": "金神镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/金神镇"
+    },
+    {
+      "code": "340881103",
+      "name": "孔城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/孔城镇"
+    },
+    {
+      "code": "340881104",
+      "name": "范岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/范岗镇"
+    },
+    {
+      "code": "340881105",
+      "name": "青草镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/青草镇"
+    },
+    {
+      "code": "340881108",
+      "name": "吕亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/吕亭镇"
+    },
+    {
+      "code": "340881114",
+      "name": "大关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/大关镇"
+    },
+    {
+      "code": "340881115",
+      "name": "唐湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/唐湾镇"
+    },
+    {
+      "code": "340881116",
+      "name": "鲟鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/鲟鱼镇"
+    },
+    {
+      "code": "340881118",
+      "name": "嬉子湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/嬉子湖镇"
+    },
+    {
+      "code": "340881120",
+      "name": "黄甲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340881",
+      "year": 0,
+      "name_path": "安徽省/安庆市/桐城市/黄甲镇"
+    }
+  ]
+}

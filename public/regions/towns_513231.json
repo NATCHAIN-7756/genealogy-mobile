@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "513231100",
+      "name": "阿坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/阿坝镇"
+    },
+    {
+      "code": "513231101",
+      "name": "贾洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/贾洛镇"
+    },
+    {
+      "code": "513231102",
+      "name": "麦尔玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/麦尔玛镇"
+    },
+    {
+      "code": "513231103",
+      "name": "河支镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/河支镇"
+    },
+    {
+      "code": "513231104",
+      "name": "各莫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/各莫镇"
+    },
+    {
+      "code": "513231105",
+      "name": "安羌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/安羌镇"
+    },
+    {
+      "code": "513231201",
+      "name": "麦昆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/麦昆乡"
+    },
+    {
+      "code": "513231203",
+      "name": "龙藏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/龙藏乡"
+    },
+    {
+      "code": "513231204",
+      "name": "求吉玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/求吉玛乡"
+    },
+    {
+      "code": "513231208",
+      "name": "四洼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/四洼乡"
+    },
+    {
+      "code": "513231209",
+      "name": "安斗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/安斗乡"
+    },
+    {
+      "code": "513231210",
+      "name": "柯河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/柯河乡"
+    },
+    {
+      "code": "513231211",
+      "name": "垮沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/垮沙乡"
+    },
+    {
+      "code": "513231213",
+      "name": "查理乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/查理乡"
+    },
+    {
+      "code": "513231214",
+      "name": "茸安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513231",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/阿坝县/茸安乡"
+    }
+  ]
+}

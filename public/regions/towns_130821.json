@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "130821100",
+      "name": "下板城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/下板城镇"
+    },
+    {
+      "code": "130821102",
+      "name": "甲山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/甲山镇"
+    },
+    {
+      "code": "130821103",
+      "name": "六沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/六沟镇"
+    },
+    {
+      "code": "130821104",
+      "name": "三沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/三沟镇"
+    },
+    {
+      "code": "130821105",
+      "name": "头沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/头沟镇"
+    },
+    {
+      "code": "130821106",
+      "name": "高寺台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/高寺台镇"
+    },
+    {
+      "code": "130821107",
+      "name": "三家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/三家镇"
+    },
+    {
+      "code": "130821108",
+      "name": "鞍匠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/鞍匠镇"
+    },
+    {
+      "code": "130821109",
+      "name": "上谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/上谷镇"
+    },
+    {
+      "code": "130821110",
+      "name": "磴上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/磴上镇"
+    },
+    {
+      "code": "130821111",
+      "name": "新杖子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/新杖子镇"
+    },
+    {
+      "code": "130821112",
+      "name": "石灰窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/石灰窑镇"
+    },
+    {
+      "code": "130821200",
+      "name": "东小白旗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/东小白旗乡"
+    },
+    {
+      "code": "130821202",
+      "name": "刘杖子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/刘杖子乡"
+    },
+    {
+      "code": "130821204",
+      "name": "孟家院乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/孟家院乡"
+    },
+    {
+      "code": "130821205",
+      "name": "大营子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/大营子乡"
+    },
+    {
+      "code": "130821206",
+      "name": "八家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/八家乡"
+    },
+    {
+      "code": "130821208",
+      "name": "满杖子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/满杖子乡"
+    },
+    {
+      "code": "130821210",
+      "name": "五道河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/五道河乡"
+    },
+    {
+      "code": "130821211",
+      "name": "岔沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/岔沟乡"
+    },
+    {
+      "code": "130821212",
+      "name": "岗子满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/岗子满族乡"
+    },
+    {
+      "code": "130821214",
+      "name": "两家满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/两家满族乡"
+    },
+    {
+      "code": "130821216",
+      "name": "仓子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130821",
+      "year": 0,
+      "name_path": "河北省/承德市/承德县/仓子乡"
+    }
+  ]
+}

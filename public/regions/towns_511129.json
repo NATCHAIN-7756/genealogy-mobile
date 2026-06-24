@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511129100",
+      "name": "沐溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/沐溪镇"
+    },
+    {
+      "code": "511129101",
+      "name": "永福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/永福镇"
+    },
+    {
+      "code": "511129102",
+      "name": "大楠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/大楠镇"
+    },
+    {
+      "code": "511129103",
+      "name": "箭板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/箭板镇"
+    },
+    {
+      "code": "511129104",
+      "name": "舟坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/舟坝镇"
+    },
+    {
+      "code": "511129105",
+      "name": "黄丹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/黄丹镇"
+    },
+    {
+      "code": "511129106",
+      "name": "利店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/利店镇"
+    },
+    {
+      "code": "511129107",
+      "name": "富新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/富新镇"
+    },
+    {
+      "code": "511129205",
+      "name": "底堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/底堡乡"
+    },
+    {
+      "code": "511129206",
+      "name": "杨村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/杨村乡"
+    },
+    {
+      "code": "511129207",
+      "name": "高笋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/高笋乡"
+    },
+    {
+      "code": "511129208",
+      "name": "茨竹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/茨竹乡"
+    },
+    {
+      "code": "511129210",
+      "name": "武圣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511129",
+      "year": 0,
+      "name_path": "四川省/乐山市/沐川县/武圣乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "510703001",
+      "name": "城厢街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/城厢街道"
+    },
+    {
+      "code": "510703003",
+      "name": "工区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/工区街道"
+    },
+    {
+      "code": "510703007",
+      "name": "普明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/普明街道"
+    },
+    {
+      "code": "510703009",
+      "name": "创业园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/创业园街道"
+    },
+    {
+      "code": "510703010",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/城郊街道"
+    },
+    {
+      "code": "510703011",
+      "name": "石塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/石塘街道"
+    },
+    {
+      "code": "510703013",
+      "name": "塘汛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/塘汛街道"
+    },
+    {
+      "code": "510703100",
+      "name": "丰谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/丰谷镇"
+    },
+    {
+      "code": "510703103",
+      "name": "青义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/青义镇"
+    },
+    {
+      "code": "510703106",
+      "name": "吴家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/吴家镇"
+    },
+    {
+      "code": "510703107",
+      "name": "杨家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/杨家镇"
+    },
+    {
+      "code": "510703110",
+      "name": "新皂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/新皂镇"
+    },
+    {
+      "code": "510703113",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510703",
+      "year": 0,
+      "name_path": "四川省/绵阳市/涪城区/永兴镇"
+    }
+  ]
+}

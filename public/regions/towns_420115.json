@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "420115001",
+      "name": "纸坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/纸坊街道"
+    },
+    {
+      "code": "420115002",
+      "name": "金口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/金口街道"
+    },
+    {
+      "code": "420115003",
+      "name": "乌龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/乌龙泉街道"
+    },
+    {
+      "code": "420115005",
+      "name": "郑店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/郑店街道"
+    },
+    {
+      "code": "420115010",
+      "name": "五里界街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/五里界街道"
+    },
+    {
+      "code": "420115011",
+      "name": "安山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/安山街道"
+    },
+    {
+      "code": "420115013",
+      "name": "山坡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/山坡街道"
+    },
+    {
+      "code": "420115017",
+      "name": "法泗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/法泗街道"
+    },
+    {
+      "code": "420115018",
+      "name": "湖泗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/湖泗街道"
+    },
+    {
+      "code": "420115019",
+      "name": "舒安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/舒安街道"
+    },
+    {
+      "code": "420115020",
+      "name": "关东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/关东街道"
+    },
+    {
+      "code": "420115021",
+      "name": "佛祖岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/佛祖岭街道"
+    },
+    {
+      "code": "420115022",
+      "name": "豹澥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/豹澥街道"
+    },
+    {
+      "code": "420115023",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/龙泉街道"
+    },
+    {
+      "code": "420115024",
+      "name": "滨湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420115",
+      "year": 0,
+      "name_path": "湖北省/武汉市/江夏区/滨湖街道"
+    }
+  ]
+}

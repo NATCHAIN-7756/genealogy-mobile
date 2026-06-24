@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "410581001",
+      "name": "振林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/振林街道"
+    },
+    {
+      "code": "410581002",
+      "name": "桂园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/桂园街道"
+    },
+    {
+      "code": "410581003",
+      "name": "开元街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/开元街道"
+    },
+    {
+      "code": "410581004",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/龙山街道"
+    },
+    {
+      "code": "410581101",
+      "name": "合涧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/合涧镇"
+    },
+    {
+      "code": "410581102",
+      "name": "临淇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/临淇镇"
+    },
+    {
+      "code": "410581103",
+      "name": "东姚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/东姚镇"
+    },
+    {
+      "code": "410581104",
+      "name": "横水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/横水镇"
+    },
+    {
+      "code": "410581105",
+      "name": "河顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/河顺镇"
+    },
+    {
+      "code": "410581106",
+      "name": "任村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/任村镇"
+    },
+    {
+      "code": "410581107",
+      "name": "姚村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/姚村镇"
+    },
+    {
+      "code": "410581108",
+      "name": "陵阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/陵阳镇"
+    },
+    {
+      "code": "410581109",
+      "name": "原康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/原康镇"
+    },
+    {
+      "code": "410581110",
+      "name": "五龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/五龙镇"
+    },
+    {
+      "code": "410581111",
+      "name": "采桑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/采桑镇"
+    },
+    {
+      "code": "410581112",
+      "name": "东岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/东岗镇"
+    },
+    {
+      "code": "410581113",
+      "name": "桂林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/桂林镇"
+    },
+    {
+      "code": "410581114",
+      "name": "茶店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/茶店镇"
+    },
+    {
+      "code": "410581115",
+      "name": "石板岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/石板岩镇"
+    },
+    {
+      "code": "410581116",
+      "name": "黄华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410581",
+      "year": 0,
+      "name_path": "河南省/安阳市/林州市/黄华镇"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "320113001",
+      "name": "尧化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/尧化街道"
+    },
+    {
+      "code": "320113002",
+      "name": "马群街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/马群街道"
+    },
+    {
+      "code": "320113003",
+      "name": "迈皋桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/迈皋桥街道"
+    },
+    {
+      "code": "320113004",
+      "name": "燕子矶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/燕子矶街道"
+    },
+    {
+      "code": "320113005",
+      "name": "仙林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/仙林街道"
+    },
+    {
+      "code": "320113007",
+      "name": "龙潭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/龙潭街道"
+    },
+    {
+      "code": "320113008",
+      "name": "栖霞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/栖霞街道"
+    },
+    {
+      "code": "320113009",
+      "name": "八卦洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/八卦洲街道"
+    },
+    {
+      "code": "320113010",
+      "name": "西岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320113",
+      "year": 0,
+      "name_path": "江苏省/南京市/栖霞区/西岗街道"
+    }
+  ]
+}

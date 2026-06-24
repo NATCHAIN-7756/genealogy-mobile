@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "532625100",
+      "name": "马白镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/马白镇"
+    },
+    {
+      "code": "532625101",
+      "name": "八寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/八寨镇"
+    },
+    {
+      "code": "532625102",
+      "name": "仁和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/仁和镇"
+    },
+    {
+      "code": "532625103",
+      "name": "木厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/木厂镇"
+    },
+    {
+      "code": "532625104",
+      "name": "夹寒箐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/夹寒箐镇"
+    },
+    {
+      "code": "532625105",
+      "name": "小坝子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/小坝子镇"
+    },
+    {
+      "code": "532625106",
+      "name": "都龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/都龙镇"
+    },
+    {
+      "code": "532625107",
+      "name": "金厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/金厂镇"
+    },
+    {
+      "code": "532625108",
+      "name": "坡脚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/坡脚镇"
+    },
+    {
+      "code": "532625200",
+      "name": "南捞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/南捞乡"
+    },
+    {
+      "code": "532625201",
+      "name": "大栗树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/大栗树乡"
+    },
+    {
+      "code": "532625202",
+      "name": "篾厂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/篾厂乡"
+    },
+    {
+      "code": "532625203",
+      "name": "古林箐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532625",
+      "year": 0,
+      "name_path": "云南省/文山壮族苗族自治州/马关县/古林箐乡"
+    }
+  ]
+}

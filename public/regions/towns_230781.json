@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "230781100",
+      "name": "铁力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/铁力镇"
+    },
+    {
+      "code": "230781101",
+      "name": "双丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/双丰镇"
+    },
+    {
+      "code": "230781102",
+      "name": "桃山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/桃山镇"
+    },
+    {
+      "code": "230781105",
+      "name": "神树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/神树镇"
+    },
+    {
+      "code": "230781106",
+      "name": "日月峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/日月峡镇"
+    },
+    {
+      "code": "230781200",
+      "name": "年丰朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/年丰朝鲜族乡"
+    },
+    {
+      "code": "230781201",
+      "name": "工农乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/工农乡"
+    },
+    {
+      "code": "230781202",
+      "name": "王杨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230781",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/铁力市/王杨乡"
+    }
+  ]
+}

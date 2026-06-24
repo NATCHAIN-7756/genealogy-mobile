@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "350604001",
+      "name": "石码街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/石码街道"
+    },
+    {
+      "code": "350604100",
+      "name": "海澄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/海澄镇"
+    },
+    {
+      "code": "350604101",
+      "name": "角美镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/角美镇"
+    },
+    {
+      "code": "350604102",
+      "name": "白水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/白水镇"
+    },
+    {
+      "code": "350604103",
+      "name": "浮宫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/浮宫镇"
+    },
+    {
+      "code": "350604104",
+      "name": "程溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/程溪镇"
+    },
+    {
+      "code": "350604105",
+      "name": "港尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/港尾镇"
+    },
+    {
+      "code": "350604106",
+      "name": "九湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/九湖镇"
+    },
+    {
+      "code": "350604107",
+      "name": "颜厝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/颜厝镇"
+    },
+    {
+      "code": "350604108",
+      "name": "榜山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/榜山镇"
+    },
+    {
+      "code": "350604109",
+      "name": "紫泥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/紫泥镇"
+    },
+    {
+      "code": "350604110",
+      "name": "东园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/东园镇"
+    },
+    {
+      "code": "350604200",
+      "name": "东泗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/东泗乡"
+    },
+    {
+      "code": "350604201",
+      "name": "隆教畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350604",
+      "year": 0,
+      "name_path": "福建省/漳州市/龙海区/隆教畲族乡"
+    }
+  ]
+}

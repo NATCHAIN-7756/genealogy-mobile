@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "320922001",
+      "name": "东坎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/东坎街道"
+    },
+    {
+      "code": "320922002",
+      "name": "坎南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/坎南街道"
+    },
+    {
+      "code": "320922003",
+      "name": "坎北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/坎北街道"
+    },
+    {
+      "code": "320922101",
+      "name": "五汛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/五汛镇"
+    },
+    {
+      "code": "320922102",
+      "name": "蔡桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/蔡桥镇"
+    },
+    {
+      "code": "320922103",
+      "name": "正红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/正红镇"
+    },
+    {
+      "code": "320922104",
+      "name": "通榆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/通榆镇"
+    },
+    {
+      "code": "320922105",
+      "name": "界牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/界牌镇"
+    },
+    {
+      "code": "320922106",
+      "name": "八巨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/八巨镇"
+    },
+    {
+      "code": "320922107",
+      "name": "八滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/八滩镇"
+    },
+    {
+      "code": "320922108",
+      "name": "滨海港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/滨海港镇"
+    },
+    {
+      "code": "320922109",
+      "name": "滨淮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/滨淮镇"
+    },
+    {
+      "code": "320922110",
+      "name": "天场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/天场镇"
+    },
+    {
+      "code": "320922112",
+      "name": "陈涛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320922",
+      "year": 0,
+      "name_path": "江苏省/盐城市/滨海县/陈涛镇"
+    }
+  ]
+}

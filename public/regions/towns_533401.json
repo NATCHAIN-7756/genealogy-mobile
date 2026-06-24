@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "533401100",
+      "name": "建塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/建塘镇"
+    },
+    {
+      "code": "533401101",
+      "name": "虎跳峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/虎跳峡镇"
+    },
+    {
+      "code": "533401102",
+      "name": "金江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/金江镇"
+    },
+    {
+      "code": "533401103",
+      "name": "小中甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/小中甸镇"
+    },
+    {
+      "code": "533401200",
+      "name": "上江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/上江乡"
+    },
+    {
+      "code": "533401202",
+      "name": "三坝纳西族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/三坝纳西族乡"
+    },
+    {
+      "code": "533401203",
+      "name": "洛吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/洛吉乡"
+    },
+    {
+      "code": "533401205",
+      "name": "尼西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/尼西乡"
+    },
+    {
+      "code": "533401206",
+      "name": "格咱乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/格咱乡"
+    },
+    {
+      "code": "533401207",
+      "name": "东旺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/东旺乡"
+    },
+    {
+      "code": "533401208",
+      "name": "五境乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533401",
+      "year": 0,
+      "name_path": "云南省/迪庆藏族自治州/香格里拉市/五境乡"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "340503001",
+      "name": "沙塘路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/沙塘路街道"
+    },
+    {
+      "code": "340503002",
+      "name": "解放路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/解放路街道"
+    },
+    {
+      "code": "340503003",
+      "name": "湖东路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/湖东路街道"
+    },
+    {
+      "code": "340503004",
+      "name": "桃源路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/桃源路街道"
+    },
+    {
+      "code": "340503005",
+      "name": "霍里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/霍里街道"
+    },
+    {
+      "code": "340503006",
+      "name": "金家庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/金家庄街道"
+    },
+    {
+      "code": "340503007",
+      "name": "江东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/江东街道"
+    },
+    {
+      "code": "340503008",
+      "name": "塘西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/塘西街道"
+    },
+    {
+      "code": "340503009",
+      "name": "慈湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/慈湖街道"
+    },
+    {
+      "code": "340503100",
+      "name": "濮塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340503",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/花山区/濮塘镇"
+    }
+  ]
+}

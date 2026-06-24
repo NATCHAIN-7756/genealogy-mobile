@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "411729001",
+      "name": "古吕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/古吕街道"
+    },
+    {
+      "code": "411729002",
+      "name": "今是街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/今是街道"
+    },
+    {
+      "code": "411729003",
+      "name": "月亮湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/月亮湾街道"
+    },
+    {
+      "code": "411729101",
+      "name": "砖店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/砖店镇"
+    },
+    {
+      "code": "411729102",
+      "name": "陈店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/陈店镇"
+    },
+    {
+      "code": "411729103",
+      "name": "佛阁寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/佛阁寺镇"
+    },
+    {
+      "code": "411729104",
+      "name": "练村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/练村镇"
+    },
+    {
+      "code": "411729105",
+      "name": "棠村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/棠村镇"
+    },
+    {
+      "code": "411729106",
+      "name": "韩集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/韩集镇"
+    },
+    {
+      "code": "411729107",
+      "name": "龙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/龙口镇"
+    },
+    {
+      "code": "411729108",
+      "name": "李桥回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/李桥回族镇"
+    },
+    {
+      "code": "411729109",
+      "name": "黄楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/黄楼镇"
+    },
+    {
+      "code": "411729110",
+      "name": "孙召镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/孙召镇"
+    },
+    {
+      "code": "411729111",
+      "name": "余店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/余店镇"
+    },
+    {
+      "code": "411729112",
+      "name": "栎城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/栎城镇"
+    },
+    {
+      "code": "411729204",
+      "name": "河坞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/河坞乡"
+    },
+    {
+      "code": "411729205",
+      "name": "关津乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/关津乡"
+    },
+    {
+      "code": "411729206",
+      "name": "宋岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/宋岗乡"
+    },
+    {
+      "code": "411729207",
+      "name": "顿岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/顿岗乡"
+    },
+    {
+      "code": "411729208",
+      "name": "涧头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/涧头乡"
+    },
+    {
+      "code": "411729209",
+      "name": "杨庄户乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/杨庄户乡"
+    },
+    {
+      "code": "411729210",
+      "name": "化庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/化庄乡"
+    },
+    {
+      "code": "411729213",
+      "name": "弥陀寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411729",
+      "year": 0,
+      "name_path": "河南省/驻马店市/新蔡县/弥陀寺乡"
+    }
+  ]
+}

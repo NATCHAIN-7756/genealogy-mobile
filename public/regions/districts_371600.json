@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "371602",
+      "name": "滨城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/滨城区"
+    },
+    {
+      "code": "371603",
+      "name": "沾化区",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/沾化区"
+    },
+    {
+      "code": "371621",
+      "name": "惠民县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/惠民县"
+    },
+    {
+      "code": "371622",
+      "name": "阳信县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/阳信县"
+    },
+    {
+      "code": "371623",
+      "name": "无棣县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/无棣县"
+    },
+    {
+      "code": "371625",
+      "name": "博兴县",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/博兴县"
+    },
+    {
+      "code": "371681",
+      "name": "邹平市",
+      "level": 3,
+      "type": null,
+      "parent_code": "371600",
+      "year": 0,
+      "name_path": "全国/山东省/滨州市/邹平市"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "130431100",
+      "name": "鸡泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/鸡泽镇"
+    },
+    {
+      "code": "130431101",
+      "name": "小寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/小寨镇"
+    },
+    {
+      "code": "130431102",
+      "name": "双塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/双塔镇"
+    },
+    {
+      "code": "130431103",
+      "name": "曹庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/曹庄镇"
+    },
+    {
+      "code": "130431104",
+      "name": "浮图店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/浮图店镇"
+    },
+    {
+      "code": "130431105",
+      "name": "吴官营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/吴官营镇"
+    },
+    {
+      "code": "130431202",
+      "name": "风正乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130431",
+      "year": 0,
+      "name_path": "河北省/邯郸市/鸡泽县/风正乡"
+    }
+  ]
+}

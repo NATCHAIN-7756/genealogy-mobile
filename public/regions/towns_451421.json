@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "451421100",
+      "name": "新宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/新宁镇"
+    },
+    {
+      "code": "451421101",
+      "name": "渠黎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/渠黎镇"
+    },
+    {
+      "code": "451421102",
+      "name": "渠旧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/渠旧镇"
+    },
+    {
+      "code": "451421103",
+      "name": "柳桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/柳桥镇"
+    },
+    {
+      "code": "451421104",
+      "name": "东门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/东门镇"
+    },
+    {
+      "code": "451421105",
+      "name": "山圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/山圩镇"
+    },
+    {
+      "code": "451421106",
+      "name": "中东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/中东镇"
+    },
+    {
+      "code": "451421107",
+      "name": "东罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/东罗镇"
+    },
+    {
+      "code": "451421201",
+      "name": "龙头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/龙头乡"
+    },
+    {
+      "code": "451421202",
+      "name": "岜盆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/岜盆乡"
+    },
+    {
+      "code": "451421203",
+      "name": "昌平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451421",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/扶绥县/昌平乡"
+    }
+  ]
+}

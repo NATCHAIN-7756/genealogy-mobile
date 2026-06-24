@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140405001",
+      "name": "麟绛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/麟绛街道"
+    },
+    {
+      "code": "140405101",
+      "name": "上村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/上村镇"
+    },
+    {
+      "code": "140405102",
+      "name": "渔泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/渔泽镇"
+    },
+    {
+      "code": "140405103",
+      "name": "余吾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/余吾镇"
+    },
+    {
+      "code": "140405104",
+      "name": "吾元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/吾元镇"
+    },
+    {
+      "code": "140405105",
+      "name": "张店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/张店镇"
+    },
+    {
+      "code": "140405106",
+      "name": "丰宜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/丰宜镇"
+    },
+    {
+      "code": "140405200",
+      "name": "李高乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/李高乡"
+    },
+    {
+      "code": "140405201",
+      "name": "路村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/路村乡"
+    },
+    {
+      "code": "140405202",
+      "name": "河神庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140405",
+      "year": 0,
+      "name_path": "山西省/长治市/屯留区/河神庙乡"
+    }
+  ]
+}

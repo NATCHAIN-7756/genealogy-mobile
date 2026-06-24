@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130404001",
+      "name": "胜利桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/胜利桥街道"
+    },
+    {
+      "code": "130404002",
+      "name": "百家村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/百家村街道"
+    },
+    {
+      "code": "130404003",
+      "name": "铁路大院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/铁路大院街道"
+    },
+    {
+      "code": "130404004",
+      "name": "化林路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/化林路街道"
+    },
+    {
+      "code": "130404005",
+      "name": "庞村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/庞村街道"
+    },
+    {
+      "code": "130404006",
+      "name": "二六七二街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/二六七二街道"
+    },
+    {
+      "code": "130404007",
+      "name": "石化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/石化街道"
+    },
+    {
+      "code": "130404100",
+      "name": "户村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/户村镇"
+    },
+    {
+      "code": "130404101",
+      "name": "林坛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/林坛镇"
+    },
+    {
+      "code": "130404200",
+      "name": "彭家寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/彭家寨乡"
+    },
+    {
+      "code": "130404201",
+      "name": "康庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/康庄乡"
+    },
+    {
+      "code": "130404202",
+      "name": "南城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130404",
+      "year": 0,
+      "name_path": "河北省/邯郸市/复兴区/南城乡"
+    }
+  ]
+}

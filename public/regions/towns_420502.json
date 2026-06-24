@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "420502001",
+      "name": "西陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/西陵街道"
+    },
+    {
+      "code": "420502002",
+      "name": "学院街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/学院街道"
+    },
+    {
+      "code": "420502003",
+      "name": "云集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/云集街道"
+    },
+    {
+      "code": "420502005",
+      "name": "西坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/西坝街道"
+    },
+    {
+      "code": "420502006",
+      "name": "葛洲坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/葛洲坝街道"
+    },
+    {
+      "code": "420502007",
+      "name": "夜明珠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/夜明珠街道"
+    },
+    {
+      "code": "420502008",
+      "name": "东苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/东苑街道"
+    },
+    {
+      "code": "420502009",
+      "name": "南苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/南苑街道"
+    },
+    {
+      "code": "420502010",
+      "name": "北苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/北苑街道"
+    },
+    {
+      "code": "420502011",
+      "name": "窑湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420502",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/西陵区/窑湾街道"
+    }
+  ]
+}

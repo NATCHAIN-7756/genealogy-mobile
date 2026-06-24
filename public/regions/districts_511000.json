@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "511002",
+      "name": "市中区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511000",
+      "year": 0,
+      "name_path": "全国/四川省/内江市/市中区"
+    },
+    {
+      "code": "511011",
+      "name": "东兴区",
+      "level": 3,
+      "type": null,
+      "parent_code": "511000",
+      "year": 0,
+      "name_path": "全国/四川省/内江市/东兴区"
+    },
+    {
+      "code": "511024",
+      "name": "威远县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511000",
+      "year": 0,
+      "name_path": "全国/四川省/内江市/威远县"
+    },
+    {
+      "code": "511025",
+      "name": "资中县",
+      "level": 3,
+      "type": null,
+      "parent_code": "511000",
+      "year": 0,
+      "name_path": "全国/四川省/内江市/资中县"
+    },
+    {
+      "code": "511083",
+      "name": "隆昌市",
+      "level": 3,
+      "type": null,
+      "parent_code": "511000",
+      "year": 0,
+      "name_path": "全国/四川省/内江市/隆昌市"
+    }
+  ]
+}

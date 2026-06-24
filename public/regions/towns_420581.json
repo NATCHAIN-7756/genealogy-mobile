@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "420581001",
+      "name": "陆城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/陆城街道"
+    },
+    {
+      "code": "420581101",
+      "name": "红花套镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/红花套镇"
+    },
+    {
+      "code": "420581102",
+      "name": "高坝洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/高坝洲镇"
+    },
+    {
+      "code": "420581103",
+      "name": "聂家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/聂家河镇"
+    },
+    {
+      "code": "420581104",
+      "name": "松木坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/松木坪镇"
+    },
+    {
+      "code": "420581105",
+      "name": "枝城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/枝城镇"
+    },
+    {
+      "code": "420581106",
+      "name": "姚家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/姚家店镇"
+    },
+    {
+      "code": "420581107",
+      "name": "五眼泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/五眼泉镇"
+    },
+    {
+      "code": "420581108",
+      "name": "王家畈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/王家畈镇"
+    },
+    {
+      "code": "420581203",
+      "name": "潘家湾土家族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420581",
+      "year": 0,
+      "name_path": "湖北省/宜昌市/宜都市/潘家湾土家族乡"
+    }
+  ]
+}

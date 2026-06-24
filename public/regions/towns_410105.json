@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "410105001",
+      "name": "经八路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/经八路街道"
+    },
+    {
+      "code": "410105002",
+      "name": "花园路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/花园路街道"
+    },
+    {
+      "code": "410105003",
+      "name": "人民路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/人民路街道"
+    },
+    {
+      "code": "410105004",
+      "name": "杜岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/杜岭街道"
+    },
+    {
+      "code": "410105005",
+      "name": "大石桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/大石桥街道"
+    },
+    {
+      "code": "410105006",
+      "name": "南阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/南阳路街道"
+    },
+    {
+      "code": "410105007",
+      "name": "南阳新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/南阳新村街道"
+    },
+    {
+      "code": "410105008",
+      "name": "文化路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/文化路街道"
+    },
+    {
+      "code": "410105009",
+      "name": "丰产路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/丰产路街道"
+    },
+    {
+      "code": "410105010",
+      "name": "东风路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/东风路街道"
+    },
+    {
+      "code": "410105011",
+      "name": "北林路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/北林路街道"
+    },
+    {
+      "code": "410105012",
+      "name": "未来路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/未来路街道"
+    },
+    {
+      "code": "410105015",
+      "name": "凤凰台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/凤凰台街道"
+    },
+    {
+      "code": "410105016",
+      "name": "兴达路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/兴达路街道"
+    },
+    {
+      "code": "410105017",
+      "name": "国基路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/国基路街道"
+    },
+    {
+      "code": "410105018",
+      "name": "杨金路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/杨金路街道"
+    },
+    {
+      "code": "410105019",
+      "name": "丰庆路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/丰庆路街道"
+    },
+    {
+      "code": "410105020",
+      "name": "祭城路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/祭城路街道"
+    },
+    {
+      "code": "410105021",
+      "name": "龙子湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410105",
+      "year": 0,
+      "name_path": "河南省/郑州市/金水区/龙子湖街道"
+    }
+  ]
+}

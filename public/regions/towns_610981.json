@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "610981100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/城关镇"
+    },
+    {
+      "code": "610981101",
+      "name": "棕溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/棕溪镇"
+    },
+    {
+      "code": "610981102",
+      "name": "关口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/关口镇"
+    },
+    {
+      "code": "610981103",
+      "name": "蜀河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/蜀河镇"
+    },
+    {
+      "code": "610981104",
+      "name": "双河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/双河镇"
+    },
+    {
+      "code": "610981105",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/小河镇"
+    },
+    {
+      "code": "610981106",
+      "name": "赵湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/赵湾镇"
+    },
+    {
+      "code": "610981107",
+      "name": "麻坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/麻坪镇"
+    },
+    {
+      "code": "610981108",
+      "name": "甘溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/甘溪镇"
+    },
+    {
+      "code": "610981109",
+      "name": "白柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/白柳镇"
+    },
+    {
+      "code": "610981110",
+      "name": "吕河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/吕河镇"
+    },
+    {
+      "code": "610981111",
+      "name": "神河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/神河镇"
+    },
+    {
+      "code": "610981112",
+      "name": "铜钱关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/铜钱关镇"
+    },
+    {
+      "code": "610981113",
+      "name": "段家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/段家河镇"
+    },
+    {
+      "code": "610981114",
+      "name": "金寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/金寨镇"
+    },
+    {
+      "code": "610981115",
+      "name": "桐木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/桐木镇"
+    },
+    {
+      "code": "610981116",
+      "name": "仙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/仙河镇"
+    },
+    {
+      "code": "610981117",
+      "name": "构元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/构元镇"
+    },
+    {
+      "code": "610981118",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/石门镇"
+    },
+    {
+      "code": "610981119",
+      "name": "红军镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/红军镇"
+    },
+    {
+      "code": "610981120",
+      "name": "仁河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610981",
+      "year": 0,
+      "name_path": "陕西省/安康市/旬阳市/仁河口镇"
+    }
+  ]
+}

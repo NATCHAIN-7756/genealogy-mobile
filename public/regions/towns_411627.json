@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "411627001",
+      "name": "阳夏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/阳夏街道"
+    },
+    {
+      "code": "411627002",
+      "name": "毛庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/毛庄街道"
+    },
+    {
+      "code": "411627101",
+      "name": "常营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/常营镇"
+    },
+    {
+      "code": "411627102",
+      "name": "逊母口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/逊母口镇"
+    },
+    {
+      "code": "411627103",
+      "name": "老冢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/老冢镇"
+    },
+    {
+      "code": "411627104",
+      "name": "朱口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/朱口镇"
+    },
+    {
+      "code": "411627105",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/马头镇"
+    },
+    {
+      "code": "411627106",
+      "name": "龙曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/龙曲镇"
+    },
+    {
+      "code": "411627107",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/板桥镇"
+    },
+    {
+      "code": "411627108",
+      "name": "符草楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/符草楼镇"
+    },
+    {
+      "code": "411627109",
+      "name": "马厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/马厂镇"
+    },
+    {
+      "code": "411627111",
+      "name": "张集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/张集镇"
+    },
+    {
+      "code": "411627112",
+      "name": "清集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/清集镇"
+    },
+    {
+      "code": "411627113",
+      "name": "大许寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/大许寨镇"
+    },
+    {
+      "code": "411627114",
+      "name": "转楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/转楼镇"
+    },
+    {
+      "code": "411627115",
+      "name": "高贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/高贤镇"
+    },
+    {
+      "code": "411627200",
+      "name": "城郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/城郊乡"
+    },
+    {
+      "code": "411627201",
+      "name": "杨庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/杨庙乡"
+    },
+    {
+      "code": "411627202",
+      "name": "王集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/王集乡"
+    },
+    {
+      "code": "411627204",
+      "name": "芝麻洼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/芝麻洼乡"
+    },
+    {
+      "code": "411627206",
+      "name": "独塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/独塘乡"
+    },
+    {
+      "code": "411627208",
+      "name": "五里口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/五里口乡"
+    },
+    {
+      "code": "411627210",
+      "name": "高朗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411627",
+      "year": 0,
+      "name_path": "河南省/周口市/太康县/高朗乡"
+    }
+  ]
+}

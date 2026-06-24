@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "130430100",
+      "name": "新马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/新马头镇"
+    },
+    {
+      "code": "130430101",
+      "name": "邱城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/邱城镇"
+    },
+    {
+      "code": "130430102",
+      "name": "梁二庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/梁二庄镇"
+    },
+    {
+      "code": "130430103",
+      "name": "香城固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/香城固镇"
+    },
+    {
+      "code": "130430104",
+      "name": "古城营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/古城营镇"
+    },
+    {
+      "code": "130430201",
+      "name": "南辛店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/南辛店乡"
+    },
+    {
+      "code": "130430204",
+      "name": "陈村回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130430",
+      "year": 0,
+      "name_path": "河北省/邯郸市/邱县/陈村回族乡"
+    }
+  ]
+}

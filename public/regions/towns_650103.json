@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "650103001",
+      "name": "长江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/长江路街道"
+    },
+    {
+      "code": "650103002",
+      "name": "和田街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/和田街街道"
+    },
+    {
+      "code": "650103003",
+      "name": "扬子江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/扬子江路街道"
+    },
+    {
+      "code": "650103004",
+      "name": "友好南路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/友好南路街道"
+    },
+    {
+      "code": "650103005",
+      "name": "友好北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/友好北路街道"
+    },
+    {
+      "code": "650103006",
+      "name": "八一街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/八一街道"
+    },
+    {
+      "code": "650103007",
+      "name": "炉院街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/炉院街街道"
+    },
+    {
+      "code": "650103008",
+      "name": "西山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/西山街道"
+    },
+    {
+      "code": "650103009",
+      "name": "雅玛里克山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/雅玛里克山街道"
+    },
+    {
+      "code": "650103010",
+      "name": "红庙子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/红庙子街道"
+    },
+    {
+      "code": "650103012",
+      "name": "平顶山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/平顶山街道"
+    },
+    {
+      "code": "650103013",
+      "name": "长胜东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/长胜东街道"
+    },
+    {
+      "code": "650103016",
+      "name": "骑马山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/骑马山街道"
+    },
+    {
+      "code": "650103017",
+      "name": "环卫路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/环卫路街道"
+    },
+    {
+      "code": "650103018",
+      "name": "仓房沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/仓房沟街道"
+    },
+    {
+      "code": "650103100",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "650103",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/乌鲁木齐市/沙依巴克区/永丰镇"
+    }
+  ]
+}

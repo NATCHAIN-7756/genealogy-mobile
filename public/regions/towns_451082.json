@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "451082100",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/马头镇"
+    },
+    {
+      "code": "451082101",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/新安镇"
+    },
+    {
+      "code": "451082102",
+      "name": "果化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/果化镇"
+    },
+    {
+      "code": "451082103",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/太平镇"
+    },
+    {
+      "code": "451082104",
+      "name": "坡造镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/坡造镇"
+    },
+    {
+      "code": "451082105",
+      "name": "四塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/四塘镇"
+    },
+    {
+      "code": "451082106",
+      "name": "旧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/旧城镇"
+    },
+    {
+      "code": "451082107",
+      "name": "榜圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/榜圩镇"
+    },
+    {
+      "code": "451082108",
+      "name": "凤梧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/凤梧镇"
+    },
+    {
+      "code": "451082202",
+      "name": "海城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/海城乡"
+    },
+    {
+      "code": "451082205",
+      "name": "黎明乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/黎明乡"
+    },
+    {
+      "code": "451082206",
+      "name": "同老乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451082",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/平果市/同老乡"
+    }
+  ]
+}

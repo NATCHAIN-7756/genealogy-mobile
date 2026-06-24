@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "450403002",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/城南街道"
+    },
+    {
+      "code": "450403004",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/城北街道"
+    },
+    {
+      "code": "450403005",
+      "name": "角嘴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/角嘴街道"
+    },
+    {
+      "code": "450403006",
+      "name": "东兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/东兴街道"
+    },
+    {
+      "code": "450403007",
+      "name": "富民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/富民街道"
+    },
+    {
+      "code": "450403105",
+      "name": "城东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/城东镇"
+    },
+    {
+      "code": "450403107",
+      "name": "龙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/龙湖镇"
+    },
+    {
+      "code": "450403108",
+      "name": "夏郢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450403",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/万秀区/夏郢镇"
+    }
+  ]
+}

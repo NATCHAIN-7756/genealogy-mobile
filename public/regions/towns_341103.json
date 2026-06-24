@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "341103001",
+      "name": "龙蟠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/龙蟠街道"
+    },
+    {
+      "code": "341103002",
+      "name": "大王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/大王街道"
+    },
+    {
+      "code": "341103003",
+      "name": "同乐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/同乐街道"
+    },
+    {
+      "code": "341103004",
+      "name": "银花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/银花街道"
+    },
+    {
+      "code": "341103100",
+      "name": "乌衣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/乌衣镇"
+    },
+    {
+      "code": "341103101",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/沙河镇"
+    },
+    {
+      "code": "341103102",
+      "name": "章广镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/章广镇"
+    },
+    {
+      "code": "341103103",
+      "name": "黄泥岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/黄泥岗镇"
+    },
+    {
+      "code": "341103104",
+      "name": "珠龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/珠龙镇"
+    },
+    {
+      "code": "341103105",
+      "name": "大柳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/大柳镇"
+    },
+    {
+      "code": "341103106",
+      "name": "腰铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/腰铺镇"
+    },
+    {
+      "code": "341103108",
+      "name": "施集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341103",
+      "year": 0,
+      "name_path": "安徽省/滁州市/南谯区/施集镇"
+    }
+  ]
+}

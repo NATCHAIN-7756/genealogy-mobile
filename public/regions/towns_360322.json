@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "360322100",
+      "name": "上栗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/上栗镇"
+    },
+    {
+      "code": "360322101",
+      "name": "桐木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/桐木镇"
+    },
+    {
+      "code": "360322102",
+      "name": "福田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/福田镇"
+    },
+    {
+      "code": "360322103",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/金山镇"
+    },
+    {
+      "code": "360322104",
+      "name": "彭高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/彭高镇"
+    },
+    {
+      "code": "360322105",
+      "name": "赤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/赤山镇"
+    },
+    {
+      "code": "360322200",
+      "name": "长平乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/长平乡"
+    },
+    {
+      "code": "360322201",
+      "name": "东源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/东源乡"
+    },
+    {
+      "code": "360322203",
+      "name": "鸡冠山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/鸡冠山乡"
+    },
+    {
+      "code": "360322204",
+      "name": "杨岐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360322",
+      "year": 0,
+      "name_path": "江西省/萍乡市/上栗县/杨岐乡"
+    }
+  ]
+}

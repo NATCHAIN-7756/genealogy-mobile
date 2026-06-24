@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "321324001",
+      "name": "青阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/青阳街道"
+    },
+    {
+      "code": "321324002",
+      "name": "重岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/重岗街道"
+    },
+    {
+      "code": "321324003",
+      "name": "大楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/大楼街道"
+    },
+    {
+      "code": "321324102",
+      "name": "上塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/上塘镇"
+    },
+    {
+      "code": "321324103",
+      "name": "魏营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/魏营镇"
+    },
+    {
+      "code": "321324106",
+      "name": "孙园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/孙园镇"
+    },
+    {
+      "code": "321324107",
+      "name": "梅花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/梅花镇"
+    },
+    {
+      "code": "321324108",
+      "name": "归仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/归仁镇"
+    },
+    {
+      "code": "321324109",
+      "name": "金锁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/金锁镇"
+    },
+    {
+      "code": "321324110",
+      "name": "朱湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/朱湖镇"
+    },
+    {
+      "code": "321324113",
+      "name": "龙集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/龙集镇"
+    },
+    {
+      "code": "321324114",
+      "name": "双沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/双沟镇"
+    },
+    {
+      "code": "321324115",
+      "name": "界集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/界集镇"
+    },
+    {
+      "code": "321324116",
+      "name": "半城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/半城镇"
+    },
+    {
+      "code": "321324117",
+      "name": "临淮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/临淮镇"
+    },
+    {
+      "code": "321324202",
+      "name": "天岗湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/天岗湖乡"
+    },
+    {
+      "code": "321324203",
+      "name": "车门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/车门乡"
+    },
+    {
+      "code": "321324204",
+      "name": "瑶沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/瑶沟乡"
+    },
+    {
+      "code": "321324205",
+      "name": "石集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321324",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/泗洪县/石集乡"
+    }
+  ]
+}

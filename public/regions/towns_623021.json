@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "623021101",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/城关镇"
+    },
+    {
+      "code": "623021102",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/新城镇"
+    },
+    {
+      "code": "623021103",
+      "name": "冶力关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/冶力关镇"
+    },
+    {
+      "code": "623021104",
+      "name": "羊永镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/羊永镇"
+    },
+    {
+      "code": "623021105",
+      "name": "王旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/王旗镇"
+    },
+    {
+      "code": "623021106",
+      "name": "古战镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/古战镇"
+    },
+    {
+      "code": "623021107",
+      "name": "洮滨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/洮滨镇"
+    },
+    {
+      "code": "623021108",
+      "name": "八角镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/八角镇"
+    },
+    {
+      "code": "623021109",
+      "name": "流顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/流顺镇"
+    },
+    {
+      "code": "623021110",
+      "name": "店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/店子镇"
+    },
+    {
+      "code": "623021111",
+      "name": "羊沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/羊沙镇"
+    },
+    {
+      "code": "623021201",
+      "name": "术布乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/术布乡"
+    },
+    {
+      "code": "623021203",
+      "name": "卓洛回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/卓洛回族乡"
+    },
+    {
+      "code": "623021204",
+      "name": "长川回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/长川回族乡"
+    },
+    {
+      "code": "623021209",
+      "name": "三岔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/三岔乡"
+    },
+    {
+      "code": "623021211",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "623021",
+      "year": 0,
+      "name_path": "甘肃省/甘南藏族自治州/临潭县/石门乡"
+    }
+  ]
+}

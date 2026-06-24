@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "540325100",
+      "name": "烟多镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/烟多镇"
+    },
+    {
+      "code": "540325101",
+      "name": "香堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/香堆镇"
+    },
+    {
+      "code": "540325102",
+      "name": "吉塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/吉塘镇"
+    },
+    {
+      "code": "540325200",
+      "name": "宗沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/宗沙乡"
+    },
+    {
+      "code": "540325201",
+      "name": "卡贡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/卡贡乡"
+    },
+    {
+      "code": "540325202",
+      "name": "荣周乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/荣周乡"
+    },
+    {
+      "code": "540325203",
+      "name": "巴日乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/巴日乡"
+    },
+    {
+      "code": "540325204",
+      "name": "阿孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/阿孜乡"
+    },
+    {
+      "code": "540325205",
+      "name": "王卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/王卡乡"
+    },
+    {
+      "code": "540325206",
+      "name": "新卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/新卡乡"
+    },
+    {
+      "code": "540325207",
+      "name": "肯通乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/肯通乡"
+    },
+    {
+      "code": "540325208",
+      "name": "扩达乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/扩达乡"
+    },
+    {
+      "code": "540325209",
+      "name": "察拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540325",
+      "year": 0,
+      "name_path": "西藏自治区/昌都市/察雅县/察拉乡"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "222401001",
+      "name": "进学街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/进学街道"
+    },
+    {
+      "code": "222401002",
+      "name": "北山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/北山街道"
+    },
+    {
+      "code": "222401003",
+      "name": "新兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/新兴街道"
+    },
+    {
+      "code": "222401004",
+      "name": "公园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/公园街道"
+    },
+    {
+      "code": "222401005",
+      "name": "河南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/河南街道"
+    },
+    {
+      "code": "222401006",
+      "name": "建工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/建工街道"
+    },
+    {
+      "code": "222401100",
+      "name": "小营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/小营镇"
+    },
+    {
+      "code": "222401101",
+      "name": "依兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/依兰镇"
+    },
+    {
+      "code": "222401102",
+      "name": "三道湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/三道湾镇"
+    },
+    {
+      "code": "222401103",
+      "name": "朝阳川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "222401",
+      "year": 0,
+      "name_path": "吉林省/延边朝鲜族自治州/延吉市/朝阳川镇"
+    }
+  ]
+}

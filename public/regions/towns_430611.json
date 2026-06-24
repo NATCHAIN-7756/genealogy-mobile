@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "430611002",
+      "name": "柳林洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430611",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/君山区/柳林洲街道"
+    },
+    {
+      "code": "430611101",
+      "name": "广兴洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430611",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/君山区/广兴洲镇"
+    },
+    {
+      "code": "430611102",
+      "name": "许市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430611",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/君山区/许市镇"
+    },
+    {
+      "code": "430611103",
+      "name": "钱粮湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430611",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/君山区/钱粮湖镇"
+    },
+    {
+      "code": "430611104",
+      "name": "良心堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430611",
+      "year": 0,
+      "name_path": "湖南省/岳阳市/君山区/良心堡镇"
+    }
+  ]
+}

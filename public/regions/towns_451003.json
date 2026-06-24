@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "451003100",
+      "name": "田州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/田州镇"
+    },
+    {
+      "code": "451003101",
+      "name": "那坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/那坡镇"
+    },
+    {
+      "code": "451003102",
+      "name": "坡洪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/坡洪镇"
+    },
+    {
+      "code": "451003103",
+      "name": "那满镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/那满镇"
+    },
+    {
+      "code": "451003104",
+      "name": "百育镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/百育镇"
+    },
+    {
+      "code": "451003105",
+      "name": "玉凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/玉凤镇"
+    },
+    {
+      "code": "451003106",
+      "name": "头塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/头塘镇"
+    },
+    {
+      "code": "451003107",
+      "name": "五村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/五村镇"
+    },
+    {
+      "code": "451003108",
+      "name": "洞靖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/洞靖镇"
+    },
+    {
+      "code": "451003204",
+      "name": "巴别乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451003",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/田阳区/巴别乡"
+    }
+  ]
+}

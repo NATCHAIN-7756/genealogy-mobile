@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "231222100",
+      "name": "兰西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/兰西镇"
+    },
+    {
+      "code": "231222101",
+      "name": "榆林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/榆林镇"
+    },
+    {
+      "code": "231222102",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/临江镇"
+    },
+    {
+      "code": "231222103",
+      "name": "平山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/平山镇"
+    },
+    {
+      "code": "231222104",
+      "name": "远大镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/远大镇"
+    },
+    {
+      "code": "231222105",
+      "name": "红光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/红光镇"
+    },
+    {
+      "code": "231222106",
+      "name": "康荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/康荣镇"
+    },
+    {
+      "code": "231222107",
+      "name": "燎原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/燎原镇"
+    },
+    {
+      "code": "231222108",
+      "name": "奋斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/奋斗镇"
+    },
+    {
+      "code": "231222202",
+      "name": "北安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/北安乡"
+    },
+    {
+      "code": "231222203",
+      "name": "长江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/长江乡"
+    },
+    {
+      "code": "231222204",
+      "name": "兰河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/兰河乡"
+    },
+    {
+      "code": "231222205",
+      "name": "红星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/红星乡"
+    },
+    {
+      "code": "231222207",
+      "name": "长岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/长岗乡"
+    },
+    {
+      "code": "231222210",
+      "name": "星火乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231222",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/兰西县/星火乡"
+    }
+  ]
+}

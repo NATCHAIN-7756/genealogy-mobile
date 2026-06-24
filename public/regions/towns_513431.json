@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "513431100",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/新城镇"
+    },
+    {
+      "code": "513431101",
+      "name": "城北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/城北镇"
+    },
+    {
+      "code": "513431102",
+      "name": "竹核镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/竹核镇"
+    },
+    {
+      "code": "513431103",
+      "name": "谷曲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/谷曲镇"
+    },
+    {
+      "code": "513431104",
+      "name": "比尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/比尔镇"
+    },
+    {
+      "code": "513431105",
+      "name": "解放沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/解放沟镇"
+    },
+    {
+      "code": "513431106",
+      "name": "三岔河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/三岔河镇"
+    },
+    {
+      "code": "513431107",
+      "name": "四开镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/四开镇"
+    },
+    {
+      "code": "513431108",
+      "name": "地莫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/地莫镇"
+    },
+    {
+      "code": "513431109",
+      "name": "古里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/古里镇"
+    },
+    {
+      "code": "513431110",
+      "name": "俄尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/俄尔镇"
+    },
+    {
+      "code": "513431205",
+      "name": "美甘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/美甘乡"
+    },
+    {
+      "code": "513431210",
+      "name": "博洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/博洛乡"
+    },
+    {
+      "code": "513431227",
+      "name": "特布洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/特布洛乡"
+    },
+    {
+      "code": "513431228",
+      "name": "庆恒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/庆恒乡"
+    },
+    {
+      "code": "513431231",
+      "name": "补约乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/补约乡"
+    },
+    {
+      "code": "513431234",
+      "name": "金曲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/金曲乡"
+    },
+    {
+      "code": "513431238",
+      "name": "则普乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/则普乡"
+    },
+    {
+      "code": "513431244",
+      "name": "日哈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/日哈乡"
+    },
+    {
+      "code": "513431245",
+      "name": "哈甘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513431",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/昭觉县/哈甘乡"
+    }
+  ]
+}

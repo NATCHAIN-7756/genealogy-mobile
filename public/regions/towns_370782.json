@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "370782001",
+      "name": "密州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/密州街道"
+    },
+    {
+      "code": "370782002",
+      "name": "龙都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/龙都街道"
+    },
+    {
+      "code": "370782003",
+      "name": "舜王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/舜王街道"
+    },
+    {
+      "code": "370782101",
+      "name": "枳沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/枳沟镇"
+    },
+    {
+      "code": "370782102",
+      "name": "贾悦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/贾悦镇"
+    },
+    {
+      "code": "370782105",
+      "name": "石桥子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/石桥子镇"
+    },
+    {
+      "code": "370782108",
+      "name": "相州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/相州镇"
+    },
+    {
+      "code": "370782110",
+      "name": "昌城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/昌城镇"
+    },
+    {
+      "code": "370782111",
+      "name": "百尺河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/百尺河镇"
+    },
+    {
+      "code": "370782112",
+      "name": "辛兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/辛兴镇"
+    },
+    {
+      "code": "370782114",
+      "name": "林家村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/林家村镇"
+    },
+    {
+      "code": "370782117",
+      "name": "皇华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/皇华镇"
+    },
+    {
+      "code": "370782118",
+      "name": "桃林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370782",
+      "year": 0,
+      "name_path": "山东省/潍坊市/诸城市/桃林镇"
+    }
+  ]
+}

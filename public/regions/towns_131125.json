@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "131125100",
+      "name": "安平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/安平镇"
+    },
+    {
+      "code": "131125101",
+      "name": "马店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/马店镇"
+    },
+    {
+      "code": "131125102",
+      "name": "南王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/南王庄镇"
+    },
+    {
+      "code": "131125103",
+      "name": "大子文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/大子文镇"
+    },
+    {
+      "code": "131125104",
+      "name": "东黄城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/东黄城镇"
+    },
+    {
+      "code": "131125200",
+      "name": "大何庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/大何庄乡"
+    },
+    {
+      "code": "131125201",
+      "name": "程油子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/程油子乡"
+    },
+    {
+      "code": "131125202",
+      "name": "西两洼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "131125",
+      "year": 0,
+      "name_path": "河北省/衡水市/安平县/西两洼乡"
+    }
+  ]
+}

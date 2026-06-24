@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "621002001",
+      "name": "北街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/北街街道"
+    },
+    {
+      "code": "621002002",
+      "name": "南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/南街街道"
+    },
+    {
+      "code": "621002003",
+      "name": "西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/西街街道"
+    },
+    {
+      "code": "621002100",
+      "name": "肖金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/肖金镇"
+    },
+    {
+      "code": "621002101",
+      "name": "董志镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/董志镇"
+    },
+    {
+      "code": "621002102",
+      "name": "后官寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/后官寨镇"
+    },
+    {
+      "code": "621002103",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/温泉镇"
+    },
+    {
+      "code": "621002104",
+      "name": "彭原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/彭原镇"
+    },
+    {
+      "code": "621002205",
+      "name": "什社乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/什社乡"
+    },
+    {
+      "code": "621002207",
+      "name": "显胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621002",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/西峰区/显胜乡"
+    }
+  ]
+}

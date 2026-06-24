@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "360603001",
+      "name": "邓埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/邓埠街道"
+    },
+    {
+      "code": "360603002",
+      "name": "龙岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/龙岗街道"
+    },
+    {
+      "code": "360603101",
+      "name": "锦江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/锦江镇"
+    },
+    {
+      "code": "360603102",
+      "name": "画桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/画桥镇"
+    },
+    {
+      "code": "360603103",
+      "name": "潢溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/潢溪镇"
+    },
+    {
+      "code": "360603104",
+      "name": "中童镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/中童镇"
+    },
+    {
+      "code": "360603105",
+      "name": "马荃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/马荃镇"
+    },
+    {
+      "code": "360603106",
+      "name": "春涛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/春涛镇"
+    },
+    {
+      "code": "360603200",
+      "name": "黄庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/黄庄乡"
+    },
+    {
+      "code": "360603201",
+      "name": "平定乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/平定乡"
+    },
+    {
+      "code": "360603202",
+      "name": "杨溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/杨溪乡"
+    },
+    {
+      "code": "360603203",
+      "name": "洪湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/洪湖乡"
+    },
+    {
+      "code": "360603204",
+      "name": "刘家站乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360603",
+      "year": 0,
+      "name_path": "江西省/鹰潭市/余江区/刘家站乡"
+    }
+  ]
+}

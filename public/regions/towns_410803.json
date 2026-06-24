@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "410803001",
+      "name": "李封街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/李封街道"
+    },
+    {
+      "code": "410803002",
+      "name": "王封街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/王封街道"
+    },
+    {
+      "code": "410803003",
+      "name": "朱村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/朱村街道"
+    },
+    {
+      "code": "410803004",
+      "name": "冯封街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/冯封街道"
+    },
+    {
+      "code": "410803005",
+      "name": "龙洞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/龙洞街道"
+    },
+    {
+      "code": "410803006",
+      "name": "月山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/月山街道"
+    },
+    {
+      "code": "410803007",
+      "name": "丹河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/丹河街道"
+    },
+    {
+      "code": "410803008",
+      "name": "府城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/府城街道"
+    },
+    {
+      "code": "410803009",
+      "name": "许衡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/许衡街道"
+    },
+    {
+      "code": "410803010",
+      "name": "龙翔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410803",
+      "year": 0,
+      "name_path": "河南省/焦作市/中站区/龙翔街道"
+    }
+  ]
+}

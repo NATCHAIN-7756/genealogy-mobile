@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "510182001",
+      "name": "天彭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/天彭街道"
+    },
+    {
+      "code": "510182002",
+      "name": "隆丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/隆丰街道"
+    },
+    {
+      "code": "510182003",
+      "name": "濛阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/濛阳街道"
+    },
+    {
+      "code": "510182004",
+      "name": "致和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/致和街道"
+    },
+    {
+      "code": "510182101",
+      "name": "龙门山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/龙门山镇"
+    },
+    {
+      "code": "510182103",
+      "name": "丽春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/丽春镇"
+    },
+    {
+      "code": "510182104",
+      "name": "九尺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/九尺镇"
+    },
+    {
+      "code": "510182106",
+      "name": "通济镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/通济镇"
+    },
+    {
+      "code": "510182107",
+      "name": "丹景山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/丹景山镇"
+    },
+    {
+      "code": "510182109",
+      "name": "敖平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/敖平镇"
+    },
+    {
+      "code": "510182111",
+      "name": "桂花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/桂花镇"
+    },
+    {
+      "code": "510182121",
+      "name": "白鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/白鹿镇"
+    },
+    {
+      "code": "510182122",
+      "name": "葛仙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510182",
+      "year": 0,
+      "name_path": "四川省/成都市/彭州市/葛仙山镇"
+    }
+  ]
+}

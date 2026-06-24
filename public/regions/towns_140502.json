@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140502001",
+      "name": "东街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/东街街道"
+    },
+    {
+      "code": "140502002",
+      "name": "西街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/西街街道"
+    },
+    {
+      "code": "140502003",
+      "name": "南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/南街街道"
+    },
+    {
+      "code": "140502004",
+      "name": "北街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/北街街道"
+    },
+    {
+      "code": "140502005",
+      "name": "矿区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/矿区街道"
+    },
+    {
+      "code": "140502006",
+      "name": "钟家庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/钟家庄街道"
+    },
+    {
+      "code": "140502007",
+      "name": "西上庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/西上庄街道"
+    },
+    {
+      "code": "140502100",
+      "name": "北石店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140502",
+      "year": 0,
+      "name_path": "山西省/晋城市/城区/北石店镇"
+    }
+  ]
+}

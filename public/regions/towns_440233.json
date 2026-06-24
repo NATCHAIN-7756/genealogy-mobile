@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "440233001",
+      "name": "丰城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/丰城街道"
+    },
+    {
+      "code": "440233101",
+      "name": "黄磜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/黄磜镇"
+    },
+    {
+      "code": "440233102",
+      "name": "马头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/马头镇"
+    },
+    {
+      "code": "440233103",
+      "name": "梅坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/梅坑镇"
+    },
+    {
+      "code": "440233104",
+      "name": "沙田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/沙田镇"
+    },
+    {
+      "code": "440233105",
+      "name": "遥田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/遥田镇"
+    },
+    {
+      "code": "440233106",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440233",
+      "year": 0,
+      "name_path": "广东省/韶关市/新丰县/回龙镇"
+    }
+  ]
+}

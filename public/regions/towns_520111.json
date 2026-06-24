@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "520111001",
+      "name": "贵筑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/贵筑街道"
+    },
+    {
+      "code": "520111002",
+      "name": "阳光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/阳光街道"
+    },
+    {
+      "code": "520111003",
+      "name": "清溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/清溪街道"
+    },
+    {
+      "code": "520111004",
+      "name": "溪北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/溪北街道"
+    },
+    {
+      "code": "520111005",
+      "name": "黄河路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/黄河路街道"
+    },
+    {
+      "code": "520111006",
+      "name": "平桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/平桥街道"
+    },
+    {
+      "code": "520111007",
+      "name": "小孟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/小孟街道"
+    },
+    {
+      "code": "520111008",
+      "name": "金筑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/金筑街道"
+    },
+    {
+      "code": "520111009",
+      "name": "党武街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/党武街道"
+    },
+    {
+      "code": "520111101",
+      "name": "青岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/青岩镇"
+    },
+    {
+      "code": "520111102",
+      "name": "石板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/石板镇"
+    },
+    {
+      "code": "520111104",
+      "name": "麦坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/麦坪镇"
+    },
+    {
+      "code": "520111105",
+      "name": "燕楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/燕楼镇"
+    },
+    {
+      "code": "520111201",
+      "name": "孟关苗族布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/孟关苗族布依族乡"
+    },
+    {
+      "code": "520111204",
+      "name": "湖潮苗族布依族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/湖潮苗族布依族乡"
+    },
+    {
+      "code": "520111205",
+      "name": "久安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/久安乡"
+    },
+    {
+      "code": "520111207",
+      "name": "高坡苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/高坡苗族乡"
+    },
+    {
+      "code": "520111208",
+      "name": "黔陶布依族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/黔陶布依族苗族乡"
+    },
+    {
+      "code": "520111209",
+      "name": "马铃布依族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "520111",
+      "year": 0,
+      "name_path": "贵州省/贵阳市/花溪区/马铃布依族苗族乡"
+    }
+  ]
+}

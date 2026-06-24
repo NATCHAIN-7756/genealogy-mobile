@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "622926100",
+      "name": "锁南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/锁南镇"
+    },
+    {
+      "code": "622926101",
+      "name": "达板镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/达板镇"
+    },
+    {
+      "code": "622926103",
+      "name": "河滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/河滩镇"
+    },
+    {
+      "code": "622926107",
+      "name": "那勒寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/那勒寺镇"
+    },
+    {
+      "code": "622926118",
+      "name": "唐汪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/唐汪镇"
+    },
+    {
+      "code": "622926119",
+      "name": "果园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/果园镇"
+    },
+    {
+      "code": "622926120",
+      "name": "汪集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/汪集镇"
+    },
+    {
+      "code": "622926121",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/龙泉镇"
+    },
+    {
+      "code": "622926200",
+      "name": "春台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/春台乡"
+    },
+    {
+      "code": "622926201",
+      "name": "柳树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/柳树乡"
+    },
+    {
+      "code": "622926202",
+      "name": "东塬乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/东塬乡"
+    },
+    {
+      "code": "622926204",
+      "name": "坪庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/坪庄乡"
+    },
+    {
+      "code": "622926205",
+      "name": "百和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/百和乡"
+    },
+    {
+      "code": "622926206",
+      "name": "关卜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/关卜乡"
+    },
+    {
+      "code": "622926208",
+      "name": "赵家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/赵家乡"
+    },
+    {
+      "code": "622926209",
+      "name": "五家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/五家乡"
+    },
+    {
+      "code": "622926212",
+      "name": "沿岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/沿岭乡"
+    },
+    {
+      "code": "622926214",
+      "name": "凤山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/凤山乡"
+    },
+    {
+      "code": "622926215",
+      "name": "车家湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/车家湾乡"
+    },
+    {
+      "code": "622926219",
+      "name": "大树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/大树乡"
+    },
+    {
+      "code": "622926220",
+      "name": "北岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/北岭乡"
+    },
+    {
+      "code": "622926222",
+      "name": "考勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/考勒乡"
+    },
+    {
+      "code": "622926223",
+      "name": "董岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "622926",
+      "year": 0,
+      "name_path": "甘肃省/临夏回族自治州/东乡族自治县/董岭乡"
+    }
+  ]
+}

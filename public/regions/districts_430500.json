@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "430502",
+      "name": "双清区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/双清区"
+    },
+    {
+      "code": "430503",
+      "name": "大祥区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/大祥区"
+    },
+    {
+      "code": "430511",
+      "name": "北塔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/北塔区"
+    },
+    {
+      "code": "430522",
+      "name": "新邵县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/新邵县"
+    },
+    {
+      "code": "430523",
+      "name": "邵阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/邵阳县"
+    },
+    {
+      "code": "430524",
+      "name": "隆回县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/隆回县"
+    },
+    {
+      "code": "430525",
+      "name": "洞口县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/洞口县"
+    },
+    {
+      "code": "430527",
+      "name": "绥宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/绥宁县"
+    },
+    {
+      "code": "430528",
+      "name": "新宁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/新宁县"
+    },
+    {
+      "code": "430529",
+      "name": "城步苗族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/城步苗族自治县"
+    },
+    {
+      "code": "430581",
+      "name": "武冈市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/武冈市"
+    },
+    {
+      "code": "430582",
+      "name": "邵东市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430500",
+      "year": 0,
+      "name_path": "全国/湖南省/邵阳市/邵东市"
+    }
+  ]
+}

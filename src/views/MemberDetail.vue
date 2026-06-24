@@ -35,12 +35,7 @@
       <van-cell v-for="child in member?.children" :key="child.id" title="子女" :value="child.name" icon="friends-o" />
     </van-cell-group>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -48,7 +43,8 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
-import axios from 'axios'
+import api from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -62,9 +58,7 @@ function back() { router.back() }
 
 async function loadMember() {
   try {
-    const res = await axios.get(`http://45.207.215.95/api/members/${memberId}`, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    const res = await api.get('/...')
     member.value = res.data
   } catch (e) {
     console.error('加载失败:', e)

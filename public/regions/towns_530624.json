@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530624100",
+      "name": "翠华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/翠华镇"
+    },
+    {
+      "code": "530624101",
+      "name": "玉碗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/玉碗镇"
+    },
+    {
+      "code": "530624102",
+      "name": "吉利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/吉利镇"
+    },
+    {
+      "code": "530624103",
+      "name": "天星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/天星镇"
+    },
+    {
+      "code": "530624104",
+      "name": "木杆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/木杆镇"
+    },
+    {
+      "code": "530624105",
+      "name": "悦乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/悦乐镇"
+    },
+    {
+      "code": "530624106",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/高桥镇"
+    },
+    {
+      "code": "530624107",
+      "name": "寿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/寿山镇"
+    },
+    {
+      "code": "530624108",
+      "name": "靖安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/靖安镇"
+    },
+    {
+      "code": "530624200",
+      "name": "上高桥回族彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530624",
+      "year": 0,
+      "name_path": "云南省/昭通市/大关县/上高桥回族彝族苗族乡"
+    }
+  ]
+}

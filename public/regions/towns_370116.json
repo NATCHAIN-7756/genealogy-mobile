@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "370116001",
+      "name": "凤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/凤城街道"
+    },
+    {
+      "code": "370116002",
+      "name": "张家洼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/张家洼街道"
+    },
+    {
+      "code": "370116003",
+      "name": "高庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/高庄街道"
+    },
+    {
+      "code": "370116004",
+      "name": "鹏泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/鹏泉街道"
+    },
+    {
+      "code": "370116005",
+      "name": "口镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/口镇街道"
+    },
+    {
+      "code": "370116006",
+      "name": "羊里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/羊里街道"
+    },
+    {
+      "code": "370116007",
+      "name": "方下街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/方下街道"
+    },
+    {
+      "code": "370116008",
+      "name": "雪野街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/雪野街道"
+    },
+    {
+      "code": "370116103",
+      "name": "牛泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/牛泉镇"
+    },
+    {
+      "code": "370116104",
+      "name": "苗山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/苗山镇"
+    },
+    {
+      "code": "370116106",
+      "name": "大王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/大王庄镇"
+    },
+    {
+      "code": "370116107",
+      "name": "寨里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/寨里镇"
+    },
+    {
+      "code": "370116108",
+      "name": "杨庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/杨庄镇"
+    },
+    {
+      "code": "370116109",
+      "name": "茶业口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/茶业口镇"
+    },
+    {
+      "code": "370116110",
+      "name": "和庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370116",
+      "year": 0,
+      "name_path": "山东省/济南市/莱芜区/和庄镇"
+    }
+  ]
+}

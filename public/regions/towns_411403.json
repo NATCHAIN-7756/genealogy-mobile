@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "411403001",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/古城街道"
+    },
+    {
+      "code": "411403002",
+      "name": "文化街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/文化街道"
+    },
+    {
+      "code": "411403003",
+      "name": "东方街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/东方街道"
+    },
+    {
+      "code": "411403004",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/新城街道"
+    },
+    {
+      "code": "411403005",
+      "name": "古宋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/古宋街道"
+    },
+    {
+      "code": "411403008",
+      "name": "宋城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/宋城街道"
+    },
+    {
+      "code": "411403009",
+      "name": "民欣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/民欣街道"
+    },
+    {
+      "code": "411403010",
+      "name": "金桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/金桥街道"
+    },
+    {
+      "code": "411403100",
+      "name": "宋集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/宋集镇"
+    },
+    {
+      "code": "411403101",
+      "name": "郭村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/郭村镇"
+    },
+    {
+      "code": "411403102",
+      "name": "李口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/李口镇"
+    },
+    {
+      "code": "411403103",
+      "name": "高辛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/高辛镇"
+    },
+    {
+      "code": "411403104",
+      "name": "坞墙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/坞墙镇"
+    },
+    {
+      "code": "411403106",
+      "name": "冯桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/冯桥镇"
+    },
+    {
+      "code": "411403107",
+      "name": "路河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/路河镇"
+    },
+    {
+      "code": "411403108",
+      "name": "闫集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/闫集镇"
+    },
+    {
+      "code": "411403109",
+      "name": "毛堌堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/毛堌堆镇"
+    },
+    {
+      "code": "411403110",
+      "name": "包公庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/包公庙镇"
+    },
+    {
+      "code": "411403111",
+      "name": "临河店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/临河店镇"
+    },
+    {
+      "code": "411403112",
+      "name": "勒马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/勒马镇"
+    },
+    {
+      "code": "411403113",
+      "name": "娄店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411403",
+      "year": 0,
+      "name_path": "河南省/商丘市/睢阳区/娄店镇"
+    }
+  ]
+}

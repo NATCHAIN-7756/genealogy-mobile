@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "433127101",
+      "name": "首车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/首车镇"
+    },
+    {
+      "code": "433127102",
+      "name": "泽家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/泽家镇"
+    },
+    {
+      "code": "433127104",
+      "name": "永茂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/永茂镇"
+    },
+    {
+      "code": "433127105",
+      "name": "石堤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/石堤镇"
+    },
+    {
+      "code": "433127106",
+      "name": "塔卧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/塔卧镇"
+    },
+    {
+      "code": "433127107",
+      "name": "万坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/万坪镇"
+    },
+    {
+      "code": "433127109",
+      "name": "青坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/青坪镇"
+    },
+    {
+      "code": "433127110",
+      "name": "砂坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/砂坝镇"
+    },
+    {
+      "code": "433127111",
+      "name": "松柏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/松柏镇"
+    },
+    {
+      "code": "433127112",
+      "name": "灵溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/灵溪镇"
+    },
+    {
+      "code": "433127113",
+      "name": "小溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/小溪镇"
+    },
+    {
+      "code": "433127114",
+      "name": "芙蓉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/芙蓉镇"
+    },
+    {
+      "code": "433127200",
+      "name": "两岔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/两岔乡"
+    },
+    {
+      "code": "433127202",
+      "name": "西歧乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/西歧乡"
+    },
+    {
+      "code": "433127203",
+      "name": "对山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/对山乡"
+    },
+    {
+      "code": "433127210",
+      "name": "高坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/高坪乡"
+    },
+    {
+      "code": "433127216",
+      "name": "朗溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/朗溪乡"
+    },
+    {
+      "code": "433127220",
+      "name": "润雅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/润雅乡"
+    },
+    {
+      "code": "433127222",
+      "name": "车坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/车坪乡"
+    },
+    {
+      "code": "433127228",
+      "name": "毛坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/毛坝乡"
+    },
+    {
+      "code": "433127229",
+      "name": "万民乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/万民乡"
+    },
+    {
+      "code": "433127230",
+      "name": "盐井乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/盐井乡"
+    },
+    {
+      "code": "433127236",
+      "name": "颗砂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433127",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/永顺县/颗砂乡"
+    }
+  ]
+}

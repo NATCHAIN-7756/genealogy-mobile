@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "230904006",
+      "name": "东胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/东胜街道"
+    },
+    {
+      "code": "230904007",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/东风街道"
+    },
+    {
+      "code": "230904008",
+      "name": "通达街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/通达街道"
+    },
+    {
+      "code": "230904009",
+      "name": "湖东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/湖东街道"
+    },
+    {
+      "code": "230904010",
+      "name": "富强街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/富强街道"
+    },
+    {
+      "code": "230904011",
+      "name": "龙湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/龙湖街道"
+    },
+    {
+      "code": "230904100",
+      "name": "茄子河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/茄子河镇"
+    },
+    {
+      "code": "230904101",
+      "name": "宏伟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/宏伟镇"
+    },
+    {
+      "code": "230904102",
+      "name": "兴北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/兴北镇"
+    },
+    {
+      "code": "230904200",
+      "name": "铁山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/铁山乡"
+    },
+    {
+      "code": "230904201",
+      "name": "中心河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230904",
+      "year": 0,
+      "name_path": "黑龙江省/七台河市/茄子河区/中心河乡"
+    }
+  ]
+}

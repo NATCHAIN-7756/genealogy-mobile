@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "513402001",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/城北街道"
+    },
+    {
+      "code": "513402002",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/城南街道"
+    },
+    {
+      "code": "513402003",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/古城街道"
+    },
+    {
+      "code": "513402101",
+      "name": "鹿厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/鹿厂镇"
+    },
+    {
+      "code": "513402102",
+      "name": "黎溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/黎溪镇"
+    },
+    {
+      "code": "513402103",
+      "name": "通安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/通安镇"
+    },
+    {
+      "code": "513402104",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/太平镇"
+    },
+    {
+      "code": "513402105",
+      "name": "益门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/益门镇"
+    },
+    {
+      "code": "513402106",
+      "name": "绿水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/绿水镇"
+    },
+    {
+      "code": "513402107",
+      "name": "云甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/云甸镇"
+    },
+    {
+      "code": "513402108",
+      "name": "新发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/新发镇"
+    },
+    {
+      "code": "513402109",
+      "name": "关河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/关河镇"
+    },
+    {
+      "code": "513402110",
+      "name": "彰冠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/彰冠镇"
+    },
+    {
+      "code": "513402111",
+      "name": "木古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/木古镇"
+    },
+    {
+      "code": "513402112",
+      "name": "六华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/六华镇"
+    },
+    {
+      "code": "513402113",
+      "name": "小黑箐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/小黑箐镇"
+    },
+    {
+      "code": "513402201",
+      "name": "内东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/内东乡"
+    },
+    {
+      "code": "513402202",
+      "name": "树堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/树堡乡"
+    },
+    {
+      "code": "513402203",
+      "name": "新安傣族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/新安傣族乡"
+    },
+    {
+      "code": "513402204",
+      "name": "槽元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513402",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/会理市/槽元乡"
+    }
+  ]
+}

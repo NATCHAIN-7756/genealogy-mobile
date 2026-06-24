@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "230381100",
+      "name": "虎林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/虎林镇"
+    },
+    {
+      "code": "230381101",
+      "name": "东方红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/东方红镇"
+    },
+    {
+      "code": "230381102",
+      "name": "迎春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/迎春镇"
+    },
+    {
+      "code": "230381103",
+      "name": "虎头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/虎头镇"
+    },
+    {
+      "code": "230381104",
+      "name": "杨岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/杨岗镇"
+    },
+    {
+      "code": "230381106",
+      "name": "宝东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/宝东镇"
+    },
+    {
+      "code": "230381107",
+      "name": "东诚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/东诚镇"
+    },
+    {
+      "code": "230381203",
+      "name": "新乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/新乐乡"
+    },
+    {
+      "code": "230381204",
+      "name": "伟光乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/伟光乡"
+    },
+    {
+      "code": "230381206",
+      "name": "珍宝岛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/珍宝岛乡"
+    },
+    {
+      "code": "230381207",
+      "name": "阿北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230381",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/虎林市/阿北乡"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "430703001",
+      "name": "玉霞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/玉霞街道"
+    },
+    {
+      "code": "430703002",
+      "name": "红云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/红云街道"
+    },
+    {
+      "code": "430703003",
+      "name": "郭家铺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/郭家铺街道"
+    },
+    {
+      "code": "430703004",
+      "name": "斗姆湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/斗姆湖街道"
+    },
+    {
+      "code": "430703005",
+      "name": "金凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/金凤街道"
+    },
+    {
+      "code": "430703006",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/龙泉街道"
+    },
+    {
+      "code": "430703007",
+      "name": "灌溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/灌溪街道"
+    },
+    {
+      "code": "430703101",
+      "name": "蒿子港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/蒿子港镇"
+    },
+    {
+      "code": "430703102",
+      "name": "中河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/中河口镇"
+    },
+    {
+      "code": "430703103",
+      "name": "十美堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/十美堂镇"
+    },
+    {
+      "code": "430703104",
+      "name": "牛鼻滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/牛鼻滩镇"
+    },
+    {
+      "code": "430703105",
+      "name": "韩公渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/韩公渡镇"
+    },
+    {
+      "code": "430703106",
+      "name": "石公桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/石公桥镇"
+    },
+    {
+      "code": "430703107",
+      "name": "镇德桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/镇德桥镇"
+    },
+    {
+      "code": "430703108",
+      "name": "周家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/周家店镇"
+    },
+    {
+      "code": "430703110",
+      "name": "双桥坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/双桥坪镇"
+    },
+    {
+      "code": "430703112",
+      "name": "蔡家岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/蔡家岗镇"
+    },
+    {
+      "code": "430703114",
+      "name": "草坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/草坪镇"
+    },
+    {
+      "code": "430703116",
+      "name": "谢家铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/谢家铺镇"
+    },
+    {
+      "code": "430703117",
+      "name": "黄土店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/黄土店镇"
+    },
+    {
+      "code": "430703118",
+      "name": "尧天坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/尧天坪镇"
+    },
+    {
+      "code": "430703119",
+      "name": "花岩溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/花岩溪镇"
+    },
+    {
+      "code": "430703121",
+      "name": "石板滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/石板滩镇"
+    },
+    {
+      "code": "430703122",
+      "name": "石门桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/石门桥镇"
+    },
+    {
+      "code": "430703123",
+      "name": "祝丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/祝丰镇"
+    },
+    {
+      "code": "430703204",
+      "name": "许家桥回族维吾尔族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430703",
+      "year": 0,
+      "name_path": "湖南省/常德市/鼎城区/许家桥回族维吾尔族乡"
+    }
+  ]
+}

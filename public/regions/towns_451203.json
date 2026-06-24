@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "451203100",
+      "name": "庆远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/庆远镇"
+    },
+    {
+      "code": "451203101",
+      "name": "三岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/三岔镇"
+    },
+    {
+      "code": "451203102",
+      "name": "洛西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/洛西镇"
+    },
+    {
+      "code": "451203103",
+      "name": "怀远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/怀远镇"
+    },
+    {
+      "code": "451203104",
+      "name": "德胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/德胜镇"
+    },
+    {
+      "code": "451203105",
+      "name": "石别镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/石别镇"
+    },
+    {
+      "code": "451203106",
+      "name": "北山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/北山镇"
+    },
+    {
+      "code": "451203107",
+      "name": "洛东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/洛东镇"
+    },
+    {
+      "code": "451203108",
+      "name": "刘三姐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/刘三姐镇"
+    },
+    {
+      "code": "451203200",
+      "name": "祥贝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/祥贝乡"
+    },
+    {
+      "code": "451203203",
+      "name": "屏南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/屏南乡"
+    },
+    {
+      "code": "451203207",
+      "name": "福龙瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/福龙瑶族乡"
+    },
+    {
+      "code": "451203208",
+      "name": "北牙瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/北牙瑶族乡"
+    },
+    {
+      "code": "451203210",
+      "name": "同德乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/同德乡"
+    },
+    {
+      "code": "451203211",
+      "name": "安马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/安马乡"
+    },
+    {
+      "code": "451203213",
+      "name": "龙头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451203",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/宜州区/龙头乡"
+    }
+  ]
+}

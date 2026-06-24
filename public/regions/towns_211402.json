@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "211402001",
+      "name": "连山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/连山街道"
+    },
+    {
+      "code": "211402002",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/站前街道"
+    },
+    {
+      "code": "211402003",
+      "name": "渤海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/渤海街道"
+    },
+    {
+      "code": "211402004",
+      "name": "兴工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/兴工街道"
+    },
+    {
+      "code": "211402005",
+      "name": "石油街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/石油街道"
+    },
+    {
+      "code": "211402006",
+      "name": "化工街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/化工街道"
+    },
+    {
+      "code": "211402010",
+      "name": "锦郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/锦郊街道"
+    },
+    {
+      "code": "211402011",
+      "name": "杨家杖子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/杨家杖子街道"
+    },
+    {
+      "code": "211402104",
+      "name": "钢屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/钢屯镇"
+    },
+    {
+      "code": "211402105",
+      "name": "寺儿堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/寺儿堡镇"
+    },
+    {
+      "code": "211402106",
+      "name": "新台门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/新台门镇"
+    },
+    {
+      "code": "211402201",
+      "name": "沙河营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/沙河营乡"
+    },
+    {
+      "code": "211402202",
+      "name": "孤竹营子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/孤竹营子乡"
+    },
+    {
+      "code": "211402203",
+      "name": "白马石乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/白马石乡"
+    },
+    {
+      "code": "211402205",
+      "name": "山神庙子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/山神庙子乡"
+    },
+    {
+      "code": "211402206",
+      "name": "塔山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/塔山乡"
+    },
+    {
+      "code": "211402210",
+      "name": "杨郊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211402",
+      "year": 0,
+      "name_path": "辽宁省/葫芦岛市/连山区/杨郊乡"
+    }
+  ]
+}

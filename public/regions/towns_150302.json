@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "150302001",
+      "name": "新华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/新华街道"
+    },
+    {
+      "code": "150302002",
+      "name": "新华西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/新华西街道"
+    },
+    {
+      "code": "150302003",
+      "name": "凤凰岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/凤凰岭街道"
+    },
+    {
+      "code": "150302004",
+      "name": "海北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/海北街道"
+    },
+    {
+      "code": "150302005",
+      "name": "滨河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/滨河街道"
+    },
+    {
+      "code": "150302007",
+      "name": "林荫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/林荫街道"
+    },
+    {
+      "code": "150302108",
+      "name": "千里山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150302",
+      "year": 0,
+      "name_path": "内蒙古自治区/乌海市/海勃湾区/千里山镇"
+    }
+  ]
+}

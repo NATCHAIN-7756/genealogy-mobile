@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "621024100",
+      "name": "西华池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/西华池镇"
+    },
+    {
+      "code": "621024101",
+      "name": "老城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/老城镇"
+    },
+    {
+      "code": "621024102",
+      "name": "太白镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/太白镇"
+    },
+    {
+      "code": "621024103",
+      "name": "板桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/板桥镇"
+    },
+    {
+      "code": "621024104",
+      "name": "何家畔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/何家畔镇"
+    },
+    {
+      "code": "621024105",
+      "name": "吉岘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/吉岘镇"
+    },
+    {
+      "code": "621024106",
+      "name": "肖咀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/肖咀镇"
+    },
+    {
+      "code": "621024107",
+      "name": "固城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/固城镇"
+    },
+    {
+      "code": "621024202",
+      "name": "段家集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/段家集乡"
+    },
+    {
+      "code": "621024204",
+      "name": "太莪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/太莪乡"
+    },
+    {
+      "code": "621024205",
+      "name": "店子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/店子乡"
+    },
+    {
+      "code": "621024211",
+      "name": "蒿咀铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621024",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/合水县/蒿咀铺乡"
+    }
+  ]
+}

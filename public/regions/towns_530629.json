@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530629100",
+      "name": "扎西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/扎西镇"
+    },
+    {
+      "code": "530629101",
+      "name": "旧城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/旧城镇"
+    },
+    {
+      "code": "530629102",
+      "name": "罗布镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/罗布镇"
+    },
+    {
+      "code": "530629103",
+      "name": "麟凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/麟凤镇"
+    },
+    {
+      "code": "530629104",
+      "name": "庙沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/庙沟镇"
+    },
+    {
+      "code": "530629105",
+      "name": "水田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/水田镇"
+    },
+    {
+      "code": "530629106",
+      "name": "长安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/长安镇"
+    },
+    {
+      "code": "530629201",
+      "name": "双河苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/双河苗族彝族乡"
+    },
+    {
+      "code": "530629202",
+      "name": "高田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/高田乡"
+    },
+    {
+      "code": "530629207",
+      "name": "三桃乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530629",
+      "year": 0,
+      "name_path": "云南省/昭通市/威信县/三桃乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "330302",
+      "name": "鹿城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/鹿城区"
+    },
+    {
+      "code": "330303",
+      "name": "龙湾区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/龙湾区"
+    },
+    {
+      "code": "330304",
+      "name": "瓯海区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/瓯海区"
+    },
+    {
+      "code": "330305",
+      "name": "洞头区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/洞头区"
+    },
+    {
+      "code": "330324",
+      "name": "永嘉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/永嘉县"
+    },
+    {
+      "code": "330326",
+      "name": "平阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/平阳县"
+    },
+    {
+      "code": "330327",
+      "name": "苍南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/苍南县"
+    },
+    {
+      "code": "330328",
+      "name": "文成县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/文成县"
+    },
+    {
+      "code": "330329",
+      "name": "泰顺县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/泰顺县"
+    },
+    {
+      "code": "330381",
+      "name": "瑞安市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/瑞安市"
+    },
+    {
+      "code": "330382",
+      "name": "乐清市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/乐清市"
+    },
+    {
+      "code": "330383",
+      "name": "龙港市",
+      "level": 3,
+      "type": null,
+      "parent_code": "330300",
+      "year": 0,
+      "name_path": "全国/浙江省/温州市/龙港市"
+    }
+  ]
+}

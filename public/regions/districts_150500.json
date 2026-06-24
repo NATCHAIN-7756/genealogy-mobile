@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150502",
+      "name": "科尔沁区",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/科尔沁区"
+    },
+    {
+      "code": "150521",
+      "name": "科尔沁左翼中旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/科尔沁左翼中旗"
+    },
+    {
+      "code": "150522",
+      "name": "科尔沁左翼后旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/科尔沁左翼后旗"
+    },
+    {
+      "code": "150523",
+      "name": "开鲁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/开鲁县"
+    },
+    {
+      "code": "150524",
+      "name": "库伦旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/库伦旗"
+    },
+    {
+      "code": "150525",
+      "name": "奈曼旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/奈曼旗"
+    },
+    {
+      "code": "150526",
+      "name": "扎鲁特旗",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/扎鲁特旗"
+    },
+    {
+      "code": "150581",
+      "name": "霍林郭勒市",
+      "level": 3,
+      "type": null,
+      "parent_code": "150500",
+      "year": 0,
+      "name_path": "全国/内蒙古自治区/通辽市/霍林郭勒市"
+    }
+  ]
+}

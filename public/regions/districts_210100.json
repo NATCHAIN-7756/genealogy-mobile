@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "210102",
+      "name": "和平区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/和平区"
+    },
+    {
+      "code": "210103",
+      "name": "沈河区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/沈河区"
+    },
+    {
+      "code": "210104",
+      "name": "大东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/大东区"
+    },
+    {
+      "code": "210105",
+      "name": "皇姑区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/皇姑区"
+    },
+    {
+      "code": "210106",
+      "name": "铁西区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/铁西区"
+    },
+    {
+      "code": "210111",
+      "name": "苏家屯区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/苏家屯区"
+    },
+    {
+      "code": "210112",
+      "name": "浑南区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/浑南区"
+    },
+    {
+      "code": "210113",
+      "name": "沈北新区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/沈北新区"
+    },
+    {
+      "code": "210114",
+      "name": "于洪区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/于洪区"
+    },
+    {
+      "code": "210115",
+      "name": "辽中区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/辽中区"
+    },
+    {
+      "code": "210123",
+      "name": "康平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/康平县"
+    },
+    {
+      "code": "210124",
+      "name": "法库县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/法库县"
+    },
+    {
+      "code": "210181",
+      "name": "新民市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210100",
+      "year": 0,
+      "name_path": "全国/辽宁省/沈阳市/新民市"
+    }
+  ]
+}

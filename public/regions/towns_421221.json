@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "421221100",
+      "name": "陆溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/陆溪镇"
+    },
+    {
+      "code": "421221101",
+      "name": "高铁岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/高铁岭镇"
+    },
+    {
+      "code": "421221102",
+      "name": "官桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/官桥镇"
+    },
+    {
+      "code": "421221103",
+      "name": "鱼岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/鱼岳镇"
+    },
+    {
+      "code": "421221104",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/新街镇"
+    },
+    {
+      "code": "421221105",
+      "name": "渡普镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/渡普镇"
+    },
+    {
+      "code": "421221106",
+      "name": "潘家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/潘家湾镇"
+    },
+    {
+      "code": "421221107",
+      "name": "簰洲湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421221",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/嘉鱼县/簰洲湾镇"
+    }
+  ]
+}

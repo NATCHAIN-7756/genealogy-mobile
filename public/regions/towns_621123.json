@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "621123100",
+      "name": "清源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/清源镇"
+    },
+    {
+      "code": "621123101",
+      "name": "莲峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/莲峰镇"
+    },
+    {
+      "code": "621123102",
+      "name": "会川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/会川镇"
+    },
+    {
+      "code": "621123103",
+      "name": "五竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/五竹镇"
+    },
+    {
+      "code": "621123104",
+      "name": "路园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/路园镇"
+    },
+    {
+      "code": "621123105",
+      "name": "北寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/北寨镇"
+    },
+    {
+      "code": "621123106",
+      "name": "麻家集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/麻家集镇"
+    },
+    {
+      "code": "621123107",
+      "name": "新寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/新寨镇"
+    },
+    {
+      "code": "621123108",
+      "name": "庆坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/庆坪镇"
+    },
+    {
+      "code": "621123109",
+      "name": "祁家庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/祁家庙镇"
+    },
+    {
+      "code": "621123110",
+      "name": "上湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/上湾镇"
+    },
+    {
+      "code": "621123111",
+      "name": "锹峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/锹峪镇"
+    },
+    {
+      "code": "621123203",
+      "name": "大安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/大安乡"
+    },
+    {
+      "code": "621123204",
+      "name": "秦祁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/秦祁乡"
+    },
+    {
+      "code": "621123210",
+      "name": "峡城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/峡城乡"
+    },
+    {
+      "code": "621123211",
+      "name": "田家河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621123",
+      "year": 0,
+      "name_path": "甘肃省/定西市/渭源县/田家河乡"
+    }
+  ]
+}

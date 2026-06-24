@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "131028001",
+      "name": "北辰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "131028",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大厂回族自治县/北辰街道"
+    },
+    {
+      "code": "131028100",
+      "name": "大厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131028",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大厂回族自治县/大厂镇"
+    },
+    {
+      "code": "131028101",
+      "name": "夏垫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131028",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大厂回族自治县/夏垫镇"
+    },
+    {
+      "code": "131028102",
+      "name": "祁各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131028",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大厂回族自治县/祁各庄镇"
+    },
+    {
+      "code": "131028103",
+      "name": "陈府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131028",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大厂回族自治县/陈府镇"
+    },
+    {
+      "code": "131028104",
+      "name": "邵府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131028",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大厂回族自治县/邵府镇"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "500115001",
+      "name": "凤城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/凤城街道"
+    },
+    {
+      "code": "500115002",
+      "name": "晏家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/晏家街道"
+    },
+    {
+      "code": "500115003",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/江南街道"
+    },
+    {
+      "code": "500115004",
+      "name": "渡舟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/渡舟街道"
+    },
+    {
+      "code": "500115005",
+      "name": "八颗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/八颗街道"
+    },
+    {
+      "code": "500115006",
+      "name": "新市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/新市街道"
+    },
+    {
+      "code": "500115007",
+      "name": "菩提街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/菩提街道"
+    },
+    {
+      "code": "500115101",
+      "name": "邻封镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/邻封镇"
+    },
+    {
+      "code": "500115102",
+      "name": "但渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/但渡镇"
+    },
+    {
+      "code": "500115103",
+      "name": "云集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/云集镇"
+    },
+    {
+      "code": "500115104",
+      "name": "长寿湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/长寿湖镇"
+    },
+    {
+      "code": "500115105",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/双龙镇"
+    },
+    {
+      "code": "500115106",
+      "name": "龙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/龙河镇"
+    },
+    {
+      "code": "500115107",
+      "name": "石堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/石堰镇"
+    },
+    {
+      "code": "500115108",
+      "name": "云台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/云台镇"
+    },
+    {
+      "code": "500115109",
+      "name": "海棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/海棠镇"
+    },
+    {
+      "code": "500115110",
+      "name": "葛兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/葛兰镇"
+    },
+    {
+      "code": "500115113",
+      "name": "洪湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/洪湖镇"
+    },
+    {
+      "code": "500115114",
+      "name": "万顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500115",
+      "year": 0,
+      "name_path": "重庆市/长寿区/万顺镇"
+    }
+  ]
+}

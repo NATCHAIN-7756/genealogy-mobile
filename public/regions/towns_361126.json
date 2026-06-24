@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "361126001",
+      "name": "桃源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/桃源街道"
+    },
+    {
+      "code": "361126002",
+      "name": "花亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/花亭街道"
+    },
+    {
+      "code": "361126003",
+      "name": "南岩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/南岩街道"
+    },
+    {
+      "code": "361126004",
+      "name": "弋江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/弋江街道"
+    },
+    {
+      "code": "361126101",
+      "name": "漆工镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/漆工镇"
+    },
+    {
+      "code": "361126102",
+      "name": "港口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/港口镇"
+    },
+    {
+      "code": "361126103",
+      "name": "曹溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/曹溪镇"
+    },
+    {
+      "code": "361126104",
+      "name": "樟树墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/樟树墩镇"
+    },
+    {
+      "code": "361126105",
+      "name": "圭峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/圭峰镇"
+    },
+    {
+      "code": "361126106",
+      "name": "叠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/叠山镇"
+    },
+    {
+      "code": "361126108",
+      "name": "朱坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/朱坑镇"
+    },
+    {
+      "code": "361126109",
+      "name": "三县岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/三县岭镇"
+    },
+    {
+      "code": "361126110",
+      "name": "旭光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/旭光镇"
+    },
+    {
+      "code": "361126201",
+      "name": "湾里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/湾里乡"
+    },
+    {
+      "code": "361126202",
+      "name": "葛溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/葛溪乡"
+    },
+    {
+      "code": "361126203",
+      "name": "清湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/清湖乡"
+    },
+    {
+      "code": "361126207",
+      "name": "中畈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361126",
+      "year": 0,
+      "name_path": "江西省/上饶市/弋阳县/中畈乡"
+    }
+  ]
+}

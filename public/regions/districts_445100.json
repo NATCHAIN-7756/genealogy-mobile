@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "code": "445102",
+      "name": "湘桥区",
+      "level": 3,
+      "type": null,
+      "parent_code": "445100",
+      "year": 0,
+      "name_path": "全国/广东省/潮州市/湘桥区"
+    },
+    {
+      "code": "445103",
+      "name": "潮安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "445100",
+      "year": 0,
+      "name_path": "全国/广东省/潮州市/潮安区"
+    },
+    {
+      "code": "445122",
+      "name": "饶平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "445100",
+      "year": 0,
+      "name_path": "全国/广东省/潮州市/饶平县"
+    }
+  ]
+}

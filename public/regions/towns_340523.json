@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "340523100",
+      "name": "历阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/历阳镇"
+    },
+    {
+      "code": "340523105",
+      "name": "白桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/白桥镇"
+    },
+    {
+      "code": "340523106",
+      "name": "姥桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/姥桥镇"
+    },
+    {
+      "code": "340523107",
+      "name": "西埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/西埠镇"
+    },
+    {
+      "code": "340523108",
+      "name": "香泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/香泉镇"
+    },
+    {
+      "code": "340523109",
+      "name": "乌江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/乌江镇"
+    },
+    {
+      "code": "340523110",
+      "name": "善厚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/善厚镇"
+    },
+    {
+      "code": "340523111",
+      "name": "石杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/石杨镇"
+    },
+    {
+      "code": "340523112",
+      "name": "功桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340523",
+      "year": 0,
+      "name_path": "安徽省/马鞍山市/和县/功桥镇"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "320722001",
+      "name": "牛山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/牛山街道"
+    },
+    {
+      "code": "320722002",
+      "name": "石榴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/石榴街道"
+    },
+    {
+      "code": "320722101",
+      "name": "白塔埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/白塔埠镇"
+    },
+    {
+      "code": "320722103",
+      "name": "黄川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/黄川镇"
+    },
+    {
+      "code": "320722104",
+      "name": "石梁河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/石梁河镇"
+    },
+    {
+      "code": "320722105",
+      "name": "青湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/青湖镇"
+    },
+    {
+      "code": "320722107",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/温泉镇"
+    },
+    {
+      "code": "320722108",
+      "name": "双店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/双店镇"
+    },
+    {
+      "code": "320722109",
+      "name": "桃林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/桃林镇"
+    },
+    {
+      "code": "320722110",
+      "name": "洪庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/洪庄镇"
+    },
+    {
+      "code": "320722111",
+      "name": "安峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/安峰镇"
+    },
+    {
+      "code": "320722112",
+      "name": "房山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/房山镇"
+    },
+    {
+      "code": "320722113",
+      "name": "平明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/平明镇"
+    },
+    {
+      "code": "320722114",
+      "name": "曲阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/曲阳镇"
+    },
+    {
+      "code": "320722115",
+      "name": "山左口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/山左口镇"
+    },
+    {
+      "code": "320722200",
+      "name": "驼峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/驼峰乡"
+    },
+    {
+      "code": "320722203",
+      "name": "李埝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/李埝乡"
+    },
+    {
+      "code": "320722205",
+      "name": "石湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/石湖乡"
+    },
+    {
+      "code": "320722207",
+      "name": "张湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "320722",
+      "year": 0,
+      "name_path": "江苏省/连云港市/东海县/张湾乡"
+    }
+  ]
+}

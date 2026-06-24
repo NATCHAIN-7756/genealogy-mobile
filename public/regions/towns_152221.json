@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "152221100",
+      "name": "索伦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/索伦镇"
+    },
+    {
+      "code": "152221101",
+      "name": "大石寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/大石寨镇"
+    },
+    {
+      "code": "152221102",
+      "name": "归流河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/归流河镇"
+    },
+    {
+      "code": "152221103",
+      "name": "察尔森镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/察尔森镇"
+    },
+    {
+      "code": "152221104",
+      "name": "科尔沁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/科尔沁镇"
+    },
+    {
+      "code": "152221110",
+      "name": "额尔格图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/额尔格图镇"
+    },
+    {
+      "code": "152221111",
+      "name": "德伯斯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/德伯斯镇"
+    },
+    {
+      "code": "152221119",
+      "name": "居力很镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/居力很镇"
+    },
+    {
+      "code": "152221120",
+      "name": "俄体镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/俄体镇"
+    },
+    {
+      "code": "152221203",
+      "name": "满族屯满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/满族屯满族乡"
+    },
+    {
+      "code": "152221205",
+      "name": "乌兰毛都苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/乌兰毛都苏木"
+    },
+    {
+      "code": "152221207",
+      "name": "阿力得尔苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/阿力得尔苏木"
+    },
+    {
+      "code": "152221208",
+      "name": "巴日嘎斯台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/巴日嘎斯台乡"
+    },
+    {
+      "code": "152221209",
+      "name": "桃合木苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152221",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/科尔沁右翼前旗/桃合木苏木"
+    }
+  ]
+}

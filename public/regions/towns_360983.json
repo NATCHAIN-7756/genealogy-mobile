@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "360983001",
+      "name": "瑞州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/瑞州街道"
+    },
+    {
+      "code": "360983002",
+      "name": "筠阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/筠阳街道"
+    },
+    {
+      "code": "360983100",
+      "name": "荷岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/荷岭镇"
+    },
+    {
+      "code": "360983101",
+      "name": "八景镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/八景镇"
+    },
+    {
+      "code": "360983102",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/新街镇"
+    },
+    {
+      "code": "360983103",
+      "name": "灰埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/灰埠镇"
+    },
+    {
+      "code": "360983104",
+      "name": "建山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/建山镇"
+    },
+    {
+      "code": "360983105",
+      "name": "独城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/独城镇"
+    },
+    {
+      "code": "360983106",
+      "name": "石脑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/石脑镇"
+    },
+    {
+      "code": "360983107",
+      "name": "黄沙岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/黄沙岗镇"
+    },
+    {
+      "code": "360983108",
+      "name": "杨圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/杨圩镇"
+    },
+    {
+      "code": "360983109",
+      "name": "大城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/大城镇"
+    },
+    {
+      "code": "360983110",
+      "name": "相城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/相城镇"
+    },
+    {
+      "code": "360983111",
+      "name": "蓝坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/蓝坊镇"
+    },
+    {
+      "code": "360983112",
+      "name": "太阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/太阳镇"
+    },
+    {
+      "code": "360983113",
+      "name": "田南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/田南镇"
+    },
+    {
+      "code": "360983114",
+      "name": "祥符镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/祥符镇"
+    },
+    {
+      "code": "360983115",
+      "name": "伍桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/伍桥镇"
+    },
+    {
+      "code": "360983116",
+      "name": "龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/龙潭镇"
+    },
+    {
+      "code": "360983117",
+      "name": "村前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/村前镇"
+    },
+    {
+      "code": "360983118",
+      "name": "华林山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/华林山镇"
+    },
+    {
+      "code": "360983213",
+      "name": "汪家圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/汪家圩乡"
+    },
+    {
+      "code": "360983216",
+      "name": "上湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360983",
+      "year": 0,
+      "name_path": "江西省/宜春市/高安市/上湖乡"
+    }
+  ]
+}

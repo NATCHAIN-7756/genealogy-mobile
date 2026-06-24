@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "150523100",
+      "name": "开鲁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/开鲁镇"
+    },
+    {
+      "code": "150523103",
+      "name": "大榆树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/大榆树镇"
+    },
+    {
+      "code": "150523104",
+      "name": "黑龙坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/黑龙坝镇"
+    },
+    {
+      "code": "150523105",
+      "name": "麦新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/麦新镇"
+    },
+    {
+      "code": "150523108",
+      "name": "建华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/建华镇"
+    },
+    {
+      "code": "150523109",
+      "name": "小街基镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/小街基镇"
+    },
+    {
+      "code": "150523111",
+      "name": "东风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/东风镇"
+    },
+    {
+      "code": "150523112",
+      "name": "吉日嘎郎吐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/吉日嘎郎吐镇"
+    },
+    {
+      "code": "150523113",
+      "name": "东来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/东来镇"
+    },
+    {
+      "code": "150523114",
+      "name": "义和塔拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150523",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/开鲁县/义和塔拉镇"
+    }
+  ]
+}

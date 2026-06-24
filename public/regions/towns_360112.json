@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "360112001",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/站前街道"
+    },
+    {
+      "code": "360112002",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/幸福街道"
+    },
+    {
+      "code": "360112003",
+      "name": "蛟桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/蛟桥街道"
+    },
+    {
+      "code": "360112004",
+      "name": "长堎街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/长堎街道"
+    },
+    {
+      "code": "360112005",
+      "name": "欣悦湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/欣悦湖街道"
+    },
+    {
+      "code": "360112101",
+      "name": "石岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/石岗镇"
+    },
+    {
+      "code": "360112102",
+      "name": "松湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/松湖镇"
+    },
+    {
+      "code": "360112103",
+      "name": "望城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/望城镇"
+    },
+    {
+      "code": "360112104",
+      "name": "樵舍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/樵舍镇"
+    },
+    {
+      "code": "360112105",
+      "name": "象山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/象山镇"
+    },
+    {
+      "code": "360112106",
+      "name": "乐化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/乐化镇"
+    },
+    {
+      "code": "360112107",
+      "name": "西山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/西山镇"
+    },
+    {
+      "code": "360112108",
+      "name": "溪霞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/溪霞镇"
+    },
+    {
+      "code": "360112109",
+      "name": "联圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/联圩镇"
+    },
+    {
+      "code": "360112110",
+      "name": "石埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/石埠镇"
+    },
+    {
+      "code": "360112112",
+      "name": "梅岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/梅岭镇"
+    },
+    {
+      "code": "360112113",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/太平镇"
+    },
+    {
+      "code": "360112114",
+      "name": "罗亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/罗亭镇"
+    },
+    {
+      "code": "360112115",
+      "name": "招贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/招贤镇"
+    },
+    {
+      "code": "360112117",
+      "name": "大塘坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/大塘坪镇"
+    },
+    {
+      "code": "360112200",
+      "name": "昌邑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/昌邑乡"
+    },
+    {
+      "code": "360112201",
+      "name": "南矶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/南矶乡"
+    },
+    {
+      "code": "360112203",
+      "name": "金桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/金桥乡"
+    },
+    {
+      "code": "360112205",
+      "name": "铁河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360112",
+      "year": 0,
+      "name_path": "江西省/南昌市/新建区/铁河乡"
+    }
+  ]
+}

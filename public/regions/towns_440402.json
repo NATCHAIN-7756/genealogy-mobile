@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "440402001",
+      "name": "翠香街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/翠香街道"
+    },
+    {
+      "code": "440402002",
+      "name": "梅华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/梅华街道"
+    },
+    {
+      "code": "440402003",
+      "name": "前山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/前山街道"
+    },
+    {
+      "code": "440402004",
+      "name": "吉大街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/吉大街道"
+    },
+    {
+      "code": "440402005",
+      "name": "拱北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/拱北街道"
+    },
+    {
+      "code": "440402006",
+      "name": "香湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/香湾街道"
+    },
+    {
+      "code": "440402007",
+      "name": "狮山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/狮山街道"
+    },
+    {
+      "code": "440402008",
+      "name": "湾仔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/湾仔街道"
+    },
+    {
+      "code": "440402009",
+      "name": "凤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/凤山街道"
+    },
+    {
+      "code": "440402100",
+      "name": "唐家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/唐家湾镇"
+    },
+    {
+      "code": "440402102",
+      "name": "南屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/南屏镇"
+    },
+    {
+      "code": "440402104",
+      "name": "横琴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/横琴镇"
+    },
+    {
+      "code": "440402105",
+      "name": "桂山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/桂山镇"
+    },
+    {
+      "code": "440402106",
+      "name": "担杆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/担杆镇"
+    },
+    {
+      "code": "440402107",
+      "name": "万山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440402",
+      "year": 0,
+      "name_path": "广东省/珠海市/香洲区/万山镇"
+    }
+  ]
+}

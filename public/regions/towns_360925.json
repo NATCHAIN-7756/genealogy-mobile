@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "360925100",
+      "name": "双溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/双溪镇"
+    },
+    {
+      "code": "360925101",
+      "name": "宝峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/宝峰镇"
+    },
+    {
+      "code": "360925102",
+      "name": "高湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/高湖镇"
+    },
+    {
+      "code": "360925103",
+      "name": "璪都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/璪都镇"
+    },
+    {
+      "code": "360925104",
+      "name": "仁首镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/仁首镇"
+    },
+    {
+      "code": "360925105",
+      "name": "官庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/官庄镇"
+    },
+    {
+      "code": "360925200",
+      "name": "香田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/香田乡"
+    },
+    {
+      "code": "360925202",
+      "name": "水口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/水口乡"
+    },
+    {
+      "code": "360925205",
+      "name": "中源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/中源乡"
+    },
+    {
+      "code": "360925207",
+      "name": "雷公尖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/雷公尖乡"
+    },
+    {
+      "code": "360925208",
+      "name": "三爪仑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360925",
+      "year": 0,
+      "name_path": "江西省/宜春市/靖安县/三爪仑乡"
+    }
+  ]
+}

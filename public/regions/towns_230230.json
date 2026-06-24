@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "230230100",
+      "name": "克东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/克东镇"
+    },
+    {
+      "code": "230230101",
+      "name": "宝泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/宝泉镇"
+    },
+    {
+      "code": "230230102",
+      "name": "乾丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/乾丰镇"
+    },
+    {
+      "code": "230230103",
+      "name": "玉岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/玉岗镇"
+    },
+    {
+      "code": "230230104",
+      "name": "蒲峪路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/蒲峪路镇"
+    },
+    {
+      "code": "230230202",
+      "name": "润津乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/润津乡"
+    },
+    {
+      "code": "230230204",
+      "name": "昌盛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230230",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/克东县/昌盛乡"
+    }
+  ]
+}

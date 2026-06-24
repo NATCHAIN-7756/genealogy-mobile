@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "430502001",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/兴隆街道"
+    },
+    {
+      "code": "430502002",
+      "name": "龙须塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/龙须塘街道"
+    },
+    {
+      "code": "430502003",
+      "name": "汽车站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/汽车站街道"
+    },
+    {
+      "code": "430502004",
+      "name": "小江湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/小江湖街道"
+    },
+    {
+      "code": "430502005",
+      "name": "东风路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/东风路街道"
+    },
+    {
+      "code": "430502006",
+      "name": "桥头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/桥头街道"
+    },
+    {
+      "code": "430502007",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/滨江街道"
+    },
+    {
+      "code": "430502008",
+      "name": "石桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/石桥街道"
+    },
+    {
+      "code": "430502009",
+      "name": "爱莲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/爱莲街道"
+    },
+    {
+      "code": "430502100",
+      "name": "高崇山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/高崇山镇"
+    },
+    {
+      "code": "430502101",
+      "name": "渡头桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/渡头桥镇"
+    },
+    {
+      "code": "430502202",
+      "name": "火车站乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430502",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/双清区/火车站乡"
+    }
+  ]
+}

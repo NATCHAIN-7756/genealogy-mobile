@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "653126100",
+      "name": "喀格勒克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/喀格勒克镇"
+    },
+    {
+      "code": "653126101",
+      "name": "恰尔巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/恰尔巴格镇"
+    },
+    {
+      "code": "653126102",
+      "name": "乌夏克巴什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/乌夏克巴什镇"
+    },
+    {
+      "code": "653126103",
+      "name": "阿克塔什镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/阿克塔什镇"
+    },
+    {
+      "code": "653126104",
+      "name": "金果镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/金果镇"
+    },
+    {
+      "code": "653126105",
+      "name": "依提木孔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/依提木孔镇"
+    },
+    {
+      "code": "653126106",
+      "name": "白杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/白杨镇"
+    },
+    {
+      "code": "653126107",
+      "name": "伯西热克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/伯西热克镇"
+    },
+    {
+      "code": "653126108",
+      "name": "河园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/河园镇"
+    },
+    {
+      "code": "653126109",
+      "name": "新华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/新华镇"
+    },
+    {
+      "code": "653126110",
+      "name": "宝玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/宝玉镇"
+    },
+    {
+      "code": "653126111",
+      "name": "永康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/永康镇"
+    },
+    {
+      "code": "653126112",
+      "name": "玉叶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/玉叶镇"
+    },
+    {
+      "code": "653126200",
+      "name": "洛克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/洛克乡"
+    },
+    {
+      "code": "653126202",
+      "name": "铁提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/铁提乡"
+    },
+    {
+      "code": "653126204",
+      "name": "吐古其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/吐古其乡"
+    },
+    {
+      "code": "653126205",
+      "name": "江格勒斯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/江格勒斯乡"
+    },
+    {
+      "code": "653126207",
+      "name": "巴仁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/巴仁乡"
+    },
+    {
+      "code": "653126208",
+      "name": "乌吉热克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/乌吉热克乡"
+    },
+    {
+      "code": "653126209",
+      "name": "夏合甫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/夏合甫乡"
+    },
+    {
+      "code": "653126210",
+      "name": "依力克其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/依力克其乡"
+    },
+    {
+      "code": "653126212",
+      "name": "宗朗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/宗朗乡"
+    },
+    {
+      "code": "653126213",
+      "name": "柯克亚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/柯克亚乡"
+    },
+    {
+      "code": "653126215",
+      "name": "棋盘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653126",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/叶城县/棋盘乡"
+    }
+  ]
+}

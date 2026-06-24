@@ -17,19 +17,15 @@
       <van-cell title="待审核赞助" :value="pending.sponsors" is-link to="/committee/sponsors" />
     </van-cell-group>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
 <script setup>
 import { ref, onMounted } from 'vue'
 import { useRouter } from 'vue-router'
-import axios from 'axios'
+import api from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const activeTabbar = ref(3)
@@ -42,9 +38,9 @@ function back() { router.back() }
 async function loadPending() {
   try {
     const [stories, events, sponsors] = await Promise.all([
-      axios.get('http://45.207.215.95/api/committee/pending/stories', { headers: { Authorization: `Bearer ${token}` } }),
-      axios.get('http://45.207.215.95/api/committee/pending/events', { headers: { Authorization: `Bearer ${token}` } }),
-      axios.get('http://45.207.215.95/api/committee/pending/sponsors', { headers: { Authorization: `Bearer ${token}` } })
+      api.get('/api/committee/pending/stories', { headers: { Authorization: `Bearer ${token}` } }),
+      api.get('/api/committee/pending/events', { headers: { Authorization: `Bearer ${token}` } }),
+      api.get('/api/committee/pending/sponsors', { headers: { Authorization: `Bearer ${token}` } })
     ])
     pending.value = {
       stories: stories.data.length || 0,

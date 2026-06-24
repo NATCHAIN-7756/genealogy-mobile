@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "653129100",
+      "name": "巴仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/巴仁镇"
+    },
+    {
+      "code": "653129101",
+      "name": "西克尔库勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/西克尔库勒镇"
+    },
+    {
+      "code": "653129102",
+      "name": "夏普吐勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/夏普吐勒镇"
+    },
+    {
+      "code": "653129103",
+      "name": "卧里托格拉克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/卧里托格拉克镇"
+    },
+    {
+      "code": "653129104",
+      "name": "克孜勒博依镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/克孜勒博依镇"
+    },
+    {
+      "code": "653129105",
+      "name": "和夏阿瓦提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/和夏阿瓦提镇"
+    },
+    {
+      "code": "653129106",
+      "name": "英买里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/英买里镇"
+    },
+    {
+      "code": "653129107",
+      "name": "居仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/居仁镇"
+    },
+    {
+      "code": "653129200",
+      "name": "铁日木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/铁日木乡"
+    },
+    {
+      "code": "653129205",
+      "name": "米夏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/米夏乡"
+    },
+    {
+      "code": "653129208",
+      "name": "克孜勒苏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/克孜勒苏乡"
+    },
+    {
+      "code": "653129209",
+      "name": "古勒鲁克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/古勒鲁克乡"
+    },
+    {
+      "code": "653129210",
+      "name": "玉代克力克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653129",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/伽师县/玉代克力克乡"
+    }
+  ]
+}

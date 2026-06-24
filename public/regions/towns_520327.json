@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "520327001",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/龙泉街道"
+    },
+    {
+      "code": "520327002",
+      "name": "何坝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/何坝街道"
+    },
+    {
+      "code": "520327003",
+      "name": "凤岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/凤岭街道"
+    },
+    {
+      "code": "520327004",
+      "name": "花坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/花坪街道"
+    },
+    {
+      "code": "520327101",
+      "name": "进化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/进化镇"
+    },
+    {
+      "code": "520327102",
+      "name": "琊川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/琊川镇"
+    },
+    {
+      "code": "520327103",
+      "name": "蜂岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/蜂岩镇"
+    },
+    {
+      "code": "520327104",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/永和镇"
+    },
+    {
+      "code": "520327106",
+      "name": "绥阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/绥阳镇"
+    },
+    {
+      "code": "520327107",
+      "name": "土溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/土溪镇"
+    },
+    {
+      "code": "520327108",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/永安镇"
+    },
+    {
+      "code": "520327109",
+      "name": "天桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/天桥镇"
+    },
+    {
+      "code": "520327111",
+      "name": "新建镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/新建镇"
+    },
+    {
+      "code": "520327112",
+      "name": "王寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "520327",
+      "year": 0,
+      "name_path": "贵州省/遵义市/凤冈县/王寨镇"
+    }
+  ]
+}

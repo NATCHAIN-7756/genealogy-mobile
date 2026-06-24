@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "630105001",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630105",
+      "year": 0,
+      "name_path": "青海省/西宁市/城北区/朝阳街道"
+    },
+    {
+      "code": "630105002",
+      "name": "小桥大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630105",
+      "year": 0,
+      "name_path": "青海省/西宁市/城北区/小桥大街街道"
+    },
+    {
+      "code": "630105003",
+      "name": "马坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630105",
+      "year": 0,
+      "name_path": "青海省/西宁市/城北区/马坊街道"
+    },
+    {
+      "code": "630105004",
+      "name": "火车西站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630105",
+      "year": 0,
+      "name_path": "青海省/西宁市/城北区/火车西站街道"
+    },
+    {
+      "code": "630105100",
+      "name": "大堡子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630105",
+      "year": 0,
+      "name_path": "青海省/西宁市/城北区/大堡子镇"
+    },
+    {
+      "code": "630105101",
+      "name": "二十里铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630105",
+      "year": 0,
+      "name_path": "青海省/西宁市/城北区/二十里铺镇"
+    }
+  ]
+}

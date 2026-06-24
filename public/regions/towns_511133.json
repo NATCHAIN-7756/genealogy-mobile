@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "511133100",
+      "name": "民建镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/民建镇"
+    },
+    {
+      "code": "511133101",
+      "name": "荣丁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/荣丁镇"
+    },
+    {
+      "code": "511133102",
+      "name": "烟峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/烟峰镇"
+    },
+    {
+      "code": "511133103",
+      "name": "苏坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/苏坝镇"
+    },
+    {
+      "code": "511133104",
+      "name": "下溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/下溪镇"
+    },
+    {
+      "code": "511133105",
+      "name": "劳动镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/劳动镇"
+    },
+    {
+      "code": "511133106",
+      "name": "荍坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/荍坝镇"
+    },
+    {
+      "code": "511133107",
+      "name": "建设镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/建设镇"
+    },
+    {
+      "code": "511133108",
+      "name": "民主镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/民主镇"
+    },
+    {
+      "code": "511133109",
+      "name": "梅林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/梅林镇"
+    },
+    {
+      "code": "511133110",
+      "name": "雪口山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/雪口山镇"
+    },
+    {
+      "code": "511133111",
+      "name": "三河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/三河口镇"
+    },
+    {
+      "code": "511133211",
+      "name": "大竹堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/大竹堡乡"
+    },
+    {
+      "code": "511133223",
+      "name": "高卓营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/高卓营乡"
+    },
+    {
+      "code": "511133226",
+      "name": "永红乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "511133",
+      "year": 0,
+      "name_path": "四川省/乐山市/马边彝族自治县/永红乡"
+    }
+  ]
+}

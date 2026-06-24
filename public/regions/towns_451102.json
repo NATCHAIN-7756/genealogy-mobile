@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "451102001",
+      "name": "八步街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/八步街道"
+    },
+    {
+      "code": "451102002",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/城东街道"
+    },
+    {
+      "code": "451102003",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/江南街道"
+    },
+    {
+      "code": "451102101",
+      "name": "贺街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/贺街镇"
+    },
+    {
+      "code": "451102102",
+      "name": "步头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/步头镇"
+    },
+    {
+      "code": "451102103",
+      "name": "莲塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/莲塘镇"
+    },
+    {
+      "code": "451102104",
+      "name": "大宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/大宁镇"
+    },
+    {
+      "code": "451102105",
+      "name": "南乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/南乡镇"
+    },
+    {
+      "code": "451102106",
+      "name": "桂岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/桂岭镇"
+    },
+    {
+      "code": "451102107",
+      "name": "开山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/开山镇"
+    },
+    {
+      "code": "451102109",
+      "name": "里松镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/里松镇"
+    },
+    {
+      "code": "451102114",
+      "name": "信都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/信都镇"
+    },
+    {
+      "code": "451102115",
+      "name": "灵峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/灵峰镇"
+    },
+    {
+      "code": "451102116",
+      "name": "仁义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/仁义镇"
+    },
+    {
+      "code": "451102117",
+      "name": "铺门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/铺门镇"
+    },
+    {
+      "code": "451102200",
+      "name": "黄洞瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451102",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/八步区/黄洞瑶族乡"
+    }
+  ]
+}

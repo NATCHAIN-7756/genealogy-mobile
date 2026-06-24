@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150784001",
+      "name": "拉布大林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/拉布大林街道"
+    },
+    {
+      "code": "150784002",
+      "name": "上库力街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/上库力街道"
+    },
+    {
+      "code": "150784100",
+      "name": "莫尔道嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/莫尔道嘎镇"
+    },
+    {
+      "code": "150784101",
+      "name": "黑山头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/黑山头镇"
+    },
+    {
+      "code": "150784102",
+      "name": "恩和哈达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/恩和哈达镇"
+    },
+    {
+      "code": "150784200",
+      "name": "三河回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/三河回族乡"
+    },
+    {
+      "code": "150784201",
+      "name": "蒙兀室韦苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/蒙兀室韦苏木"
+    },
+    {
+      "code": "150784203",
+      "name": "恩和俄罗斯族民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/恩和俄罗斯族民族乡"
+    },
+    {
+      "code": "150784204",
+      "name": "奇乾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150784",
+      "year": 0,
+      "name_path": "内蒙古自治区/呼伦贝尔市/额尔古纳市/奇乾乡"
+    }
+  ]
+}

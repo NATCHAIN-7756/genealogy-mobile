@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "320509002",
+      "name": "松陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/松陵街道"
+    },
+    {
+      "code": "320509003",
+      "name": "江陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/江陵街道"
+    },
+    {
+      "code": "320509004",
+      "name": "横扇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/横扇街道"
+    },
+    {
+      "code": "320509005",
+      "name": "八坼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/八坼街道"
+    },
+    {
+      "code": "320509101",
+      "name": "同里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/同里镇"
+    },
+    {
+      "code": "320509102",
+      "name": "平望镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/平望镇"
+    },
+    {
+      "code": "320509103",
+      "name": "盛泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/盛泽镇"
+    },
+    {
+      "code": "320509104",
+      "name": "七都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/七都镇"
+    },
+    {
+      "code": "320509105",
+      "name": "震泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/震泽镇"
+    },
+    {
+      "code": "320509106",
+      "name": "桃源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/桃源镇"
+    },
+    {
+      "code": "320509107",
+      "name": "黎里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320509",
+      "year": 0,
+      "name_path": "江苏省/苏州市/吴江区/黎里镇"
+    }
+  ]
+}

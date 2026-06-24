@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "210922100",
+      "name": "彰武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/彰武镇"
+    },
+    {
+      "code": "210922101",
+      "name": "哈尔套镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/哈尔套镇"
+    },
+    {
+      "code": "210922102",
+      "name": "章古台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/章古台镇"
+    },
+    {
+      "code": "210922103",
+      "name": "五峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/五峰镇"
+    },
+    {
+      "code": "210922104",
+      "name": "冯家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/冯家镇"
+    },
+    {
+      "code": "210922105",
+      "name": "后新秋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/后新秋镇"
+    },
+    {
+      "code": "210922106",
+      "name": "东六家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/东六家子镇"
+    },
+    {
+      "code": "210922107",
+      "name": "阿尔乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/阿尔乡镇"
+    },
+    {
+      "code": "210922108",
+      "name": "前福兴地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/前福兴地镇"
+    },
+    {
+      "code": "210922109",
+      "name": "双庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/双庙镇"
+    },
+    {
+      "code": "210922110",
+      "name": "大四家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/大四家子镇"
+    },
+    {
+      "code": "210922111",
+      "name": "苇子沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/苇子沟镇"
+    },
+    {
+      "code": "210922112",
+      "name": "兴隆山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/兴隆山镇"
+    },
+    {
+      "code": "210922113",
+      "name": "满堂红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/满堂红镇"
+    },
+    {
+      "code": "210922114",
+      "name": "四合城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/四合城镇"
+    },
+    {
+      "code": "210922115",
+      "name": "大冷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/大冷镇"
+    },
+    {
+      "code": "210922116",
+      "name": "平安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/平安镇"
+    },
+    {
+      "code": "210922117",
+      "name": "两家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/两家子镇"
+    },
+    {
+      "code": "210922118",
+      "name": "兴隆堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/兴隆堡镇"
+    },
+    {
+      "code": "210922119",
+      "name": "四堡子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/四堡子镇"
+    },
+    {
+      "code": "210922120",
+      "name": "西六家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/西六家子镇"
+    },
+    {
+      "code": "210922121",
+      "name": "大德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/大德镇"
+    },
+    {
+      "code": "210922202",
+      "name": "二道河子蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/二道河子蒙古族乡"
+    },
+    {
+      "code": "210922209",
+      "name": "丰田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210922",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/彰武县/丰田乡"
+    }
+  ]
+}

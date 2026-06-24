@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "330503001",
+      "name": "东迁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/东迁街道"
+    },
+    {
+      "code": "330503002",
+      "name": "旧馆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/旧馆街道"
+    },
+    {
+      "code": "330503100",
+      "name": "南浔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/南浔镇"
+    },
+    {
+      "code": "330503101",
+      "name": "练市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/练市镇"
+    },
+    {
+      "code": "330503102",
+      "name": "双林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/双林镇"
+    },
+    {
+      "code": "330503103",
+      "name": "菱湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/菱湖镇"
+    },
+    {
+      "code": "330503104",
+      "name": "和孚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/和孚镇"
+    },
+    {
+      "code": "330503105",
+      "name": "善琏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/善琏镇"
+    },
+    {
+      "code": "330503107",
+      "name": "千金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/千金镇"
+    },
+    {
+      "code": "330503108",
+      "name": "石淙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330503",
+      "year": 0,
+      "name_path": "浙江省/湖州市/南浔区/石淙镇"
+    }
+  ]
+}

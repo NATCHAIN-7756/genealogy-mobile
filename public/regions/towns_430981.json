@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "430981006",
+      "name": "琼湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/琼湖街道"
+    },
+    {
+      "code": "430981007",
+      "name": "胭脂湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/胭脂湖街道"
+    },
+    {
+      "code": "430981100",
+      "name": "南大膳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/南大膳镇"
+    },
+    {
+      "code": "430981101",
+      "name": "黄茅洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/黄茅洲镇"
+    },
+    {
+      "code": "430981102",
+      "name": "四季红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/四季红镇"
+    },
+    {
+      "code": "430981103",
+      "name": "阳罗洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/阳罗洲镇"
+    },
+    {
+      "code": "430981104",
+      "name": "草尾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/草尾镇"
+    },
+    {
+      "code": "430981105",
+      "name": "泗湖山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/泗湖山镇"
+    },
+    {
+      "code": "430981106",
+      "name": "共华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/共华镇"
+    },
+    {
+      "code": "430981107",
+      "name": "南嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/南嘴镇"
+    },
+    {
+      "code": "430981108",
+      "name": "新湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/新湾镇"
+    },
+    {
+      "code": "430981110",
+      "name": "茶盘洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/茶盘洲镇"
+    },
+    {
+      "code": "430981111",
+      "name": "千山红镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430981",
+      "year": 0,
+      "name_path": "湖南省/益阳市/沅江市/千山红镇"
+    }
+  ]
+}

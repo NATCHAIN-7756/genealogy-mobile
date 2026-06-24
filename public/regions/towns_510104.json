@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "510104003",
+      "name": "春熙路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/春熙路街道"
+    },
+    {
+      "code": "510104004",
+      "name": "书院街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/书院街街道"
+    },
+    {
+      "code": "510104007",
+      "name": "牛市口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/牛市口街道"
+    },
+    {
+      "code": "510104011",
+      "name": "沙河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/沙河街道"
+    },
+    {
+      "code": "510104013",
+      "name": "狮子山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/狮子山街道"
+    },
+    {
+      "code": "510104014",
+      "name": "成龙路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/成龙路街道"
+    },
+    {
+      "code": "510104015",
+      "name": "柳江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/柳江街道"
+    },
+    {
+      "code": "510104016",
+      "name": "三圣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/三圣街道"
+    },
+    {
+      "code": "510104017",
+      "name": "锦官驿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/锦官驿街道"
+    },
+    {
+      "code": "510104018",
+      "name": "东湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/东湖街道"
+    },
+    {
+      "code": "510104019",
+      "name": "锦华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510104",
+      "year": 0,
+      "name_path": "四川省/成都市/锦江区/锦华路街道"
+    }
+  ]
+}

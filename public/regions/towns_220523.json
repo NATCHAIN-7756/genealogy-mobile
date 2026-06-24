@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "220523001",
+      "name": "东凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/东凤街道"
+    },
+    {
+      "code": "220523002",
+      "name": "朝辉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/朝辉街道"
+    },
+    {
+      "code": "220523003",
+      "name": "西凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/西凤街道"
+    },
+    {
+      "code": "220523100",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/朝阳镇"
+    },
+    {
+      "code": "220523101",
+      "name": "辉南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/辉南镇"
+    },
+    {
+      "code": "220523102",
+      "name": "样子哨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/样子哨镇"
+    },
+    {
+      "code": "220523103",
+      "name": "杉松岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/杉松岗镇"
+    },
+    {
+      "code": "220523104",
+      "name": "石道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/石道河镇"
+    },
+    {
+      "code": "220523105",
+      "name": "辉发城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/辉发城镇"
+    },
+    {
+      "code": "220523106",
+      "name": "抚民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/抚民镇"
+    },
+    {
+      "code": "220523108",
+      "name": "金川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/金川镇"
+    },
+    {
+      "code": "220523110",
+      "name": "团林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/团林镇"
+    },
+    {
+      "code": "220523111",
+      "name": "庆阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/庆阳镇"
+    },
+    {
+      "code": "220523200",
+      "name": "楼街朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220523",
+      "year": 0,
+      "name_path": "吉林省/通化市/辉南县/楼街朝鲜族乡"
+    }
+  ]
+}

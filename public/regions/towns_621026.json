@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "621026100",
+      "name": "新宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/新宁镇"
+    },
+    {
+      "code": "621026101",
+      "name": "平子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/平子镇"
+    },
+    {
+      "code": "621026102",
+      "name": "早胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/早胜镇"
+    },
+    {
+      "code": "621026103",
+      "name": "长庆桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/长庆桥镇"
+    },
+    {
+      "code": "621026104",
+      "name": "和盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/和盛镇"
+    },
+    {
+      "code": "621026105",
+      "name": "湘乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/湘乐镇"
+    },
+    {
+      "code": "621026107",
+      "name": "新庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/新庄镇"
+    },
+    {
+      "code": "621026108",
+      "name": "盘克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/盘克镇"
+    },
+    {
+      "code": "621026109",
+      "name": "焦村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/焦村镇"
+    },
+    {
+      "code": "621026110",
+      "name": "中村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/中村镇"
+    },
+    {
+      "code": "621026111",
+      "name": "米桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/米桥镇"
+    },
+    {
+      "code": "621026112",
+      "name": "良平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/良平镇"
+    },
+    {
+      "code": "621026113",
+      "name": "太昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/太昌镇"
+    },
+    {
+      "code": "621026114",
+      "name": "春荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/春荣镇"
+    },
+    {
+      "code": "621026208",
+      "name": "南义乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/南义乡"
+    },
+    {
+      "code": "621026210",
+      "name": "瓦斜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/瓦斜乡"
+    },
+    {
+      "code": "621026213",
+      "name": "金村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/金村乡"
+    },
+    {
+      "code": "621026214",
+      "name": "九岘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621026",
+      "year": 0,
+      "name_path": "甘肃省/庆阳市/宁县/九岘乡"
+    }
+  ]
+}

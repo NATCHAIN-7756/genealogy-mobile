@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "511803001",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/永兴街道"
+    },
+    {
+      "code": "511803002",
+      "name": "蒙阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/蒙阳街道"
+    },
+    {
+      "code": "511803101",
+      "name": "百丈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/百丈镇"
+    },
+    {
+      "code": "511803102",
+      "name": "车岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/车岭镇"
+    },
+    {
+      "code": "511803104",
+      "name": "马岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/马岭镇"
+    },
+    {
+      "code": "511803105",
+      "name": "新店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/新店镇"
+    },
+    {
+      "code": "511803106",
+      "name": "蒙顶山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/蒙顶山镇"
+    },
+    {
+      "code": "511803107",
+      "name": "黑竹镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/黑竹镇"
+    },
+    {
+      "code": "511803108",
+      "name": "红星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/红星镇"
+    },
+    {
+      "code": "511803109",
+      "name": "中峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/中峰镇"
+    },
+    {
+      "code": "511803112",
+      "name": "茅河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/茅河镇"
+    },
+    {
+      "code": "511803118",
+      "name": "前进镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/前进镇"
+    },
+    {
+      "code": "511803119",
+      "name": "万古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511803",
+      "year": 0,
+      "name_path": "四川省/雅安市/名山区/万古镇"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "411221001",
+      "name": "韶阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/韶阳街道"
+    },
+    {
+      "code": "411221101",
+      "name": "英豪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/英豪镇"
+    },
+    {
+      "code": "411221102",
+      "name": "张村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/张村镇"
+    },
+    {
+      "code": "411221103",
+      "name": "洪阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/洪阳镇"
+    },
+    {
+      "code": "411221104",
+      "name": "天池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/天池镇"
+    },
+    {
+      "code": "411221105",
+      "name": "仰韶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/仰韶镇"
+    },
+    {
+      "code": "411221203",
+      "name": "仁村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/仁村乡"
+    },
+    {
+      "code": "411221206",
+      "name": "果园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/果园乡"
+    },
+    {
+      "code": "411221207",
+      "name": "陈村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/陈村乡"
+    },
+    {
+      "code": "411221208",
+      "name": "坡头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/坡头乡"
+    },
+    {
+      "code": "411221209",
+      "name": "段村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/段村乡"
+    },
+    {
+      "code": "411221210",
+      "name": "南村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411221",
+      "year": 0,
+      "name_path": "河南省/三门峡市/渑池县/南村乡"
+    }
+  ]
+}

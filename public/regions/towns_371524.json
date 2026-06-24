@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "371524001",
+      "name": "铜城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/铜城街道"
+    },
+    {
+      "code": "371524002",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/新城街道"
+    },
+    {
+      "code": "371524101",
+      "name": "刘集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/刘集镇"
+    },
+    {
+      "code": "371524102",
+      "name": "牛角店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/牛角店镇"
+    },
+    {
+      "code": "371524103",
+      "name": "大桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/大桥镇"
+    },
+    {
+      "code": "371524104",
+      "name": "高集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/高集镇"
+    },
+    {
+      "code": "371524105",
+      "name": "姜楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/姜楼镇"
+    },
+    {
+      "code": "371524107",
+      "name": "姚寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/姚寨镇"
+    },
+    {
+      "code": "371524108",
+      "name": "鱼山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/鱼山镇"
+    },
+    {
+      "code": "371524109",
+      "name": "陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371524",
+      "year": 0,
+      "name_path": "山东省/聊城市/东阿县/陈集镇"
+    }
+  ]
+}

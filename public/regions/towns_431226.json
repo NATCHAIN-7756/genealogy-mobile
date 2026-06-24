@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "431226100",
+      "name": "高村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/高村镇"
+    },
+    {
+      "code": "431226101",
+      "name": "锦和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/锦和镇"
+    },
+    {
+      "code": "431226102",
+      "name": "江口墟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/江口墟镇"
+    },
+    {
+      "code": "431226103",
+      "name": "岩门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/岩门镇"
+    },
+    {
+      "code": "431226104",
+      "name": "兰里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/兰里镇"
+    },
+    {
+      "code": "431226105",
+      "name": "吕家坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/吕家坪镇"
+    },
+    {
+      "code": "431226106",
+      "name": "尧市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/尧市镇"
+    },
+    {
+      "code": "431226107",
+      "name": "郭公坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/郭公坪镇"
+    },
+    {
+      "code": "431226204",
+      "name": "文昌阁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/文昌阁乡"
+    },
+    {
+      "code": "431226205",
+      "name": "大桥江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/大桥江乡"
+    },
+    {
+      "code": "431226206",
+      "name": "舒家村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/舒家村乡"
+    },
+    {
+      "code": "431226207",
+      "name": "隆家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/隆家堡乡"
+    },
+    {
+      "code": "431226208",
+      "name": "谭家寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/谭家寨乡"
+    },
+    {
+      "code": "431226209",
+      "name": "石羊哨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/石羊哨乡"
+    },
+    {
+      "code": "431226210",
+      "name": "板栗树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/板栗树乡"
+    },
+    {
+      "code": "431226213",
+      "name": "兰村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/兰村乡"
+    },
+    {
+      "code": "431226216",
+      "name": "和平溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/和平溪乡"
+    },
+    {
+      "code": "431226217",
+      "name": "黄桑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431226",
+      "year": 0,
+      "name_path": "湖南省/怀化市/麻阳苗族自治县/黄桑乡"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "610923100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/城关镇"
+    },
+    {
+      "code": "610923101",
+      "name": "四亩地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/四亩地镇"
+    },
+    {
+      "code": "610923102",
+      "name": "江口回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/江口回族镇"
+    },
+    {
+      "code": "610923104",
+      "name": "广货街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/广货街镇"
+    },
+    {
+      "code": "610923105",
+      "name": "龙王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/龙王镇"
+    },
+    {
+      "code": "610923106",
+      "name": "筒车湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/筒车湾镇"
+    },
+    {
+      "code": "610923108",
+      "name": "金川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/金川镇"
+    },
+    {
+      "code": "610923109",
+      "name": "皇冠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/皇冠镇"
+    },
+    {
+      "code": "610923111",
+      "name": "梅子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/梅子镇"
+    },
+    {
+      "code": "610923112",
+      "name": "新场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/新场镇"
+    },
+    {
+      "code": "610923113",
+      "name": "太山庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610923",
+      "year": 0,
+      "name_path": "陕西省/安康市/宁陕县/太山庙镇"
+    }
+  ]
+}

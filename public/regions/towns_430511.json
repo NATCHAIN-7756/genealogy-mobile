@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "430511001",
+      "name": "新滩镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430511",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/北塔区/新滩镇街道"
+    },
+    {
+      "code": "430511002",
+      "name": "状元洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430511",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/北塔区/状元洲街道"
+    },
+    {
+      "code": "430511003",
+      "name": "茶元头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430511",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/北塔区/茶元头街道"
+    },
+    {
+      "code": "430511004",
+      "name": "田江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430511",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/北塔区/田江街道"
+    },
+    {
+      "code": "430511101",
+      "name": "陈家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430511",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/北塔区/陈家桥镇"
+    }
+  ]
+}

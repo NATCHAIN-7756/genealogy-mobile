@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "330681001",
+      "name": "暨阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/暨阳街道"
+    },
+    {
+      "code": "330681002",
+      "name": "浣东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/浣东街道"
+    },
+    {
+      "code": "330681003",
+      "name": "陶朱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/陶朱街道"
+    },
+    {
+      "code": "330681004",
+      "name": "暨南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/暨南街道"
+    },
+    {
+      "code": "330681005",
+      "name": "大唐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/大唐街道"
+    },
+    {
+      "code": "330681102",
+      "name": "应店街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/应店街镇"
+    },
+    {
+      "code": "330681103",
+      "name": "次坞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/次坞镇"
+    },
+    {
+      "code": "330681104",
+      "name": "店口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/店口镇"
+    },
+    {
+      "code": "330681106",
+      "name": "姚江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/姚江镇"
+    },
+    {
+      "code": "330681108",
+      "name": "山下湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/山下湖镇"
+    },
+    {
+      "code": "330681109",
+      "name": "枫桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/枫桥镇"
+    },
+    {
+      "code": "330681110",
+      "name": "赵家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/赵家镇"
+    },
+    {
+      "code": "330681111",
+      "name": "马剑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/马剑镇"
+    },
+    {
+      "code": "330681112",
+      "name": "五泄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/五泄镇"
+    },
+    {
+      "code": "330681115",
+      "name": "牌头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/牌头镇"
+    },
+    {
+      "code": "330681116",
+      "name": "同山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/同山镇"
+    },
+    {
+      "code": "330681117",
+      "name": "安华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/安华镇"
+    },
+    {
+      "code": "330681119",
+      "name": "璜山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/璜山镇"
+    },
+    {
+      "code": "330681120",
+      "name": "陈宅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/陈宅镇"
+    },
+    {
+      "code": "330681121",
+      "name": "岭北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/岭北镇"
+    },
+    {
+      "code": "330681122",
+      "name": "浬浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/浬浦镇"
+    },
+    {
+      "code": "330681123",
+      "name": "东白湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/东白湖镇"
+    },
+    {
+      "code": "330681201",
+      "name": "东和乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330681",
+      "year": 0,
+      "name_path": "浙江省/绍兴市/诸暨市/东和乡"
+    }
+  ]
+}

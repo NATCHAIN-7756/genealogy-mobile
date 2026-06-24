@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "360704001",
+      "name": "梅林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/梅林街道"
+    },
+    {
+      "code": "360704101",
+      "name": "王母渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/王母渡镇"
+    },
+    {
+      "code": "360704102",
+      "name": "沙地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/沙地镇"
+    },
+    {
+      "code": "360704103",
+      "name": "江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/江口镇"
+    },
+    {
+      "code": "360704104",
+      "name": "田村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/田村镇"
+    },
+    {
+      "code": "360704105",
+      "name": "南塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/南塘镇"
+    },
+    {
+      "code": "360704106",
+      "name": "茅店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/茅店镇"
+    },
+    {
+      "code": "360704107",
+      "name": "吉埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/吉埠镇"
+    },
+    {
+      "code": "360704108",
+      "name": "五云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/五云镇"
+    },
+    {
+      "code": "360704109",
+      "name": "湖江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/湖江镇"
+    },
+    {
+      "code": "360704110",
+      "name": "储潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/储潭镇"
+    },
+    {
+      "code": "360704111",
+      "name": "韩坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/韩坊镇"
+    },
+    {
+      "code": "360704200",
+      "name": "阳埠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/阳埠乡"
+    },
+    {
+      "code": "360704202",
+      "name": "大埠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/大埠乡"
+    },
+    {
+      "code": "360704203",
+      "name": "长洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/长洛乡"
+    },
+    {
+      "code": "360704204",
+      "name": "大田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/大田乡"
+    },
+    {
+      "code": "360704207",
+      "name": "石芫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/石芫乡"
+    },
+    {
+      "code": "360704208",
+      "name": "三溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/三溪乡"
+    },
+    {
+      "code": "360704209",
+      "name": "白鹭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360704",
+      "year": 0,
+      "name_path": "江西省/赣州市/赣县区/白鹭乡"
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "code": "220102001",
+      "name": "南岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/南岭街道"
+    },
+    {
+      "code": "220102002",
+      "name": "自强街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/自强街道"
+    },
+    {
+      "code": "220102003",
+      "name": "民康街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/民康街道"
+    },
+    {
+      "code": "220102004",
+      "name": "新春街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/新春街道"
+    },
+    {
+      "code": "220102005",
+      "name": "长通街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/长通街道"
+    },
+    {
+      "code": "220102006",
+      "name": "全安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/全安街道"
+    },
+    {
+      "code": "220102007",
+      "name": "曙光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/曙光街道"
+    },
+    {
+      "code": "220102008",
+      "name": "永吉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/永吉街道"
+    },
+    {
+      "code": "220102009",
+      "name": "桃源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/桃源街道"
+    },
+    {
+      "code": "220102010",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/永兴街道"
+    },
+    {
+      "code": "220102011",
+      "name": "净月街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/净月街道"
+    },
+    {
+      "code": "220102012",
+      "name": "临河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/临河街道"
+    },
+    {
+      "code": "220102013",
+      "name": "鸿城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/鸿城街道"
+    },
+    {
+      "code": "220102014",
+      "name": "明珠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/明珠街道"
+    },
+    {
+      "code": "220102015",
+      "name": "富裕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/富裕街道"
+    },
+    {
+      "code": "220102016",
+      "name": "会展街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/会展街道"
+    },
+    {
+      "code": "220102017",
+      "name": "彩织街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/彩织街道"
+    },
+    {
+      "code": "220102018",
+      "name": "博硕街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/博硕街道"
+    },
+    {
+      "code": "220102019",
+      "name": "德正街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/德正街道"
+    },
+    {
+      "code": "220102020",
+      "name": "福祉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/福祉街道"
+    },
+    {
+      "code": "220102021",
+      "name": "德容街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/德容街道"
+    },
+    {
+      "code": "220102022",
+      "name": "盛世街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/盛世街道"
+    },
+    {
+      "code": "220102023",
+      "name": "德馨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/德馨街道"
+    },
+    {
+      "code": "220102024",
+      "name": "永顺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/永顺街道"
+    },
+    {
+      "code": "220102100",
+      "name": "新立城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/新立城镇"
+    },
+    {
+      "code": "220102101",
+      "name": "新湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/新湖镇"
+    },
+    {
+      "code": "220102102",
+      "name": "玉潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/玉潭镇"
+    },
+    {
+      "code": "220102200",
+      "name": "幸福乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220102",
+      "year": 0,
+      "name_path": "吉林省/长春市/南关区/幸福乡"
+    }
+  ]
+}

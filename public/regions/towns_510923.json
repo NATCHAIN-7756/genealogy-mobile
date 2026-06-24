@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "510923001",
+      "name": "盐井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/盐井街道"
+    },
+    {
+      "code": "510923101",
+      "name": "隆盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/隆盛镇"
+    },
+    {
+      "code": "510923102",
+      "name": "回马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/回马镇"
+    },
+    {
+      "code": "510923103",
+      "name": "天保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/天保镇"
+    },
+    {
+      "code": "510923104",
+      "name": "河边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/河边镇"
+    },
+    {
+      "code": "510923105",
+      "name": "卓筒井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/卓筒井镇"
+    },
+    {
+      "code": "510923106",
+      "name": "玉峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/玉峰镇"
+    },
+    {
+      "code": "510923107",
+      "name": "象山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/象山镇"
+    },
+    {
+      "code": "510923108",
+      "name": "蓬莱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/蓬莱镇"
+    },
+    {
+      "code": "510923112",
+      "name": "金元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510923",
+      "year": 0,
+      "name_path": "四川省/遂宁市/大英县/金元镇"
+    }
+  ]
+}

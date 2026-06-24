@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "610323103",
+      "name": "益店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/益店镇"
+    },
+    {
+      "code": "610323104",
+      "name": "蒲村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/蒲村镇"
+    },
+    {
+      "code": "610323106",
+      "name": "青化镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/青化镇"
+    },
+    {
+      "code": "610323107",
+      "name": "枣林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/枣林镇"
+    },
+    {
+      "code": "610323108",
+      "name": "雍川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/雍川镇"
+    },
+    {
+      "code": "610323111",
+      "name": "凤鸣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/凤鸣镇"
+    },
+    {
+      "code": "610323112",
+      "name": "蔡家坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/蔡家坡镇"
+    },
+    {
+      "code": "610323113",
+      "name": "京当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/京当镇"
+    },
+    {
+      "code": "610323114",
+      "name": "故郡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610323",
+      "year": 0,
+      "name_path": "陕西省/宝鸡市/岐山县/故郡镇"
+    }
+  ]
+}

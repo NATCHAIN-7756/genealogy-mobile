@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "141024100",
+      "name": "大槐树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/大槐树镇"
+    },
+    {
+      "code": "141024101",
+      "name": "甘亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/甘亭镇"
+    },
+    {
+      "code": "141024102",
+      "name": "曲亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/曲亭镇"
+    },
+    {
+      "code": "141024103",
+      "name": "苏堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/苏堡镇"
+    },
+    {
+      "code": "141024104",
+      "name": "广胜寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/广胜寺镇"
+    },
+    {
+      "code": "141024105",
+      "name": "明姜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/明姜镇"
+    },
+    {
+      "code": "141024106",
+      "name": "赵城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/赵城镇"
+    },
+    {
+      "code": "141024107",
+      "name": "万安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/万安镇"
+    },
+    {
+      "code": "141024108",
+      "name": "刘家垣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/刘家垣镇"
+    },
+    {
+      "code": "141024109",
+      "name": "辛村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/辛村镇"
+    },
+    {
+      "code": "141024200",
+      "name": "淹底乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/淹底乡"
+    },
+    {
+      "code": "141024201",
+      "name": "兴唐寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/兴唐寺乡"
+    },
+    {
+      "code": "141024202",
+      "name": "堤村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/堤村乡"
+    },
+    {
+      "code": "141024204",
+      "name": "龙马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/龙马乡"
+    },
+    {
+      "code": "141024207",
+      "name": "山目乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141024",
+      "year": 0,
+      "name_path": "山西省/临汾市/洪洞县/山目乡"
+    }
+  ]
+}

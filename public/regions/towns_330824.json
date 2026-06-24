@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "330824101",
+      "name": "华埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/华埠镇"
+    },
+    {
+      "code": "330824102",
+      "name": "马金镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/马金镇"
+    },
+    {
+      "code": "330824103",
+      "name": "村头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/村头镇"
+    },
+    {
+      "code": "330824104",
+      "name": "池淮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/池淮镇"
+    },
+    {
+      "code": "330824106",
+      "name": "桐村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/桐村镇"
+    },
+    {
+      "code": "330824107",
+      "name": "杨林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/杨林镇"
+    },
+    {
+      "code": "330824108",
+      "name": "苏庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/苏庄镇"
+    },
+    {
+      "code": "330824109",
+      "name": "齐溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/齐溪镇"
+    },
+    {
+      "code": "330824200",
+      "name": "林山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/林山乡"
+    },
+    {
+      "code": "330824201",
+      "name": "音坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/音坑乡"
+    },
+    {
+      "code": "330824202",
+      "name": "中村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/中村乡"
+    },
+    {
+      "code": "330824205",
+      "name": "长虹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/长虹乡"
+    },
+    {
+      "code": "330824208",
+      "name": "何田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/何田乡"
+    },
+    {
+      "code": "330824210",
+      "name": "大溪边乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330824",
+      "year": 0,
+      "name_path": "浙江省/衢州市/开化县/大溪边乡"
+    }
+  ]
+}

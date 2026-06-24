@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "533102",
+      "name": "瑞丽市",
+      "level": 3,
+      "type": null,
+      "parent_code": "533100",
+      "year": 0,
+      "name_path": "全国/云南省/德宏傣族景颇族自治州/瑞丽市"
+    },
+    {
+      "code": "533103",
+      "name": "芒市",
+      "level": 3,
+      "type": null,
+      "parent_code": "533100",
+      "year": 0,
+      "name_path": "全国/云南省/德宏傣族景颇族自治州/芒市"
+    },
+    {
+      "code": "533122",
+      "name": "梁河县",
+      "level": 3,
+      "type": null,
+      "parent_code": "533100",
+      "year": 0,
+      "name_path": "全国/云南省/德宏傣族景颇族自治州/梁河县"
+    },
+    {
+      "code": "533123",
+      "name": "盈江县",
+      "level": 3,
+      "type": null,
+      "parent_code": "533100",
+      "year": 0,
+      "name_path": "全国/云南省/德宏傣族景颇族自治州/盈江县"
+    },
+    {
+      "code": "533124",
+      "name": "陇川县",
+      "level": 3,
+      "type": null,
+      "parent_code": "533100",
+      "year": 0,
+      "name_path": "全国/云南省/德宏傣族景颇族自治州/陇川县"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "120111001",
+      "name": "西营门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/西营门街道"
+    },
+    {
+      "code": "120111002",
+      "name": "李七庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/李七庄街道"
+    },
+    {
+      "code": "120111003",
+      "name": "赤龙南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/赤龙南街道"
+    },
+    {
+      "code": "120111004",
+      "name": "赤龙北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/赤龙北街道"
+    },
+    {
+      "code": "120111005",
+      "name": "津门湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/津门湖街道"
+    },
+    {
+      "code": "120111100",
+      "name": "中北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/中北镇"
+    },
+    {
+      "code": "120111101",
+      "name": "杨柳青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/杨柳青镇"
+    },
+    {
+      "code": "120111102",
+      "name": "辛口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/辛口镇"
+    },
+    {
+      "code": "120111103",
+      "name": "张家窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/张家窝镇"
+    },
+    {
+      "code": "120111104",
+      "name": "精武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/精武镇"
+    },
+    {
+      "code": "120111105",
+      "name": "大寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/大寺镇"
+    },
+    {
+      "code": "120111106",
+      "name": "王稳庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "120111",
+      "year": 0,
+      "name_path": "天津市/西青区/王稳庄镇"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "130728100",
+      "name": "柴沟堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/柴沟堡镇"
+    },
+    {
+      "code": "130728101",
+      "name": "左卫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/左卫镇"
+    },
+    {
+      "code": "130728102",
+      "name": "头百户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/头百户镇"
+    },
+    {
+      "code": "130728103",
+      "name": "怀安城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/怀安城镇"
+    },
+    {
+      "code": "130728200",
+      "name": "渡口堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/渡口堡乡"
+    },
+    {
+      "code": "130728201",
+      "name": "第六屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/第六屯乡"
+    },
+    {
+      "code": "130728202",
+      "name": "西湾堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/西湾堡乡"
+    },
+    {
+      "code": "130728203",
+      "name": "西沙城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/西沙城乡"
+    },
+    {
+      "code": "130728204",
+      "name": "太平庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/太平庄乡"
+    },
+    {
+      "code": "130728205",
+      "name": "王虎屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/王虎屯乡"
+    },
+    {
+      "code": "130728206",
+      "name": "第三堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130728",
+      "year": 0,
+      "name_path": "河北省/张家口市/怀安县/第三堡乡"
+    }
+  ]
+}

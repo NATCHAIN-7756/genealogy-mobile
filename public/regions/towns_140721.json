@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "140721100",
+      "name": "箕城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/箕城镇"
+    },
+    {
+      "code": "140721101",
+      "name": "云簇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/云簇镇"
+    },
+    {
+      "code": "140721102",
+      "name": "郝北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/郝北镇"
+    },
+    {
+      "code": "140721103",
+      "name": "社城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/社城镇"
+    },
+    {
+      "code": "140721200",
+      "name": "河峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/河峪乡"
+    },
+    {
+      "code": "140721201",
+      "name": "北寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/北寨乡"
+    },
+    {
+      "code": "140721202",
+      "name": "西马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140721",
+      "year": 0,
+      "name_path": "山西省/晋中市/榆社县/西马乡"
+    }
+  ]
+}

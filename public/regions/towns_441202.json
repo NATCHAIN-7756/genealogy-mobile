@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "441202001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441202",
+      "year": 0,
+      "name_path": "广东省/肇庆市/端州区/城东街道"
+    },
+    {
+      "code": "441202003",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441202",
+      "year": 0,
+      "name_path": "广东省/肇庆市/端州区/城西街道"
+    },
+    {
+      "code": "441202005",
+      "name": "黄岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441202",
+      "year": 0,
+      "name_path": "广东省/肇庆市/端州区/黄岗街道"
+    },
+    {
+      "code": "441202006",
+      "name": "睦岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441202",
+      "year": 0,
+      "name_path": "广东省/肇庆市/端州区/睦岗街道"
+    }
+  ]
+}

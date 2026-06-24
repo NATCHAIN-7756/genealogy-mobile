@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "130731100",
+      "name": "涿鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/涿鹿镇"
+    },
+    {
+      "code": "130731101",
+      "name": "张家堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/张家堡镇"
+    },
+    {
+      "code": "130731102",
+      "name": "武家沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/武家沟镇"
+    },
+    {
+      "code": "130731103",
+      "name": "五堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/五堡镇"
+    },
+    {
+      "code": "130731104",
+      "name": "保岱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/保岱镇"
+    },
+    {
+      "code": "130731105",
+      "name": "矾山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/矾山镇"
+    },
+    {
+      "code": "130731106",
+      "name": "大堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/大堡镇"
+    },
+    {
+      "code": "130731107",
+      "name": "河东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/河东镇"
+    },
+    {
+      "code": "130731108",
+      "name": "东小庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/东小庄镇"
+    },
+    {
+      "code": "130731109",
+      "name": "温泉屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/温泉屯镇"
+    },
+    {
+      "code": "130731110",
+      "name": "大河南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/大河南镇"
+    },
+    {
+      "code": "130731111",
+      "name": "蟒石口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/蟒石口镇"
+    },
+    {
+      "code": "130731112",
+      "name": "辉耀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/辉耀镇"
+    },
+    {
+      "code": "130731113",
+      "name": "卧佛寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/卧佛寺镇"
+    },
+    {
+      "code": "130731201",
+      "name": "栾庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/栾庄乡"
+    },
+    {
+      "code": "130731204",
+      "name": "黑山寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/黑山寺乡"
+    },
+    {
+      "code": "130731206",
+      "name": "谢家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/谢家堡乡"
+    },
+    {
+      "code": "130731999",
+      "name": "赵家蓬区公所",
+      "level": 4,
+      "type": null,
+      "parent_code": "130731",
+      "year": 0,
+      "name_path": "河北省/张家口市/涿鹿县/赵家蓬区公所"
+    }
+  ]
+}

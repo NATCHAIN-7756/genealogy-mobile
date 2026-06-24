@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "410702",
+      "name": "红旗区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/红旗区"
+    },
+    {
+      "code": "410703",
+      "name": "卫滨区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/卫滨区"
+    },
+    {
+      "code": "410704",
+      "name": "凤泉区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/凤泉区"
+    },
+    {
+      "code": "410711",
+      "name": "牧野区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/牧野区"
+    },
+    {
+      "code": "410721",
+      "name": "新乡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/新乡县"
+    },
+    {
+      "code": "410724",
+      "name": "获嘉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/获嘉县"
+    },
+    {
+      "code": "410725",
+      "name": "原阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/原阳县"
+    },
+    {
+      "code": "410726",
+      "name": "延津县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/延津县"
+    },
+    {
+      "code": "410727",
+      "name": "封丘县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/封丘县"
+    },
+    {
+      "code": "410781",
+      "name": "卫辉市",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/卫辉市"
+    },
+    {
+      "code": "410782",
+      "name": "辉县市",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/辉县市"
+    },
+    {
+      "code": "410783",
+      "name": "长垣市",
+      "level": 3,
+      "type": null,
+      "parent_code": "410700",
+      "year": 0,
+      "name_path": "全国/河南省/新乡市/长垣市"
+    }
+  ]
+}

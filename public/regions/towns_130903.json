@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130903001",
+      "name": "水月寺街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/水月寺街街道"
+    },
+    {
+      "code": "130903002",
+      "name": "南环中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/南环中路街道"
+    },
+    {
+      "code": "130903003",
+      "name": "南湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/南湖街道"
+    },
+    {
+      "code": "130903004",
+      "name": "市场街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/市场街道"
+    },
+    {
+      "code": "130903005",
+      "name": "西环中街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/西环中街街道"
+    },
+    {
+      "code": "130903006",
+      "name": "公园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/公园街道"
+    },
+    {
+      "code": "130903100",
+      "name": "小王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/小王庄镇"
+    },
+    {
+      "code": "130903101",
+      "name": "南陈屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130903",
+      "year": 0,
+      "name_path": "河北省/沧州市/运河区/南陈屯镇"
+    }
+  ]
+}

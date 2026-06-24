@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "140224100",
+      "name": "武灵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/武灵镇"
+    },
+    {
+      "code": "140224101",
+      "name": "东河南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/东河南镇"
+    },
+    {
+      "code": "140224102",
+      "name": "上寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/上寨镇"
+    },
+    {
+      "code": "140224200",
+      "name": "落水河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/落水河乡"
+    },
+    {
+      "code": "140224205",
+      "name": "赵北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/赵北乡"
+    },
+    {
+      "code": "140224206",
+      "name": "石家田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/石家田乡"
+    },
+    {
+      "code": "140224207",
+      "name": "柳科乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/柳科乡"
+    },
+    {
+      "code": "140224208",
+      "name": "白崖台乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/白崖台乡"
+    },
+    {
+      "code": "140224210",
+      "name": "红石塄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/红石塄乡"
+    },
+    {
+      "code": "140224212",
+      "name": "下关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/下关乡"
+    },
+    {
+      "code": "140224213",
+      "name": "独峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140224",
+      "year": 0,
+      "name_path": "山西省/大同市/灵丘县/独峪乡"
+    }
+  ]
+}

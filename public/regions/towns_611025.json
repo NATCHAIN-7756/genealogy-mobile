@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "611025001",
+      "name": "永乐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/永乐街道"
+    },
+    {
+      "code": "611025101",
+      "name": "回龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/回龙镇"
+    },
+    {
+      "code": "611025102",
+      "name": "铁厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/铁厂镇"
+    },
+    {
+      "code": "611025103",
+      "name": "大坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/大坪镇"
+    },
+    {
+      "code": "611025104",
+      "name": "米粮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/米粮镇"
+    },
+    {
+      "code": "611025105",
+      "name": "茅坪回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/茅坪回族镇"
+    },
+    {
+      "code": "611025106",
+      "name": "西口回族镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/西口回族镇"
+    },
+    {
+      "code": "611025107",
+      "name": "高峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/高峰镇"
+    },
+    {
+      "code": "611025108",
+      "name": "青铜关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/青铜关镇"
+    },
+    {
+      "code": "611025109",
+      "name": "柴坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/柴坪镇"
+    },
+    {
+      "code": "611025110",
+      "name": "达仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/达仁镇"
+    },
+    {
+      "code": "611025111",
+      "name": "木王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/木王镇"
+    },
+    {
+      "code": "611025113",
+      "name": "云盖寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/云盖寺镇"
+    },
+    {
+      "code": "611025114",
+      "name": "庙沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/庙沟镇"
+    },
+    {
+      "code": "611025117",
+      "name": "月河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "611025",
+      "year": 0,
+      "name_path": "陕西省/商洛市/镇安县/月河镇"
+    }
+  ]
+}

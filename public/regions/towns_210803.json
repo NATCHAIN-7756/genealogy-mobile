@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "210803004",
+      "name": "得胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210803",
+      "year": 0,
+      "name_path": "辽宁省/营口市/西市区/得胜街道"
+    },
+    {
+      "code": "210803005",
+      "name": "五台子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210803",
+      "year": 0,
+      "name_path": "辽宁省/营口市/西市区/五台子街道"
+    },
+    {
+      "code": "210803010",
+      "name": "渔市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210803",
+      "year": 0,
+      "name_path": "辽宁省/营口市/西市区/渔市街道"
+    },
+    {
+      "code": "210803011",
+      "name": "滨海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210803",
+      "year": 0,
+      "name_path": "辽宁省/营口市/西市区/滨海街道"
+    },
+    {
+      "code": "210803012",
+      "name": "清华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210803",
+      "year": 0,
+      "name_path": "辽宁省/营口市/西市区/清华街道"
+    }
+  ]
+}

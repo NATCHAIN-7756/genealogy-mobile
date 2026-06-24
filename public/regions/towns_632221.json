@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "632221100",
+      "name": "浩门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/浩门镇"
+    },
+    {
+      "code": "632221101",
+      "name": "青石嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/青石嘴镇"
+    },
+    {
+      "code": "632221102",
+      "name": "泉口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/泉口镇"
+    },
+    {
+      "code": "632221103",
+      "name": "东川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/东川镇"
+    },
+    {
+      "code": "632221200",
+      "name": "皇城蒙古族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/皇城蒙古族乡"
+    },
+    {
+      "code": "632221201",
+      "name": "苏吉滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/苏吉滩乡"
+    },
+    {
+      "code": "632221202",
+      "name": "北山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/北山乡"
+    },
+    {
+      "code": "632221203",
+      "name": "西滩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/西滩乡"
+    },
+    {
+      "code": "632221204",
+      "name": "麻莲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/麻莲乡"
+    },
+    {
+      "code": "632221205",
+      "name": "阴田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/阴田乡"
+    },
+    {
+      "code": "632221206",
+      "name": "仙米乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/仙米乡"
+    },
+    {
+      "code": "632221207",
+      "name": "珠固乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632221",
+      "year": 0,
+      "name_path": "青海省/海北藏族自治州/门源回族自治县/珠固乡"
+    }
+  ]
+}

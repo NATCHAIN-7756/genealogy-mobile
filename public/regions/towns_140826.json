@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "140826100",
+      "name": "古绛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/古绛镇"
+    },
+    {
+      "code": "140826101",
+      "name": "横水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/横水镇"
+    },
+    {
+      "code": "140826102",
+      "name": "陈村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/陈村镇"
+    },
+    {
+      "code": "140826103",
+      "name": "卫庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/卫庄镇"
+    },
+    {
+      "code": "140826104",
+      "name": "磨里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/磨里镇"
+    },
+    {
+      "code": "140826105",
+      "name": "南樊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/南樊镇"
+    },
+    {
+      "code": "140826106",
+      "name": "安峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/安峪镇"
+    },
+    {
+      "code": "140826107",
+      "name": "大交镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/大交镇"
+    },
+    {
+      "code": "140826200",
+      "name": "郝庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/郝庄乡"
+    },
+    {
+      "code": "140826201",
+      "name": "冷口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140826",
+      "year": 0,
+      "name_path": "山西省/运城市/绛县/冷口乡"
+    }
+  ]
+}

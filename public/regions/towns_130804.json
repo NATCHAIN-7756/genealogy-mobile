@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "130804001",
+      "name": "铁北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130804",
+      "year": 0,
+      "name_path": "河北省/承德市/鹰手营子矿区/铁北路街道"
+    },
+    {
+      "code": "130804100",
+      "name": "鹰手营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130804",
+      "year": 0,
+      "name_path": "河北省/承德市/鹰手营子矿区/鹰手营子镇"
+    },
+    {
+      "code": "130804101",
+      "name": "北马圈子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130804",
+      "year": 0,
+      "name_path": "河北省/承德市/鹰手营子矿区/北马圈子镇"
+    },
+    {
+      "code": "130804102",
+      "name": "寿王坟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130804",
+      "year": 0,
+      "name_path": "河北省/承德市/鹰手营子矿区/寿王坟镇"
+    },
+    {
+      "code": "130804103",
+      "name": "汪家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130804",
+      "year": 0,
+      "name_path": "河北省/承德市/鹰手营子矿区/汪家庄镇"
+    }
+  ]
+}

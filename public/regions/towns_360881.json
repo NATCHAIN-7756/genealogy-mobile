@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "360881002",
+      "name": "红星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/红星街道"
+    },
+    {
+      "code": "360881100",
+      "name": "厦坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/厦坪镇"
+    },
+    {
+      "code": "360881102",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/古城镇"
+    },
+    {
+      "code": "360881103",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/新城镇"
+    },
+    {
+      "code": "360881105",
+      "name": "茨坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/茨坪镇"
+    },
+    {
+      "code": "360881106",
+      "name": "拿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/拿山镇"
+    },
+    {
+      "code": "360881107",
+      "name": "碧溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/碧溪镇"
+    },
+    {
+      "code": "360881108",
+      "name": "茅坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/茅坪镇"
+    },
+    {
+      "code": "360881109",
+      "name": "龙市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/龙市镇"
+    },
+    {
+      "code": "360881110",
+      "name": "罗浮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/罗浮镇"
+    },
+    {
+      "code": "360881201",
+      "name": "黄垇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/黄垇乡"
+    },
+    {
+      "code": "360881208",
+      "name": "葛田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/葛田乡"
+    },
+    {
+      "code": "360881210",
+      "name": "睦村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/睦村乡"
+    },
+    {
+      "code": "360881211",
+      "name": "东上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/东上乡"
+    },
+    {
+      "code": "360881212",
+      "name": "光明乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/光明乡"
+    },
+    {
+      "code": "360881213",
+      "name": "柏露乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360881",
+      "year": 0,
+      "name_path": "江西省/吉安市/井冈山市/柏露乡"
+    }
+  ]
+}

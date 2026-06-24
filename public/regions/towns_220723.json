@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "220723001",
+      "name": "荣业街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/荣业街道"
+    },
+    {
+      "code": "220723002",
+      "name": "驰誉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/驰誉街道"
+    },
+    {
+      "code": "220723003",
+      "name": "如松街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/如松街道"
+    },
+    {
+      "code": "220723100",
+      "name": "乾安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/乾安镇"
+    },
+    {
+      "code": "220723101",
+      "name": "大布苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/大布苏镇"
+    },
+    {
+      "code": "220723102",
+      "name": "水字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/水字镇"
+    },
+    {
+      "code": "220723103",
+      "name": "让字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/让字镇"
+    },
+    {
+      "code": "220723104",
+      "name": "所字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/所字镇"
+    },
+    {
+      "code": "220723105",
+      "name": "安字镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/安字镇"
+    },
+    {
+      "code": "220723200",
+      "name": "余字乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/余字乡"
+    },
+    {
+      "code": "220723203",
+      "name": "道字乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/道字乡"
+    },
+    {
+      "code": "220723206",
+      "name": "严字乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/严字乡"
+    },
+    {
+      "code": "220723207",
+      "name": "赞字乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220723",
+      "year": 0,
+      "name_path": "吉林省/松原市/乾安县/赞字乡"
+    }
+  ]
+}

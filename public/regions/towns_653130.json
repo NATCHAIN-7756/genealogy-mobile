@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "653130100",
+      "name": "巴楚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/巴楚镇"
+    },
+    {
+      "code": "653130101",
+      "name": "色力布亚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/色力布亚镇"
+    },
+    {
+      "code": "653130102",
+      "name": "阿瓦提镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/阿瓦提镇"
+    },
+    {
+      "code": "653130103",
+      "name": "三岔口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/三岔口镇"
+    },
+    {
+      "code": "653130200",
+      "name": "恰尔巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/恰尔巴格乡"
+    },
+    {
+      "code": "653130201",
+      "name": "多来提巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/多来提巴格乡"
+    },
+    {
+      "code": "653130202",
+      "name": "阿纳库勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/阿纳库勒乡"
+    },
+    {
+      "code": "653130203",
+      "name": "夏玛勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/夏玛勒乡"
+    },
+    {
+      "code": "653130204",
+      "name": "阿克萨克马热勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/阿克萨克马热勒乡"
+    },
+    {
+      "code": "653130205",
+      "name": "阿拉格尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/阿拉格尔乡"
+    },
+    {
+      "code": "653130206",
+      "name": "琼库尔恰克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/琼库尔恰克乡"
+    },
+    {
+      "code": "653130207",
+      "name": "英吾斯塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653130",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/喀什地区/巴楚县/英吾斯塘乡"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "130481100",
+      "name": "武安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/武安镇"
+    },
+    {
+      "code": "130481101",
+      "name": "康二城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/康二城镇"
+    },
+    {
+      "code": "130481102",
+      "name": "午汲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/午汲镇"
+    },
+    {
+      "code": "130481103",
+      "name": "磁山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/磁山镇"
+    },
+    {
+      "code": "130481104",
+      "name": "伯延镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/伯延镇"
+    },
+    {
+      "code": "130481105",
+      "name": "淑村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/淑村镇"
+    },
+    {
+      "code": "130481106",
+      "name": "大同镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/大同镇"
+    },
+    {
+      "code": "130481107",
+      "name": "邑城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/邑城镇"
+    },
+    {
+      "code": "130481108",
+      "name": "矿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/矿山镇"
+    },
+    {
+      "code": "130481109",
+      "name": "贺进镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/贺进镇"
+    },
+    {
+      "code": "130481110",
+      "name": "阳邑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/阳邑镇"
+    },
+    {
+      "code": "130481111",
+      "name": "徘徊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/徘徊镇"
+    },
+    {
+      "code": "130481112",
+      "name": "冶陶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/冶陶镇"
+    },
+    {
+      "code": "130481113",
+      "name": "上团城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/上团城镇"
+    },
+    {
+      "code": "130481114",
+      "name": "西土山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/西土山镇"
+    },
+    {
+      "code": "130481201",
+      "name": "北安庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/北安庄乡"
+    },
+    {
+      "code": "130481202",
+      "name": "北安乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/北安乐乡"
+    },
+    {
+      "code": "130481204",
+      "name": "西寺庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/西寺庄乡"
+    },
+    {
+      "code": "130481205",
+      "name": "活水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/活水乡"
+    },
+    {
+      "code": "130481206",
+      "name": "石洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/石洞乡"
+    },
+    {
+      "code": "130481207",
+      "name": "管陶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/管陶乡"
+    },
+    {
+      "code": "130481208",
+      "name": "马家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130481",
+      "year": 0,
+      "name_path": "河北省/邯郸市/武安市/马家庄乡"
+    }
+  ]
+}

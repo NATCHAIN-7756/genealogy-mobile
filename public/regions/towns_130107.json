@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "130107001",
+      "name": "矿市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130107",
+      "year": 0,
+      "name_path": "河北省/石家庄市/井陉矿区/矿市街道"
+    },
+    {
+      "code": "130107002",
+      "name": "四微街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130107",
+      "year": 0,
+      "name_path": "河北省/石家庄市/井陉矿区/四微街道"
+    },
+    {
+      "code": "130107100",
+      "name": "贾庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130107",
+      "year": 0,
+      "name_path": "河北省/石家庄市/井陉矿区/贾庄镇"
+    },
+    {
+      "code": "130107101",
+      "name": "凤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130107",
+      "year": 0,
+      "name_path": "河北省/石家庄市/井陉矿区/凤山镇"
+    },
+    {
+      "code": "130107200",
+      "name": "横涧乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130107",
+      "year": 0,
+      "name_path": "河北省/石家庄市/井陉矿区/横涧乡"
+    }
+  ]
+}

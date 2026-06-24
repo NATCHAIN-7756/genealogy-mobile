@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "310109009",
+      "name": "欧阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/欧阳路街道"
+    },
+    {
+      "code": "310109010",
+      "name": "曲阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/曲阳路街道"
+    },
+    {
+      "code": "310109011",
+      "name": "广中路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/广中路街道"
+    },
+    {
+      "code": "310109014",
+      "name": "嘉兴路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/嘉兴路街道"
+    },
+    {
+      "code": "310109016",
+      "name": "凉城新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/凉城新村街道"
+    },
+    {
+      "code": "310109017",
+      "name": "四川北路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/四川北路街道"
+    },
+    {
+      "code": "310109018",
+      "name": "北外滩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/北外滩街道"
+    },
+    {
+      "code": "310109019",
+      "name": "江湾镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310109",
+      "year": 0,
+      "name_path": "上海市/虹口区/江湾镇街道"
+    }
+  ]
+}

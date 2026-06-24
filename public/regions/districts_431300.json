@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "431302",
+      "name": "娄星区",
+      "level": 3,
+      "type": null,
+      "parent_code": "431300",
+      "year": 0,
+      "name_path": "全国/湖南省/娄底市/娄星区"
+    },
+    {
+      "code": "431321",
+      "name": "双峰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431300",
+      "year": 0,
+      "name_path": "全国/湖南省/娄底市/双峰县"
+    },
+    {
+      "code": "431322",
+      "name": "新化县",
+      "level": 3,
+      "type": null,
+      "parent_code": "431300",
+      "year": 0,
+      "name_path": "全国/湖南省/娄底市/新化县"
+    },
+    {
+      "code": "431381",
+      "name": "冷水江市",
+      "level": 3,
+      "type": null,
+      "parent_code": "431300",
+      "year": 0,
+      "name_path": "全国/湖南省/娄底市/冷水江市"
+    },
+    {
+      "code": "431382",
+      "name": "涟源市",
+      "level": 3,
+      "type": null,
+      "parent_code": "431300",
+      "year": 0,
+      "name_path": "全国/湖南省/娄底市/涟源市"
+    }
+  ]
+}

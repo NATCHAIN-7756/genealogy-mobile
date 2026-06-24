@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "421125100",
+      "name": "清泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/清泉镇"
+    },
+    {
+      "code": "421125101",
+      "name": "巴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/巴河镇"
+    },
+    {
+      "code": "421125102",
+      "name": "竹瓦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/竹瓦镇"
+    },
+    {
+      "code": "421125103",
+      "name": "汪岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/汪岗镇"
+    },
+    {
+      "code": "421125104",
+      "name": "团陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/团陂镇"
+    },
+    {
+      "code": "421125105",
+      "name": "关口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/关口镇"
+    },
+    {
+      "code": "421125106",
+      "name": "白莲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/白莲镇"
+    },
+    {
+      "code": "421125107",
+      "name": "蔡河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/蔡河镇"
+    },
+    {
+      "code": "421125108",
+      "name": "洗马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/洗马镇"
+    },
+    {
+      "code": "421125109",
+      "name": "丁司垱镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/丁司垱镇"
+    },
+    {
+      "code": "421125110",
+      "name": "散花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/散花镇"
+    },
+    {
+      "code": "421125111",
+      "name": "兰溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/兰溪镇"
+    },
+    {
+      "code": "421125200",
+      "name": "绿杨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421125",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/浠水县/绿杨乡"
+    }
+  ]
+}

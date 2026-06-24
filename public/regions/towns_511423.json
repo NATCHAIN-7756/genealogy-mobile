@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "511423100",
+      "name": "洪川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/洪川镇"
+    },
+    {
+      "code": "511423101",
+      "name": "止戈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/止戈镇"
+    },
+    {
+      "code": "511423103",
+      "name": "余坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/余坪镇"
+    },
+    {
+      "code": "511423105",
+      "name": "槽渔滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/槽渔滩镇"
+    },
+    {
+      "code": "511423106",
+      "name": "中保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/中保镇"
+    },
+    {
+      "code": "511423107",
+      "name": "东岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/东岳镇"
+    },
+    {
+      "code": "511423109",
+      "name": "柳江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/柳江镇"
+    },
+    {
+      "code": "511423110",
+      "name": "高庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/高庙镇"
+    },
+    {
+      "code": "511423111",
+      "name": "瓦屋山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/瓦屋山镇"
+    },
+    {
+      "code": "511423112",
+      "name": "七里坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/七里坪镇"
+    },
+    {
+      "code": "511423113",
+      "name": "将军镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/将军镇"
+    },
+    {
+      "code": "511423114",
+      "name": "中山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511423",
+      "year": 0,
+      "name_path": "四川省/眉山市/洪雅县/中山镇"
+    }
+  ]
+}

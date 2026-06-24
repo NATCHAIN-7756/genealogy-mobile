@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "370685001",
+      "name": "罗峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/罗峰街道"
+    },
+    {
+      "code": "370685002",
+      "name": "泉山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/泉山街道"
+    },
+    {
+      "code": "370685003",
+      "name": "梦芝街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/梦芝街道"
+    },
+    {
+      "code": "370685004",
+      "name": "温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/温泉街道"
+    },
+    {
+      "code": "370685005",
+      "name": "大秦家街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/大秦家街道"
+    },
+    {
+      "code": "370685101",
+      "name": "辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/辛庄镇"
+    },
+    {
+      "code": "370685102",
+      "name": "蚕庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/蚕庄镇"
+    },
+    {
+      "code": "370685103",
+      "name": "金岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/金岭镇"
+    },
+    {
+      "code": "370685104",
+      "name": "毕郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/毕郭镇"
+    },
+    {
+      "code": "370685105",
+      "name": "玲珑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/玲珑镇"
+    },
+    {
+      "code": "370685106",
+      "name": "张星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/张星镇"
+    },
+    {
+      "code": "370685108",
+      "name": "夏甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/夏甸镇"
+    },
+    {
+      "code": "370685109",
+      "name": "阜山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/阜山镇"
+    },
+    {
+      "code": "370685110",
+      "name": "齐山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370685",
+      "year": 0,
+      "name_path": "山东省/烟台市/招远市/齐山镇"
+    }
+  ]
+}

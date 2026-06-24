@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "320104001",
+      "name": "秦虹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/秦虹街道"
+    },
+    {
+      "code": "320104002",
+      "name": "夫子庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/夫子庙街道"
+    },
+    {
+      "code": "320104004",
+      "name": "双塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/双塘街道"
+    },
+    {
+      "code": "320104006",
+      "name": "中华门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/中华门街道"
+    },
+    {
+      "code": "320104007",
+      "name": "红花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/红花街道"
+    },
+    {
+      "code": "320104008",
+      "name": "洪武路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/洪武路街道"
+    },
+    {
+      "code": "320104009",
+      "name": "五老村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/五老村街道"
+    },
+    {
+      "code": "320104010",
+      "name": "大光路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/大光路街道"
+    },
+    {
+      "code": "320104011",
+      "name": "瑞金路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/瑞金路街道"
+    },
+    {
+      "code": "320104012",
+      "name": "月牙湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/月牙湖街道"
+    },
+    {
+      "code": "320104013",
+      "name": "光华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/光华路街道"
+    },
+    {
+      "code": "320104014",
+      "name": "朝天宫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320104",
+      "year": 0,
+      "name_path": "江苏省/南京市/秦淮区/朝天宫街道"
+    }
+  ]
+}

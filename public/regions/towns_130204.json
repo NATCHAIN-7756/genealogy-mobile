@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "130204001",
+      "name": "林西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/林西街道"
+    },
+    {
+      "code": "130204002",
+      "name": "唐家庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/唐家庄街道"
+    },
+    {
+      "code": "130204003",
+      "name": "古冶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/古冶街道"
+    },
+    {
+      "code": "130204004",
+      "name": "赵各庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/赵各庄街道"
+    },
+    {
+      "code": "130204005",
+      "name": "京华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/京华街道"
+    },
+    {
+      "code": "130204100",
+      "name": "范各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/范各庄镇"
+    },
+    {
+      "code": "130204101",
+      "name": "卑家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/卑家店镇"
+    },
+    {
+      "code": "130204201",
+      "name": "王辇庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/王辇庄乡"
+    },
+    {
+      "code": "130204202",
+      "name": "习家套乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/习家套乡"
+    },
+    {
+      "code": "130204203",
+      "name": "大庄坨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130204",
+      "year": 0,
+      "name_path": "河北省/唐山市/古冶区/大庄坨乡"
+    }
+  ]
+}

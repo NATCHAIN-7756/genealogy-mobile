@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "653221100",
+      "name": "巴格其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/巴格其镇"
+    },
+    {
+      "code": "653221101",
+      "name": "罕艾日克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/罕艾日克镇"
+    },
+    {
+      "code": "653221103",
+      "name": "百和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/百和镇"
+    },
+    {
+      "code": "653221202",
+      "name": "英阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/英阿瓦提乡"
+    },
+    {
+      "code": "653221203",
+      "name": "英艾日克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/英艾日克乡"
+    },
+    {
+      "code": "653221204",
+      "name": "布扎克乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/布扎克乡"
+    },
+    {
+      "code": "653221205",
+      "name": "拉依喀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/拉依喀乡"
+    },
+    {
+      "code": "653221206",
+      "name": "朗如乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/朗如乡"
+    },
+    {
+      "code": "653221207",
+      "name": "塔瓦库勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/塔瓦库勒乡"
+    },
+    {
+      "code": "653221208",
+      "name": "伊斯拉木阿瓦提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/伊斯拉木阿瓦提乡"
+    },
+    {
+      "code": "653221209",
+      "name": "色格孜库勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/色格孜库勒乡"
+    },
+    {
+      "code": "653221210",
+      "name": "喀什塔什乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/喀什塔什乡"
+    },
+    {
+      "code": "653221211",
+      "name": "吾宗肖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "653221",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/和田地区/和田县/吾宗肖乡"
+    }
+  ]
+}

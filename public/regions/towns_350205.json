@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "350205001",
+      "name": "海沧街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350205",
+      "year": 0,
+      "name_path": "福建省/厦门市/海沧区/海沧街道"
+    },
+    {
+      "code": "350205002",
+      "name": "新阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350205",
+      "year": 0,
+      "name_path": "福建省/厦门市/海沧区/新阳街道"
+    },
+    {
+      "code": "350205003",
+      "name": "嵩屿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350205",
+      "year": 0,
+      "name_path": "福建省/厦门市/海沧区/嵩屿街道"
+    },
+    {
+      "code": "350205004",
+      "name": "东孚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350205",
+      "year": 0,
+      "name_path": "福建省/厦门市/海沧区/东孚街道"
+    }
+  ]
+}

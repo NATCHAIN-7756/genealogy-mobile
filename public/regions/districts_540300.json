@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540302",
+      "name": "卡若区",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/卡若区"
+    },
+    {
+      "code": "540321",
+      "name": "江达县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/江达县"
+    },
+    {
+      "code": "540322",
+      "name": "贡觉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/贡觉县"
+    },
+    {
+      "code": "540323",
+      "name": "类乌齐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/类乌齐县"
+    },
+    {
+      "code": "540324",
+      "name": "丁青县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/丁青县"
+    },
+    {
+      "code": "540325",
+      "name": "察雅县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/察雅县"
+    },
+    {
+      "code": "540326",
+      "name": "八宿县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/八宿县"
+    },
+    {
+      "code": "540327",
+      "name": "左贡县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/左贡县"
+    },
+    {
+      "code": "540328",
+      "name": "芒康县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/芒康县"
+    },
+    {
+      "code": "540329",
+      "name": "洛隆县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/洛隆县"
+    },
+    {
+      "code": "540330",
+      "name": "边坝县",
+      "level": 3,
+      "type": null,
+      "parent_code": "540300",
+      "year": 0,
+      "name_path": "全国/西藏自治区/昌都市/边坝县"
+    }
+  ]
+}

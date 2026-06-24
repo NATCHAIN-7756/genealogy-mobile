@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "370211001",
+      "name": "黄岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/黄岛街道"
+    },
+    {
+      "code": "370211002",
+      "name": "辛安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/辛安街道"
+    },
+    {
+      "code": "370211003",
+      "name": "薛家岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/薛家岛街道"
+    },
+    {
+      "code": "370211004",
+      "name": "长江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/长江路街道"
+    },
+    {
+      "code": "370211005",
+      "name": "灵珠山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/灵珠山街道"
+    },
+    {
+      "code": "370211006",
+      "name": "红石崖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/红石崖街道"
+    },
+    {
+      "code": "370211007",
+      "name": "胶南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/胶南街道"
+    },
+    {
+      "code": "370211008",
+      "name": "珠海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/珠海街道"
+    },
+    {
+      "code": "370211009",
+      "name": "隐珠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/隐珠街道"
+    },
+    {
+      "code": "370211010",
+      "name": "滨海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/滨海街道"
+    },
+    {
+      "code": "370211011",
+      "name": "灵山卫街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/灵山卫街道"
+    },
+    {
+      "code": "370211012",
+      "name": "铁山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/铁山街道"
+    },
+    {
+      "code": "370211013",
+      "name": "王台街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/王台街道"
+    },
+    {
+      "code": "370211014",
+      "name": "张家楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/张家楼街道"
+    },
+    {
+      "code": "370211100",
+      "name": "琅琊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/琅琊镇"
+    },
+    {
+      "code": "370211101",
+      "name": "泊里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/泊里镇"
+    },
+    {
+      "code": "370211102",
+      "name": "大场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/大场镇"
+    },
+    {
+      "code": "370211103",
+      "name": "大村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/大村镇"
+    },
+    {
+      "code": "370211104",
+      "name": "六汪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/六汪镇"
+    },
+    {
+      "code": "370211107",
+      "name": "海青镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/海青镇"
+    },
+    {
+      "code": "370211108",
+      "name": "宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/宝山镇"
+    },
+    {
+      "code": "370211109",
+      "name": "藏马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370211",
+      "year": 0,
+      "name_path": "山东省/青岛市/黄岛区/藏马镇"
+    }
+  ]
+}

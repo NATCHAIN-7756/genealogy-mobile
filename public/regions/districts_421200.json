@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "421202",
+      "name": "咸安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "421200",
+      "year": 0,
+      "name_path": "全国/湖北省/咸宁市/咸安区"
+    },
+    {
+      "code": "421221",
+      "name": "嘉鱼县",
+      "level": 3,
+      "type": null,
+      "parent_code": "421200",
+      "year": 0,
+      "name_path": "全国/湖北省/咸宁市/嘉鱼县"
+    },
+    {
+      "code": "421222",
+      "name": "通城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "421200",
+      "year": 0,
+      "name_path": "全国/湖北省/咸宁市/通城县"
+    },
+    {
+      "code": "421223",
+      "name": "崇阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "421200",
+      "year": 0,
+      "name_path": "全国/湖北省/咸宁市/崇阳县"
+    },
+    {
+      "code": "421224",
+      "name": "通山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "421200",
+      "year": 0,
+      "name_path": "全国/湖北省/咸宁市/通山县"
+    },
+    {
+      "code": "421281",
+      "name": "赤壁市",
+      "level": 3,
+      "type": null,
+      "parent_code": "421200",
+      "year": 0,
+      "name_path": "全国/湖北省/咸宁市/赤壁市"
+    }
+  ]
+}

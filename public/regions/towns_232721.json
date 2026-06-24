@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "232721100",
+      "name": "呼玛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/呼玛镇"
+    },
+    {
+      "code": "232721101",
+      "name": "韩家园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/韩家园镇"
+    },
+    {
+      "code": "232721200",
+      "name": "三卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/三卡乡"
+    },
+    {
+      "code": "232721201",
+      "name": "金山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/金山乡"
+    },
+    {
+      "code": "232721202",
+      "name": "兴华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/兴华乡"
+    },
+    {
+      "code": "232721203",
+      "name": "鸥浦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/鸥浦乡"
+    },
+    {
+      "code": "232721204",
+      "name": "白银纳鄂伦春族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/白银纳鄂伦春族乡"
+    },
+    {
+      "code": "232721205",
+      "name": "北疆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "232721",
+      "year": 0,
+      "name_path": "黑龙江省/大兴安岭地区/呼玛县/北疆乡"
+    }
+  ]
+}

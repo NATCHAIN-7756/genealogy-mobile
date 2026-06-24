@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "340321001",
+      "name": "白乳泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/白乳泉街道"
+    },
+    {
+      "code": "340321002",
+      "name": "引凤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/引凤街道"
+    },
+    {
+      "code": "340321003",
+      "name": "望淮街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/望淮街道"
+    },
+    {
+      "code": "340321100",
+      "name": "荆山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/荆山镇"
+    },
+    {
+      "code": "340321101",
+      "name": "鲍集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/鲍集镇"
+    },
+    {
+      "code": "340321102",
+      "name": "龙亢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/龙亢镇"
+    },
+    {
+      "code": "340321103",
+      "name": "河溜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/河溜镇"
+    },
+    {
+      "code": "340321104",
+      "name": "常坟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/常坟镇"
+    },
+    {
+      "code": "340321106",
+      "name": "双桥集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/双桥集镇"
+    },
+    {
+      "code": "340321107",
+      "name": "魏庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/魏庄镇"
+    },
+    {
+      "code": "340321108",
+      "name": "唐集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/唐集镇"
+    },
+    {
+      "code": "340321109",
+      "name": "万福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/万福镇"
+    },
+    {
+      "code": "340321110",
+      "name": "白莲坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/白莲坡镇"
+    },
+    {
+      "code": "340321111",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/古城镇"
+    },
+    {
+      "code": "340321112",
+      "name": "褚集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/褚集镇"
+    },
+    {
+      "code": "340321113",
+      "name": "榴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/榴城镇"
+    },
+    {
+      "code": "340321114",
+      "name": "淝南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/淝南镇"
+    },
+    {
+      "code": "340321115",
+      "name": "陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/陈集镇"
+    },
+    {
+      "code": "340321116",
+      "name": "淝河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/淝河镇"
+    },
+    {
+      "code": "340321117",
+      "name": "兰桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/兰桥镇"
+    },
+    {
+      "code": "340321205",
+      "name": "徐圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "340321",
+      "year": 0,
+      "name_path": "安徽省/蚌埠市/怀远县/徐圩乡"
+    }
+  ]
+}

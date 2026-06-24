@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "320723001",
+      "name": "侍庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/侍庄街道"
+    },
+    {
+      "code": "320723100",
+      "name": "伊山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/伊山镇"
+    },
+    {
+      "code": "320723102",
+      "name": "杨集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/杨集镇"
+    },
+    {
+      "code": "320723103",
+      "name": "燕尾港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/燕尾港镇"
+    },
+    {
+      "code": "320723104",
+      "name": "同兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/同兴镇"
+    },
+    {
+      "code": "320723105",
+      "name": "四队镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/四队镇"
+    },
+    {
+      "code": "320723106",
+      "name": "圩丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/圩丰镇"
+    },
+    {
+      "code": "320723107",
+      "name": "龙苴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/龙苴镇"
+    },
+    {
+      "code": "320723108",
+      "name": "下车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/下车镇"
+    },
+    {
+      "code": "320723109",
+      "name": "东王集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/东王集镇"
+    },
+    {
+      "code": "320723110",
+      "name": "图河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/图河镇"
+    },
+    {
+      "code": "320723111",
+      "name": "小伊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/小伊镇"
+    },
+    {
+      "code": "320723112",
+      "name": "南岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320723",
+      "year": 0,
+      "name_path": "江苏省/连云港市/灌云县/南岗镇"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "630102001",
+      "name": "东关大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/东关大街街道"
+    },
+    {
+      "code": "630102002",
+      "name": "清真巷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/清真巷街道"
+    },
+    {
+      "code": "630102003",
+      "name": "大众街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/大众街街道"
+    },
+    {
+      "code": "630102004",
+      "name": "周家泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/周家泉街道"
+    },
+    {
+      "code": "630102005",
+      "name": "火车站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/火车站街道"
+    },
+    {
+      "code": "630102006",
+      "name": "八一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/八一路街道"
+    },
+    {
+      "code": "630102007",
+      "name": "林家崖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/林家崖街道"
+    },
+    {
+      "code": "630102100",
+      "name": "乐家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/乐家湾镇"
+    },
+    {
+      "code": "630102101",
+      "name": "韵家口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "630102",
+      "year": 0,
+      "name_path": "青海省/西宁市/城东区/韵家口镇"
+    }
+  ]
+}

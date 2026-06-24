@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230524100",
+      "name": "饶河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/饶河镇"
+    },
+    {
+      "code": "230524101",
+      "name": "小佳河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/小佳河镇"
+    },
+    {
+      "code": "230524102",
+      "name": "西丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/西丰镇"
+    },
+    {
+      "code": "230524103",
+      "name": "五林洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/五林洞镇"
+    },
+    {
+      "code": "230524200",
+      "name": "西林子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/西林子乡"
+    },
+    {
+      "code": "230524201",
+      "name": "四排赫哲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/四排赫哲族乡"
+    },
+    {
+      "code": "230524203",
+      "name": "大佳河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/大佳河乡"
+    },
+    {
+      "code": "230524204",
+      "name": "山里乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/山里乡"
+    },
+    {
+      "code": "230524207",
+      "name": "大通河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230524",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/饶河县/大通河乡"
+    }
+  ]
+}

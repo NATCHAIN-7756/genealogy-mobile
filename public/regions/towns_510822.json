@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "510822100",
+      "name": "乔庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/乔庄镇"
+    },
+    {
+      "code": "510822101",
+      "name": "青溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/青溪镇"
+    },
+    {
+      "code": "510822102",
+      "name": "房石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/房石镇"
+    },
+    {
+      "code": "510822103",
+      "name": "关庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/关庄镇"
+    },
+    {
+      "code": "510822104",
+      "name": "凉水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/凉水镇"
+    },
+    {
+      "code": "510822105",
+      "name": "竹园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/竹园镇"
+    },
+    {
+      "code": "510822106",
+      "name": "木鱼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/木鱼镇"
+    },
+    {
+      "code": "510822107",
+      "name": "沙州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/沙州镇"
+    },
+    {
+      "code": "510822108",
+      "name": "姚渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/姚渡镇"
+    },
+    {
+      "code": "510822109",
+      "name": "三锅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/三锅镇"
+    },
+    {
+      "code": "510822111",
+      "name": "建峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/建峰镇"
+    },
+    {
+      "code": "510822112",
+      "name": "乐安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/乐安镇"
+    },
+    {
+      "code": "510822203",
+      "name": "茶坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/茶坝乡"
+    },
+    {
+      "code": "510822207",
+      "name": "蒿溪回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/蒿溪回族乡"
+    },
+    {
+      "code": "510822210",
+      "name": "曲河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/曲河乡"
+    },
+    {
+      "code": "510822212",
+      "name": "石坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/石坝乡"
+    },
+    {
+      "code": "510822216",
+      "name": "大院回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/大院回族乡"
+    },
+    {
+      "code": "510822220",
+      "name": "七佛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/七佛乡"
+    },
+    {
+      "code": "510822224",
+      "name": "骑马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/骑马乡"
+    },
+    {
+      "code": "510822225",
+      "name": "观音店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510822",
+      "year": 0,
+      "name_path": "四川省/广元市/青川县/观音店乡"
+    }
+  ]
+}

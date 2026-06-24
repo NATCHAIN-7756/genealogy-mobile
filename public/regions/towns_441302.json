@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "441302001",
+      "name": "桥东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/桥东街道"
+    },
+    {
+      "code": "441302002",
+      "name": "桥西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/桥西街道"
+    },
+    {
+      "code": "441302003",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/江南街道"
+    },
+    {
+      "code": "441302004",
+      "name": "江北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/江北街道"
+    },
+    {
+      "code": "441302005",
+      "name": "龙丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/龙丰街道"
+    },
+    {
+      "code": "441302006",
+      "name": "小金口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/小金口街道"
+    },
+    {
+      "code": "441302007",
+      "name": "惠环街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/惠环街道"
+    },
+    {
+      "code": "441302008",
+      "name": "河南岸街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/河南岸街道"
+    },
+    {
+      "code": "441302009",
+      "name": "陈江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/陈江街道"
+    },
+    {
+      "code": "441302010",
+      "name": "水口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/水口街道"
+    },
+    {
+      "code": "441302100",
+      "name": "汝湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/汝湖镇"
+    },
+    {
+      "code": "441302103",
+      "name": "三栋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/三栋镇"
+    },
+    {
+      "code": "441302106",
+      "name": "沥林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/沥林镇"
+    },
+    {
+      "code": "441302107",
+      "name": "潼湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/潼湖镇"
+    },
+    {
+      "code": "441302108",
+      "name": "马安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/马安镇"
+    },
+    {
+      "code": "441302110",
+      "name": "横沥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/横沥镇"
+    },
+    {
+      "code": "441302113",
+      "name": "芦洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/芦洲镇"
+    },
+    {
+      "code": "441302114",
+      "name": "潼侨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441302",
+      "year": 0,
+      "name_path": "广东省/惠州市/惠城区/潼侨镇"
+    }
+  ]
+}

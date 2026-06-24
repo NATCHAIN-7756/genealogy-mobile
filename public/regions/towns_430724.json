@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "430724001",
+      "name": "安福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/安福街道"
+    },
+    {
+      "code": "430724002",
+      "name": "望城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/望城街道"
+    },
+    {
+      "code": "430724101",
+      "name": "合口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/合口镇"
+    },
+    {
+      "code": "430724102",
+      "name": "新安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/新安镇"
+    },
+    {
+      "code": "430724103",
+      "name": "佘市桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/佘市桥镇"
+    },
+    {
+      "code": "430724104",
+      "name": "太浮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/太浮镇"
+    },
+    {
+      "code": "430724105",
+      "name": "四新岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/四新岗镇"
+    },
+    {
+      "code": "430724106",
+      "name": "停弦渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/停弦渡镇"
+    },
+    {
+      "code": "430724107",
+      "name": "修梅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/修梅镇"
+    },
+    {
+      "code": "430724204",
+      "name": "烽火乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/烽火乡"
+    },
+    {
+      "code": "430724209",
+      "name": "刻木山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430724",
+      "year": 0,
+      "name_path": "湖南省/常德市/临澧县/刻木山乡"
+    }
+  ]
+}

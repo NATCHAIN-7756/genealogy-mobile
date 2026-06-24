@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530927100",
+      "name": "勐董镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/勐董镇"
+    },
+    {
+      "code": "530927101",
+      "name": "岩帅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/岩帅镇"
+    },
+    {
+      "code": "530927102",
+      "name": "勐省镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/勐省镇"
+    },
+    {
+      "code": "530927103",
+      "name": "芒卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/芒卡镇"
+    },
+    {
+      "code": "530927201",
+      "name": "单甲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/单甲乡"
+    },
+    {
+      "code": "530927202",
+      "name": "糯良乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/糯良乡"
+    },
+    {
+      "code": "530927203",
+      "name": "勐来乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/勐来乡"
+    },
+    {
+      "code": "530927204",
+      "name": "勐角傣族彝族拉祜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/勐角傣族彝族拉祜族乡"
+    },
+    {
+      "code": "530927205",
+      "name": "班洪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/班洪乡"
+    },
+    {
+      "code": "530927207",
+      "name": "班老乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530927",
+      "year": 0,
+      "name_path": "云南省/临沧市/沧源佤族自治县/班老乡"
+    }
+  ]
+}

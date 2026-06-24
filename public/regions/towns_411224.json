@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "411224100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/城关镇"
+    },
+    {
+      "code": "411224101",
+      "name": "杜关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/杜关镇"
+    },
+    {
+      "code": "411224102",
+      "name": "五里川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/五里川镇"
+    },
+    {
+      "code": "411224103",
+      "name": "官道口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/官道口镇"
+    },
+    {
+      "code": "411224104",
+      "name": "朱阳关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/朱阳关镇"
+    },
+    {
+      "code": "411224105",
+      "name": "官坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/官坡镇"
+    },
+    {
+      "code": "411224106",
+      "name": "范里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/范里镇"
+    },
+    {
+      "code": "411224107",
+      "name": "东明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/东明镇"
+    },
+    {
+      "code": "411224108",
+      "name": "双龙湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/双龙湾镇"
+    },
+    {
+      "code": "411224200",
+      "name": "文峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/文峪乡"
+    },
+    {
+      "code": "411224201",
+      "name": "横涧乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/横涧乡"
+    },
+    {
+      "code": "411224203",
+      "name": "双槐树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/双槐树乡"
+    },
+    {
+      "code": "411224204",
+      "name": "汤河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/汤河乡"
+    },
+    {
+      "code": "411224205",
+      "name": "瓦窑沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/瓦窑沟乡"
+    },
+    {
+      "code": "411224206",
+      "name": "狮子坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/狮子坪乡"
+    },
+    {
+      "code": "411224207",
+      "name": "沙河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/沙河乡"
+    },
+    {
+      "code": "411224208",
+      "name": "徐家湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/徐家湾乡"
+    },
+    {
+      "code": "411224209",
+      "name": "潘河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/潘河乡"
+    },
+    {
+      "code": "411224210",
+      "name": "木桐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411224",
+      "year": 0,
+      "name_path": "河南省/三门峡市/卢氏县/木桐乡"
+    }
+  ]
+}

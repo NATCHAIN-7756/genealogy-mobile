@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "210404002",
+      "name": "工农街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/工农街道"
+    },
+    {
+      "code": "210404003",
+      "name": "建设街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/建设街道"
+    },
+    {
+      "code": "210404004",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/和平街道"
+    },
+    {
+      "code": "210404005",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/光明街道"
+    },
+    {
+      "code": "210404006",
+      "name": "朴屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/朴屯街道"
+    },
+    {
+      "code": "210404007",
+      "name": "演武街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/演武街道"
+    },
+    {
+      "code": "210404011",
+      "name": "李石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/李石街道"
+    },
+    {
+      "code": "210404101",
+      "name": "塔峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/塔峪镇"
+    },
+    {
+      "code": "210404200",
+      "name": "拉古满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210404",
+      "year": 0,
+      "name_path": "辽宁省/抚顺市/望花区/拉古满族乡"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "data": [
+    {
+      "code": "610502001",
+      "name": "杜桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/杜桥街道"
+    },
+    {
+      "code": "610502002",
+      "name": "人民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/人民街道"
+    },
+    {
+      "code": "610502003",
+      "name": "解放街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/解放街道"
+    },
+    {
+      "code": "610502004",
+      "name": "向阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/向阳街道"
+    },
+    {
+      "code": "610502005",
+      "name": "站南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/站南街道"
+    },
+    {
+      "code": "610502006",
+      "name": "双王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/双王街道"
+    },
+    {
+      "code": "610502007",
+      "name": "崇业路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/崇业路街道"
+    },
+    {
+      "code": "610502008",
+      "name": "良田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/良田街道"
+    },
+    {
+      "code": "610502009",
+      "name": "辛市街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/辛市街道"
+    },
+    {
+      "code": "610502010",
+      "name": "龙背街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/龙背街道"
+    },
+    {
+      "code": "610502011",
+      "name": "阳曲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/阳曲街道"
+    },
+    {
+      "code": "610502012",
+      "name": "信义街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/信义街道"
+    },
+    {
+      "code": "610502013",
+      "name": "白杨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/白杨街道"
+    },
+    {
+      "code": "610502100",
+      "name": "桥南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/桥南镇"
+    },
+    {
+      "code": "610502101",
+      "name": "阳郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/阳郭镇"
+    },
+    {
+      "code": "610502102",
+      "name": "故市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/故市镇"
+    },
+    {
+      "code": "610502103",
+      "name": "下邽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/下邽镇"
+    },
+    {
+      "code": "610502104",
+      "name": "三张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/三张镇"
+    },
+    {
+      "code": "610502105",
+      "name": "交斜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/交斜镇"
+    },
+    {
+      "code": "610502107",
+      "name": "崇凝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/崇凝镇"
+    },
+    {
+      "code": "610502108",
+      "name": "孝义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/孝义镇"
+    },
+    {
+      "code": "610502109",
+      "name": "蔺店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/蔺店镇"
+    },
+    {
+      "code": "610502111",
+      "name": "官底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/官底镇"
+    },
+    {
+      "code": "610502112",
+      "name": "官路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/官路镇"
+    },
+    {
+      "code": "610502113",
+      "name": "丰原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/丰原镇"
+    },
+    {
+      "code": "610502114",
+      "name": "阎村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/阎村镇"
+    },
+    {
+      "code": "610502116",
+      "name": "官道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610502",
+      "year": 0,
+      "name_path": "陕西省/渭南市/临渭区/官道镇"
+    }
+  ]
+}

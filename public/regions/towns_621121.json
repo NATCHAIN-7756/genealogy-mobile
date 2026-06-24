@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "621121101",
+      "name": "平襄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/平襄镇"
+    },
+    {
+      "code": "621121102",
+      "name": "马营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/马营镇"
+    },
+    {
+      "code": "621121103",
+      "name": "鸡川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/鸡川镇"
+    },
+    {
+      "code": "621121104",
+      "name": "榜罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/榜罗镇"
+    },
+    {
+      "code": "621121105",
+      "name": "常家河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/常家河镇"
+    },
+    {
+      "code": "621121106",
+      "name": "义岗川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/义岗川镇"
+    },
+    {
+      "code": "621121115",
+      "name": "华家岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/华家岭镇"
+    },
+    {
+      "code": "621121116",
+      "name": "陇山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/陇山镇"
+    },
+    {
+      "code": "621121117",
+      "name": "陇川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/陇川镇"
+    },
+    {
+      "code": "621121118",
+      "name": "碧玉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/碧玉镇"
+    },
+    {
+      "code": "621121119",
+      "name": "陇阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/陇阳镇"
+    },
+    {
+      "code": "621121120",
+      "name": "襄南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/襄南镇"
+    },
+    {
+      "code": "621121121",
+      "name": "北城铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/北城铺镇"
+    },
+    {
+      "code": "621121122",
+      "name": "什川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/什川镇"
+    },
+    {
+      "code": "621121203",
+      "name": "新景乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/新景乡"
+    },
+    {
+      "code": "621121207",
+      "name": "李家店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/李家店乡"
+    },
+    {
+      "code": "621121209",
+      "name": "寺子川乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/寺子川乡"
+    },
+    {
+      "code": "621121212",
+      "name": "第三铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "621121",
+      "year": 0,
+      "name_path": "甘肃省/定西市/通渭县/第三铺乡"
+    }
+  ]
+}

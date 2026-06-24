@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "341523100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/城关镇"
+    },
+    {
+      "code": "341523101",
+      "name": "晓天镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/晓天镇"
+    },
+    {
+      "code": "341523102",
+      "name": "桃溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/桃溪镇"
+    },
+    {
+      "code": "341523103",
+      "name": "万佛湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/万佛湖镇"
+    },
+    {
+      "code": "341523104",
+      "name": "千人桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/千人桥镇"
+    },
+    {
+      "code": "341523105",
+      "name": "百神庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/百神庙镇"
+    },
+    {
+      "code": "341523106",
+      "name": "杭埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/杭埠镇"
+    },
+    {
+      "code": "341523107",
+      "name": "舒茶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/舒茶镇"
+    },
+    {
+      "code": "341523108",
+      "name": "南港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/南港镇"
+    },
+    {
+      "code": "341523109",
+      "name": "干汊河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/干汊河镇"
+    },
+    {
+      "code": "341523110",
+      "name": "张母桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/张母桥镇"
+    },
+    {
+      "code": "341523111",
+      "name": "五显镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/五显镇"
+    },
+    {
+      "code": "341523112",
+      "name": "山七镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/山七镇"
+    },
+    {
+      "code": "341523113",
+      "name": "河棚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/河棚镇"
+    },
+    {
+      "code": "341523114",
+      "name": "汤池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/汤池镇"
+    },
+    {
+      "code": "341523200",
+      "name": "春秋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/春秋乡"
+    },
+    {
+      "code": "341523201",
+      "name": "柏林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/柏林乡"
+    },
+    {
+      "code": "341523202",
+      "name": "棠树乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/棠树乡"
+    },
+    {
+      "code": "341523203",
+      "name": "阙店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/阙店乡"
+    },
+    {
+      "code": "341523204",
+      "name": "高峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/高峰乡"
+    },
+    {
+      "code": "341523205",
+      "name": "庐镇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341523",
+      "year": 0,
+      "name_path": "安徽省/六安市/舒城县/庐镇乡"
+    }
+  ]
+}

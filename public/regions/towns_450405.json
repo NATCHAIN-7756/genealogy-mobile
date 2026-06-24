@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "450405001",
+      "name": "大塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450405",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/长洲区/大塘街道"
+    },
+    {
+      "code": "450405002",
+      "name": "兴龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450405",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/长洲区/兴龙街道"
+    },
+    {
+      "code": "450405003",
+      "name": "红岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450405",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/长洲区/红岭街道"
+    },
+    {
+      "code": "450405101",
+      "name": "长洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450405",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/长洲区/长洲镇"
+    },
+    {
+      "code": "450405102",
+      "name": "倒水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450405",
+      "year": 0,
+      "name_path": "广西壮族自治区/梧州市/长洲区/倒水镇"
+    }
+  ]
+}

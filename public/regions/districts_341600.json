@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "341602",
+      "name": "谯城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "341600",
+      "year": 0,
+      "name_path": "全国/安徽省/亳州市/谯城区"
+    },
+    {
+      "code": "341621",
+      "name": "涡阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341600",
+      "year": 0,
+      "name_path": "全国/安徽省/亳州市/涡阳县"
+    },
+    {
+      "code": "341622",
+      "name": "蒙城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341600",
+      "year": 0,
+      "name_path": "全国/安徽省/亳州市/蒙城县"
+    },
+    {
+      "code": "341623",
+      "name": "利辛县",
+      "level": 3,
+      "type": null,
+      "parent_code": "341600",
+      "year": 0,
+      "name_path": "全国/安徽省/亳州市/利辛县"
+    }
+  ]
+}

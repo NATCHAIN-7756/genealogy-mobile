@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "410926100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/城关镇"
+    },
+    {
+      "code": "410926101",
+      "name": "濮城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/濮城镇"
+    },
+    {
+      "code": "410926102",
+      "name": "龙王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/龙王庄镇"
+    },
+    {
+      "code": "410926103",
+      "name": "高码头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/高码头镇"
+    },
+    {
+      "code": "410926104",
+      "name": "王楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/王楼镇"
+    },
+    {
+      "code": "410926105",
+      "name": "辛庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/辛庄镇"
+    },
+    {
+      "code": "410926106",
+      "name": "陈庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/陈庄镇"
+    },
+    {
+      "code": "410926107",
+      "name": "张庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/张庄镇"
+    },
+    {
+      "code": "410926108",
+      "name": "白衣阁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/白衣阁镇"
+    },
+    {
+      "code": "410926201",
+      "name": "杨集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/杨集乡"
+    },
+    {
+      "code": "410926205",
+      "name": "颜村铺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/颜村铺乡"
+    },
+    {
+      "code": "410926208",
+      "name": "陆集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410926",
+      "year": 0,
+      "name_path": "河南省/濮阳市/范县/陆集乡"
+    }
+  ]
+}

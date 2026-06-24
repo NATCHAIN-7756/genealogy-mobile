@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "210902",
+      "name": "海州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/海州区"
+    },
+    {
+      "code": "210903",
+      "name": "新邱区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/新邱区"
+    },
+    {
+      "code": "210904",
+      "name": "太平区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/太平区"
+    },
+    {
+      "code": "210905",
+      "name": "清河门区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/清河门区"
+    },
+    {
+      "code": "210911",
+      "name": "细河区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/细河区"
+    },
+    {
+      "code": "210921",
+      "name": "阜新蒙古族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/阜新蒙古族自治县"
+    },
+    {
+      "code": "210922",
+      "name": "彰武县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210900",
+      "year": 0,
+      "name_path": "全国/辽宁省/阜新市/彰武县"
+    }
+  ]
+}

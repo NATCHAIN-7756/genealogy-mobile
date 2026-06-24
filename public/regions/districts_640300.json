@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "640302",
+      "name": "利通区",
+      "level": 3,
+      "type": null,
+      "parent_code": "640300",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/吴忠市/利通区"
+    },
+    {
+      "code": "640303",
+      "name": "红寺堡区",
+      "level": 3,
+      "type": null,
+      "parent_code": "640300",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/吴忠市/红寺堡区"
+    },
+    {
+      "code": "640323",
+      "name": "盐池县",
+      "level": 3,
+      "type": null,
+      "parent_code": "640300",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/吴忠市/盐池县"
+    },
+    {
+      "code": "640324",
+      "name": "同心县",
+      "level": 3,
+      "type": null,
+      "parent_code": "640300",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/吴忠市/同心县"
+    },
+    {
+      "code": "640381",
+      "name": "青铜峡市",
+      "level": 3,
+      "type": null,
+      "parent_code": "640300",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/吴忠市/青铜峡市"
+    }
+  ]
+}

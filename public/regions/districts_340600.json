@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "340602",
+      "name": "杜集区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340600",
+      "year": 0,
+      "name_path": "全国/安徽省/淮北市/杜集区"
+    },
+    {
+      "code": "340603",
+      "name": "相山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340600",
+      "year": 0,
+      "name_path": "全国/安徽省/淮北市/相山区"
+    },
+    {
+      "code": "340604",
+      "name": "烈山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "340600",
+      "year": 0,
+      "name_path": "全国/安徽省/淮北市/烈山区"
+    },
+    {
+      "code": "340621",
+      "name": "濉溪县",
+      "level": 3,
+      "type": null,
+      "parent_code": "340600",
+      "year": 0,
+      "name_path": "全国/安徽省/淮北市/濉溪县"
+    }
+  ]
+}

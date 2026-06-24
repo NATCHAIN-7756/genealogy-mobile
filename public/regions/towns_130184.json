@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "130184001",
+      "name": "长寿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/长寿街道"
+    },
+    {
+      "code": "130184101",
+      "name": "化皮镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/化皮镇"
+    },
+    {
+      "code": "130184102",
+      "name": "承安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/承安镇"
+    },
+    {
+      "code": "130184103",
+      "name": "正莫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/正莫镇"
+    },
+    {
+      "code": "130184104",
+      "name": "南大岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/南大岳镇"
+    },
+    {
+      "code": "130184105",
+      "name": "杜固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/杜固镇"
+    },
+    {
+      "code": "130184106",
+      "name": "邯邰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/邯邰镇"
+    },
+    {
+      "code": "130184107",
+      "name": "东王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/东王镇"
+    },
+    {
+      "code": "130184108",
+      "name": "马头铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/马头铺镇"
+    },
+    {
+      "code": "130184200",
+      "name": "协神乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/协神乡"
+    },
+    {
+      "code": "130184201",
+      "name": "木村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/木村乡"
+    },
+    {
+      "code": "130184202",
+      "name": "彭家庄回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130184",
+      "year": 0,
+      "name_path": "河北省/石家庄市/新乐市/彭家庄回族乡"
+    }
+  ]
+}

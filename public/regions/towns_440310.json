@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "440310001",
+      "name": "坪山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440310",
+      "year": 0,
+      "name_path": "广东省/深圳市/坪山区/坪山街道"
+    },
+    {
+      "code": "440310002",
+      "name": "坑梓街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440310",
+      "year": 0,
+      "name_path": "广东省/深圳市/坪山区/坑梓街道"
+    },
+    {
+      "code": "440310003",
+      "name": "马峦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440310",
+      "year": 0,
+      "name_path": "广东省/深圳市/坪山区/马峦街道"
+    },
+    {
+      "code": "440310004",
+      "name": "碧岭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440310",
+      "year": 0,
+      "name_path": "广东省/深圳市/坪山区/碧岭街道"
+    },
+    {
+      "code": "440310005",
+      "name": "石井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440310",
+      "year": 0,
+      "name_path": "广东省/深圳市/坪山区/石井街道"
+    },
+    {
+      "code": "440310006",
+      "name": "龙田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440310",
+      "year": 0,
+      "name_path": "广东省/深圳市/坪山区/龙田街道"
+    }
+  ]
+}

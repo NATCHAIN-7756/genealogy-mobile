@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "532328100",
+      "name": "元马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/元马镇"
+    },
+    {
+      "code": "532328102",
+      "name": "黄瓜园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/黄瓜园镇"
+    },
+    {
+      "code": "532328103",
+      "name": "羊街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/羊街镇"
+    },
+    {
+      "code": "532328201",
+      "name": "老城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/老城乡"
+    },
+    {
+      "code": "532328202",
+      "name": "物茂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/物茂乡"
+    },
+    {
+      "code": "532328203",
+      "name": "平田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/平田乡"
+    },
+    {
+      "code": "532328204",
+      "name": "江边乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/江边乡"
+    },
+    {
+      "code": "532328205",
+      "name": "新华乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/新华乡"
+    },
+    {
+      "code": "532328206",
+      "name": "姜驿乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/姜驿乡"
+    },
+    {
+      "code": "532328209",
+      "name": "凉山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532328",
+      "year": 0,
+      "name_path": "云南省/楚雄彝族自治州/元谋县/凉山乡"
+    }
+  ]
+}

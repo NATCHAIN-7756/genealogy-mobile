@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "371423001",
+      "name": "渤海路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/渤海路街道"
+    },
+    {
+      "code": "371423100",
+      "name": "庆云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/庆云镇"
+    },
+    {
+      "code": "371423101",
+      "name": "常家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/常家镇"
+    },
+    {
+      "code": "371423102",
+      "name": "尚堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/尚堂镇"
+    },
+    {
+      "code": "371423103",
+      "name": "崔口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/崔口镇"
+    },
+    {
+      "code": "371423104",
+      "name": "东辛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/东辛店镇"
+    },
+    {
+      "code": "371423200",
+      "name": "严务乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/严务乡"
+    },
+    {
+      "code": "371423202",
+      "name": "中丁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/中丁乡"
+    },
+    {
+      "code": "371423203",
+      "name": "徐园子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "371423",
+      "year": 0,
+      "name_path": "山东省/德州市/庆云县/徐园子乡"
+    }
+  ]
+}

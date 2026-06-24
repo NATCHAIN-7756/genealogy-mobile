@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "632621100",
+      "name": "大武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/大武镇"
+    },
+    {
+      "code": "632621101",
+      "name": "拉加镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/拉加镇"
+    },
+    {
+      "code": "632621200",
+      "name": "大武乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/大武乡"
+    },
+    {
+      "code": "632621201",
+      "name": "东倾沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/东倾沟乡"
+    },
+    {
+      "code": "632621202",
+      "name": "雪山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/雪山乡"
+    },
+    {
+      "code": "632621203",
+      "name": "下大武乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/下大武乡"
+    },
+    {
+      "code": "632621204",
+      "name": "当洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/当洛乡"
+    },
+    {
+      "code": "632621205",
+      "name": "优云乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632621",
+      "year": 0,
+      "name_path": "青海省/果洛藏族自治州/玛沁县/优云乡"
+    }
+  ]
+}

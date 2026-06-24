@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130505100",
+      "name": "任城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/任城镇"
+    },
+    {
+      "code": "130505101",
+      "name": "邢家湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/邢家湾镇"
+    },
+    {
+      "code": "130505102",
+      "name": "辛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/辛店镇"
+    },
+    {
+      "code": "130505103",
+      "name": "天口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/天口镇"
+    },
+    {
+      "code": "130505104",
+      "name": "西固城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/西固城镇"
+    },
+    {
+      "code": "130505201",
+      "name": "永福庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/永福庄乡"
+    },
+    {
+      "code": "130505202",
+      "name": "大屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/大屯乡"
+    },
+    {
+      "code": "130505203",
+      "name": "骆庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130505",
+      "year": 0,
+      "name_path": "河北省/邢台市/任泽区/骆庄乡"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "code": "370203005",
+      "name": "辽宁路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/辽宁路街道"
+    },
+    {
+      "code": "370203010",
+      "name": "华阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/华阳路街道"
+    },
+    {
+      "code": "370203011",
+      "name": "登州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/登州路街道"
+    },
+    {
+      "code": "370203013",
+      "name": "宁夏路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/宁夏路街道"
+    },
+    {
+      "code": "370203014",
+      "name": "敦化路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/敦化路街道"
+    },
+    {
+      "code": "370203015",
+      "name": "辽源路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/辽源路街道"
+    },
+    {
+      "code": "370203016",
+      "name": "合肥路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/合肥路街道"
+    },
+    {
+      "code": "370203017",
+      "name": "即墨路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/即墨路街道"
+    },
+    {
+      "code": "370203018",
+      "name": "镇江路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/镇江路街道"
+    },
+    {
+      "code": "370203019",
+      "name": "台东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/台东街道"
+    },
+    {
+      "code": "370203020",
+      "name": "延安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/延安路街道"
+    },
+    {
+      "code": "370203021",
+      "name": "大港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/大港街道"
+    },
+    {
+      "code": "370203022",
+      "name": "小港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/小港街道"
+    },
+    {
+      "code": "370203023",
+      "name": "浮山新区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/浮山新区街道"
+    },
+    {
+      "code": "370203024",
+      "name": "同安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/同安路街道"
+    },
+    {
+      "code": "370203025",
+      "name": "洪山坡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/洪山坡街道"
+    },
+    {
+      "code": "370203026",
+      "name": "湖岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/湖岛街道"
+    },
+    {
+      "code": "370203027",
+      "name": "兴隆路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/兴隆路街道"
+    },
+    {
+      "code": "370203029",
+      "name": "杭州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/杭州路街道"
+    },
+    {
+      "code": "370203030",
+      "name": "瑞昌路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/瑞昌路街道"
+    },
+    {
+      "code": "370203031",
+      "name": "四方街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/四方街道"
+    },
+    {
+      "code": "370203032",
+      "name": "阜新路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/阜新路街道"
+    },
+    {
+      "code": "370203034",
+      "name": "水清沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/水清沟街道"
+    },
+    {
+      "code": "370203035",
+      "name": "洛阳路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/洛阳路街道"
+    },
+    {
+      "code": "370203036",
+      "name": "开平路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/开平路街道"
+    },
+    {
+      "code": "370203037",
+      "name": "郑州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/郑州路街道"
+    },
+    {
+      "code": "370203038",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/河西街道"
+    },
+    {
+      "code": "370203039",
+      "name": "海伦路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/海伦路街道"
+    },
+    {
+      "code": "370203040",
+      "name": "双山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370203",
+      "year": 0,
+      "name_path": "山东省/青岛市/市北区/双山街道"
+    }
+  ]
+}

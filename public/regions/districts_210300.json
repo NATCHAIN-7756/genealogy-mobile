@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "210302",
+      "name": "铁东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/铁东区"
+    },
+    {
+      "code": "210303",
+      "name": "铁西区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/铁西区"
+    },
+    {
+      "code": "210304",
+      "name": "立山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/立山区"
+    },
+    {
+      "code": "210311",
+      "name": "千山区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/千山区"
+    },
+    {
+      "code": "210321",
+      "name": "台安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/台安县"
+    },
+    {
+      "code": "210323",
+      "name": "岫岩满族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/岫岩满族自治县"
+    },
+    {
+      "code": "210381",
+      "name": "海城市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210300",
+      "year": 0,
+      "name_path": "全国/辽宁省/鞍山市/海城市"
+    }
+  ]
+}

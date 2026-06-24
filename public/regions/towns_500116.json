@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "code": "500116001",
+      "name": "几江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/几江街道"
+    },
+    {
+      "code": "500116002",
+      "name": "德感街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/德感街道"
+    },
+    {
+      "code": "500116004",
+      "name": "双福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/双福街道"
+    },
+    {
+      "code": "500116005",
+      "name": "鼎山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/鼎山街道"
+    },
+    {
+      "code": "500116006",
+      "name": "圣泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/圣泉街道"
+    },
+    {
+      "code": "500116100",
+      "name": "油溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/油溪镇"
+    },
+    {
+      "code": "500116101",
+      "name": "吴滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/吴滩镇"
+    },
+    {
+      "code": "500116102",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/石门镇"
+    },
+    {
+      "code": "500116103",
+      "name": "朱杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/朱杨镇"
+    },
+    {
+      "code": "500116104",
+      "name": "石蟆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/石蟆镇"
+    },
+    {
+      "code": "500116105",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/永兴镇"
+    },
+    {
+      "code": "500116106",
+      "name": "塘河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/塘河镇"
+    },
+    {
+      "code": "500116107",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/白沙镇"
+    },
+    {
+      "code": "500116108",
+      "name": "龙华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/龙华镇"
+    },
+    {
+      "code": "500116109",
+      "name": "李市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/李市镇"
+    },
+    {
+      "code": "500116110",
+      "name": "慈云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/慈云镇"
+    },
+    {
+      "code": "500116111",
+      "name": "蔡家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/蔡家镇"
+    },
+    {
+      "code": "500116112",
+      "name": "中山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/中山镇"
+    },
+    {
+      "code": "500116113",
+      "name": "嘉平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/嘉平镇"
+    },
+    {
+      "code": "500116114",
+      "name": "柏林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/柏林镇"
+    },
+    {
+      "code": "500116115",
+      "name": "先锋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/先锋镇"
+    },
+    {
+      "code": "500116116",
+      "name": "珞璜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/珞璜镇"
+    },
+    {
+      "code": "500116117",
+      "name": "贾嗣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/贾嗣镇"
+    },
+    {
+      "code": "500116118",
+      "name": "夏坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/夏坝镇"
+    },
+    {
+      "code": "500116119",
+      "name": "西湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/西湖镇"
+    },
+    {
+      "code": "500116120",
+      "name": "杜市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/杜市镇"
+    },
+    {
+      "code": "500116121",
+      "name": "广兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/广兴镇"
+    },
+    {
+      "code": "500116122",
+      "name": "四面山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/四面山镇"
+    },
+    {
+      "code": "500116123",
+      "name": "支坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/支坪镇"
+    },
+    {
+      "code": "500116124",
+      "name": "四屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500116",
+      "year": 0,
+      "name_path": "重庆市/江津区/四屏镇"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "513228100",
+      "name": "芦花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/芦花镇"
+    },
+    {
+      "code": "513228101",
+      "name": "卡龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/卡龙镇"
+    },
+    {
+      "code": "513228102",
+      "name": "色尔古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/色尔古镇"
+    },
+    {
+      "code": "513228103",
+      "name": "沙石多镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/沙石多镇"
+    },
+    {
+      "code": "513228104",
+      "name": "知木林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/知木林镇"
+    },
+    {
+      "code": "513228105",
+      "name": "扎窝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/扎窝镇"
+    },
+    {
+      "code": "513228106",
+      "name": "西尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/西尔镇"
+    },
+    {
+      "code": "513228107",
+      "name": "木苏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/木苏镇"
+    },
+    {
+      "code": "513228204",
+      "name": "瓦钵梁子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/瓦钵梁子乡"
+    },
+    {
+      "code": "513228206",
+      "name": "石碉楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/石碉楼乡"
+    },
+    {
+      "code": "513228207",
+      "name": "龙坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/龙坝乡"
+    },
+    {
+      "code": "513228208",
+      "name": "洛多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/洛多乡"
+    },
+    {
+      "code": "513228210",
+      "name": "维古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/维古乡"
+    },
+    {
+      "code": "513228213",
+      "name": "晴朗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/晴朗乡"
+    },
+    {
+      "code": "513228214",
+      "name": "慈坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513228",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/黑水县/慈坝乡"
+    }
+  ]
+}

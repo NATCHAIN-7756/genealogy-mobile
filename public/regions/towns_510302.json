@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "510302001",
+      "name": "五星街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/五星街街道"
+    },
+    {
+      "code": "510302002",
+      "name": "东兴寺街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/东兴寺街道"
+    },
+    {
+      "code": "510302003",
+      "name": "新街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/新街街道"
+    },
+    {
+      "code": "510302004",
+      "name": "郭家坳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/郭家坳街道"
+    },
+    {
+      "code": "510302005",
+      "name": "丹桂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/丹桂街道"
+    },
+    {
+      "code": "510302006",
+      "name": "学苑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/学苑街道"
+    },
+    {
+      "code": "510302007",
+      "name": "舒坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/舒坪街道"
+    },
+    {
+      "code": "510302008",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/红旗街道"
+    },
+    {
+      "code": "510302009",
+      "name": "高峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/高峰街道"
+    },
+    {
+      "code": "510302101",
+      "name": "仲权镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/仲权镇"
+    },
+    {
+      "code": "510302103",
+      "name": "荣边镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/荣边镇"
+    },
+    {
+      "code": "510302105",
+      "name": "飞龙峡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510302",
+      "year": 0,
+      "name_path": "四川省/自贡市/自流井区/飞龙峡镇"
+    }
+  ]
+}

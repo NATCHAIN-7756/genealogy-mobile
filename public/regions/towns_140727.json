@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "140727100",
+      "name": "昭馀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/昭馀镇"
+    },
+    {
+      "code": "140727101",
+      "name": "东观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/东观镇"
+    },
+    {
+      "code": "140727102",
+      "name": "古县镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/古县镇"
+    },
+    {
+      "code": "140727103",
+      "name": "贾令镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/贾令镇"
+    },
+    {
+      "code": "140727104",
+      "name": "城赵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/城赵镇"
+    },
+    {
+      "code": "140727105",
+      "name": "来远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/来远镇"
+    },
+    {
+      "code": "140727201",
+      "name": "峪口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140727",
+      "year": 0,
+      "name_path": "山西省/晋中市/祁县/峪口乡"
+    }
+  ]
+}

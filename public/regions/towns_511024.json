@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "511024100",
+      "name": "严陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/严陵镇"
+    },
+    {
+      "code": "511024102",
+      "name": "新店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/新店镇"
+    },
+    {
+      "code": "511024103",
+      "name": "向义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/向义镇"
+    },
+    {
+      "code": "511024104",
+      "name": "界牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/界牌镇"
+    },
+    {
+      "code": "511024105",
+      "name": "龙会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/龙会镇"
+    },
+    {
+      "code": "511024106",
+      "name": "高石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/高石镇"
+    },
+    {
+      "code": "511024107",
+      "name": "东联镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/东联镇"
+    },
+    {
+      "code": "511024109",
+      "name": "镇西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/镇西镇"
+    },
+    {
+      "code": "511024111",
+      "name": "山王镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/山王镇"
+    },
+    {
+      "code": "511024113",
+      "name": "观英滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/观英滩镇"
+    },
+    {
+      "code": "511024114",
+      "name": "新场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/新场镇"
+    },
+    {
+      "code": "511024115",
+      "name": "连界镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/连界镇"
+    },
+    {
+      "code": "511024116",
+      "name": "越溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/越溪镇"
+    },
+    {
+      "code": "511024119",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511024",
+      "year": 0,
+      "name_path": "四川省/内江市/威远县/小河镇"
+    }
+  ]
+}

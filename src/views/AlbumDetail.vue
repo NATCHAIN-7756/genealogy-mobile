@@ -66,12 +66,7 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -79,6 +74,7 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast, showImagePreview } from 'vant'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -131,19 +127,7 @@ async function uploadPhotos() {
   }
 }
 
-async function loadAlbum() {
-  // 模拟数据
-  photos.value = [
-    { id: 1, url: 'https://via.placeholder.com/300?text=1980年', thumbnail: '', taken_date: '1980年春节' },
-    { id: 2, url: 'https://via.placeholder.com/300?text=1985年', thumbnail: '', taken_date: '1985年春节' },
-    { id: 3, url: 'https://via.placeholder.com/300?text=1990年', thumbnail: '', taken_date: '1990年春节' },
-    { id: 4, url: 'https://via.placeholder.com/300?text=1995年', thumbnail: '', taken_date: '1995年春节' },
-    { id: 5, url: 'https://via.placeholder.com/300?text=2000年', thumbnail: '', taken_date: '2000年春节' },
-    { id: 6, url: 'https://via.placeholder.com/300?text=2010年', thumbnail: '', taken_date: '2010年春节' },
-    { id: 7, url: 'https://via.placeholder.com/300?text=2020年', thumbnail: '', taken_date: '2020年春节' },
-    { id: 8, url: 'https://via.placeholder.com/300?text=2026年', thumbnail: '', taken_date: '2026年春节' }
-  ]
-}
+async function loadAlbum() {}
 
 onMounted(() => {
   loadAlbum()

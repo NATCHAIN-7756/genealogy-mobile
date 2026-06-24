@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "230205001",
+      "name": "新兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230205",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/昂昂溪区/新兴街道"
+    },
+    {
+      "code": "230205002",
+      "name": "新建街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230205",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/昂昂溪区/新建街道"
+    },
+    {
+      "code": "230205005",
+      "name": "林机街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230205",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/昂昂溪区/林机街道"
+    },
+    {
+      "code": "230205006",
+      "name": "道北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230205",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/昂昂溪区/道北街道"
+    },
+    {
+      "code": "230205100",
+      "name": "水师营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230205",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/昂昂溪区/水师营镇"
+    },
+    {
+      "code": "230205101",
+      "name": "榆树屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230205",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/昂昂溪区/榆树屯镇"
+    }
+  ]
+}

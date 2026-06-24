@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "341323100",
+      "name": "灵城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/灵城镇"
+    },
+    {
+      "code": "341323101",
+      "name": "韦集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/韦集镇"
+    },
+    {
+      "code": "341323102",
+      "name": "黄湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/黄湾镇"
+    },
+    {
+      "code": "341323103",
+      "name": "娄庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/娄庄镇"
+    },
+    {
+      "code": "341323104",
+      "name": "杨疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/杨疃镇"
+    },
+    {
+      "code": "341323105",
+      "name": "尹集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/尹集镇"
+    },
+    {
+      "code": "341323106",
+      "name": "浍沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/浍沟镇"
+    },
+    {
+      "code": "341323107",
+      "name": "游集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/游集镇"
+    },
+    {
+      "code": "341323108",
+      "name": "下楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/下楼镇"
+    },
+    {
+      "code": "341323109",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/朝阳镇"
+    },
+    {
+      "code": "341323110",
+      "name": "渔沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/渔沟镇"
+    },
+    {
+      "code": "341323111",
+      "name": "高楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/高楼镇"
+    },
+    {
+      "code": "341323112",
+      "name": "冯庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/冯庙镇"
+    },
+    {
+      "code": "341323113",
+      "name": "禅堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/禅堂镇"
+    },
+    {
+      "code": "341323114",
+      "name": "虞姬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/虞姬镇"
+    },
+    {
+      "code": "341323115",
+      "name": "向阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/向阳镇"
+    },
+    {
+      "code": "341323116",
+      "name": "大庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/大庙镇"
+    },
+    {
+      "code": "341323117",
+      "name": "朱集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/朱集镇"
+    },
+    {
+      "code": "341323118",
+      "name": "大路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341323",
+      "year": 0,
+      "name_path": "安徽省/宿州市/灵璧县/大路镇"
+    }
+  ]
+}

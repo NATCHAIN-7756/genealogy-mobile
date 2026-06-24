@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "652302001",
+      "name": "博峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/博峰街道"
+    },
+    {
+      "code": "652302002",
+      "name": "阜新街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/阜新街道"
+    },
+    {
+      "code": "652302004",
+      "name": "准东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/准东街道"
+    },
+    {
+      "code": "652302005",
+      "name": "石油基地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/石油基地街道"
+    },
+    {
+      "code": "652302100",
+      "name": "甘河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/甘河子镇"
+    },
+    {
+      "code": "652302101",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/城关镇"
+    },
+    {
+      "code": "652302102",
+      "name": "九运街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/九运街镇"
+    },
+    {
+      "code": "652302103",
+      "name": "滋泥泉子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/滋泥泉子镇"
+    },
+    {
+      "code": "652302200",
+      "name": "三工河哈萨克族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/三工河哈萨克族乡"
+    },
+    {
+      "code": "652302201",
+      "name": "上户沟哈萨克族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/上户沟哈萨克族乡"
+    },
+    {
+      "code": "652302202",
+      "name": "水磨沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652302",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/昌吉回族自治州/阜康市/水磨沟乡"
+    }
+  ]
+}

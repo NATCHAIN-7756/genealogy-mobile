@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "320703001",
+      "name": "墟沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/墟沟街道"
+    },
+    {
+      "code": "320703002",
+      "name": "连云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/连云街道"
+    },
+    {
+      "code": "320703003",
+      "name": "连岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/连岛街道"
+    },
+    {
+      "code": "320703004",
+      "name": "板桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/板桥街道"
+    },
+    {
+      "code": "320703005",
+      "name": "云山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/云山街道"
+    },
+    {
+      "code": "320703006",
+      "name": "海州湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/海州湾街道"
+    },
+    {
+      "code": "320703007",
+      "name": "宿城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/宿城街道"
+    },
+    {
+      "code": "320703008",
+      "name": "高公岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/高公岛街道"
+    },
+    {
+      "code": "320703009",
+      "name": "中云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/中云街道"
+    },
+    {
+      "code": "320703010",
+      "name": "猴嘴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/猴嘴街道"
+    },
+    {
+      "code": "320703011",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/朝阳街道"
+    },
+    {
+      "code": "320703012",
+      "name": "徐圩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/徐圩街道"
+    },
+    {
+      "code": "320703200",
+      "name": "前三岛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "320703",
+      "year": 0,
+      "name_path": "江苏省/连云港市/连云区/前三岛乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "152529100",
+      "name": "明安图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152529",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正镶白旗/明安图镇"
+    },
+    {
+      "code": "152529101",
+      "name": "星耀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152529",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正镶白旗/星耀镇"
+    },
+    {
+      "code": "152529200",
+      "name": "伊和淖尔苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152529",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正镶白旗/伊和淖尔苏木"
+    },
+    {
+      "code": "152529201",
+      "name": "乌兰查布苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152529",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正镶白旗/乌兰查布苏木"
+    },
+    {
+      "code": "152529202",
+      "name": "宝拉根陶海苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152529",
+      "year": 0,
+      "name_path": "内蒙古自治区/锡林郭勒盟/正镶白旗/宝拉根陶海苏木"
+    }
+  ]
+}

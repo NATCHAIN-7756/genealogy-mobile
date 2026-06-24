@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "320381001",
+      "name": "新安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/新安街道"
+    },
+    {
+      "code": "320381002",
+      "name": "北沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/北沟街道"
+    },
+    {
+      "code": "320381003",
+      "name": "唐店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/唐店街道"
+    },
+    {
+      "code": "320381004",
+      "name": "墨河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/墨河街道"
+    },
+    {
+      "code": "320381005",
+      "name": "钟吾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/钟吾街道"
+    },
+    {
+      "code": "320381102",
+      "name": "草桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/草桥镇"
+    },
+    {
+      "code": "320381103",
+      "name": "港头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/港头镇"
+    },
+    {
+      "code": "320381104",
+      "name": "合沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/合沟镇"
+    },
+    {
+      "code": "320381105",
+      "name": "窑湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/窑湾镇"
+    },
+    {
+      "code": "320381106",
+      "name": "棋盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/棋盘镇"
+    },
+    {
+      "code": "320381107",
+      "name": "马陵山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/马陵山镇"
+    },
+    {
+      "code": "320381108",
+      "name": "邵店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/邵店镇"
+    },
+    {
+      "code": "320381109",
+      "name": "高流镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/高流镇"
+    },
+    {
+      "code": "320381110",
+      "name": "阿湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/阿湖镇"
+    },
+    {
+      "code": "320381112",
+      "name": "时集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/时集镇"
+    },
+    {
+      "code": "320381113",
+      "name": "瓦窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/瓦窑镇"
+    },
+    {
+      "code": "320381114",
+      "name": "双塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/双塘镇"
+    },
+    {
+      "code": "320381116",
+      "name": "新店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320381",
+      "year": 0,
+      "name_path": "江苏省/徐州市/新沂市/新店镇"
+    }
+  ]
+}

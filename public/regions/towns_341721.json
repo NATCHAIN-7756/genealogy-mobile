@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "341721100",
+      "name": "尧渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/尧渡镇"
+    },
+    {
+      "code": "341721101",
+      "name": "东流镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/东流镇"
+    },
+    {
+      "code": "341721102",
+      "name": "大渡口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/大渡口镇"
+    },
+    {
+      "code": "341721103",
+      "name": "胜利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/胜利镇"
+    },
+    {
+      "code": "341721104",
+      "name": "张溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/张溪镇"
+    },
+    {
+      "code": "341721105",
+      "name": "洋湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/洋湖镇"
+    },
+    {
+      "code": "341721106",
+      "name": "葛公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/葛公镇"
+    },
+    {
+      "code": "341721107",
+      "name": "香隅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/香隅镇"
+    },
+    {
+      "code": "341721108",
+      "name": "官港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/官港镇"
+    },
+    {
+      "code": "341721109",
+      "name": "昭潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/昭潭镇"
+    },
+    {
+      "code": "341721110",
+      "name": "龙泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/龙泉镇"
+    },
+    {
+      "code": "341721111",
+      "name": "泥溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/泥溪镇"
+    },
+    {
+      "code": "341721209",
+      "name": "花园乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/花园乡"
+    },
+    {
+      "code": "341721212",
+      "name": "木塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/木塔乡"
+    },
+    {
+      "code": "341721216",
+      "name": "青山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341721",
+      "year": 0,
+      "name_path": "安徽省/池州市/东至县/青山乡"
+    }
+  ]
+}

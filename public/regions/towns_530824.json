@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530824100",
+      "name": "威远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/威远镇"
+    },
+    {
+      "code": "530824101",
+      "name": "永平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/永平镇"
+    },
+    {
+      "code": "530824102",
+      "name": "正兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/正兴镇"
+    },
+    {
+      "code": "530824103",
+      "name": "民乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/民乐镇"
+    },
+    {
+      "code": "530824104",
+      "name": "景谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/景谷镇"
+    },
+    {
+      "code": "530824105",
+      "name": "凤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/凤山镇"
+    },
+    {
+      "code": "530824205",
+      "name": "半坡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/半坡乡"
+    },
+    {
+      "code": "530824206",
+      "name": "勐班乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/勐班乡"
+    },
+    {
+      "code": "530824207",
+      "name": "碧安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/碧安乡"
+    },
+    {
+      "code": "530824208",
+      "name": "益智乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530824",
+      "year": 0,
+      "name_path": "云南省/普洱市/景谷傣族彝族自治县/益智乡"
+    }
+  ]
+}

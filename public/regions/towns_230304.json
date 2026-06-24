@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "230304001",
+      "name": "东兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230304",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/滴道区/东兴街道"
+    },
+    {
+      "code": "230304002",
+      "name": "矿里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230304",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/滴道区/矿里街道"
+    },
+    {
+      "code": "230304003",
+      "name": "洗煤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230304",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/滴道区/洗煤街道"
+    },
+    {
+      "code": "230304004",
+      "name": "大通沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230304",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/滴道区/大通沟街道"
+    },
+    {
+      "code": "230304200",
+      "name": "滴道河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230304",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/滴道区/滴道河乡"
+    },
+    {
+      "code": "230304201",
+      "name": "兰岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230304",
+      "year": 0,
+      "name_path": "黑龙江省/鸡西市/滴道区/兰岭乡"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "360827100",
+      "name": "泉江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/泉江镇"
+    },
+    {
+      "code": "360827101",
+      "name": "雩田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/雩田镇"
+    },
+    {
+      "code": "360827102",
+      "name": "碧洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/碧洲镇"
+    },
+    {
+      "code": "360827103",
+      "name": "草林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/草林镇"
+    },
+    {
+      "code": "360827104",
+      "name": "堆子前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/堆子前镇"
+    },
+    {
+      "code": "360827105",
+      "name": "左安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/左安镇"
+    },
+    {
+      "code": "360827106",
+      "name": "高坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/高坪镇"
+    },
+    {
+      "code": "360827107",
+      "name": "大汾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/大汾镇"
+    },
+    {
+      "code": "360827108",
+      "name": "衙前镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/衙前镇"
+    },
+    {
+      "code": "360827109",
+      "name": "禾源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/禾源镇"
+    },
+    {
+      "code": "360827110",
+      "name": "汤湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/汤湖镇"
+    },
+    {
+      "code": "360827111",
+      "name": "枚江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/枚江镇"
+    },
+    {
+      "code": "360827112",
+      "name": "珠田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/珠田镇"
+    },
+    {
+      "code": "360827113",
+      "name": "巾石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/巾石镇"
+    },
+    {
+      "code": "360827204",
+      "name": "大坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/大坑乡"
+    },
+    {
+      "code": "360827208",
+      "name": "双桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/双桥乡"
+    },
+    {
+      "code": "360827209",
+      "name": "新江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/新江乡"
+    },
+    {
+      "code": "360827210",
+      "name": "五斗江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/五斗江乡"
+    },
+    {
+      "code": "360827212",
+      "name": "西溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/西溪乡"
+    },
+    {
+      "code": "360827213",
+      "name": "南江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/南江乡"
+    },
+    {
+      "code": "360827214",
+      "name": "黄坑乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/黄坑乡"
+    },
+    {
+      "code": "360827219",
+      "name": "戴家埔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/戴家埔乡"
+    },
+    {
+      "code": "360827220",
+      "name": "营盘圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360827",
+      "year": 0,
+      "name_path": "江西省/吉安市/遂川县/营盘圩乡"
+    }
+  ]
+}

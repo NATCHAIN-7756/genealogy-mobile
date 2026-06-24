@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "220100",
+      "name": "长春市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/长春市"
+    },
+    {
+      "code": "220200",
+      "name": "吉林市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/吉林市"
+    },
+    {
+      "code": "220300",
+      "name": "四平市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/四平市"
+    },
+    {
+      "code": "220400",
+      "name": "辽源市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/辽源市"
+    },
+    {
+      "code": "220500",
+      "name": "通化市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/通化市"
+    },
+    {
+      "code": "220600",
+      "name": "白山市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市"
+    },
+    {
+      "code": "220700",
+      "name": "松原市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/松原市"
+    },
+    {
+      "code": "220800",
+      "name": "白城市",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/白城市"
+    },
+    {
+      "code": "222400",
+      "name": "延边朝鲜族自治州",
+      "level": 2,
+      "type": null,
+      "parent_code": "220000",
+      "year": 0,
+      "name_path": "全国/吉林省/延边朝鲜族自治州"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "530625001",
+      "name": "溪洛渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/溪洛渡街道"
+    },
+    {
+      "code": "530625002",
+      "name": "永兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/永兴街道"
+    },
+    {
+      "code": "530625102",
+      "name": "桧溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/桧溪镇"
+    },
+    {
+      "code": "530625103",
+      "name": "黄华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/黄华镇"
+    },
+    {
+      "code": "530625104",
+      "name": "茂林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/茂林镇"
+    },
+    {
+      "code": "530625105",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/大兴镇"
+    },
+    {
+      "code": "530625106",
+      "name": "莲峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/莲峰镇"
+    },
+    {
+      "code": "530625107",
+      "name": "码口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/码口镇"
+    },
+    {
+      "code": "530625108",
+      "name": "务基镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/务基镇"
+    },
+    {
+      "code": "530625201",
+      "name": "团结乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/团结乡"
+    },
+    {
+      "code": "530625203",
+      "name": "细沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/细沙乡"
+    },
+    {
+      "code": "530625204",
+      "name": "青胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/青胜乡"
+    },
+    {
+      "code": "530625208",
+      "name": "马楠苗族彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/马楠苗族彝族乡"
+    },
+    {
+      "code": "530625209",
+      "name": "水竹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/水竹乡"
+    },
+    {
+      "code": "530625212",
+      "name": "墨翰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/墨翰乡"
+    },
+    {
+      "code": "530625214",
+      "name": "伍寨彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530625",
+      "year": 0,
+      "name_path": "云南省/昭通市/永善县/伍寨彝族苗族乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "654324100",
+      "name": "阿克齐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/阿克齐镇"
+    },
+    {
+      "code": "654324101",
+      "name": "萨尔布拉克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/萨尔布拉克镇"
+    },
+    {
+      "code": "654324102",
+      "name": "齐巴尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/齐巴尔镇"
+    },
+    {
+      "code": "654324103",
+      "name": "库勒拜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/库勒拜镇"
+    },
+    {
+      "code": "654324200",
+      "name": "萨尔塔木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/萨尔塔木乡"
+    },
+    {
+      "code": "654324201",
+      "name": "加依勒玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/加依勒玛乡"
+    },
+    {
+      "code": "654324204",
+      "name": "铁热克提乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "654324",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿勒泰地区/哈巴河县/铁热克提乡"
+    }
+  ]
+}

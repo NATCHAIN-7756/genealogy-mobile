@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "220521001",
+      "name": "茂山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/茂山街道"
+    },
+    {
+      "code": "220521002",
+      "name": "东安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/东安街道"
+    },
+    {
+      "code": "220521100",
+      "name": "快大茂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/快大茂镇"
+    },
+    {
+      "code": "220521103",
+      "name": "二密镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/二密镇"
+    },
+    {
+      "code": "220521104",
+      "name": "果松镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/果松镇"
+    },
+    {
+      "code": "220521105",
+      "name": "石湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/石湖镇"
+    },
+    {
+      "code": "220521106",
+      "name": "大安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/大安镇"
+    },
+    {
+      "code": "220521107",
+      "name": "光华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/光华镇"
+    },
+    {
+      "code": "220521108",
+      "name": "兴林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/兴林镇"
+    },
+    {
+      "code": "220521109",
+      "name": "英额布镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/英额布镇"
+    },
+    {
+      "code": "220521110",
+      "name": "三棵榆树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/三棵榆树镇"
+    },
+    {
+      "code": "220521111",
+      "name": "西江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/西江镇"
+    },
+    {
+      "code": "220521202",
+      "name": "富江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/富江乡"
+    },
+    {
+      "code": "220521203",
+      "name": "四棚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/四棚乡"
+    },
+    {
+      "code": "220521205",
+      "name": "东来乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/东来乡"
+    },
+    {
+      "code": "220521207",
+      "name": "大泉源满族朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/大泉源满族朝鲜族乡"
+    },
+    {
+      "code": "220521208",
+      "name": "金斗朝鲜族满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220521",
+      "year": 0,
+      "name_path": "吉林省/通化市/通化县/金斗朝鲜族满族乡"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "621102",
+      "name": "安定区",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/安定区"
+    },
+    {
+      "code": "621121",
+      "name": "通渭县",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/通渭县"
+    },
+    {
+      "code": "621122",
+      "name": "陇西县",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/陇西县"
+    },
+    {
+      "code": "621123",
+      "name": "渭源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/渭源县"
+    },
+    {
+      "code": "621124",
+      "name": "临洮县",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/临洮县"
+    },
+    {
+      "code": "621125",
+      "name": "漳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/漳县"
+    },
+    {
+      "code": "621126",
+      "name": "岷县",
+      "level": 3,
+      "type": null,
+      "parent_code": "621100",
+      "year": 0,
+      "name_path": "全国/甘肃省/定西市/岷县"
+    }
+  ]
+}

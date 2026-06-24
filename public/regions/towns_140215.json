@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "140215100",
+      "name": "西坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/西坪镇"
+    },
+    {
+      "code": "140215101",
+      "name": "倍加造镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/倍加造镇"
+    },
+    {
+      "code": "140215102",
+      "name": "周士庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/周士庄镇"
+    },
+    {
+      "code": "140215200",
+      "name": "吉家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/吉家庄乡"
+    },
+    {
+      "code": "140215201",
+      "name": "峰峪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/峰峪乡"
+    },
+    {
+      "code": "140215202",
+      "name": "杜庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/杜庄乡"
+    },
+    {
+      "code": "140215203",
+      "name": "党留庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/党留庄乡"
+    },
+    {
+      "code": "140215205",
+      "name": "聚乐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/聚乐乡"
+    },
+    {
+      "code": "140215206",
+      "name": "许堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140215",
+      "year": 0,
+      "name_path": "山西省/大同市/云州区/许堡乡"
+    }
+  ]
+}

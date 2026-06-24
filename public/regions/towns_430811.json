@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "430811004",
+      "name": "军地坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430811",
+      "year": 0,
+      "name_path": "湖南省/张家界市/武陵源区/军地坪街道"
+    },
+    {
+      "code": "430811005",
+      "name": "锣鼓塔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430811",
+      "year": 0,
+      "name_path": "湖南省/张家界市/武陵源区/锣鼓塔街道"
+    },
+    {
+      "code": "430811201",
+      "name": "协合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430811",
+      "year": 0,
+      "name_path": "湖南省/张家界市/武陵源区/协合乡"
+    },
+    {
+      "code": "430811202",
+      "name": "中湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430811",
+      "year": 0,
+      "name_path": "湖南省/张家界市/武陵源区/中湖乡"
+    }
+  ]
+}

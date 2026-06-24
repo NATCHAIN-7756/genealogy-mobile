@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "341825100",
+      "name": "旌阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/旌阳镇"
+    },
+    {
+      "code": "341825101",
+      "name": "蔡家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/蔡家桥镇"
+    },
+    {
+      "code": "341825102",
+      "name": "三溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/三溪镇"
+    },
+    {
+      "code": "341825103",
+      "name": "庙首镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/庙首镇"
+    },
+    {
+      "code": "341825104",
+      "name": "白地镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/白地镇"
+    },
+    {
+      "code": "341825105",
+      "name": "俞村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/俞村镇"
+    },
+    {
+      "code": "341825106",
+      "name": "兴隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/兴隆镇"
+    },
+    {
+      "code": "341825107",
+      "name": "孙村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/孙村镇"
+    },
+    {
+      "code": "341825108",
+      "name": "版书镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/版书镇"
+    },
+    {
+      "code": "341825109",
+      "name": "云乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341825",
+      "year": 0,
+      "name_path": "安徽省/宣城市/旌德县/云乐镇"
+    }
+  ]
+}

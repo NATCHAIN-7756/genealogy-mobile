@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "370124001",
+      "name": "榆山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/榆山街道"
+    },
+    {
+      "code": "370124002",
+      "name": "锦水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/锦水街道"
+    },
+    {
+      "code": "370124102",
+      "name": "东阿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/东阿镇"
+    },
+    {
+      "code": "370124103",
+      "name": "孝直镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/孝直镇"
+    },
+    {
+      "code": "370124104",
+      "name": "孔村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/孔村镇"
+    },
+    {
+      "code": "370124105",
+      "name": "洪范池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/洪范池镇"
+    },
+    {
+      "code": "370124106",
+      "name": "玫瑰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/玫瑰镇"
+    },
+    {
+      "code": "370124107",
+      "name": "安城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370124",
+      "year": 0,
+      "name_path": "山东省/济南市/平阴县/安城镇"
+    }
+  ]
+}

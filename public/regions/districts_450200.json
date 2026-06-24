@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "450202",
+      "name": "城中区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/城中区"
+    },
+    {
+      "code": "450203",
+      "name": "鱼峰区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/鱼峰区"
+    },
+    {
+      "code": "450204",
+      "name": "柳南区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/柳南区"
+    },
+    {
+      "code": "450205",
+      "name": "柳北区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/柳北区"
+    },
+    {
+      "code": "450206",
+      "name": "柳江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/柳江区"
+    },
+    {
+      "code": "450222",
+      "name": "柳城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/柳城县"
+    },
+    {
+      "code": "450223",
+      "name": "鹿寨县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/鹿寨县"
+    },
+    {
+      "code": "450224",
+      "name": "融安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/融安县"
+    },
+    {
+      "code": "450225",
+      "name": "融水苗族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/融水苗族自治县"
+    },
+    {
+      "code": "450226",
+      "name": "三江侗族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "450200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/柳州市/三江侗族自治县"
+    }
+  ]
+}

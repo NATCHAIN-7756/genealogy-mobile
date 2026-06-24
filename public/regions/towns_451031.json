@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "451031100",
+      "name": "新州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/新州镇"
+    },
+    {
+      "code": "451031101",
+      "name": "桠杈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/桠杈镇"
+    },
+    {
+      "code": "451031102",
+      "name": "天生桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/天生桥镇"
+    },
+    {
+      "code": "451031103",
+      "name": "平班镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/平班镇"
+    },
+    {
+      "code": "451031104",
+      "name": "德峨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/德峨镇"
+    },
+    {
+      "code": "451031105",
+      "name": "隆或镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/隆或镇"
+    },
+    {
+      "code": "451031200",
+      "name": "沙梨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/沙梨乡"
+    },
+    {
+      "code": "451031203",
+      "name": "者保乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/者保乡"
+    },
+    {
+      "code": "451031204",
+      "name": "者浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/者浪乡"
+    },
+    {
+      "code": "451031205",
+      "name": "革步乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/革步乡"
+    },
+    {
+      "code": "451031206",
+      "name": "金钟山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/金钟山乡"
+    },
+    {
+      "code": "451031208",
+      "name": "猪场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/猪场乡"
+    },
+    {
+      "code": "451031210",
+      "name": "蛇场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/蛇场乡"
+    },
+    {
+      "code": "451031211",
+      "name": "克长乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/克长乡"
+    },
+    {
+      "code": "451031213",
+      "name": "岩茶乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/岩茶乡"
+    },
+    {
+      "code": "451031215",
+      "name": "介廷乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451031",
+      "year": 0,
+      "name_path": "广西壮族自治区/百色市/隆林各族自治县/介廷乡"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "620921100",
+      "name": "中东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/中东镇"
+    },
+    {
+      "code": "620921101",
+      "name": "鼎新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/鼎新镇"
+    },
+    {
+      "code": "620921102",
+      "name": "金塔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/金塔镇"
+    },
+    {
+      "code": "620921103",
+      "name": "东坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/东坝镇"
+    },
+    {
+      "code": "620921105",
+      "name": "航天镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/航天镇"
+    },
+    {
+      "code": "620921106",
+      "name": "大庄子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/大庄子镇"
+    },
+    {
+      "code": "620921107",
+      "name": "西坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/西坝镇"
+    },
+    {
+      "code": "620921204",
+      "name": "古城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/古城乡"
+    },
+    {
+      "code": "620921209",
+      "name": "羊井子湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620921",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/金塔县/羊井子湾乡"
+    }
+  ]
+}

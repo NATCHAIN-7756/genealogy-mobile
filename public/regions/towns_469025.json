@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "469025100",
+      "name": "牙叉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/牙叉镇"
+    },
+    {
+      "code": "469025101",
+      "name": "七坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/七坊镇"
+    },
+    {
+      "code": "469025102",
+      "name": "邦溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/邦溪镇"
+    },
+    {
+      "code": "469025103",
+      "name": "打安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/打安镇"
+    },
+    {
+      "code": "469025200",
+      "name": "细水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/细水乡"
+    },
+    {
+      "code": "469025201",
+      "name": "元门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/元门乡"
+    },
+    {
+      "code": "469025202",
+      "name": "南开乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/南开乡"
+    },
+    {
+      "code": "469025203",
+      "name": "阜龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/阜龙乡"
+    },
+    {
+      "code": "469025204",
+      "name": "青松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/青松乡"
+    },
+    {
+      "code": "469025205",
+      "name": "金波乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/金波乡"
+    },
+    {
+      "code": "469025206",
+      "name": "荣邦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "469025",
+      "year": 0,
+      "name_path": "海南省/白沙黎族自治县/荣邦乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "532504001",
+      "name": "弥阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/弥阳街道"
+    },
+    {
+      "code": "532504002",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/太平街道"
+    },
+    {
+      "code": "532504003",
+      "name": "福城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/福城街道"
+    },
+    {
+      "code": "532504101",
+      "name": "新哨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/新哨镇"
+    },
+    {
+      "code": "532504102",
+      "name": "虹溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/虹溪镇"
+    },
+    {
+      "code": "532504103",
+      "name": "竹园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/竹园镇"
+    },
+    {
+      "code": "532504105",
+      "name": "巡检司镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/巡检司镇"
+    },
+    {
+      "code": "532504107",
+      "name": "西一镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/西一镇"
+    },
+    {
+      "code": "532504108",
+      "name": "西二镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/西二镇"
+    },
+    {
+      "code": "532504109",
+      "name": "西三镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/西三镇"
+    },
+    {
+      "code": "532504110",
+      "name": "东山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/东山镇"
+    },
+    {
+      "code": "532504201",
+      "name": "五山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/五山乡"
+    },
+    {
+      "code": "532504202",
+      "name": "江边乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532504",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/弥勒市/江边乡"
+    }
+  ]
+}

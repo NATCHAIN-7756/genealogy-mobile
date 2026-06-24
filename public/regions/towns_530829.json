@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "530829100",
+      "name": "勐梭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/勐梭镇"
+    },
+    {
+      "code": "530829101",
+      "name": "勐卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/勐卡镇"
+    },
+    {
+      "code": "530829102",
+      "name": "翁嘎科镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/翁嘎科镇"
+    },
+    {
+      "code": "530829103",
+      "name": "新厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/新厂镇"
+    },
+    {
+      "code": "530829104",
+      "name": "中课镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/中课镇"
+    },
+    {
+      "code": "530829201",
+      "name": "力所拉祜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/力所拉祜族乡"
+    },
+    {
+      "code": "530829202",
+      "name": "岳宋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530829",
+      "year": 0,
+      "name_path": "云南省/普洱市/西盟佤族自治县/岳宋乡"
+    }
+  ]
+}

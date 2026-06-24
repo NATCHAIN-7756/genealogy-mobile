@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "652828100",
+      "name": "特吾里克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/特吾里克镇"
+    },
+    {
+      "code": "652828101",
+      "name": "塔哈其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/塔哈其镇"
+    },
+    {
+      "code": "652828102",
+      "name": "曲惠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/曲惠镇"
+    },
+    {
+      "code": "652828200",
+      "name": "乌什塔拉回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/乌什塔拉回族乡"
+    },
+    {
+      "code": "652828203",
+      "name": "苏哈特乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/苏哈特乡"
+    },
+    {
+      "code": "652828204",
+      "name": "乃仁克尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/乃仁克尔乡"
+    },
+    {
+      "code": "652828205",
+      "name": "新塔热乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652828",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/巴音郭楞蒙古自治州/和硕县/新塔热乡"
+    }
+  ]
+}

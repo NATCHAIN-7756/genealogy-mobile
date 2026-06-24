@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "350921001",
+      "name": "松港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/松港街道"
+    },
+    {
+      "code": "350921002",
+      "name": "松城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/松城街道"
+    },
+    {
+      "code": "350921003",
+      "name": "松山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/松山街道"
+    },
+    {
+      "code": "350921101",
+      "name": "长春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/长春镇"
+    },
+    {
+      "code": "350921102",
+      "name": "牙城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/牙城镇"
+    },
+    {
+      "code": "350921103",
+      "name": "溪南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/溪南镇"
+    },
+    {
+      "code": "350921104",
+      "name": "沙江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/沙江镇"
+    },
+    {
+      "code": "350921105",
+      "name": "下浒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/下浒镇"
+    },
+    {
+      "code": "350921106",
+      "name": "三沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/三沙镇"
+    },
+    {
+      "code": "350921200",
+      "name": "盐田畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/盐田畲族乡"
+    },
+    {
+      "code": "350921201",
+      "name": "水门畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/水门畲族乡"
+    },
+    {
+      "code": "350921202",
+      "name": "崇儒畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/崇儒畲族乡"
+    },
+    {
+      "code": "350921203",
+      "name": "柏洋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/柏洋乡"
+    },
+    {
+      "code": "350921204",
+      "name": "北壁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/北壁乡"
+    },
+    {
+      "code": "350921205",
+      "name": "海岛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350921",
+      "year": 0,
+      "name_path": "福建省/宁德市/霞浦县/海岛乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "513201100",
+      "name": "马尔康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/马尔康镇"
+    },
+    {
+      "code": "513201102",
+      "name": "松岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/松岗镇"
+    },
+    {
+      "code": "513201103",
+      "name": "沙尔宗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/沙尔宗镇"
+    },
+    {
+      "code": "513201200",
+      "name": "梭磨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/梭磨乡"
+    },
+    {
+      "code": "513201201",
+      "name": "白湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/白湾乡"
+    },
+    {
+      "code": "513201202",
+      "name": "党坝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/党坝乡"
+    },
+    {
+      "code": "513201203",
+      "name": "木尔宗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/木尔宗乡"
+    },
+    {
+      "code": "513201204",
+      "name": "脚木足乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/脚木足乡"
+    },
+    {
+      "code": "513201206",
+      "name": "龙尔甲乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/龙尔甲乡"
+    },
+    {
+      "code": "513201207",
+      "name": "大藏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/大藏乡"
+    },
+    {
+      "code": "513201208",
+      "name": "康山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/康山乡"
+    },
+    {
+      "code": "513201209",
+      "name": "草登乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/草登乡"
+    },
+    {
+      "code": "513201210",
+      "name": "日部乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513201",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/马尔康市/日部乡"
+    }
+  ]
+}

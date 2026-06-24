@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "330203001",
+      "name": "南门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/南门街道"
+    },
+    {
+      "code": "330203002",
+      "name": "江厦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/江厦街道"
+    },
+    {
+      "code": "330203003",
+      "name": "西门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/西门街道"
+    },
+    {
+      "code": "330203004",
+      "name": "月湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/月湖街道"
+    },
+    {
+      "code": "330203005",
+      "name": "鼓楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/鼓楼街道"
+    },
+    {
+      "code": "330203006",
+      "name": "白云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/白云街道"
+    },
+    {
+      "code": "330203007",
+      "name": "段塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/段塘街道"
+    },
+    {
+      "code": "330203008",
+      "name": "望春街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/望春街道"
+    },
+    {
+      "code": "330203009",
+      "name": "石碶街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/石碶街道"
+    },
+    {
+      "code": "330203100",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/高桥镇"
+    },
+    {
+      "code": "330203101",
+      "name": "横街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/横街镇"
+    },
+    {
+      "code": "330203102",
+      "name": "集士港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/集士港镇"
+    },
+    {
+      "code": "330203103",
+      "name": "古林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/古林镇"
+    },
+    {
+      "code": "330203104",
+      "name": "洞桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/洞桥镇"
+    },
+    {
+      "code": "330203105",
+      "name": "鄞江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/鄞江镇"
+    },
+    {
+      "code": "330203106",
+      "name": "章水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/章水镇"
+    },
+    {
+      "code": "330203200",
+      "name": "龙观乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330203",
+      "year": 0,
+      "name_path": "浙江省/宁波市/海曙区/龙观乡"
+    }
+  ]
+}

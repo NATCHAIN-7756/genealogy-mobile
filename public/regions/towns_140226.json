@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140226100",
+      "name": "云兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/云兴镇"
+    },
+    {
+      "code": "140226101",
+      "name": "鹊儿山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/鹊儿山镇"
+    },
+    {
+      "code": "140226102",
+      "name": "店湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/店湾镇"
+    },
+    {
+      "code": "140226200",
+      "name": "管家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/管家堡乡"
+    },
+    {
+      "code": "140226201",
+      "name": "张家场乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/张家场乡"
+    },
+    {
+      "code": "140226205",
+      "name": "三屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/三屯乡"
+    },
+    {
+      "code": "140226206",
+      "name": "马道头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/马道头乡"
+    },
+    {
+      "code": "140226207",
+      "name": "小京庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140226",
+      "year": 0,
+      "name_path": "山西省/大同市/左云县/小京庄乡"
+    }
+  ]
+}

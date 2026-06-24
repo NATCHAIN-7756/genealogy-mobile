@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "350602001",
+      "name": "东铺头街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/东铺头街道"
+    },
+    {
+      "code": "350602002",
+      "name": "西桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/西桥街道"
+    },
+    {
+      "code": "350602003",
+      "name": "新桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/新桥街道"
+    },
+    {
+      "code": "350602004",
+      "name": "巷口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/巷口街道"
+    },
+    {
+      "code": "350602005",
+      "name": "南坑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/南坑街道"
+    },
+    {
+      "code": "350602006",
+      "name": "通北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/通北街道"
+    },
+    {
+      "code": "350602007",
+      "name": "芝山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/芝山街道"
+    },
+    {
+      "code": "350602008",
+      "name": "石亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/石亭街道"
+    },
+    {
+      "code": "350602100",
+      "name": "浦南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/浦南镇"
+    },
+    {
+      "code": "350602101",
+      "name": "天宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350602",
+      "year": 0,
+      "name_path": "福建省/漳州市/芗城区/天宝镇"
+    }
+  ]
+}

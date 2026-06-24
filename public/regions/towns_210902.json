@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "210902004",
+      "name": "西山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/西山街道"
+    },
+    {
+      "code": "210902005",
+      "name": "河北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/河北街道"
+    },
+    {
+      "code": "210902012",
+      "name": "平安西部街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/平安西部街道"
+    },
+    {
+      "code": "210902013",
+      "name": "站前街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/站前街道"
+    },
+    {
+      "code": "210902014",
+      "name": "五龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/五龙街道"
+    },
+    {
+      "code": "210902015",
+      "name": "和平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/和平街道"
+    },
+    {
+      "code": "210902101",
+      "name": "韩家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210902",
+      "year": 0,
+      "name_path": "辽宁省/阜新市/海州区/韩家店镇"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "440117001",
+      "name": "街口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/街口街道"
+    },
+    {
+      "code": "440117002",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/城郊街道"
+    },
+    {
+      "code": "440117003",
+      "name": "江埔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/江埔街道"
+    },
+    {
+      "code": "440117100",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/温泉镇"
+    },
+    {
+      "code": "440117101",
+      "name": "良口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/良口镇"
+    },
+    {
+      "code": "440117102",
+      "name": "吕田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/吕田镇"
+    },
+    {
+      "code": "440117103",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/太平镇"
+    },
+    {
+      "code": "440117104",
+      "name": "鳌头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440117",
+      "year": 0,
+      "name_path": "广东省/广州市/从化区/鳌头镇"
+    }
+  ]
+}

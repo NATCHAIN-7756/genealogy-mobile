@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "341881001",
+      "name": "西津街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/西津街道"
+    },
+    {
+      "code": "341881002",
+      "name": "南山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/南山街道"
+    },
+    {
+      "code": "341881003",
+      "name": "河沥溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/河沥溪街道"
+    },
+    {
+      "code": "341881004",
+      "name": "汪溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/汪溪街道"
+    },
+    {
+      "code": "341881005",
+      "name": "竹峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/竹峰街道"
+    },
+    {
+      "code": "341881006",
+      "name": "天湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/天湖街道"
+    },
+    {
+      "code": "341881100",
+      "name": "港口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/港口镇"
+    },
+    {
+      "code": "341881101",
+      "name": "梅林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/梅林镇"
+    },
+    {
+      "code": "341881102",
+      "name": "中溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/中溪镇"
+    },
+    {
+      "code": "341881103",
+      "name": "仙霞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/仙霞镇"
+    },
+    {
+      "code": "341881104",
+      "name": "宁墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/宁墩镇"
+    },
+    {
+      "code": "341881105",
+      "name": "甲路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/甲路镇"
+    },
+    {
+      "code": "341881106",
+      "name": "霞西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/霞西镇"
+    },
+    {
+      "code": "341881107",
+      "name": "胡乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/胡乐镇"
+    },
+    {
+      "code": "341881200",
+      "name": "云梯畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/云梯畲族乡"
+    },
+    {
+      "code": "341881201",
+      "name": "南极乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/南极乡"
+    },
+    {
+      "code": "341881202",
+      "name": "万家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/万家乡"
+    },
+    {
+      "code": "341881204",
+      "name": "方塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/方塘乡"
+    },
+    {
+      "code": "341881205",
+      "name": "青龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "341881",
+      "year": 0,
+      "name_path": "安徽省/宣城市/宁国市/青龙乡"
+    }
+  ]
+}

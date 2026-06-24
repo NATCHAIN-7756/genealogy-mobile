@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "445103100",
+      "name": "古巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/古巷镇"
+    },
+    {
+      "code": "445103101",
+      "name": "登塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/登塘镇"
+    },
+    {
+      "code": "445103102",
+      "name": "凤塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/凤塘镇"
+    },
+    {
+      "code": "445103103",
+      "name": "浮洋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/浮洋镇"
+    },
+    {
+      "code": "445103104",
+      "name": "龙湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/龙湖镇"
+    },
+    {
+      "code": "445103105",
+      "name": "金石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/金石镇"
+    },
+    {
+      "code": "445103106",
+      "name": "沙溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/沙溪镇"
+    },
+    {
+      "code": "445103107",
+      "name": "彩塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/彩塘镇"
+    },
+    {
+      "code": "445103108",
+      "name": "东凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/东凤镇"
+    },
+    {
+      "code": "445103109",
+      "name": "庵埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/庵埠镇"
+    },
+    {
+      "code": "445103110",
+      "name": "江东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/江东镇"
+    },
+    {
+      "code": "445103111",
+      "name": "归湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/归湖镇"
+    },
+    {
+      "code": "445103112",
+      "name": "文祠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/文祠镇"
+    },
+    {
+      "code": "445103113",
+      "name": "凤凰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/凤凰镇"
+    },
+    {
+      "code": "445103114",
+      "name": "赤凤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/赤凤镇"
+    },
+    {
+      "code": "445103115",
+      "name": "枫溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "445103",
+      "year": 0,
+      "name_path": "广东省/潮州市/潮安区/枫溪镇"
+    }
+  ]
+}

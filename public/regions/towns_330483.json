@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "330483001",
+      "name": "梧桐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/梧桐街道"
+    },
+    {
+      "code": "330483003",
+      "name": "凤鸣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/凤鸣街道"
+    },
+    {
+      "code": "330483008",
+      "name": "高桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/高桥街道"
+    },
+    {
+      "code": "330483100",
+      "name": "乌镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/乌镇镇"
+    },
+    {
+      "code": "330483101",
+      "name": "濮院镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/濮院镇"
+    },
+    {
+      "code": "330483102",
+      "name": "屠甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/屠甸镇"
+    },
+    {
+      "code": "330483103",
+      "name": "石门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/石门镇"
+    },
+    {
+      "code": "330483104",
+      "name": "河山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/河山镇"
+    },
+    {
+      "code": "330483105",
+      "name": "洲泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/洲泉镇"
+    },
+    {
+      "code": "330483106",
+      "name": "大麻镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/大麻镇"
+    },
+    {
+      "code": "330483107",
+      "name": "崇福镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330483",
+      "year": 0,
+      "name_path": "浙江省/嘉兴市/桐乡市/崇福镇"
+    }
+  ]
+}

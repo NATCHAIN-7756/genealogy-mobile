@@ -1,0 +1,238 @@
+{
+  "data": [
+    {
+      "code": "620102001",
+      "name": "酒泉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/酒泉路街道"
+    },
+    {
+      "code": "620102002",
+      "name": "张掖路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/张掖路街道"
+    },
+    {
+      "code": "620102003",
+      "name": "雁南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/雁南街道"
+    },
+    {
+      "code": "620102004",
+      "name": "临夏路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/临夏路街道"
+    },
+    {
+      "code": "620102005",
+      "name": "雁北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/雁北街道"
+    },
+    {
+      "code": "620102006",
+      "name": "五泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/五泉街道"
+    },
+    {
+      "code": "620102007",
+      "name": "白银路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/白银路街道"
+    },
+    {
+      "code": "620102008",
+      "name": "皋兰路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/皋兰路街道"
+    },
+    {
+      "code": "620102009",
+      "name": "广武门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/广武门街道"
+    },
+    {
+      "code": "620102010",
+      "name": "伏龙坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/伏龙坪街道"
+    },
+    {
+      "code": "620102011",
+      "name": "靖远路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/靖远路街道"
+    },
+    {
+      "code": "620102012",
+      "name": "草场街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/草场街街道"
+    },
+    {
+      "code": "620102013",
+      "name": "火车站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/火车站街道"
+    },
+    {
+      "code": "620102014",
+      "name": "拱星墩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/拱星墩街道"
+    },
+    {
+      "code": "620102015",
+      "name": "东岗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/东岗街道"
+    },
+    {
+      "code": "620102016",
+      "name": "团结新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/团结新村街道"
+    },
+    {
+      "code": "620102017",
+      "name": "东岗西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/东岗西路街道"
+    },
+    {
+      "code": "620102018",
+      "name": "铁路东村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/铁路东村街道"
+    },
+    {
+      "code": "620102019",
+      "name": "铁路西村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/铁路西村街道"
+    },
+    {
+      "code": "620102020",
+      "name": "渭源路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/渭源路街道"
+    },
+    {
+      "code": "620102021",
+      "name": "盐场路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/盐场路街道"
+    },
+    {
+      "code": "620102022",
+      "name": "嘉峪关路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/嘉峪关路街道"
+    },
+    {
+      "code": "620102023",
+      "name": "焦家湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/焦家湾街道"
+    },
+    {
+      "code": "620102024",
+      "name": "青白石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/青白石街道"
+    },
+    {
+      "code": "620102025",
+      "name": "高新区街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/高新区街道"
+    },
+    {
+      "code": "620102026",
+      "name": "雁园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620102",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/城关区/雁园街道"
+    }
+  ]
+}

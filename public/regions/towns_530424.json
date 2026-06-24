@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "530424001",
+      "name": "宁州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530424",
+      "year": 0,
+      "name_path": "云南省/玉溪市/华宁县/宁州街道"
+    },
+    {
+      "code": "530424101",
+      "name": "盘溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530424",
+      "year": 0,
+      "name_path": "云南省/玉溪市/华宁县/盘溪镇"
+    },
+    {
+      "code": "530424102",
+      "name": "华溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530424",
+      "year": 0,
+      "name_path": "云南省/玉溪市/华宁县/华溪镇"
+    },
+    {
+      "code": "530424103",
+      "name": "青龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530424",
+      "year": 0,
+      "name_path": "云南省/玉溪市/华宁县/青龙镇"
+    },
+    {
+      "code": "530424200",
+      "name": "通红甸彝族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530424",
+      "year": 0,
+      "name_path": "云南省/玉溪市/华宁县/通红甸彝族苗族乡"
+    }
+  ]
+}

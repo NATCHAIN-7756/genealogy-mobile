@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "450804001",
+      "name": "覃塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/覃塘街道"
+    },
+    {
+      "code": "450804101",
+      "name": "东龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/东龙镇"
+    },
+    {
+      "code": "450804102",
+      "name": "三里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/三里镇"
+    },
+    {
+      "code": "450804103",
+      "name": "黄练镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/黄练镇"
+    },
+    {
+      "code": "450804104",
+      "name": "石卡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/石卡镇"
+    },
+    {
+      "code": "450804105",
+      "name": "五里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/五里镇"
+    },
+    {
+      "code": "450804106",
+      "name": "樟木镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/樟木镇"
+    },
+    {
+      "code": "450804107",
+      "name": "蒙公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/蒙公镇"
+    },
+    {
+      "code": "450804200",
+      "name": "山北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/山北乡"
+    },
+    {
+      "code": "450804203",
+      "name": "大岭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450804",
+      "year": 0,
+      "name_path": "广西壮族自治区/贵港市/覃塘区/大岭乡"
+    }
+  ]
+}

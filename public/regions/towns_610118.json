@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "610118001",
+      "name": "甘亭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/甘亭街道"
+    },
+    {
+      "code": "610118002",
+      "name": "余下街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/余下街道"
+    },
+    {
+      "code": "610118003",
+      "name": "五竹街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/五竹街道"
+    },
+    {
+      "code": "610118004",
+      "name": "玉蝉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/玉蝉街道"
+    },
+    {
+      "code": "610118005",
+      "name": "秦渡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/秦渡街道"
+    },
+    {
+      "code": "610118006",
+      "name": "草堂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/草堂街道"
+    },
+    {
+      "code": "610118007",
+      "name": "庞光街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/庞光街道"
+    },
+    {
+      "code": "610118008",
+      "name": "大王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/大王街道"
+    },
+    {
+      "code": "610118009",
+      "name": "祖庵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/祖庵街道"
+    },
+    {
+      "code": "610118010",
+      "name": "渭丰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/渭丰街道"
+    },
+    {
+      "code": "610118011",
+      "name": "涝店街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/涝店街道"
+    },
+    {
+      "code": "610118012",
+      "name": "甘河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/甘河街道"
+    },
+    {
+      "code": "610118013",
+      "name": "蒋村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/蒋村街道"
+    },
+    {
+      "code": "610118014",
+      "name": "石井街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610118",
+      "year": 0,
+      "name_path": "陕西省/西安市/鄠邑区/石井街道"
+    }
+  ]
+}

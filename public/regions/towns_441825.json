@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "441825100",
+      "name": "永和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/永和镇"
+    },
+    {
+      "code": "441825104",
+      "name": "吉田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/吉田镇"
+    },
+    {
+      "code": "441825105",
+      "name": "太保镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/太保镇"
+    },
+    {
+      "code": "441825106",
+      "name": "禾洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/禾洞镇"
+    },
+    {
+      "code": "441825108",
+      "name": "福堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/福堂镇"
+    },
+    {
+      "code": "441825109",
+      "name": "小三江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/小三江镇"
+    },
+    {
+      "code": "441825111",
+      "name": "上帅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441825",
+      "year": 0,
+      "name_path": "广东省/清远市/连山壮族瑶族自治县/上帅镇"
+    }
+  ]
+}

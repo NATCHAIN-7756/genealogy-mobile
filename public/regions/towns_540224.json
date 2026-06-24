@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540224100",
+      "name": "萨迦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/萨迦镇"
+    },
+    {
+      "code": "540224101",
+      "name": "吉定镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/吉定镇"
+    },
+    {
+      "code": "540224200",
+      "name": "雄麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/雄麦乡"
+    },
+    {
+      "code": "540224201",
+      "name": "麻布加乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/麻布加乡"
+    },
+    {
+      "code": "540224202",
+      "name": "雄玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/雄玛乡"
+    },
+    {
+      "code": "540224203",
+      "name": "扎西岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/扎西岗乡"
+    },
+    {
+      "code": "540224204",
+      "name": "扯休乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/扯休乡"
+    },
+    {
+      "code": "540224205",
+      "name": "赛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/赛乡"
+    },
+    {
+      "code": "540224206",
+      "name": "拉洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/拉洛乡"
+    },
+    {
+      "code": "540224207",
+      "name": "查荣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/查荣乡"
+    },
+    {
+      "code": "540224208",
+      "name": "木拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540224",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/萨迦县/木拉乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "220284001",
+      "name": "东宁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/东宁街道"
+    },
+    {
+      "code": "220284002",
+      "name": "河南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/河南街道"
+    },
+    {
+      "code": "220284003",
+      "name": "福安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/福安街道"
+    },
+    {
+      "code": "220284004",
+      "name": "阜康街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/阜康街道"
+    },
+    {
+      "code": "220284100",
+      "name": "烟筒山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/烟筒山镇"
+    },
+    {
+      "code": "220284101",
+      "name": "明城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/明城镇"
+    },
+    {
+      "code": "220284102",
+      "name": "红旗岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/红旗岭镇"
+    },
+    {
+      "code": "220284103",
+      "name": "牛心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/牛心镇"
+    },
+    {
+      "code": "220284104",
+      "name": "石嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/石嘴镇"
+    },
+    {
+      "code": "220284105",
+      "name": "朝阳山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/朝阳山镇"
+    },
+    {
+      "code": "220284106",
+      "name": "富太镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/富太镇"
+    },
+    {
+      "code": "220284107",
+      "name": "呼兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/呼兰镇"
+    },
+    {
+      "code": "220284108",
+      "name": "松山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/松山镇"
+    },
+    {
+      "code": "220284109",
+      "name": "黑石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/黑石镇"
+    },
+    {
+      "code": "220284110",
+      "name": "吉昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/吉昌镇"
+    },
+    {
+      "code": "220284111",
+      "name": "取柴河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/取柴河镇"
+    },
+    {
+      "code": "220284112",
+      "name": "驿马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/驿马镇"
+    },
+    {
+      "code": "220284200",
+      "name": "宝山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220284",
+      "year": 0,
+      "name_path": "吉林省/吉林市/磐石市/宝山乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "340223100",
+      "name": "籍山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/籍山镇"
+    },
+    {
+      "code": "340223101",
+      "name": "弋江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/弋江镇"
+    },
+    {
+      "code": "340223102",
+      "name": "许镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/许镇镇"
+    },
+    {
+      "code": "340223103",
+      "name": "三里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/三里镇"
+    },
+    {
+      "code": "340223105",
+      "name": "工山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/工山镇"
+    },
+    {
+      "code": "340223108",
+      "name": "家发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/家发镇"
+    },
+    {
+      "code": "340223110",
+      "name": "烟墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/烟墩镇"
+    },
+    {
+      "code": "340223112",
+      "name": "何湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340223",
+      "year": 0,
+      "name_path": "安徽省/芜湖市/南陵县/何湾镇"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "640425100",
+      "name": "白阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/白阳镇"
+    },
+    {
+      "code": "640425101",
+      "name": "王洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/王洼镇"
+    },
+    {
+      "code": "640425102",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/古城镇"
+    },
+    {
+      "code": "640425103",
+      "name": "红河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/红河镇"
+    },
+    {
+      "code": "640425200",
+      "name": "新集乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/新集乡"
+    },
+    {
+      "code": "640425201",
+      "name": "城阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/城阳乡"
+    },
+    {
+      "code": "640425203",
+      "name": "冯庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/冯庄乡"
+    },
+    {
+      "code": "640425204",
+      "name": "小岔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/小岔乡"
+    },
+    {
+      "code": "640425205",
+      "name": "孟塬乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/孟塬乡"
+    },
+    {
+      "code": "640425206",
+      "name": "罗洼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/罗洼乡"
+    },
+    {
+      "code": "640425207",
+      "name": "交岔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/交岔乡"
+    },
+    {
+      "code": "640425208",
+      "name": "草庙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640425",
+      "year": 0,
+      "name_path": "宁夏回族自治区/固原市/彭阳县/草庙乡"
+    }
+  ]
+}

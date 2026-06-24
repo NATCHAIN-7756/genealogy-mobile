@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "510302",
+      "name": "自流井区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510300",
+      "year": 0,
+      "name_path": "全国/四川省/自贡市/自流井区"
+    },
+    {
+      "code": "510303",
+      "name": "贡井区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510300",
+      "year": 0,
+      "name_path": "全国/四川省/自贡市/贡井区"
+    },
+    {
+      "code": "510304",
+      "name": "大安区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510300",
+      "year": 0,
+      "name_path": "全国/四川省/自贡市/大安区"
+    },
+    {
+      "code": "510311",
+      "name": "沿滩区",
+      "level": 3,
+      "type": null,
+      "parent_code": "510300",
+      "year": 0,
+      "name_path": "全国/四川省/自贡市/沿滩区"
+    },
+    {
+      "code": "510321",
+      "name": "荣县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510300",
+      "year": 0,
+      "name_path": "全国/四川省/自贡市/荣县"
+    },
+    {
+      "code": "510322",
+      "name": "富顺县",
+      "level": 3,
+      "type": null,
+      "parent_code": "510300",
+      "year": 0,
+      "name_path": "全国/四川省/自贡市/富顺县"
+    }
+  ]
+}

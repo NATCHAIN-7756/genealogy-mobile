@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "540123100",
+      "name": "塔荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/塔荣镇"
+    },
+    {
+      "code": "540123101",
+      "name": "吞巴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/吞巴镇"
+    },
+    {
+      "code": "540123200",
+      "name": "麻江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/麻江乡"
+    },
+    {
+      "code": "540123201",
+      "name": "普松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/普松乡"
+    },
+    {
+      "code": "540123202",
+      "name": "卡如乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/卡如乡"
+    },
+    {
+      "code": "540123203",
+      "name": "尼木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/尼木乡"
+    },
+    {
+      "code": "540123204",
+      "name": "续迈乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/续迈乡"
+    },
+    {
+      "code": "540123205",
+      "name": "帕古乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540123",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/尼木县/帕古乡"
+    }
+  ]
+}

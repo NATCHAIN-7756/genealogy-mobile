@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "150524100",
+      "name": "库伦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/库伦镇"
+    },
+    {
+      "code": "150524101",
+      "name": "六家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/六家子镇"
+    },
+    {
+      "code": "150524103",
+      "name": "额勒顺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/额勒顺镇"
+    },
+    {
+      "code": "150524104",
+      "name": "扣河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/扣河子镇"
+    },
+    {
+      "code": "150524105",
+      "name": "白音花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/白音花镇"
+    },
+    {
+      "code": "150524203",
+      "name": "茫汗苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/茫汗苏木"
+    },
+    {
+      "code": "150524204",
+      "name": "水泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/水泉乡"
+    },
+    {
+      "code": "150524205",
+      "name": "先进苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150524",
+      "year": 0,
+      "name_path": "内蒙古自治区/通辽市/库伦旗/先进苏木"
+    }
+  ]
+}

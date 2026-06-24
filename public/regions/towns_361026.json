@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "361026100",
+      "name": "凤冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/凤冈镇"
+    },
+    {
+      "code": "361026101",
+      "name": "棠阴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/棠阴镇"
+    },
+    {
+      "code": "361026102",
+      "name": "黄陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/黄陂镇"
+    },
+    {
+      "code": "361026103",
+      "name": "东陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/东陂镇"
+    },
+    {
+      "code": "361026104",
+      "name": "梨溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/梨溪镇"
+    },
+    {
+      "code": "361026105",
+      "name": "二都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/二都镇"
+    },
+    {
+      "code": "361026106",
+      "name": "中港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/中港镇"
+    },
+    {
+      "code": "361026107",
+      "name": "桃陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/桃陂镇"
+    },
+    {
+      "code": "361026200",
+      "name": "新丰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/新丰乡"
+    },
+    {
+      "code": "361026201",
+      "name": "神岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/神岗乡"
+    },
+    {
+      "code": "361026202",
+      "name": "圳口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/圳口乡"
+    },
+    {
+      "code": "361026203",
+      "name": "南源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361026",
+      "year": 0,
+      "name_path": "江西省/抚州市/宜黄县/南源乡"
+    }
+  ]
+}

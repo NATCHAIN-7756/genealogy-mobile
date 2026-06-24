@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "231281100",
+      "name": "安达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/安达镇"
+    },
+    {
+      "code": "231281101",
+      "name": "任民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/任民镇"
+    },
+    {
+      "code": "231281102",
+      "name": "吉星岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/吉星岗镇"
+    },
+    {
+      "code": "231281103",
+      "name": "万宝山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/万宝山镇"
+    },
+    {
+      "code": "231281104",
+      "name": "昌德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/昌德镇"
+    },
+    {
+      "code": "231281105",
+      "name": "升平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/升平镇"
+    },
+    {
+      "code": "231281106",
+      "name": "羊草镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/羊草镇"
+    },
+    {
+      "code": "231281107",
+      "name": "老虎岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/老虎岗镇"
+    },
+    {
+      "code": "231281108",
+      "name": "中本镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/中本镇"
+    },
+    {
+      "code": "231281109",
+      "name": "太平庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/太平庄镇"
+    },
+    {
+      "code": "231281110",
+      "name": "卧里屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/卧里屯镇"
+    },
+    {
+      "code": "231281111",
+      "name": "古大湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/古大湖镇"
+    },
+    {
+      "code": "231281112",
+      "name": "火石山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/火石山镇"
+    },
+    {
+      "code": "231281209",
+      "name": "先源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231281",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/安达市/先源乡"
+    }
+  ]
+}

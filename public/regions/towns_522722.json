@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "522722001",
+      "name": "玉屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/玉屏街道"
+    },
+    {
+      "code": "522722101",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/朝阳镇"
+    },
+    {
+      "code": "522722102",
+      "name": "茂兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/茂兰镇"
+    },
+    {
+      "code": "522722104",
+      "name": "甲良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/甲良镇"
+    },
+    {
+      "code": "522722105",
+      "name": "佳荣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/佳荣镇"
+    },
+    {
+      "code": "522722106",
+      "name": "小七孔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/小七孔镇"
+    },
+    {
+      "code": "522722203",
+      "name": "瑶山瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/瑶山瑶族乡"
+    },
+    {
+      "code": "522722211",
+      "name": "黎明关水族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "522722",
+      "year": 0,
+      "name_path": "贵州省/黔南布依族苗族自治州/荔波县/黎明关水族乡"
+    }
+  ]
+}

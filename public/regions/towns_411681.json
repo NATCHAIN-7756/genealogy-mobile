@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "411681001",
+      "name": "花园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/花园街道"
+    },
+    {
+      "code": "411681002",
+      "name": "水寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/水寨街道"
+    },
+    {
+      "code": "411681003",
+      "name": "东方街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/东方街道"
+    },
+    {
+      "code": "411681004",
+      "name": "莲花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/莲花街道"
+    },
+    {
+      "code": "411681005",
+      "name": "千佛阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/千佛阁街道"
+    },
+    {
+      "code": "411681006",
+      "name": "光武街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/光武街道"
+    },
+    {
+      "code": "411681101",
+      "name": "南顿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/南顿镇"
+    },
+    {
+      "code": "411681102",
+      "name": "孙店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/孙店镇"
+    },
+    {
+      "code": "411681103",
+      "name": "李寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/李寨镇"
+    },
+    {
+      "code": "411681104",
+      "name": "贾岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/贾岭镇"
+    },
+    {
+      "code": "411681105",
+      "name": "高寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/高寺镇"
+    },
+    {
+      "code": "411681106",
+      "name": "新桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/新桥镇"
+    },
+    {
+      "code": "411681107",
+      "name": "付集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/付集镇"
+    },
+    {
+      "code": "411681108",
+      "name": "官会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/官会镇"
+    },
+    {
+      "code": "411681109",
+      "name": "丁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/丁集镇"
+    },
+    {
+      "code": "411681110",
+      "name": "郑郭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/郑郭镇"
+    },
+    {
+      "code": "411681111",
+      "name": "秣陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/秣陵镇"
+    },
+    {
+      "code": "411681112",
+      "name": "王明口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/王明口镇"
+    },
+    {
+      "code": "411681113",
+      "name": "范集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/范集镇"
+    },
+    {
+      "code": "411681114",
+      "name": "永丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/永丰镇"
+    },
+    {
+      "code": "411681115",
+      "name": "三店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411681",
+      "year": 0,
+      "name_path": "河南省/周口市/项城市/三店镇"
+    }
+  ]
+}

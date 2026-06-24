@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "210503001",
+      "name": "河东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/河东街道"
+    },
+    {
+      "code": "210503003",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/河西街道"
+    },
+    {
+      "code": "210503005",
+      "name": "彩屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/彩屯街道"
+    },
+    {
+      "code": "210503009",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/东风街道"
+    },
+    {
+      "code": "210503010",
+      "name": "石桥子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/石桥子街道"
+    },
+    {
+      "code": "210503012",
+      "name": "日月岛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/日月岛街道"
+    },
+    {
+      "code": "210503013",
+      "name": "火连寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210503",
+      "year": 0,
+      "name_path": "辽宁省/本溪市/溪湖区/火连寨街道"
+    }
+  ]
+}

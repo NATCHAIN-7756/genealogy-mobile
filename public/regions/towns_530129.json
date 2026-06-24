@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "530129001",
+      "name": "仁德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/仁德街道"
+    },
+    {
+      "code": "530129002",
+      "name": "塘子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/塘子街道"
+    },
+    {
+      "code": "530129003",
+      "name": "金所街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/金所街道"
+    },
+    {
+      "code": "530129102",
+      "name": "羊街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/羊街镇"
+    },
+    {
+      "code": "530129103",
+      "name": "柯渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/柯渡镇"
+    },
+    {
+      "code": "530129105",
+      "name": "功山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/功山镇"
+    },
+    {
+      "code": "530129106",
+      "name": "七星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/七星镇"
+    },
+    {
+      "code": "530129107",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/河口镇"
+    },
+    {
+      "code": "530129108",
+      "name": "先锋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/先锋镇"
+    },
+    {
+      "code": "530129109",
+      "name": "鸡街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/鸡街镇"
+    },
+    {
+      "code": "530129110",
+      "name": "倘甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/倘甸镇"
+    },
+    {
+      "code": "530129111",
+      "name": "凤合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/凤合镇"
+    },
+    {
+      "code": "530129205",
+      "name": "六哨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/六哨乡"
+    },
+    {
+      "code": "530129210",
+      "name": "甸沙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/甸沙乡"
+    },
+    {
+      "code": "530129211",
+      "name": "联合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/联合乡"
+    },
+    {
+      "code": "530129212",
+      "name": "金源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530129",
+      "year": 0,
+      "name_path": "云南省/昆明市/寻甸回族彝族自治县/金源乡"
+    }
+  ]
+}

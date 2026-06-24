@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "611002",
+      "name": "商州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/商州区"
+    },
+    {
+      "code": "611021",
+      "name": "洛南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/洛南县"
+    },
+    {
+      "code": "611022",
+      "name": "丹凤县",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/丹凤县"
+    },
+    {
+      "code": "611023",
+      "name": "商南县",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/商南县"
+    },
+    {
+      "code": "611024",
+      "name": "山阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/山阳县"
+    },
+    {
+      "code": "611025",
+      "name": "镇安县",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/镇安县"
+    },
+    {
+      "code": "611026",
+      "name": "柞水县",
+      "level": 3,
+      "type": null,
+      "parent_code": "611000",
+      "year": 0,
+      "name_path": "全国/陕西省/商洛市/柞水县"
+    }
+  ]
+}

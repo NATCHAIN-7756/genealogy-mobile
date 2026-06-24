@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "130627100",
+      "name": "仁厚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/仁厚镇"
+    },
+    {
+      "code": "130627101",
+      "name": "王京镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/王京镇"
+    },
+    {
+      "code": "130627102",
+      "name": "高昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/高昌镇"
+    },
+    {
+      "code": "130627103",
+      "name": "北罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/北罗镇"
+    },
+    {
+      "code": "130627104",
+      "name": "白合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/白合镇"
+    },
+    {
+      "code": "130627105",
+      "name": "军城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/军城镇"
+    },
+    {
+      "code": "130627106",
+      "name": "川里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/川里镇"
+    },
+    {
+      "code": "130627107",
+      "name": "长古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/长古城镇"
+    },
+    {
+      "code": "130627108",
+      "name": "罗庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/罗庄镇"
+    },
+    {
+      "code": "130627109",
+      "name": "北店头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/北店头镇"
+    },
+    {
+      "code": "130627110",
+      "name": "齐家佐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/齐家佐镇"
+    },
+    {
+      "code": "130627111",
+      "name": "黄石口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/黄石口镇"
+    },
+    {
+      "code": "130627201",
+      "name": "都亭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/都亭乡"
+    },
+    {
+      "code": "130627202",
+      "name": "南店头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/南店头乡"
+    },
+    {
+      "code": "130627205",
+      "name": "雹水乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/雹水乡"
+    },
+    {
+      "code": "130627206",
+      "name": "大洋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/大洋乡"
+    },
+    {
+      "code": "130627207",
+      "name": "迷城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/迷城乡"
+    },
+    {
+      "code": "130627209",
+      "name": "羊角乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/羊角乡"
+    },
+    {
+      "code": "130627210",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/石门乡"
+    },
+    {
+      "code": "130627212",
+      "name": "倒马关乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130627",
+      "year": 0,
+      "name_path": "河北省/保定市/唐县/倒马关乡"
+    }
+  ]
+}

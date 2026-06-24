@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "210727001",
+      "name": "义州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/义州街道"
+    },
+    {
+      "code": "210727002",
+      "name": "城关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/城关街道"
+    },
+    {
+      "code": "210727101",
+      "name": "刘龙台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/刘龙台镇"
+    },
+    {
+      "code": "210727102",
+      "name": "七里河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/七里河镇"
+    },
+    {
+      "code": "210727103",
+      "name": "大榆树堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/大榆树堡镇"
+    },
+    {
+      "code": "210727104",
+      "name": "稍户营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/稍户营子镇"
+    },
+    {
+      "code": "210727105",
+      "name": "九道岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/九道岭镇"
+    },
+    {
+      "code": "210727106",
+      "name": "高台子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/高台子镇"
+    },
+    {
+      "code": "210727108",
+      "name": "瓦子峪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/瓦子峪镇"
+    },
+    {
+      "code": "210727109",
+      "name": "头台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/头台镇"
+    },
+    {
+      "code": "210727110",
+      "name": "张家堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/张家堡镇"
+    },
+    {
+      "code": "210727111",
+      "name": "前杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/前杨镇"
+    },
+    {
+      "code": "210727112",
+      "name": "头道河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/头道河镇"
+    },
+    {
+      "code": "210727113",
+      "name": "留龙沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/留龙沟镇"
+    },
+    {
+      "code": "210727114",
+      "name": "聚粮屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/聚粮屯镇"
+    },
+    {
+      "code": "210727203",
+      "name": "地藏寺满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/地藏寺满族乡"
+    },
+    {
+      "code": "210727205",
+      "name": "大定堡满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/大定堡满族乡"
+    },
+    {
+      "code": "210727207",
+      "name": "白庙子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "210727",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/义县/白庙子乡"
+    }
+  ]
+}

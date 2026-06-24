@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "361023100",
+      "name": "琴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/琴城镇"
+    },
+    {
+      "code": "361023101",
+      "name": "太和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/太和镇"
+    },
+    {
+      "code": "361023102",
+      "name": "白舍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/白舍镇"
+    },
+    {
+      "code": "361023103",
+      "name": "洽湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/洽湾镇"
+    },
+    {
+      "code": "361023104",
+      "name": "桑田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/桑田镇"
+    },
+    {
+      "code": "361023105",
+      "name": "市山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/市山镇"
+    },
+    {
+      "code": "361023106",
+      "name": "紫霄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/紫霄镇"
+    },
+    {
+      "code": "361023203",
+      "name": "三溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/三溪乡"
+    },
+    {
+      "code": "361023205",
+      "name": "东坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/东坪乡"
+    },
+    {
+      "code": "361023206",
+      "name": "莱溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/莱溪乡"
+    },
+    {
+      "code": "361023208",
+      "name": "太源乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/太源乡"
+    },
+    {
+      "code": "361023209",
+      "name": "傅坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361023",
+      "year": 0,
+      "name_path": "江西省/抚州市/南丰县/傅坊乡"
+    }
+  ]
+}

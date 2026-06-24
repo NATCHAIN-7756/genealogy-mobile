@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "350305001",
+      "name": "笏石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/笏石街道"
+    },
+    {
+      "code": "350305101",
+      "name": "东庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/东庄镇"
+    },
+    {
+      "code": "350305102",
+      "name": "忠门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/忠门镇"
+    },
+    {
+      "code": "350305103",
+      "name": "东埔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/东埔镇"
+    },
+    {
+      "code": "350305104",
+      "name": "东峤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/东峤镇"
+    },
+    {
+      "code": "350305105",
+      "name": "埭头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/埭头镇"
+    },
+    {
+      "code": "350305106",
+      "name": "平海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/平海镇"
+    },
+    {
+      "code": "350305107",
+      "name": "南日镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/南日镇"
+    },
+    {
+      "code": "350305108",
+      "name": "湄洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/湄洲镇"
+    },
+    {
+      "code": "350305109",
+      "name": "山亭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/山亭镇"
+    },
+    {
+      "code": "350305110",
+      "name": "月塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350305",
+      "year": 0,
+      "name_path": "福建省/莆田市/秀屿区/月塘镇"
+    }
+  ]
+}

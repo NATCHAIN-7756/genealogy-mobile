@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "441702001",
+      "name": "南恩街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/南恩街道"
+    },
+    {
+      "code": "441702002",
+      "name": "城南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/城南街道"
+    },
+    {
+      "code": "441702005",
+      "name": "中洲街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/中洲街道"
+    },
+    {
+      "code": "441702006",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/城东街道"
+    },
+    {
+      "code": "441702007",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/城北街道"
+    },
+    {
+      "code": "441702008",
+      "name": "白沙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/白沙街道"
+    },
+    {
+      "code": "441702009",
+      "name": "岗列街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/岗列街道"
+    },
+    {
+      "code": "441702010",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/城西街道"
+    },
+    {
+      "code": "441702102",
+      "name": "埠场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/埠场镇"
+    },
+    {
+      "code": "441702103",
+      "name": "平冈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/平冈镇"
+    },
+    {
+      "code": "441702105",
+      "name": "闸坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/闸坡镇"
+    },
+    {
+      "code": "441702106",
+      "name": "双捷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441702",
+      "year": 0,
+      "name_path": "广东省/阳江市/江城区/双捷镇"
+    }
+  ]
+}

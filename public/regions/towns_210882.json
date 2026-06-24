@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "210882003",
+      "name": "金桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/金桥街道"
+    },
+    {
+      "code": "210882004",
+      "name": "钢都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/钢都街道"
+    },
+    {
+      "code": "210882005",
+      "name": "百寨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/百寨街道"
+    },
+    {
+      "code": "210882006",
+      "name": "镁都街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/镁都街道"
+    },
+    {
+      "code": "210882101",
+      "name": "水源镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/水源镇"
+    },
+    {
+      "code": "210882102",
+      "name": "沟沿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/沟沿镇"
+    },
+    {
+      "code": "210882103",
+      "name": "石佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/石佛镇"
+    },
+    {
+      "code": "210882104",
+      "name": "高坎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/高坎镇"
+    },
+    {
+      "code": "210882105",
+      "name": "旗口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/旗口镇"
+    },
+    {
+      "code": "210882106",
+      "name": "虎庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/虎庄镇"
+    },
+    {
+      "code": "210882107",
+      "name": "官屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/官屯镇"
+    },
+    {
+      "code": "210882112",
+      "name": "博洛铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/博洛铺镇"
+    },
+    {
+      "code": "210882113",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/永安镇"
+    },
+    {
+      "code": "210882114",
+      "name": "汤池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/汤池镇"
+    },
+    {
+      "code": "210882115",
+      "name": "建一镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/建一镇"
+    },
+    {
+      "code": "210882116",
+      "name": "黄土岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/黄土岭镇"
+    },
+    {
+      "code": "210882117",
+      "name": "周家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210882",
+      "year": 0,
+      "name_path": "辽宁省/营口市/大石桥市/周家镇"
+    }
+  ]
+}

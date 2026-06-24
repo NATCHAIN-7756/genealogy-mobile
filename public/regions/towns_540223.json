@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "540223100",
+      "name": "协格尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/协格尔镇"
+    },
+    {
+      "code": "540223101",
+      "name": "岗嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/岗嘎镇"
+    },
+    {
+      "code": "540223102",
+      "name": "扎西宗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/扎西宗镇"
+    },
+    {
+      "code": "540223103",
+      "name": "曲当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/曲当镇"
+    },
+    {
+      "code": "540223104",
+      "name": "扎果镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/扎果镇"
+    },
+    {
+      "code": "540223105",
+      "name": "绒辖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/绒辖镇"
+    },
+    {
+      "code": "540223203",
+      "name": "措果乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/措果乡"
+    },
+    {
+      "code": "540223204",
+      "name": "曲洛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/曲洛乡"
+    },
+    {
+      "code": "540223205",
+      "name": "长所乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/长所乡"
+    },
+    {
+      "code": "540223206",
+      "name": "尼辖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/尼辖乡"
+    },
+    {
+      "code": "540223208",
+      "name": "克玛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/克玛乡"
+    },
+    {
+      "code": "540223209",
+      "name": "盆吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/盆吉乡"
+    },
+    {
+      "code": "540223210",
+      "name": "加措乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540223",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/定日县/加措乡"
+    }
+  ]
+}

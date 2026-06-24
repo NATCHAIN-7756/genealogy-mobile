@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "340602001",
+      "name": "高岳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340602",
+      "year": 0,
+      "name_path": "安徽省/淮北市/杜集区/高岳街道"
+    },
+    {
+      "code": "340602002",
+      "name": "矿山集街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "340602",
+      "year": 0,
+      "name_path": "安徽省/淮北市/杜集区/矿山集街道"
+    },
+    {
+      "code": "340602102",
+      "name": "朔里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340602",
+      "year": 0,
+      "name_path": "安徽省/淮北市/杜集区/朔里镇"
+    },
+    {
+      "code": "340602103",
+      "name": "石台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340602",
+      "year": 0,
+      "name_path": "安徽省/淮北市/杜集区/石台镇"
+    },
+    {
+      "code": "340602104",
+      "name": "段园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "340602",
+      "year": 0,
+      "name_path": "安徽省/淮北市/杜集区/段园镇"
+    }
+  ]
+}

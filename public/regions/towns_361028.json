@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "361028001",
+      "name": "泸阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/泸阳街道"
+    },
+    {
+      "code": "361028100",
+      "name": "鹤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/鹤城镇"
+    },
+    {
+      "code": "361028101",
+      "name": "马头山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/马头山镇"
+    },
+    {
+      "code": "361028102",
+      "name": "高阜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/高阜镇"
+    },
+    {
+      "code": "361028103",
+      "name": "嵩市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/嵩市镇"
+    },
+    {
+      "code": "361028104",
+      "name": "乌石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/乌石镇"
+    },
+    {
+      "code": "361028105",
+      "name": "高田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361028",
+      "year": 0,
+      "name_path": "江西省/抚州市/资溪县/高田镇"
+    }
+  ]
+}

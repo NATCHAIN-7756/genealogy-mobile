@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "130434100",
+      "name": "魏城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/魏城镇"
+    },
+    {
+      "code": "130434101",
+      "name": "德政镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/德政镇"
+    },
+    {
+      "code": "130434102",
+      "name": "北皋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/北皋镇"
+    },
+    {
+      "code": "130434103",
+      "name": "双井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/双井镇"
+    },
+    {
+      "code": "130434104",
+      "name": "牙里镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/牙里镇"
+    },
+    {
+      "code": "130434105",
+      "name": "车往镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/车往镇"
+    },
+    {
+      "code": "130434106",
+      "name": "回隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/回隆镇"
+    },
+    {
+      "code": "130434107",
+      "name": "张二庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/张二庄镇"
+    },
+    {
+      "code": "130434108",
+      "name": "东代固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/东代固镇"
+    },
+    {
+      "code": "130434109",
+      "name": "院堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/院堡镇"
+    },
+    {
+      "code": "130434110",
+      "name": "南双庙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/南双庙镇"
+    },
+    {
+      "code": "130434111",
+      "name": "棘针寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/棘针寨镇"
+    },
+    {
+      "code": "130434112",
+      "name": "边马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/边马镇"
+    },
+    {
+      "code": "130434113",
+      "name": "泊口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/泊口镇"
+    },
+    {
+      "code": "130434114",
+      "name": "仕望集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/仕望集镇"
+    },
+    {
+      "code": "130434115",
+      "name": "沙口集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/沙口集镇"
+    },
+    {
+      "code": "130434116",
+      "name": "大兴庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/大兴庄镇"
+    },
+    {
+      "code": "130434203",
+      "name": "野胡拐乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/野胡拐乡"
+    },
+    {
+      "code": "130434205",
+      "name": "前大磨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/前大磨乡"
+    },
+    {
+      "code": "130434209",
+      "name": "大马村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/大马村乡"
+    },
+    {
+      "code": "130434212",
+      "name": "北台头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130434",
+      "year": 0,
+      "name_path": "河北省/邯郸市/魏县/北台头乡"
+    }
+  ]
+}

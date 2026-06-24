@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "130284001",
+      "name": "滦河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/滦河街道"
+    },
+    {
+      "code": "130284002",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/古城街道"
+    },
+    {
+      "code": "130284003",
+      "name": "滦城路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/滦城路街道"
+    },
+    {
+      "code": "130284004",
+      "name": "响嘡街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/响嘡街道"
+    },
+    {
+      "code": "130284100",
+      "name": "东安各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/东安各庄镇"
+    },
+    {
+      "code": "130284101",
+      "name": "雷庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/雷庄镇"
+    },
+    {
+      "code": "130284102",
+      "name": "茨榆坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/茨榆坨镇"
+    },
+    {
+      "code": "130284103",
+      "name": "榛子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/榛子镇"
+    },
+    {
+      "code": "130284104",
+      "name": "杨柳庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/杨柳庄镇"
+    },
+    {
+      "code": "130284105",
+      "name": "油榨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/油榨镇"
+    },
+    {
+      "code": "130284106",
+      "name": "古马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/古马镇"
+    },
+    {
+      "code": "130284107",
+      "name": "小马庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/小马庄镇"
+    },
+    {
+      "code": "130284108",
+      "name": "九百户镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/九百户镇"
+    },
+    {
+      "code": "130284109",
+      "name": "王店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130284",
+      "year": 0,
+      "name_path": "河北省/唐山市/滦州市/王店子镇"
+    }
+  ]
+}

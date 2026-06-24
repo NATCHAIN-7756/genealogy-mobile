@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "140522100",
+      "name": "凤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/凤城镇"
+    },
+    {
+      "code": "140522101",
+      "name": "北留镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/北留镇"
+    },
+    {
+      "code": "140522102",
+      "name": "润城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/润城镇"
+    },
+    {
+      "code": "140522103",
+      "name": "町店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/町店镇"
+    },
+    {
+      "code": "140522104",
+      "name": "芹池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/芹池镇"
+    },
+    {
+      "code": "140522105",
+      "name": "次营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/次营镇"
+    },
+    {
+      "code": "140522106",
+      "name": "横河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/横河镇"
+    },
+    {
+      "code": "140522107",
+      "name": "河北镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/河北镇"
+    },
+    {
+      "code": "140522108",
+      "name": "蟒河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/蟒河镇"
+    },
+    {
+      "code": "140522109",
+      "name": "东冶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/东冶镇"
+    },
+    {
+      "code": "140522110",
+      "name": "白桑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/白桑镇"
+    },
+    {
+      "code": "140522111",
+      "name": "演礼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/演礼镇"
+    },
+    {
+      "code": "140522201",
+      "name": "寺头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/寺头乡"
+    },
+    {
+      "code": "140522202",
+      "name": "西河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/西河乡"
+    },
+    {
+      "code": "140522205",
+      "name": "董封乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140522",
+      "year": 0,
+      "name_path": "山西省/晋城市/阳城县/董封乡"
+    }
+  ]
+}

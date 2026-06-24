@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "532925100",
+      "name": "弥城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/弥城镇"
+    },
+    {
+      "code": "532925101",
+      "name": "红岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/红岩镇"
+    },
+    {
+      "code": "532925102",
+      "name": "新街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/新街镇"
+    },
+    {
+      "code": "532925103",
+      "name": "寅街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/寅街镇"
+    },
+    {
+      "code": "532925104",
+      "name": "苴力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/苴力镇"
+    },
+    {
+      "code": "532925105",
+      "name": "密祉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/密祉镇"
+    },
+    {
+      "code": "532925203",
+      "name": "德苴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/德苴乡"
+    },
+    {
+      "code": "532925204",
+      "name": "牛街彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532925",
+      "year": 0,
+      "name_path": "云南省/大理白族自治州/弥渡县/牛街彝族乡"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "210804001",
+      "name": "红海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210804",
+      "year": 0,
+      "name_path": "辽宁省/营口市/鲅鱼圈区/红海街道"
+    },
+    {
+      "code": "210804002",
+      "name": "海星街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210804",
+      "year": 0,
+      "name_path": "辽宁省/营口市/鲅鱼圈区/海星街道"
+    },
+    {
+      "code": "210804005",
+      "name": "望海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210804",
+      "year": 0,
+      "name_path": "辽宁省/营口市/鲅鱼圈区/望海街道"
+    },
+    {
+      "code": "210804100",
+      "name": "熊岳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210804",
+      "year": 0,
+      "name_path": "辽宁省/营口市/鲅鱼圈区/熊岳镇"
+    },
+    {
+      "code": "210804102",
+      "name": "芦屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210804",
+      "year": 0,
+      "name_path": "辽宁省/营口市/鲅鱼圈区/芦屯镇"
+    },
+    {
+      "code": "210804103",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210804",
+      "year": 0,
+      "name_path": "辽宁省/营口市/鲅鱼圈区/红旗镇"
+    }
+  ]
+}

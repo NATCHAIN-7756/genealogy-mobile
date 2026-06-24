@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "420203001",
+      "name": "八泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420203",
+      "year": 0,
+      "name_path": "湖北省/黄石市/西塞山区/八泉街道"
+    },
+    {
+      "code": "420203002",
+      "name": "黄思湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420203",
+      "year": 0,
+      "name_path": "湖北省/黄石市/西塞山区/黄思湾街道"
+    },
+    {
+      "code": "420203003",
+      "name": "澄月街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420203",
+      "year": 0,
+      "name_path": "湖北省/黄石市/西塞山区/澄月街道"
+    },
+    {
+      "code": "420203004",
+      "name": "牧羊湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420203",
+      "year": 0,
+      "name_path": "湖北省/黄石市/西塞山区/牧羊湖街道"
+    },
+    {
+      "code": "420203007",
+      "name": "章山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420203",
+      "year": 0,
+      "name_path": "湖北省/黄石市/西塞山区/章山街道"
+    },
+    {
+      "code": "420203100",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420203",
+      "year": 0,
+      "name_path": "湖北省/黄石市/西塞山区/河口镇"
+    }
+  ]
+}

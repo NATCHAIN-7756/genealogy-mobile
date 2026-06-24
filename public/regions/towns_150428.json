@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "150428100",
+      "name": "锦山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/锦山镇"
+    },
+    {
+      "code": "150428101",
+      "name": "美林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/美林镇"
+    },
+    {
+      "code": "150428102",
+      "name": "王爷府镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/王爷府镇"
+    },
+    {
+      "code": "150428103",
+      "name": "小牛群镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/小牛群镇"
+    },
+    {
+      "code": "150428104",
+      "name": "牛家营子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/牛家营子镇"
+    },
+    {
+      "code": "150428105",
+      "name": "乃林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/乃林镇"
+    },
+    {
+      "code": "150428106",
+      "name": "西桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/西桥镇"
+    },
+    {
+      "code": "150428200",
+      "name": "十家满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/十家满族乡"
+    },
+    {
+      "code": "150428201",
+      "name": "南台子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "150428",
+      "year": 0,
+      "name_path": "内蒙古自治区/赤峰市/喀喇沁旗/南台子乡"
+    }
+  ]
+}

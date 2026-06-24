@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "510723002",
+      "name": "凤灵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/凤灵街道"
+    },
+    {
+      "code": "510723100",
+      "name": "云溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/云溪镇"
+    },
+    {
+      "code": "510723101",
+      "name": "玉龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/玉龙镇"
+    },
+    {
+      "code": "510723102",
+      "name": "富驿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/富驿镇"
+    },
+    {
+      "code": "510723103",
+      "name": "金孔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/金孔镇"
+    },
+    {
+      "code": "510723105",
+      "name": "黄甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/黄甸镇"
+    },
+    {
+      "code": "510723113",
+      "name": "巨龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/巨龙镇"
+    },
+    {
+      "code": "510723114",
+      "name": "高渠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/高渠镇"
+    },
+    {
+      "code": "510723115",
+      "name": "鹅溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/鹅溪镇"
+    },
+    {
+      "code": "510723116",
+      "name": "岐伯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/岐伯镇"
+    },
+    {
+      "code": "510723117",
+      "name": "文通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/文通镇"
+    },
+    {
+      "code": "510723118",
+      "name": "永泰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/永泰镇"
+    },
+    {
+      "code": "510723119",
+      "name": "九龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/九龙镇"
+    },
+    {
+      "code": "510723120",
+      "name": "西陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/西陵镇"
+    },
+    {
+      "code": "510723121",
+      "name": "嫘祖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/嫘祖镇"
+    },
+    {
+      "code": "510723211",
+      "name": "大兴回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/大兴回族乡"
+    },
+    {
+      "code": "510723222",
+      "name": "莲花湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510723",
+      "year": 0,
+      "name_path": "四川省/绵阳市/盐亭县/莲花湖乡"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "321204001",
+      "name": "罗塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/罗塘街道"
+    },
+    {
+      "code": "321204003",
+      "name": "梁徐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/梁徐街道"
+    },
+    {
+      "code": "321204004",
+      "name": "天目山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/天目山街道"
+    },
+    {
+      "code": "321204005",
+      "name": "三水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/三水街道"
+    },
+    {
+      "code": "321204100",
+      "name": "蒋垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/蒋垛镇"
+    },
+    {
+      "code": "321204101",
+      "name": "娄庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/娄庄镇"
+    },
+    {
+      "code": "321204102",
+      "name": "白米镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/白米镇"
+    },
+    {
+      "code": "321204103",
+      "name": "俞垛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/俞垛镇"
+    },
+    {
+      "code": "321204105",
+      "name": "大𫭢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/大𫭢镇"
+    },
+    {
+      "code": "321204107",
+      "name": "顾高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/顾高镇"
+    },
+    {
+      "code": "321204109",
+      "name": "张甸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/张甸镇"
+    },
+    {
+      "code": "321204113",
+      "name": "淤溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/淤溪镇"
+    },
+    {
+      "code": "321204115",
+      "name": "溱潼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321204",
+      "year": 0,
+      "name_path": "江苏省/泰州市/姜堰区/溱潼镇"
+    }
+  ]
+}

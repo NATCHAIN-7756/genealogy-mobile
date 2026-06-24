@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "540234100",
+      "name": "宗嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540234",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/吉隆县/宗嘎镇"
+    },
+    {
+      "code": "540234101",
+      "name": "吉隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540234",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/吉隆县/吉隆镇"
+    },
+    {
+      "code": "540234200",
+      "name": "差那乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540234",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/吉隆县/差那乡"
+    },
+    {
+      "code": "540234201",
+      "name": "折巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540234",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/吉隆县/折巴乡"
+    },
+    {
+      "code": "540234202",
+      "name": "贡当乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540234",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/吉隆县/贡当乡"
+    },
+    {
+      "code": "540234203",
+      "name": "萨勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540234",
+      "year": 0,
+      "name_path": "西藏自治区/日喀则市/吉隆县/萨勒乡"
+    }
+  ]
+}

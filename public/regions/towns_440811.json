@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "440811001",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/东山街道"
+    },
+    {
+      "code": "440811002",
+      "name": "东简街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/东简街道"
+    },
+    {
+      "code": "440811003",
+      "name": "民安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/民安街道"
+    },
+    {
+      "code": "440811100",
+      "name": "麻章镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/麻章镇"
+    },
+    {
+      "code": "440811101",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/太平镇"
+    },
+    {
+      "code": "440811102",
+      "name": "湖光镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/湖光镇"
+    },
+    {
+      "code": "440811106",
+      "name": "硇洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440811",
+      "year": 0,
+      "name_path": "广东省/湛江市/麻章区/硇洲镇"
+    }
+  ]
+}

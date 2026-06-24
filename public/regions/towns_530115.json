@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "530115001",
+      "name": "昆阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/昆阳街道"
+    },
+    {
+      "code": "530115002",
+      "name": "宝峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/宝峰街道"
+    },
+    {
+      "code": "530115003",
+      "name": "晋城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/晋城街道"
+    },
+    {
+      "code": "530115101",
+      "name": "二街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/二街镇"
+    },
+    {
+      "code": "530115102",
+      "name": "上蒜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/上蒜镇"
+    },
+    {
+      "code": "530115103",
+      "name": "六街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/六街镇"
+    },
+    {
+      "code": "530115200",
+      "name": "双河彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/双河彝族乡"
+    },
+    {
+      "code": "530115201",
+      "name": "夕阳彝族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530115",
+      "year": 0,
+      "name_path": "云南省/昆明市/晋宁区/夕阳彝族乡"
+    }
+  ]
+}

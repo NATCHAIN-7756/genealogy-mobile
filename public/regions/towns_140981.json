@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "140981001",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/北城街道"
+    },
+    {
+      "code": "140981002",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/南城街道"
+    },
+    {
+      "code": "140981004",
+      "name": "新原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/新原街道"
+    },
+    {
+      "code": "140981005",
+      "name": "吉祥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/吉祥街道"
+    },
+    {
+      "code": "140981101",
+      "name": "苏龙口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/苏龙口镇"
+    },
+    {
+      "code": "140981102",
+      "name": "崞阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/崞阳镇"
+    },
+    {
+      "code": "140981103",
+      "name": "大牛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/大牛店镇"
+    },
+    {
+      "code": "140981104",
+      "name": "阎庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/阎庄镇"
+    },
+    {
+      "code": "140981106",
+      "name": "轩岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/轩岗镇"
+    },
+    {
+      "code": "140981107",
+      "name": "云水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/云水镇"
+    },
+    {
+      "code": "140981108",
+      "name": "同川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/同川镇"
+    },
+    {
+      "code": "140981202",
+      "name": "子干乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/子干乡"
+    },
+    {
+      "code": "140981203",
+      "name": "中阳乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/中阳乡"
+    },
+    {
+      "code": "140981204",
+      "name": "沿沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/沿沟乡"
+    },
+    {
+      "code": "140981205",
+      "name": "大林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/大林乡"
+    },
+    {
+      "code": "140981206",
+      "name": "西镇乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/西镇乡"
+    },
+    {
+      "code": "140981208",
+      "name": "王家庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/王家庄乡"
+    },
+    {
+      "code": "140981210",
+      "name": "段家堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140981",
+      "year": 0,
+      "name_path": "山西省/忻州市/原平市/段家堡乡"
+    }
+  ]
+}

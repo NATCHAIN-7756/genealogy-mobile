@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "632801001",
+      "name": "昆仑路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/昆仑路街道"
+    },
+    {
+      "code": "632801002",
+      "name": "金峰路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/金峰路街道"
+    },
+    {
+      "code": "632801003",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/河西街道"
+    },
+    {
+      "code": "632801004",
+      "name": "黄河路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/黄河路街道"
+    },
+    {
+      "code": "632801005",
+      "name": "西藏路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/西藏路街道"
+    },
+    {
+      "code": "632801100",
+      "name": "郭勒木德镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/郭勒木德镇"
+    },
+    {
+      "code": "632801101",
+      "name": "唐古拉山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/唐古拉山镇"
+    },
+    {
+      "code": "632801200",
+      "name": "大格勒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/大格勒乡"
+    },
+    {
+      "code": "632801201",
+      "name": "乌图美仁乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "632801",
+      "year": 0,
+      "name_path": "青海省/海西蒙古族藏族自治州/格尔木市/乌图美仁乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "441302",
+      "name": "惠城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "441300",
+      "year": 0,
+      "name_path": "全国/广东省/惠州市/惠城区"
+    },
+    {
+      "code": "441303",
+      "name": "惠阳区",
+      "level": 3,
+      "type": null,
+      "parent_code": "441300",
+      "year": 0,
+      "name_path": "全国/广东省/惠州市/惠阳区"
+    },
+    {
+      "code": "441322",
+      "name": "博罗县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441300",
+      "year": 0,
+      "name_path": "全国/广东省/惠州市/博罗县"
+    },
+    {
+      "code": "441323",
+      "name": "惠东县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441300",
+      "year": 0,
+      "name_path": "全国/广东省/惠州市/惠东县"
+    },
+    {
+      "code": "441324",
+      "name": "龙门县",
+      "level": 3,
+      "type": null,
+      "parent_code": "441300",
+      "year": 0,
+      "name_path": "全国/广东省/惠州市/龙门县"
+    }
+  ]
+}

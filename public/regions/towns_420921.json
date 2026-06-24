@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "420921100",
+      "name": "花园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/花园镇"
+    },
+    {
+      "code": "420921101",
+      "name": "丰山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/丰山镇"
+    },
+    {
+      "code": "420921102",
+      "name": "周巷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/周巷镇"
+    },
+    {
+      "code": "420921103",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/小河镇"
+    },
+    {
+      "code": "420921104",
+      "name": "王店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/王店镇"
+    },
+    {
+      "code": "420921105",
+      "name": "卫店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/卫店镇"
+    },
+    {
+      "code": "420921106",
+      "name": "白沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/白沙镇"
+    },
+    {
+      "code": "420921107",
+      "name": "邹岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/邹岗镇"
+    },
+    {
+      "code": "420921200",
+      "name": "小悟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/小悟乡"
+    },
+    {
+      "code": "420921201",
+      "name": "季店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/季店乡"
+    },
+    {
+      "code": "420921202",
+      "name": "花西乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/花西乡"
+    },
+    {
+      "code": "420921203",
+      "name": "陡山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420921",
+      "year": 0,
+      "name_path": "湖北省/孝感市/孝昌县/陡山乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "210311001",
+      "name": "汤岗子街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210311",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/千山区/汤岗子街道"
+    },
+    {
+      "code": "210311002",
+      "name": "东鞍山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210311",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/千山区/东鞍山街道"
+    },
+    {
+      "code": "210311102",
+      "name": "唐家房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210311",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/千山区/唐家房镇"
+    },
+    {
+      "code": "210311111",
+      "name": "甘泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210311",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/千山区/甘泉镇"
+    },
+    {
+      "code": "210311112",
+      "name": "大屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "210311",
+      "year": 0,
+      "name_path": "辽宁省/鞍山市/千山区/大屯镇"
+    }
+  ]
+}

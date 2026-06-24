@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "211282001",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/新城街道"
+    },
+    {
+      "code": "211282002",
+      "name": "老城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/老城街道"
+    },
+    {
+      "code": "211282003",
+      "name": "开原街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/开原街道"
+    },
+    {
+      "code": "211282102",
+      "name": "威远堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/威远堡镇"
+    },
+    {
+      "code": "211282103",
+      "name": "庆云堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/庆云堡镇"
+    },
+    {
+      "code": "211282104",
+      "name": "中固镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/中固镇"
+    },
+    {
+      "code": "211282105",
+      "name": "八棵树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/八棵树镇"
+    },
+    {
+      "code": "211282106",
+      "name": "金沟子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/金沟子镇"
+    },
+    {
+      "code": "211282107",
+      "name": "八宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/八宝镇"
+    },
+    {
+      "code": "211282108",
+      "name": "业民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/业民镇"
+    },
+    {
+      "code": "211282109",
+      "name": "莲花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/莲花镇"
+    },
+    {
+      "code": "211282110",
+      "name": "靠山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/靠山镇"
+    },
+    {
+      "code": "211282111",
+      "name": "下肥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/下肥镇"
+    },
+    {
+      "code": "211282112",
+      "name": "松山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/松山镇"
+    },
+    {
+      "code": "211282113",
+      "name": "李家台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/李家台镇"
+    },
+    {
+      "code": "211282114",
+      "name": "马家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/马家寨镇"
+    },
+    {
+      "code": "211282115",
+      "name": "城东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/城东镇"
+    },
+    {
+      "code": "211282116",
+      "name": "上肥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/上肥镇"
+    },
+    {
+      "code": "211282117",
+      "name": "黄旗寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/黄旗寨镇"
+    },
+    {
+      "code": "211282217",
+      "name": "林丰满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "211282",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/开原市/林丰满族乡"
+    }
+  ]
+}

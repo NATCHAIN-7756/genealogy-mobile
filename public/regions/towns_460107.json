@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "460107001",
+      "name": "国兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/国兴街道"
+    },
+    {
+      "code": "460107002",
+      "name": "府城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/府城街道"
+    },
+    {
+      "code": "460107003",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/滨江街道"
+    },
+    {
+      "code": "460107004",
+      "name": "凤翔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/凤翔街道"
+    },
+    {
+      "code": "460107101",
+      "name": "龙塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/龙塘镇"
+    },
+    {
+      "code": "460107102",
+      "name": "云龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/云龙镇"
+    },
+    {
+      "code": "460107103",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/红旗镇"
+    },
+    {
+      "code": "460107104",
+      "name": "三门坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/三门坡镇"
+    },
+    {
+      "code": "460107105",
+      "name": "大坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/大坡镇"
+    },
+    {
+      "code": "460107106",
+      "name": "甲子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/甲子镇"
+    },
+    {
+      "code": "460107107",
+      "name": "旧州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "460107",
+      "year": 0,
+      "name_path": "海南省/海口市/琼山区/旧州镇"
+    }
+  ]
+}

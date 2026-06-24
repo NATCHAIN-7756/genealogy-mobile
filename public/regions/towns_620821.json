@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "620821100",
+      "name": "城关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/城关镇"
+    },
+    {
+      "code": "620821101",
+      "name": "玉都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/玉都镇"
+    },
+    {
+      "code": "620821102",
+      "name": "高平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/高平镇"
+    },
+    {
+      "code": "620821103",
+      "name": "荔堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/荔堡镇"
+    },
+    {
+      "code": "620821104",
+      "name": "王村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/王村镇"
+    },
+    {
+      "code": "620821105",
+      "name": "窑店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/窑店镇"
+    },
+    {
+      "code": "620821106",
+      "name": "党原镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/党原镇"
+    },
+    {
+      "code": "620821107",
+      "name": "丰台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/丰台镇"
+    },
+    {
+      "code": "620821108",
+      "name": "飞云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/飞云镇"
+    },
+    {
+      "code": "620821109",
+      "name": "汭丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/汭丰镇"
+    },
+    {
+      "code": "620821110",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/太平镇"
+    },
+    {
+      "code": "620821204",
+      "name": "罗汉洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/罗汉洞乡"
+    },
+    {
+      "code": "620821205",
+      "name": "泾明乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/泾明乡"
+    },
+    {
+      "code": "620821206",
+      "name": "红河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620821",
+      "year": 0,
+      "name_path": "甘肃省/平凉市/泾川县/红河乡"
+    }
+  ]
+}

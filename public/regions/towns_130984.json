@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "130984001",
+      "name": "瀛州路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/瀛州路街道"
+    },
+    {
+      "code": "130984002",
+      "name": "城垣西路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/城垣西路街道"
+    },
+    {
+      "code": "130984101",
+      "name": "米各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/米各庄镇"
+    },
+    {
+      "code": "130984102",
+      "name": "景和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/景和镇"
+    },
+    {
+      "code": "130984103",
+      "name": "卧佛堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/卧佛堂镇"
+    },
+    {
+      "code": "130984104",
+      "name": "束城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/束城镇"
+    },
+    {
+      "code": "130984105",
+      "name": "留古寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/留古寺镇"
+    },
+    {
+      "code": "130984106",
+      "name": "沙河桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/沙河桥镇"
+    },
+    {
+      "code": "130984107",
+      "name": "诗经村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/诗经村镇"
+    },
+    {
+      "code": "130984108",
+      "name": "尊祖庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/尊祖庄镇"
+    },
+    {
+      "code": "130984109",
+      "name": "兴村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/兴村镇"
+    },
+    {
+      "code": "130984110",
+      "name": "行别营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/行别营镇"
+    },
+    {
+      "code": "130984111",
+      "name": "故仙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/故仙镇"
+    },
+    {
+      "code": "130984112",
+      "name": "黎民居镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/黎民居镇"
+    },
+    {
+      "code": "130984113",
+      "name": "沙洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/沙洼镇"
+    },
+    {
+      "code": "130984204",
+      "name": "西九吉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/西九吉乡"
+    },
+    {
+      "code": "130984205",
+      "name": "北石槽乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/北石槽乡"
+    },
+    {
+      "code": "130984206",
+      "name": "果子洼回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/果子洼回族乡"
+    },
+    {
+      "code": "130984209",
+      "name": "时村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/时村乡"
+    },
+    {
+      "code": "130984212",
+      "name": "龙华店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130984",
+      "year": 0,
+      "name_path": "河北省/沧州市/河间市/龙华店乡"
+    }
+  ]
+}

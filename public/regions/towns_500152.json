@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "500152001",
+      "name": "梓潼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/梓潼街道"
+    },
+    {
+      "code": "500152002",
+      "name": "桂林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/桂林街道"
+    },
+    {
+      "code": "500152003",
+      "name": "大佛街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/大佛街道"
+    },
+    {
+      "code": "500152100",
+      "name": "上和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/上和镇"
+    },
+    {
+      "code": "500152101",
+      "name": "龙形镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/龙形镇"
+    },
+    {
+      "code": "500152102",
+      "name": "古溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/古溪镇"
+    },
+    {
+      "code": "500152103",
+      "name": "宝龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/宝龙镇"
+    },
+    {
+      "code": "500152104",
+      "name": "玉溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/玉溪镇"
+    },
+    {
+      "code": "500152105",
+      "name": "米心镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/米心镇"
+    },
+    {
+      "code": "500152106",
+      "name": "群力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/群力镇"
+    },
+    {
+      "code": "500152107",
+      "name": "双江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/双江镇"
+    },
+    {
+      "code": "500152108",
+      "name": "花岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/花岩镇"
+    },
+    {
+      "code": "500152109",
+      "name": "柏梓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/柏梓镇"
+    },
+    {
+      "code": "500152110",
+      "name": "崇龛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/崇龛镇"
+    },
+    {
+      "code": "500152111",
+      "name": "塘坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/塘坝镇"
+    },
+    {
+      "code": "500152112",
+      "name": "新胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/新胜镇"
+    },
+    {
+      "code": "500152113",
+      "name": "太安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/太安镇"
+    },
+    {
+      "code": "500152114",
+      "name": "小渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/小渡镇"
+    },
+    {
+      "code": "500152115",
+      "name": "卧佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/卧佛镇"
+    },
+    {
+      "code": "500152116",
+      "name": "五桂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/五桂镇"
+    },
+    {
+      "code": "500152117",
+      "name": "田家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/田家镇"
+    },
+    {
+      "code": "500152118",
+      "name": "别口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/别口镇"
+    },
+    {
+      "code": "500152119",
+      "name": "寿桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500152",
+      "year": 0,
+      "name_path": "重庆市/潼南区/寿桥镇"
+    }
+  ]
+}

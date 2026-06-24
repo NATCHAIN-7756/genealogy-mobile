@@ -1,0 +1,256 @@
+{
+  "data": [
+    {
+      "code": "220182001",
+      "name": "华昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/华昌街道"
+    },
+    {
+      "code": "220182002",
+      "name": "正阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/正阳街道"
+    },
+    {
+      "code": "220182003",
+      "name": "培英街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/培英街道"
+    },
+    {
+      "code": "220182004",
+      "name": "城郊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/城郊街道"
+    },
+    {
+      "code": "220182100",
+      "name": "五棵树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/五棵树镇"
+    },
+    {
+      "code": "220182101",
+      "name": "弓棚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/弓棚镇"
+    },
+    {
+      "code": "220182102",
+      "name": "闵家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/闵家镇"
+    },
+    {
+      "code": "220182103",
+      "name": "大坡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/大坡镇"
+    },
+    {
+      "code": "220182104",
+      "name": "黑林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/黑林镇"
+    },
+    {
+      "code": "220182105",
+      "name": "土桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/土桥镇"
+    },
+    {
+      "code": "220182106",
+      "name": "新立镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/新立镇"
+    },
+    {
+      "code": "220182107",
+      "name": "大岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/大岭镇"
+    },
+    {
+      "code": "220182108",
+      "name": "于家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/于家镇"
+    },
+    {
+      "code": "220182109",
+      "name": "泗河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/泗河镇"
+    },
+    {
+      "code": "220182110",
+      "name": "八号镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/八号镇"
+    },
+    {
+      "code": "220182111",
+      "name": "刘家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/刘家镇"
+    },
+    {
+      "code": "220182112",
+      "name": "秀水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/秀水镇"
+    },
+    {
+      "code": "220182113",
+      "name": "保寿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/保寿镇"
+    },
+    {
+      "code": "220182115",
+      "name": "新庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/新庄镇"
+    },
+    {
+      "code": "220182200",
+      "name": "育民乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/育民乡"
+    },
+    {
+      "code": "220182201",
+      "name": "红星乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/红星乡"
+    },
+    {
+      "code": "220182203",
+      "name": "太安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/太安乡"
+    },
+    {
+      "code": "220182204",
+      "name": "先锋乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/先锋乡"
+    },
+    {
+      "code": "220182208",
+      "name": "青山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/青山乡"
+    },
+    {
+      "code": "220182209",
+      "name": "延和朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/延和朝鲜族乡"
+    },
+    {
+      "code": "220182210",
+      "name": "恩育乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/恩育乡"
+    },
+    {
+      "code": "220182211",
+      "name": "城发乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/城发乡"
+    },
+    {
+      "code": "220182213",
+      "name": "环城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220182",
+      "year": 0,
+      "name_path": "吉林省/长春市/榆树市/环城乡"
+    }
+  ]
+}

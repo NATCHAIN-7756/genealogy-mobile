@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "659005001",
+      "name": "天骄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659005",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/北屯市/天骄街道"
+    },
+    {
+      "code": "659005002",
+      "name": "龙疆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659005",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/北屯市/龙疆街道"
+    },
+    {
+      "code": "659005003",
+      "name": "军垦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659005",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/北屯市/军垦街道"
+    },
+    {
+      "code": "659005100",
+      "name": "双渠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659005",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/北屯市/双渠镇"
+    },
+    {
+      "code": "659005101",
+      "name": "丰庆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659005",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/北屯市/丰庆镇"
+    },
+    {
+      "code": "659005102",
+      "name": "海川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659005",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/北屯市/海川镇"
+    }
+  ]
+}

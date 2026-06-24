@@ -38,12 +38,7 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTabbar">
-      <van-tabbar-item icon="home-o" to="/">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
@@ -51,7 +46,8 @@
 import { ref, onMounted } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
 import { showToast } from 'vant'
-import axios from 'axios'
+import { sponsorApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
 const route = useRoute()
@@ -61,15 +57,11 @@ const showCreate = ref(false)
 const sponsors = ref([])
 const newSponsor = ref({ donor_name: '', amount: '', donate_date: '', note: '' })
 
-const token = localStorage.getItem('token')
-
 function back() { router.back() }
 
 async function loadSponsors() {
   try {
-    const res = await axios.get(`http://45.207.215.95/api/sponsors/family/${familyId}`, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    const res = await sponsorApi.list(familyId)
     sponsors.value = res.data
   } catch (e) {
     console.error('加载失败:', e)
@@ -83,9 +75,7 @@ async function submitSponsor() {
     return
   }
   try {
-    await axios.post(`http://45.207.215.95/api/sponsors/family/${familyId}`, newSponsor.value, {
-      headers: { Authorization: `Bearer ${token}` }
-    })
+    await sponsorApi.create(familyId, newSponsor.value)
     showToast('提交成功')
     showCreate.value = false
     newSponsor.value = { donor_name: '', amount: '', donate_date: '', note: '' }

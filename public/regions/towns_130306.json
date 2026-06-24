@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "130306001",
+      "name": "骊城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/骊城街道"
+    },
+    {
+      "code": "130306100",
+      "name": "抚宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/抚宁镇"
+    },
+    {
+      "code": "130306101",
+      "name": "留守营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/留守营镇"
+    },
+    {
+      "code": "130306102",
+      "name": "榆关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/榆关镇"
+    },
+    {
+      "code": "130306103",
+      "name": "台营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/台营镇"
+    },
+    {
+      "code": "130306104",
+      "name": "大新寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/大新寨镇"
+    },
+    {
+      "code": "130306105",
+      "name": "坟坨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/坟坨镇"
+    },
+    {
+      "code": "130306200",
+      "name": "茶棚乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "130306",
+      "year": 0,
+      "name_path": "河北省/秦皇岛市/抚宁区/茶棚乡"
+    }
+  ]
+}

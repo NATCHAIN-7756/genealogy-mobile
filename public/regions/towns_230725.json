@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "code": "230725100",
+      "name": "带岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230725",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/大箐山县/带岭镇"
+    },
+    {
+      "code": "230725101",
+      "name": "朗乡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230725",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/大箐山县/朗乡镇"
+    }
+  ]
+}

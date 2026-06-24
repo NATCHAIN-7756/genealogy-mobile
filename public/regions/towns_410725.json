@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "410725001",
+      "name": "龙源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/龙源街道"
+    },
+    {
+      "code": "410725002",
+      "name": "原兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/原兴街道"
+    },
+    {
+      "code": "410725003",
+      "name": "阳和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/阳和街道"
+    },
+    {
+      "code": "410725102",
+      "name": "师寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/师寨镇"
+    },
+    {
+      "code": "410725103",
+      "name": "齐街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/齐街镇"
+    },
+    {
+      "code": "410725104",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/太平镇"
+    },
+    {
+      "code": "410725105",
+      "name": "福宁集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/福宁集镇"
+    },
+    {
+      "code": "410725106",
+      "name": "韩董庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/韩董庄镇"
+    },
+    {
+      "code": "410725107",
+      "name": "原武镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/原武镇"
+    },
+    {
+      "code": "410725108",
+      "name": "官厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/官厂镇"
+    },
+    {
+      "code": "410725109",
+      "name": "大宾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/大宾镇"
+    },
+    {
+      "code": "410725110",
+      "name": "路寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/路寨镇"
+    },
+    {
+      "code": "410725111",
+      "name": "阳阿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/阳阿镇"
+    },
+    {
+      "code": "410725200",
+      "name": "葛埠口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/葛埠口乡"
+    },
+    {
+      "code": "410725206",
+      "name": "蒋庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/蒋庄乡"
+    },
+    {
+      "code": "410725211",
+      "name": "陡门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/陡门乡"
+    },
+    {
+      "code": "410725218",
+      "name": "靳堂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/靳堂乡"
+    },
+    {
+      "code": "410725219",
+      "name": "祝楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/祝楼乡"
+    },
+    {
+      "code": "410725220",
+      "name": "桥北乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410725",
+      "year": 0,
+      "name_path": "河南省/新乡市/原阳县/桥北乡"
+    }
+  ]
+}

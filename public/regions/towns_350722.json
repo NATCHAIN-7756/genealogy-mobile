@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "350722001",
+      "name": "南浦街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/南浦街道"
+    },
+    {
+      "code": "350722002",
+      "name": "河滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/河滨街道"
+    },
+    {
+      "code": "350722101",
+      "name": "富岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/富岭镇"
+    },
+    {
+      "code": "350722102",
+      "name": "石陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/石陂镇"
+    },
+    {
+      "code": "350722103",
+      "name": "临江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/临江镇"
+    },
+    {
+      "code": "350722104",
+      "name": "仙阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/仙阳镇"
+    },
+    {
+      "code": "350722105",
+      "name": "水北街镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/水北街镇"
+    },
+    {
+      "code": "350722106",
+      "name": "永兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/永兴镇"
+    },
+    {
+      "code": "350722107",
+      "name": "忠信镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/忠信镇"
+    },
+    {
+      "code": "350722108",
+      "name": "莲塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/莲塘镇"
+    },
+    {
+      "code": "350722109",
+      "name": "九牧镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/九牧镇"
+    },
+    {
+      "code": "350722200",
+      "name": "万安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/万安乡"
+    },
+    {
+      "code": "350722201",
+      "name": "古楼乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/古楼乡"
+    },
+    {
+      "code": "350722202",
+      "name": "山下乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/山下乡"
+    },
+    {
+      "code": "350722203",
+      "name": "枫溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/枫溪乡"
+    },
+    {
+      "code": "350722204",
+      "name": "濠村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/濠村乡"
+    },
+    {
+      "code": "350722205",
+      "name": "管厝乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/管厝乡"
+    },
+    {
+      "code": "350722206",
+      "name": "盘亭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/盘亭乡"
+    },
+    {
+      "code": "350722207",
+      "name": "官路乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "350722",
+      "year": 0,
+      "name_path": "福建省/南平市/浦城县/官路乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "610103001",
+      "name": "南院门街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/南院门街道"
+    },
+    {
+      "code": "610103002",
+      "name": "柏树林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/柏树林街道"
+    },
+    {
+      "code": "610103003",
+      "name": "长乐坊街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/长乐坊街道"
+    },
+    {
+      "code": "610103004",
+      "name": "东关南街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/东关南街街道"
+    },
+    {
+      "code": "610103005",
+      "name": "太乙路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/太乙路街道"
+    },
+    {
+      "code": "610103006",
+      "name": "文艺路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/文艺路街道"
+    },
+    {
+      "code": "610103007",
+      "name": "长安路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/长安路街道"
+    },
+    {
+      "code": "610103008",
+      "name": "张家村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "610103",
+      "year": 0,
+      "name_path": "陕西省/西安市/碑林区/张家村街道"
+    }
+  ]
+}

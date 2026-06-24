@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "450621100",
+      "name": "思阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/思阳镇"
+    },
+    {
+      "code": "450621101",
+      "name": "在妙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/在妙镇"
+    },
+    {
+      "code": "450621102",
+      "name": "华兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/华兰镇"
+    },
+    {
+      "code": "450621103",
+      "name": "叫安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/叫安镇"
+    },
+    {
+      "code": "450621203",
+      "name": "南屏瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/南屏瑶族乡"
+    },
+    {
+      "code": "450621204",
+      "name": "平福乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/平福乡"
+    },
+    {
+      "code": "450621206",
+      "name": "那琴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/那琴乡"
+    },
+    {
+      "code": "450621208",
+      "name": "公正乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "450621",
+      "year": 0,
+      "name_path": "广西壮族自治区/防城港市/上思县/公正乡"
+    }
+  ]
+}

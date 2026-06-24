@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "410421001",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/文峰街道"
+    },
+    {
+      "code": "410421002",
+      "name": "父城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/父城街道"
+    },
+    {
+      "code": "410421101",
+      "name": "周庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/周庄镇"
+    },
+    {
+      "code": "410421102",
+      "name": "闹店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/闹店镇"
+    },
+    {
+      "code": "410421103",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/石桥镇"
+    },
+    {
+      "code": "410421104",
+      "name": "商酒务镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/商酒务镇"
+    },
+    {
+      "code": "410421105",
+      "name": "大营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/大营镇"
+    },
+    {
+      "code": "410421106",
+      "name": "张八桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/张八桥镇"
+    },
+    {
+      "code": "410421108",
+      "name": "赵庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/赵庄镇"
+    },
+    {
+      "code": "410421200",
+      "name": "肖旗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/肖旗乡"
+    },
+    {
+      "code": "410421202",
+      "name": "前营乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/前营乡"
+    },
+    {
+      "code": "410421204",
+      "name": "李庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "410421",
+      "year": 0,
+      "name_path": "河南省/平顶山市/宝丰县/李庄乡"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "code": "430903001",
+      "name": "赫山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/赫山街道"
+    },
+    {
+      "code": "430903002",
+      "name": "桃花仑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/桃花仑街道"
+    },
+    {
+      "code": "430903003",
+      "name": "金银山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/金银山街道"
+    },
+    {
+      "code": "430903004",
+      "name": "会龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/会龙山街道"
+    },
+    {
+      "code": "430903005",
+      "name": "鱼形山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/鱼形山街道"
+    },
+    {
+      "code": "430903006",
+      "name": "龙光桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/龙光桥街道"
+    },
+    {
+      "code": "430903007",
+      "name": "朝阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/朝阳街道"
+    },
+    {
+      "code": "430903100",
+      "name": "兰溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/兰溪镇"
+    },
+    {
+      "code": "430903101",
+      "name": "八字哨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/八字哨镇"
+    },
+    {
+      "code": "430903103",
+      "name": "泉交河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/泉交河镇"
+    },
+    {
+      "code": "430903104",
+      "name": "欧江岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/欧江岔镇"
+    },
+    {
+      "code": "430903105",
+      "name": "沧水铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/沧水铺镇"
+    },
+    {
+      "code": "430903106",
+      "name": "衡龙桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/衡龙桥镇"
+    },
+    {
+      "code": "430903107",
+      "name": "岳家桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/岳家桥镇"
+    },
+    {
+      "code": "430903108",
+      "name": "泥江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/泥江口镇"
+    },
+    {
+      "code": "430903110",
+      "name": "新市渡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/新市渡镇"
+    },
+    {
+      "code": "430903111",
+      "name": "谢林港镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/谢林港镇"
+    },
+    {
+      "code": "430903203",
+      "name": "笔架山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430903",
+      "year": 0,
+      "name_path": "湖南省/益阳市/赫山区/笔架山乡"
+    }
+  ]
+}

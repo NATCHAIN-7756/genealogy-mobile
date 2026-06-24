@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "433122101",
+      "name": "浦市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/浦市镇"
+    },
+    {
+      "code": "433122102",
+      "name": "达岚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/达岚镇"
+    },
+    {
+      "code": "433122103",
+      "name": "合水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/合水镇"
+    },
+    {
+      "code": "433122104",
+      "name": "兴隆场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/兴隆场镇"
+    },
+    {
+      "code": "433122105",
+      "name": "潭溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/潭溪镇"
+    },
+    {
+      "code": "433122106",
+      "name": "洗溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/洗溪镇"
+    },
+    {
+      "code": "433122107",
+      "name": "武溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/武溪镇"
+    },
+    {
+      "code": "433122203",
+      "name": "石榴坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/石榴坪乡"
+    },
+    {
+      "code": "433122206",
+      "name": "解放岩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/解放岩乡"
+    },
+    {
+      "code": "433122207",
+      "name": "小章乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/小章乡"
+    },
+    {
+      "code": "433122208",
+      "name": "白羊溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433122",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/泸溪县/白羊溪乡"
+    }
+  ]
+}

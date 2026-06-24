@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "411002001",
+      "name": "西大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/西大街街道"
+    },
+    {
+      "code": "411002002",
+      "name": "东大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/东大街街道"
+    },
+    {
+      "code": "411002003",
+      "name": "西关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/西关街道"
+    },
+    {
+      "code": "411002004",
+      "name": "南关街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/南关街道"
+    },
+    {
+      "code": "411002005",
+      "name": "北大街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/北大街街道"
+    },
+    {
+      "code": "411002006",
+      "name": "五一路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/五一路街道"
+    },
+    {
+      "code": "411002007",
+      "name": "丁庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/丁庄街道"
+    },
+    {
+      "code": "411002008",
+      "name": "灞陵街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/灞陵街道"
+    },
+    {
+      "code": "411002009",
+      "name": "颍昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/颍昌街道"
+    },
+    {
+      "code": "411002010",
+      "name": "高桥营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/高桥营街道"
+    },
+    {
+      "code": "411002011",
+      "name": "文峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/文峰街道"
+    },
+    {
+      "code": "411002012",
+      "name": "新兴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/新兴街道"
+    },
+    {
+      "code": "411002013",
+      "name": "魏北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/魏北街道"
+    },
+    {
+      "code": "411002014",
+      "name": "半截河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/半截河街道"
+    },
+    {
+      "code": "411002015",
+      "name": "天宝路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411002",
+      "year": 0,
+      "name_path": "河南省/许昌市/魏都区/天宝路街道"
+    }
+  ]
+}

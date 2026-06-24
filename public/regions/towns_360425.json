@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "360425001",
+      "name": "丰安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/丰安街道"
+    },
+    {
+      "code": "360425100",
+      "name": "涂埠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/涂埠镇"
+    },
+    {
+      "code": "360425101",
+      "name": "吴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/吴城镇"
+    },
+    {
+      "code": "360425102",
+      "name": "柘林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/柘林镇"
+    },
+    {
+      "code": "360425103",
+      "name": "虬津镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/虬津镇"
+    },
+    {
+      "code": "360425104",
+      "name": "艾城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/艾城镇"
+    },
+    {
+      "code": "360425105",
+      "name": "滩溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/滩溪镇"
+    },
+    {
+      "code": "360425106",
+      "name": "白槎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/白槎镇"
+    },
+    {
+      "code": "360425107",
+      "name": "梅棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/梅棠镇"
+    },
+    {
+      "code": "360425108",
+      "name": "三溪桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/三溪桥镇"
+    },
+    {
+      "code": "360425109",
+      "name": "燕坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/燕坊镇"
+    },
+    {
+      "code": "360425110",
+      "name": "马口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/马口镇"
+    },
+    {
+      "code": "360425200",
+      "name": "三角乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/三角乡"
+    },
+    {
+      "code": "360425201",
+      "name": "九合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/九合乡"
+    },
+    {
+      "code": "360425203",
+      "name": "立新乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/立新乡"
+    },
+    {
+      "code": "360425205",
+      "name": "江上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360425",
+      "year": 0,
+      "name_path": "江西省/九江市/永修县/江上乡"
+    }
+  ]
+}

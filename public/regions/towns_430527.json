@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "430527100",
+      "name": "长铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/长铺镇"
+    },
+    {
+      "code": "430527101",
+      "name": "武阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/武阳镇"
+    },
+    {
+      "code": "430527102",
+      "name": "李熙桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/李熙桥镇"
+    },
+    {
+      "code": "430527103",
+      "name": "红岩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/红岩镇"
+    },
+    {
+      "code": "430527104",
+      "name": "唐家坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/唐家坊镇"
+    },
+    {
+      "code": "430527105",
+      "name": "金屋塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/金屋塘镇"
+    },
+    {
+      "code": "430527106",
+      "name": "瓦屋塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/瓦屋塘镇"
+    },
+    {
+      "code": "430527107",
+      "name": "黄土矿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/黄土矿镇"
+    },
+    {
+      "code": "430527200",
+      "name": "东山侗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/东山侗族乡"
+    },
+    {
+      "code": "430527201",
+      "name": "鹅公岭侗族苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/鹅公岭侗族苗族乡"
+    },
+    {
+      "code": "430527203",
+      "name": "寨市苗族侗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/寨市苗族侗族乡"
+    },
+    {
+      "code": "430527204",
+      "name": "乐安铺苗族侗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/乐安铺苗族侗族乡"
+    },
+    {
+      "code": "430527206",
+      "name": "关峡苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/关峡苗族乡"
+    },
+    {
+      "code": "430527207",
+      "name": "长铺子苗族侗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/长铺子苗族侗族乡"
+    },
+    {
+      "code": "430527210",
+      "name": "麻塘苗族瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/麻塘苗族瑶族乡"
+    },
+    {
+      "code": "430527212",
+      "name": "河口苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/河口苗族乡"
+    },
+    {
+      "code": "430527217",
+      "name": "水口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "430527",
+      "year": 0,
+      "name_path": "湖南省/邵阳市/绥宁县/水口乡"
+    }
+  ]
+}

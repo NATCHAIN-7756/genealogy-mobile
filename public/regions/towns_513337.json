@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "513337100",
+      "name": "金珠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/金珠镇"
+    },
+    {
+      "code": "513337101",
+      "name": "香格里拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/香格里拉镇"
+    },
+    {
+      "code": "513337102",
+      "name": "桑堆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/桑堆镇"
+    },
+    {
+      "code": "513337103",
+      "name": "吉呷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/吉呷镇"
+    },
+    {
+      "code": "513337104",
+      "name": "噶通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/噶通镇"
+    },
+    {
+      "code": "513337201",
+      "name": "省母乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/省母乡"
+    },
+    {
+      "code": "513337204",
+      "name": "巨龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/巨龙乡"
+    },
+    {
+      "code": "513337205",
+      "name": "邓坡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/邓坡乡"
+    },
+    {
+      "code": "513337206",
+      "name": "木拉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/木拉乡"
+    },
+    {
+      "code": "513337207",
+      "name": "赤土乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/赤土乡"
+    },
+    {
+      "code": "513337209",
+      "name": "蒙自乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/蒙自乡"
+    },
+    {
+      "code": "513337210",
+      "name": "各卡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/各卡乡"
+    },
+    {
+      "code": "513337212",
+      "name": "俄牙同乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513337",
+      "year": 0,
+      "name_path": "四川省/甘孜藏族自治州/稻城县/俄牙同乡"
+    }
+  ]
+}

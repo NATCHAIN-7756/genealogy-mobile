@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "500113001",
+      "name": "鱼洞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/鱼洞街道"
+    },
+    {
+      "code": "500113002",
+      "name": "李家沱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/李家沱街道"
+    },
+    {
+      "code": "500113003",
+      "name": "龙洲湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/龙洲湾街道"
+    },
+    {
+      "code": "500113004",
+      "name": "花溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/花溪街道"
+    },
+    {
+      "code": "500113005",
+      "name": "南泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/南泉街道"
+    },
+    {
+      "code": "500113006",
+      "name": "南彭街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/南彭街道"
+    },
+    {
+      "code": "500113007",
+      "name": "一品街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/一品街道"
+    },
+    {
+      "code": "500113008",
+      "name": "惠民街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/惠民街道"
+    },
+    {
+      "code": "500113009",
+      "name": "莲花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/莲花街道"
+    },
+    {
+      "code": "500113103",
+      "name": "界石镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/界石镇"
+    },
+    {
+      "code": "500113107",
+      "name": "安澜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/安澜镇"
+    },
+    {
+      "code": "500113108",
+      "name": "圣灯山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/圣灯山镇"
+    },
+    {
+      "code": "500113109",
+      "name": "木洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/木洞镇"
+    },
+    {
+      "code": "500113110",
+      "name": "双河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/双河口镇"
+    },
+    {
+      "code": "500113111",
+      "name": "麻柳嘴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/麻柳嘴镇"
+    },
+    {
+      "code": "500113112",
+      "name": "丰盛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/丰盛镇"
+    },
+    {
+      "code": "500113113",
+      "name": "二圣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/二圣镇"
+    },
+    {
+      "code": "500113114",
+      "name": "东温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/东温泉镇"
+    },
+    {
+      "code": "500113115",
+      "name": "姜家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/姜家镇"
+    },
+    {
+      "code": "500113116",
+      "name": "天星寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/天星寺镇"
+    },
+    {
+      "code": "500113117",
+      "name": "接龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/接龙镇"
+    },
+    {
+      "code": "500113118",
+      "name": "石滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/石滩镇"
+    },
+    {
+      "code": "500113119",
+      "name": "石龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "500113",
+      "year": 0,
+      "name_path": "重庆市/巴南区/石龙镇"
+    }
+  ]
+}

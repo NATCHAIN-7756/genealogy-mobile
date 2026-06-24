@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "361003001",
+      "name": "金峰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/金峰街道"
+    },
+    {
+      "code": "361003100",
+      "name": "孝岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/孝岗镇"
+    },
+    {
+      "code": "361003101",
+      "name": "小璜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/小璜镇"
+    },
+    {
+      "code": "361003102",
+      "name": "圩上桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/圩上桥镇"
+    },
+    {
+      "code": "361003103",
+      "name": "马圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/马圩镇"
+    },
+    {
+      "code": "361003104",
+      "name": "詹圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/詹圩镇"
+    },
+    {
+      "code": "361003105",
+      "name": "岗上积镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/岗上积镇"
+    },
+    {
+      "code": "361003106",
+      "name": "杨桥殿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/杨桥殿镇"
+    },
+    {
+      "code": "361003107",
+      "name": "王桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/王桥镇"
+    },
+    {
+      "code": "361003108",
+      "name": "黎圩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/黎圩镇"
+    },
+    {
+      "code": "361003109",
+      "name": "红星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/红星镇"
+    },
+    {
+      "code": "361003200",
+      "name": "珀玕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/珀玕乡"
+    },
+    {
+      "code": "361003201",
+      "name": "邓家乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/邓家乡"
+    },
+    {
+      "code": "361003202",
+      "name": "虎圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/虎圩乡"
+    },
+    {
+      "code": "361003203",
+      "name": "瑶圩乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361003",
+      "year": 0,
+      "name_path": "江西省/抚州市/东乡区/瑶圩乡"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140426101",
+      "name": "东阳关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/东阳关镇"
+    },
+    {
+      "code": "140426102",
+      "name": "上遥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/上遥镇"
+    },
+    {
+      "code": "140426103",
+      "name": "西井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/西井镇"
+    },
+    {
+      "code": "140426104",
+      "name": "黄崖洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/黄崖洞镇"
+    },
+    {
+      "code": "140426105",
+      "name": "黎侯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/黎侯镇"
+    },
+    {
+      "code": "140426106",
+      "name": "洪井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/洪井镇"
+    },
+    {
+      "code": "140426107",
+      "name": "西仵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/西仵镇"
+    },
+    {
+      "code": "140426108",
+      "name": "程家山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140426",
+      "year": 0,
+      "name_path": "山西省/长治市/黎城县/程家山镇"
+    }
+  ]
+}

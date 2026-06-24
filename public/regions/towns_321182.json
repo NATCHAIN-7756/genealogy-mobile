@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "321182001",
+      "name": "三茅街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321182",
+      "year": 0,
+      "name_path": "江苏省/镇江市/扬中市/三茅街道"
+    },
+    {
+      "code": "321182002",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321182",
+      "year": 0,
+      "name_path": "江苏省/镇江市/扬中市/兴隆街道"
+    },
+    {
+      "code": "321182101",
+      "name": "新坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321182",
+      "year": 0,
+      "name_path": "江苏省/镇江市/扬中市/新坝镇"
+    },
+    {
+      "code": "321182103",
+      "name": "油坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321182",
+      "year": 0,
+      "name_path": "江苏省/镇江市/扬中市/油坊镇"
+    },
+    {
+      "code": "321182104",
+      "name": "八桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321182",
+      "year": 0,
+      "name_path": "江苏省/镇江市/扬中市/八桥镇"
+    },
+    {
+      "code": "321182105",
+      "name": "西来桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321182",
+      "year": 0,
+      "name_path": "江苏省/镇江市/扬中市/西来桥镇"
+    }
+  ]
+}

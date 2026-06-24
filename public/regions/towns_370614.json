@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "370614001",
+      "name": "登州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/登州街道"
+    },
+    {
+      "code": "370614002",
+      "name": "紫荆山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/紫荆山街道"
+    },
+    {
+      "code": "370614003",
+      "name": "新港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/新港街道"
+    },
+    {
+      "code": "370614004",
+      "name": "蓬莱阁街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/蓬莱阁街道"
+    },
+    {
+      "code": "370614005",
+      "name": "南王街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/南王街道"
+    },
+    {
+      "code": "370614006",
+      "name": "南长山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/南长山街道"
+    },
+    {
+      "code": "370614101",
+      "name": "刘家沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/刘家沟镇"
+    },
+    {
+      "code": "370614102",
+      "name": "潮水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/潮水镇"
+    },
+    {
+      "code": "370614103",
+      "name": "大柳行镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/大柳行镇"
+    },
+    {
+      "code": "370614104",
+      "name": "小门家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/小门家镇"
+    },
+    {
+      "code": "370614105",
+      "name": "大辛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/大辛店镇"
+    },
+    {
+      "code": "370614106",
+      "name": "村里集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/村里集镇"
+    },
+    {
+      "code": "370614107",
+      "name": "北沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/北沟镇"
+    },
+    {
+      "code": "370614108",
+      "name": "砣矶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/砣矶镇"
+    },
+    {
+      "code": "370614201",
+      "name": "北长山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/北长山乡"
+    },
+    {
+      "code": "370614202",
+      "name": "黑山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/黑山乡"
+    },
+    {
+      "code": "370614203",
+      "name": "大钦岛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/大钦岛乡"
+    },
+    {
+      "code": "370614204",
+      "name": "小钦岛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/小钦岛乡"
+    },
+    {
+      "code": "370614205",
+      "name": "南隍城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/南隍城乡"
+    },
+    {
+      "code": "370614206",
+      "name": "北隍城乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "370614",
+      "year": 0,
+      "name_path": "山东省/烟台市/蓬莱区/北隍城乡"
+    }
+  ]
+}

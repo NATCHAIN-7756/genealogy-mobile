@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "141102001",
+      "name": "凤山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/凤山街道"
+    },
+    {
+      "code": "141102002",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/城北街道"
+    },
+    {
+      "code": "141102003",
+      "name": "滨河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/滨河街道"
+    },
+    {
+      "code": "141102004",
+      "name": "莲花池街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/莲花池街道"
+    },
+    {
+      "code": "141102005",
+      "name": "田家会街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/田家会街道"
+    },
+    {
+      "code": "141102006",
+      "name": "西属巴街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/西属巴街道"
+    },
+    {
+      "code": "141102007",
+      "name": "交口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/交口街道"
+    },
+    {
+      "code": "141102100",
+      "name": "吴城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/吴城镇"
+    },
+    {
+      "code": "141102104",
+      "name": "信义镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/信义镇"
+    },
+    {
+      "code": "141102201",
+      "name": "枣林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/枣林乡"
+    },
+    {
+      "code": "141102202",
+      "name": "坪头乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141102",
+      "year": 0,
+      "name_path": "山西省/吕梁市/离石区/坪头乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "220502001",
+      "name": "东昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/东昌街道"
+    },
+    {
+      "code": "220502002",
+      "name": "民主街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/民主街道"
+    },
+    {
+      "code": "220502003",
+      "name": "老站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/老站街道"
+    },
+    {
+      "code": "220502004",
+      "name": "团结街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/团结街道"
+    },
+    {
+      "code": "220502005",
+      "name": "新站街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/新站街道"
+    },
+    {
+      "code": "220502006",
+      "name": "光明街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/光明街道"
+    },
+    {
+      "code": "220502007",
+      "name": "龙泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/龙泉街道"
+    },
+    {
+      "code": "220502008",
+      "name": "滨江街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/滨江街道"
+    },
+    {
+      "code": "220502009",
+      "name": "陆港街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/陆港街道"
+    },
+    {
+      "code": "220502100",
+      "name": "金厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/金厂镇"
+    },
+    {
+      "code": "220502200",
+      "name": "环通乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/环通乡"
+    },
+    {
+      "code": "220502201",
+      "name": "江东乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "220502",
+      "year": 0,
+      "name_path": "吉林省/通化市/东昌区/江东乡"
+    }
+  ]
+}

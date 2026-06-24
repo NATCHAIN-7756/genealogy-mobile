@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "451223001",
+      "name": "思源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/思源街道"
+    },
+    {
+      "code": "451223100",
+      "name": "凤城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/凤城镇"
+    },
+    {
+      "code": "451223101",
+      "name": "长洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/长洲镇"
+    },
+    {
+      "code": "451223102",
+      "name": "三门海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/三门海镇"
+    },
+    {
+      "code": "451223201",
+      "name": "砦牙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/砦牙乡"
+    },
+    {
+      "code": "451223203",
+      "name": "乔音乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/乔音乡"
+    },
+    {
+      "code": "451223205",
+      "name": "金牙瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/金牙瑶族乡"
+    },
+    {
+      "code": "451223207",
+      "name": "中亭乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/中亭乡"
+    },
+    {
+      "code": "451223208",
+      "name": "平乐瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/平乐瑶族乡"
+    },
+    {
+      "code": "451223209",
+      "name": "江洲瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451223",
+      "year": 0,
+      "name_path": "广西壮族自治区/河池市/凤山县/江洲瑶族乡"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "640402",
+      "name": "原州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "640400",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/固原市/原州区"
+    },
+    {
+      "code": "640422",
+      "name": "西吉县",
+      "level": 3,
+      "type": null,
+      "parent_code": "640400",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/固原市/西吉县"
+    },
+    {
+      "code": "640423",
+      "name": "隆德县",
+      "level": 3,
+      "type": null,
+      "parent_code": "640400",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/固原市/隆德县"
+    },
+    {
+      "code": "640424",
+      "name": "泾源县",
+      "level": 3,
+      "type": null,
+      "parent_code": "640400",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/固原市/泾源县"
+    },
+    {
+      "code": "640425",
+      "name": "彭阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "640400",
+      "year": 0,
+      "name_path": "全国/宁夏回族自治区/固原市/彭阳县"
+    }
+  ]
+}

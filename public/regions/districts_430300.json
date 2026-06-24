@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "430302",
+      "name": "雨湖区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430300",
+      "year": 0,
+      "name_path": "全国/湖南省/湘潭市/雨湖区"
+    },
+    {
+      "code": "430304",
+      "name": "岳塘区",
+      "level": 3,
+      "type": null,
+      "parent_code": "430300",
+      "year": 0,
+      "name_path": "全国/湖南省/湘潭市/岳塘区"
+    },
+    {
+      "code": "430321",
+      "name": "湘潭县",
+      "level": 3,
+      "type": null,
+      "parent_code": "430300",
+      "year": 0,
+      "name_path": "全国/湖南省/湘潭市/湘潭县"
+    },
+    {
+      "code": "430381",
+      "name": "湘乡市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430300",
+      "year": 0,
+      "name_path": "全国/湖南省/湘潭市/湘乡市"
+    },
+    {
+      "code": "430382",
+      "name": "韶山市",
+      "level": 3,
+      "type": null,
+      "parent_code": "430300",
+      "year": 0,
+      "name_path": "全国/湖南省/湘潭市/韶山市"
+    }
+  ]
+}

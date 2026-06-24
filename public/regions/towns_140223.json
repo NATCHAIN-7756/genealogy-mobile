@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140223100",
+      "name": "壶泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/壶泉镇"
+    },
+    {
+      "code": "140223101",
+      "name": "南村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/南村镇"
+    },
+    {
+      "code": "140223102",
+      "name": "梁庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/梁庄镇"
+    },
+    {
+      "code": "140223103",
+      "name": "加斗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/加斗镇"
+    },
+    {
+      "code": "140223104",
+      "name": "作疃镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/作疃镇"
+    },
+    {
+      "code": "140223200",
+      "name": "一斗泉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/一斗泉乡"
+    },
+    {
+      "code": "140223202",
+      "name": "蕉山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/蕉山乡"
+    },
+    {
+      "code": "140223206",
+      "name": "宜兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140223",
+      "year": 0,
+      "name_path": "山西省/大同市/广灵县/宜兴乡"
+    }
+  ]
+}

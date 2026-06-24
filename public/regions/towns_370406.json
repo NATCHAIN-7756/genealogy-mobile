@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "370406001",
+      "name": "山城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/山城街道"
+    },
+    {
+      "code": "370406101",
+      "name": "店子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/店子镇"
+    },
+    {
+      "code": "370406102",
+      "name": "西集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/西集镇"
+    },
+    {
+      "code": "370406103",
+      "name": "桑村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/桑村镇"
+    },
+    {
+      "code": "370406104",
+      "name": "北庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/北庄镇"
+    },
+    {
+      "code": "370406105",
+      "name": "城头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/城头镇"
+    },
+    {
+      "code": "370406106",
+      "name": "徐庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/徐庄镇"
+    },
+    {
+      "code": "370406107",
+      "name": "水泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/水泉镇"
+    },
+    {
+      "code": "370406108",
+      "name": "冯卯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/冯卯镇"
+    },
+    {
+      "code": "370406109",
+      "name": "凫城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "370406",
+      "year": 0,
+      "name_path": "山东省/枣庄市/山亭区/凫城镇"
+    }
+  ]
+}

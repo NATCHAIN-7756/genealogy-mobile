@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "540523100",
+      "name": "桑日镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540523",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/桑日县/桑日镇"
+    },
+    {
+      "code": "540523200",
+      "name": "增期乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540523",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/桑日县/增期乡"
+    },
+    {
+      "code": "540523201",
+      "name": "白堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540523",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/桑日县/白堆乡"
+    },
+    {
+      "code": "540523202",
+      "name": "绒乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540523",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/桑日县/绒乡"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "330381001",
+      "name": "安阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/安阳街道"
+    },
+    {
+      "code": "330381002",
+      "name": "上望街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/上望街道"
+    },
+    {
+      "code": "330381003",
+      "name": "东山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/东山街道"
+    },
+    {
+      "code": "330381004",
+      "name": "玉海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/玉海街道"
+    },
+    {
+      "code": "330381005",
+      "name": "锦湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/锦湖街道"
+    },
+    {
+      "code": "330381006",
+      "name": "莘塍街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/莘塍街道"
+    },
+    {
+      "code": "330381007",
+      "name": "汀田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/汀田街道"
+    },
+    {
+      "code": "330381008",
+      "name": "南滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/南滨街道"
+    },
+    {
+      "code": "330381009",
+      "name": "飞云街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/飞云街道"
+    },
+    {
+      "code": "330381010",
+      "name": "仙降街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/仙降街道"
+    },
+    {
+      "code": "330381011",
+      "name": "潘岱街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/潘岱街道"
+    },
+    {
+      "code": "330381012",
+      "name": "云周街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/云周街道"
+    },
+    {
+      "code": "330381101",
+      "name": "塘下镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/塘下镇"
+    },
+    {
+      "code": "330381125",
+      "name": "陶山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/陶山镇"
+    },
+    {
+      "code": "330381126",
+      "name": "湖岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/湖岭镇"
+    },
+    {
+      "code": "330381127",
+      "name": "马屿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/马屿镇"
+    },
+    {
+      "code": "330381128",
+      "name": "高楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/高楼镇"
+    },
+    {
+      "code": "330381129",
+      "name": "桐浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/桐浦镇"
+    },
+    {
+      "code": "330381130",
+      "name": "曹村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/曹村镇"
+    },
+    {
+      "code": "330381131",
+      "name": "林川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/林川镇"
+    },
+    {
+      "code": "330381132",
+      "name": "平阳坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/平阳坑镇"
+    },
+    {
+      "code": "330381201",
+      "name": "北麂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/北麂乡"
+    },
+    {
+      "code": "330381202",
+      "name": "芳庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "330381",
+      "year": 0,
+      "name_path": "浙江省/温州市/瑞安市/芳庄乡"
+    }
+  ]
+}

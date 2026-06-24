@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "445202",
+      "name": "榕城区",
+      "level": 3,
+      "type": null,
+      "parent_code": "445200",
+      "year": 0,
+      "name_path": "全国/广东省/揭阳市/榕城区"
+    },
+    {
+      "code": "445203",
+      "name": "揭东区",
+      "level": 3,
+      "type": null,
+      "parent_code": "445200",
+      "year": 0,
+      "name_path": "全国/广东省/揭阳市/揭东区"
+    },
+    {
+      "code": "445222",
+      "name": "揭西县",
+      "level": 3,
+      "type": null,
+      "parent_code": "445200",
+      "year": 0,
+      "name_path": "全国/广东省/揭阳市/揭西县"
+    },
+    {
+      "code": "445224",
+      "name": "惠来县",
+      "level": 3,
+      "type": null,
+      "parent_code": "445200",
+      "year": 0,
+      "name_path": "全国/广东省/揭阳市/惠来县"
+    },
+    {
+      "code": "445281",
+      "name": "普宁市",
+      "level": 3,
+      "type": null,
+      "parent_code": "445200",
+      "year": 0,
+      "name_path": "全国/广东省/揭阳市/普宁市"
+    }
+  ]
+}

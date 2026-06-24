@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "441704100",
+      "name": "东城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/东城镇"
+    },
+    {
+      "code": "441704101",
+      "name": "北惯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/北惯镇"
+    },
+    {
+      "code": "441704102",
+      "name": "那龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/那龙镇"
+    },
+    {
+      "code": "441704103",
+      "name": "东平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/东平镇"
+    },
+    {
+      "code": "441704104",
+      "name": "雅韶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/雅韶镇"
+    },
+    {
+      "code": "441704105",
+      "name": "大沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/大沟镇"
+    },
+    {
+      "code": "441704106",
+      "name": "新洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/新洲镇"
+    },
+    {
+      "code": "441704107",
+      "name": "合山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/合山镇"
+    },
+    {
+      "code": "441704108",
+      "name": "塘坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/塘坪镇"
+    },
+    {
+      "code": "441704109",
+      "name": "大八镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/大八镇"
+    },
+    {
+      "code": "441704110",
+      "name": "红丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "441704",
+      "year": 0,
+      "name_path": "广东省/阳江市/阳东区/红丰镇"
+    }
+  ]
+}

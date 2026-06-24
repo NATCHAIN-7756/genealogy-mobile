@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "620104001",
+      "name": "陈坪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/陈坪街道"
+    },
+    {
+      "code": "620104002",
+      "name": "先锋路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/先锋路街道"
+    },
+    {
+      "code": "620104003",
+      "name": "福利路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/福利路街道"
+    },
+    {
+      "code": "620104004",
+      "name": "西固城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/西固城街道"
+    },
+    {
+      "code": "620104005",
+      "name": "临洮街街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/临洮街街道"
+    },
+    {
+      "code": "620104006",
+      "name": "西柳沟街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/西柳沟街道"
+    },
+    {
+      "code": "620104007",
+      "name": "四季青街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/四季青街道"
+    },
+    {
+      "code": "620104100",
+      "name": "新城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/新城镇"
+    },
+    {
+      "code": "620104101",
+      "name": "东川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/东川镇"
+    },
+    {
+      "code": "620104102",
+      "name": "河口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/河口镇"
+    },
+    {
+      "code": "620104103",
+      "name": "达川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/达川镇"
+    },
+    {
+      "code": "620104104",
+      "name": "柳泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/柳泉镇"
+    },
+    {
+      "code": "620104203",
+      "name": "金沟乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620104",
+      "year": 0,
+      "name_path": "甘肃省/兰州市/西固区/金沟乡"
+    }
+  ]
+}

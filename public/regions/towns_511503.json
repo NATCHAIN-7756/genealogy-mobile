@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "511503001",
+      "name": "南溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/南溪街道"
+    },
+    {
+      "code": "511503002",
+      "name": "罗龙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/罗龙街道"
+    },
+    {
+      "code": "511503003",
+      "name": "仙源街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/仙源街道"
+    },
+    {
+      "code": "511503004",
+      "name": "裴石街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/裴石街道"
+    },
+    {
+      "code": "511503102",
+      "name": "刘家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/刘家镇"
+    },
+    {
+      "code": "511503103",
+      "name": "江南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/江南镇"
+    },
+    {
+      "code": "511503104",
+      "name": "大观镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/大观镇"
+    },
+    {
+      "code": "511503105",
+      "name": "汪家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/汪家镇"
+    },
+    {
+      "code": "511503106",
+      "name": "黄沙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/黄沙镇"
+    },
+    {
+      "code": "511503107",
+      "name": "仙临镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/仙临镇"
+    },
+    {
+      "code": "511503108",
+      "name": "长兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511503",
+      "year": 0,
+      "name_path": "四川省/宜宾市/南溪区/长兴镇"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "code": "211224100",
+      "name": "昌图镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/昌图镇"
+    },
+    {
+      "code": "211224101",
+      "name": "老城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/老城镇"
+    },
+    {
+      "code": "211224102",
+      "name": "八面城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/八面城镇"
+    },
+    {
+      "code": "211224103",
+      "name": "三江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/三江口镇"
+    },
+    {
+      "code": "211224104",
+      "name": "金家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/金家镇"
+    },
+    {
+      "code": "211224105",
+      "name": "宝力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/宝力镇"
+    },
+    {
+      "code": "211224106",
+      "name": "泉头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/泉头镇"
+    },
+    {
+      "code": "211224107",
+      "name": "双庙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/双庙子镇"
+    },
+    {
+      "code": "211224108",
+      "name": "亮中桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/亮中桥镇"
+    },
+    {
+      "code": "211224109",
+      "name": "马仲河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/马仲河镇"
+    },
+    {
+      "code": "211224110",
+      "name": "毛家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/毛家店镇"
+    },
+    {
+      "code": "211224111",
+      "name": "老四平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/老四平镇"
+    },
+    {
+      "code": "211224112",
+      "name": "大洼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/大洼镇"
+    },
+    {
+      "code": "211224113",
+      "name": "头道镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/头道镇"
+    },
+    {
+      "code": "211224114",
+      "name": "鴜鹭树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/鴜鹭树镇"
+    },
+    {
+      "code": "211224115",
+      "name": "付家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/付家镇"
+    },
+    {
+      "code": "211224117",
+      "name": "四合镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/四合镇"
+    },
+    {
+      "code": "211224118",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/朝阳镇"
+    },
+    {
+      "code": "211224119",
+      "name": "古榆树镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/古榆树镇"
+    },
+    {
+      "code": "211224120",
+      "name": "七家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/七家子镇"
+    },
+    {
+      "code": "211224121",
+      "name": "东嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/东嘎镇"
+    },
+    {
+      "code": "211224122",
+      "name": "四面城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/四面城镇"
+    },
+    {
+      "code": "211224123",
+      "name": "前双井镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/前双井镇"
+    },
+    {
+      "code": "211224124",
+      "name": "通江口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/通江口镇"
+    },
+    {
+      "code": "211224125",
+      "name": "大四家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/大四家子镇"
+    },
+    {
+      "code": "211224126",
+      "name": "曲家店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/曲家店镇"
+    },
+    {
+      "code": "211224130",
+      "name": "平安堡镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/平安堡镇"
+    },
+    {
+      "code": "211224131",
+      "name": "下二台镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/下二台镇"
+    },
+    {
+      "code": "211224132",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/太平镇"
+    },
+    {
+      "code": "211224133",
+      "name": "十八家子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/十八家子镇"
+    },
+    {
+      "code": "211224134",
+      "name": "后窑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/后窑镇"
+    },
+    {
+      "code": "211224135",
+      "name": "大兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/大兴镇"
+    },
+    {
+      "code": "211224136",
+      "name": "长发镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211224",
+      "year": 0,
+      "name_path": "辽宁省/铁岭市/昌图县/长发镇"
+    }
+  ]
+}

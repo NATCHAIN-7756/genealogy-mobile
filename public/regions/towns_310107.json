@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "310107005",
+      "name": "曹杨新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/曹杨新村街道"
+    },
+    {
+      "code": "310107014",
+      "name": "长风新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/长风新村街道"
+    },
+    {
+      "code": "310107015",
+      "name": "长寿路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/长寿路街道"
+    },
+    {
+      "code": "310107016",
+      "name": "甘泉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/甘泉路街道"
+    },
+    {
+      "code": "310107017",
+      "name": "石泉路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/石泉路街道"
+    },
+    {
+      "code": "310107020",
+      "name": "宜川路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/宜川路街道"
+    },
+    {
+      "code": "310107021",
+      "name": "真如镇街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/真如镇街道"
+    },
+    {
+      "code": "310107022",
+      "name": "万里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/万里街道"
+    },
+    {
+      "code": "310107102",
+      "name": "长征镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/长征镇"
+    },
+    {
+      "code": "310107103",
+      "name": "桃浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "310107",
+      "year": 0,
+      "name_path": "上海市/普陀区/桃浦镇"
+    }
+  ]
+}

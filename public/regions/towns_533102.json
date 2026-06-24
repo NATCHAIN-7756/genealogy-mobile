@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "533102001",
+      "name": "勐卯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "533102",
+      "year": 0,
+      "name_path": "云南省/德宏傣族景颇族自治州/瑞丽市/勐卯街道"
+    },
+    {
+      "code": "533102101",
+      "name": "畹町镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533102",
+      "year": 0,
+      "name_path": "云南省/德宏傣族景颇族自治州/瑞丽市/畹町镇"
+    },
+    {
+      "code": "533102102",
+      "name": "弄岛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533102",
+      "year": 0,
+      "name_path": "云南省/德宏傣族景颇族自治州/瑞丽市/弄岛镇"
+    },
+    {
+      "code": "533102103",
+      "name": "姐相镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "533102",
+      "year": 0,
+      "name_path": "云南省/德宏傣族景颇族自治州/瑞丽市/姐相镇"
+    },
+    {
+      "code": "533102202",
+      "name": "户育乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533102",
+      "year": 0,
+      "name_path": "云南省/德宏傣族景颇族自治州/瑞丽市/户育乡"
+    },
+    {
+      "code": "533102203",
+      "name": "勐秀乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "533102",
+      "year": 0,
+      "name_path": "云南省/德宏傣族景颇族自治州/瑞丽市/勐秀乡"
+    }
+  ]
+}

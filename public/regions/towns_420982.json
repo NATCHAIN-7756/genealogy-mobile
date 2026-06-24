@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "420982001",
+      "name": "府城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/府城街道"
+    },
+    {
+      "code": "420982002",
+      "name": "南城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/南城街道"
+    },
+    {
+      "code": "420982100",
+      "name": "赵棚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/赵棚镇"
+    },
+    {
+      "code": "420982101",
+      "name": "李店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/李店镇"
+    },
+    {
+      "code": "420982102",
+      "name": "巡店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/巡店镇"
+    },
+    {
+      "code": "420982103",
+      "name": "棠棣镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/棠棣镇"
+    },
+    {
+      "code": "420982104",
+      "name": "雷公镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/雷公镇"
+    },
+    {
+      "code": "420982105",
+      "name": "王义贞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/王义贞镇"
+    },
+    {
+      "code": "420982106",
+      "name": "孛畈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/孛畈镇"
+    },
+    {
+      "code": "420982107",
+      "name": "烟店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/烟店镇"
+    },
+    {
+      "code": "420982108",
+      "name": "洑水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/洑水镇"
+    },
+    {
+      "code": "420982200",
+      "name": "陈店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/陈店乡"
+    },
+    {
+      "code": "420982201",
+      "name": "辛榨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/辛榨乡"
+    },
+    {
+      "code": "420982202",
+      "name": "木梓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/木梓乡"
+    },
+    {
+      "code": "420982203",
+      "name": "接官乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "420982",
+      "year": 0,
+      "name_path": "湖北省/孝感市/安陆市/接官乡"
+    }
+  ]
+}

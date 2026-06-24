@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "330902",
+      "name": "定海区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330900",
+      "year": 0,
+      "name_path": "全国/浙江省/舟山市/定海区"
+    },
+    {
+      "code": "330903",
+      "name": "普陀区",
+      "level": 3,
+      "type": null,
+      "parent_code": "330900",
+      "year": 0,
+      "name_path": "全国/浙江省/舟山市/普陀区"
+    },
+    {
+      "code": "330921",
+      "name": "岱山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330900",
+      "year": 0,
+      "name_path": "全国/浙江省/舟山市/岱山县"
+    },
+    {
+      "code": "330922",
+      "name": "嵊泗县",
+      "level": 3,
+      "type": null,
+      "parent_code": "330900",
+      "year": 0,
+      "name_path": "全国/浙江省/舟山市/嵊泗县"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "152923001",
+      "name": "东风街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/东风街道"
+    },
+    {
+      "code": "152923002",
+      "name": "航空街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/航空街道"
+    },
+    {
+      "code": "152923101",
+      "name": "东风镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/东风镇"
+    },
+    {
+      "code": "152923102",
+      "name": "达来呼布镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/达来呼布镇"
+    },
+    {
+      "code": "152923103",
+      "name": "哈日布日格德音乌拉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/哈日布日格德音乌拉镇"
+    },
+    {
+      "code": "152923104",
+      "name": "策克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/策克镇"
+    },
+    {
+      "code": "152923200",
+      "name": "赛汉陶来苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/赛汉陶来苏木"
+    },
+    {
+      "code": "152923204",
+      "name": "马鬃山苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/马鬃山苏木"
+    },
+    {
+      "code": "152923205",
+      "name": "苏泊淖尔苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/苏泊淖尔苏木"
+    },
+    {
+      "code": "152923206",
+      "name": "巴彦陶来苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/巴彦陶来苏木"
+    },
+    {
+      "code": "152923207",
+      "name": "温图高勒苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/温图高勒苏木"
+    },
+    {
+      "code": "152923208",
+      "name": "巴音陶海苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "152923",
+      "year": 0,
+      "name_path": "内蒙古自治区/阿拉善盟/额济纳旗/巴音陶海苏木"
+    }
+  ]
+}

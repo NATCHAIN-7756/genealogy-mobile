@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "230521100",
+      "name": "福利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/福利镇"
+    },
+    {
+      "code": "230521101",
+      "name": "集贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/集贤镇"
+    },
+    {
+      "code": "230521102",
+      "name": "升昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/升昌镇"
+    },
+    {
+      "code": "230521103",
+      "name": "丰乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/丰乐镇"
+    },
+    {
+      "code": "230521104",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/太平镇"
+    },
+    {
+      "code": "230521201",
+      "name": "腰屯乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/腰屯乡"
+    },
+    {
+      "code": "230521202",
+      "name": "兴安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/兴安乡"
+    },
+    {
+      "code": "230521204",
+      "name": "永安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230521",
+      "year": 0,
+      "name_path": "黑龙江省/双鸭山市/集贤县/永安乡"
+    }
+  ]
+}

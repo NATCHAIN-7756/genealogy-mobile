@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "140823100",
+      "name": "桐城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/桐城镇"
+    },
+    {
+      "code": "140823101",
+      "name": "郭家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/郭家庄镇"
+    },
+    {
+      "code": "140823102",
+      "name": "畖底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/畖底镇"
+    },
+    {
+      "code": "140823103",
+      "name": "薛店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/薛店镇"
+    },
+    {
+      "code": "140823104",
+      "name": "东镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/东镇镇"
+    },
+    {
+      "code": "140823105",
+      "name": "礼元镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/礼元镇"
+    },
+    {
+      "code": "140823106",
+      "name": "河底镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/河底镇"
+    },
+    {
+      "code": "140823107",
+      "name": "阳隅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/阳隅镇"
+    },
+    {
+      "code": "140823108",
+      "name": "侯村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/侯村镇"
+    },
+    {
+      "code": "140823109",
+      "name": "裴社镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/裴社镇"
+    },
+    {
+      "code": "140823204",
+      "name": "后宫乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/后宫乡"
+    },
+    {
+      "code": "140823205",
+      "name": "石门乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140823",
+      "year": 0,
+      "name_path": "山西省/运城市/闻喜县/石门乡"
+    }
+  ]
+}

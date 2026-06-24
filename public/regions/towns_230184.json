@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "230184100",
+      "name": "五常镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/五常镇"
+    },
+    {
+      "code": "230184101",
+      "name": "拉林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/拉林镇"
+    },
+    {
+      "code": "230184102",
+      "name": "山河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/山河镇"
+    },
+    {
+      "code": "230184103",
+      "name": "小山子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/小山子镇"
+    },
+    {
+      "code": "230184104",
+      "name": "安家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/安家镇"
+    },
+    {
+      "code": "230184105",
+      "name": "牛家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/牛家镇"
+    },
+    {
+      "code": "230184106",
+      "name": "杜家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/杜家镇"
+    },
+    {
+      "code": "230184107",
+      "name": "背荫河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/背荫河镇"
+    },
+    {
+      "code": "230184108",
+      "name": "冲河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/冲河镇"
+    },
+    {
+      "code": "230184109",
+      "name": "沙河子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/沙河子镇"
+    },
+    {
+      "code": "230184110",
+      "name": "向阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/向阳镇"
+    },
+    {
+      "code": "230184111",
+      "name": "龙凤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/龙凤山镇"
+    },
+    {
+      "code": "230184200",
+      "name": "兴盛乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/兴盛乡"
+    },
+    {
+      "code": "230184201",
+      "name": "志广乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/志广乡"
+    },
+    {
+      "code": "230184202",
+      "name": "卫国乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/卫国乡"
+    },
+    {
+      "code": "230184203",
+      "name": "常堡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/常堡乡"
+    },
+    {
+      "code": "230184206",
+      "name": "民意乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/民意乡"
+    },
+    {
+      "code": "230184209",
+      "name": "红旗满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/红旗满族乡"
+    },
+    {
+      "code": "230184210",
+      "name": "八家子乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/八家子乡"
+    },
+    {
+      "code": "230184211",
+      "name": "民乐朝鲜族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/民乐朝鲜族乡"
+    },
+    {
+      "code": "230184212",
+      "name": "营城子满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/营城子满族乡"
+    },
+    {
+      "code": "230184214",
+      "name": "长山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/长山乡"
+    },
+    {
+      "code": "230184215",
+      "name": "兴隆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/兴隆乡"
+    },
+    {
+      "code": "230184216",
+      "name": "二河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230184",
+      "year": 0,
+      "name_path": "黑龙江省/哈尔滨市/五常市/二河乡"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "511002001",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/城东街道"
+    },
+    {
+      "code": "511002003",
+      "name": "城西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/城西街道"
+    },
+    {
+      "code": "511002004",
+      "name": "玉溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/玉溪街道"
+    },
+    {
+      "code": "511002005",
+      "name": "牌楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/牌楼街道"
+    },
+    {
+      "code": "511002006",
+      "name": "壕子口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/壕子口街道"
+    },
+    {
+      "code": "511002007",
+      "name": "乐贤街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/乐贤街道"
+    },
+    {
+      "code": "511002100",
+      "name": "白马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/白马镇"
+    },
+    {
+      "code": "511002101",
+      "name": "史家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/史家镇"
+    },
+    {
+      "code": "511002102",
+      "name": "凌家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/凌家镇"
+    },
+    {
+      "code": "511002103",
+      "name": "朝阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/朝阳镇"
+    },
+    {
+      "code": "511002104",
+      "name": "永安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/永安镇"
+    },
+    {
+      "code": "511002105",
+      "name": "全安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/全安镇"
+    },
+    {
+      "code": "511002106",
+      "name": "靖民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/靖民镇"
+    },
+    {
+      "code": "511002110",
+      "name": "交通镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/交通镇"
+    },
+    {
+      "code": "511002113",
+      "name": "龙门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "511002",
+      "year": 0,
+      "name_path": "四川省/内江市/市中区/龙门镇"
+    }
+  ]
+}

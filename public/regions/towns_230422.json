@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "230422100",
+      "name": "绥滨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/绥滨镇"
+    },
+    {
+      "code": "230422101",
+      "name": "绥东镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/绥东镇"
+    },
+    {
+      "code": "230422102",
+      "name": "忠仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/忠仁镇"
+    },
+    {
+      "code": "230422200",
+      "name": "连生乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/连生乡"
+    },
+    {
+      "code": "230422201",
+      "name": "北岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/北岗乡"
+    },
+    {
+      "code": "230422202",
+      "name": "富强乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/富强乡"
+    },
+    {
+      "code": "230422203",
+      "name": "北山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/北山乡"
+    },
+    {
+      "code": "230422204",
+      "name": "福兴满族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/福兴满族乡"
+    },
+    {
+      "code": "230422205",
+      "name": "新富乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "230422",
+      "year": 0,
+      "name_path": "黑龙江省/鹤岗市/绥滨县/新富乡"
+    }
+  ]
+}

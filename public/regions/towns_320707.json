@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "320707100",
+      "name": "青口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/青口镇"
+    },
+    {
+      "code": "320707101",
+      "name": "柘汪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/柘汪镇"
+    },
+    {
+      "code": "320707102",
+      "name": "石桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/石桥镇"
+    },
+    {
+      "code": "320707103",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/金山镇"
+    },
+    {
+      "code": "320707104",
+      "name": "黑林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/黑林镇"
+    },
+    {
+      "code": "320707105",
+      "name": "厉庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/厉庄镇"
+    },
+    {
+      "code": "320707106",
+      "name": "海头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/海头镇"
+    },
+    {
+      "code": "320707107",
+      "name": "塔山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/塔山镇"
+    },
+    {
+      "code": "320707108",
+      "name": "赣马镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/赣马镇"
+    },
+    {
+      "code": "320707109",
+      "name": "班庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/班庄镇"
+    },
+    {
+      "code": "320707110",
+      "name": "城头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/城头镇"
+    },
+    {
+      "code": "320707111",
+      "name": "城西镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/城西镇"
+    },
+    {
+      "code": "320707112",
+      "name": "宋庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/宋庄镇"
+    },
+    {
+      "code": "320707113",
+      "name": "沙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/沙河镇"
+    },
+    {
+      "code": "320707114",
+      "name": "墩尚镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320707",
+      "year": 0,
+      "name_path": "江苏省/连云港市/赣榆区/墩尚镇"
+    }
+  ]
+}

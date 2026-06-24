@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "440514001",
+      "name": "峡山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/峡山街道"
+    },
+    {
+      "code": "440514101",
+      "name": "井都镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/井都镇"
+    },
+    {
+      "code": "440514102",
+      "name": "陇田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/陇田镇"
+    },
+    {
+      "code": "440514104",
+      "name": "成田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/成田镇"
+    },
+    {
+      "code": "440514105",
+      "name": "胪岗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/胪岗镇"
+    },
+    {
+      "code": "440514107",
+      "name": "两英镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/两英镇"
+    },
+    {
+      "code": "440514108",
+      "name": "司马浦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/司马浦镇"
+    },
+    {
+      "code": "440514109",
+      "name": "陈店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/陈店镇"
+    },
+    {
+      "code": "440514111",
+      "name": "仙城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/仙城镇"
+    },
+    {
+      "code": "440514112",
+      "name": "红场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/红场镇"
+    },
+    {
+      "code": "440514113",
+      "name": "雷岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440514",
+      "year": 0,
+      "name_path": "广东省/汕头市/潮南区/雷岭镇"
+    }
+  ]
+}

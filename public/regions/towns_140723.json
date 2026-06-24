@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "140723100",
+      "name": "义兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/义兴镇"
+    },
+    {
+      "code": "140723101",
+      "name": "李阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/李阳镇"
+    },
+    {
+      "code": "140723102",
+      "name": "松烟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/松烟镇"
+    },
+    {
+      "code": "140723103",
+      "name": "青城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/青城镇"
+    },
+    {
+      "code": "140723104",
+      "name": "横岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/横岭镇"
+    },
+    {
+      "code": "140723200",
+      "name": "喂马乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/喂马乡"
+    },
+    {
+      "code": "140723201",
+      "name": "平松乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/平松乡"
+    },
+    {
+      "code": "140723203",
+      "name": "马坊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "140723",
+      "year": 0,
+      "name_path": "山西省/晋中市/和顺县/马坊乡"
+    }
+  ]
+}

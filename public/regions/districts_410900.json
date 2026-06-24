@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "410902",
+      "name": "华龙区",
+      "level": 3,
+      "type": null,
+      "parent_code": "410900",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市/华龙区"
+    },
+    {
+      "code": "410922",
+      "name": "清丰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410900",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市/清丰县"
+    },
+    {
+      "code": "410923",
+      "name": "南乐县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410900",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市/南乐县"
+    },
+    {
+      "code": "410926",
+      "name": "范县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410900",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市/范县"
+    },
+    {
+      "code": "410927",
+      "name": "台前县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410900",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市/台前县"
+    },
+    {
+      "code": "410928",
+      "name": "濮阳县",
+      "level": 3,
+      "type": null,
+      "parent_code": "410900",
+      "year": 0,
+      "name_path": "全国/河南省/濮阳市/濮阳县"
+    }
+  ]
+}

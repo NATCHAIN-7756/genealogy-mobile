@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "659006001",
+      "name": "迎宾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/迎宾街道"
+    },
+    {
+      "code": "659006100",
+      "name": "博古其镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/博古其镇"
+    },
+    {
+      "code": "659006101",
+      "name": "双丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/双丰镇"
+    },
+    {
+      "code": "659006102",
+      "name": "河畔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/河畔镇"
+    },
+    {
+      "code": "659006103",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/高桥镇"
+    },
+    {
+      "code": "659006104",
+      "name": "天湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/天湖镇"
+    },
+    {
+      "code": "659006105",
+      "name": "开泽镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/开泽镇"
+    },
+    {
+      "code": "659006106",
+      "name": "米兰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/米兰镇"
+    },
+    {
+      "code": "659006107",
+      "name": "金山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/金山镇"
+    },
+    {
+      "code": "659006108",
+      "name": "南屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/南屯镇"
+    },
+    {
+      "code": "659006109",
+      "name": "开来镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/开来镇"
+    },
+    {
+      "code": "659006110",
+      "name": "西海镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/西海镇"
+    },
+    {
+      "code": "659006111",
+      "name": "罗杨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/罗杨镇"
+    },
+    {
+      "code": "659006112",
+      "name": "营盘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/营盘镇"
+    },
+    {
+      "code": "659006113",
+      "name": "蒲昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "659006",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/铁门关市/蒲昌镇"
+    }
+  ]
+}

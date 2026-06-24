@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "230207001",
+      "name": "东安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230207",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/碾子山区/东安街道"
+    },
+    {
+      "code": "230207002",
+      "name": "富强街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230207",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/碾子山区/富强街道"
+    },
+    {
+      "code": "230207003",
+      "name": "跃进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230207",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/碾子山区/跃进街道"
+    },
+    {
+      "code": "230207004",
+      "name": "繁荣街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "230207",
+      "year": 0,
+      "name_path": "黑龙江省/齐齐哈尔市/碾子山区/繁荣街道"
+    }
+  ]
+}

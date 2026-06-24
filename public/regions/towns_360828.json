@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "360828100",
+      "name": "芙蓉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/芙蓉镇"
+    },
+    {
+      "code": "360828101",
+      "name": "五丰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/五丰镇"
+    },
+    {
+      "code": "360828102",
+      "name": "枧头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/枧头镇"
+    },
+    {
+      "code": "360828103",
+      "name": "窑头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/窑头镇"
+    },
+    {
+      "code": "360828104",
+      "name": "百嘉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/百嘉镇"
+    },
+    {
+      "code": "360828105",
+      "name": "高陂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/高陂镇"
+    },
+    {
+      "code": "360828106",
+      "name": "潞田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/潞田镇"
+    },
+    {
+      "code": "360828107",
+      "name": "沙坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/沙坪镇"
+    },
+    {
+      "code": "360828108",
+      "name": "夏造镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/夏造镇"
+    },
+    {
+      "code": "360828201",
+      "name": "韶口乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/韶口乡"
+    },
+    {
+      "code": "360828202",
+      "name": "罗塘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/罗塘乡"
+    },
+    {
+      "code": "360828205",
+      "name": "弹前乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/弹前乡"
+    },
+    {
+      "code": "360828206",
+      "name": "武术乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/武术乡"
+    },
+    {
+      "code": "360828207",
+      "name": "宝山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/宝山乡"
+    },
+    {
+      "code": "360828208",
+      "name": "涧田乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/涧田乡"
+    },
+    {
+      "code": "360828209",
+      "name": "顺峰乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360828",
+      "year": 0,
+      "name_path": "江西省/吉安市/万安县/顺峰乡"
+    }
+  ]
+}

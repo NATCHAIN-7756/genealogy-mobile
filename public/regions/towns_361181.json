@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "361181001",
+      "name": "银城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/银城街道"
+    },
+    {
+      "code": "361181002",
+      "name": "新营街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/新营街道"
+    },
+    {
+      "code": "361181003",
+      "name": "香屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/香屯街道"
+    },
+    {
+      "code": "361181004",
+      "name": "铜矿街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/铜矿街道"
+    },
+    {
+      "code": "361181101",
+      "name": "泗洲镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/泗洲镇"
+    },
+    {
+      "code": "361181102",
+      "name": "花桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/花桥镇"
+    },
+    {
+      "code": "361181103",
+      "name": "绕二镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/绕二镇"
+    },
+    {
+      "code": "361181105",
+      "name": "海口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/海口镇"
+    },
+    {
+      "code": "361181106",
+      "name": "新岗山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/新岗山镇"
+    },
+    {
+      "code": "361181107",
+      "name": "大茅山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/大茅山镇"
+    },
+    {
+      "code": "361181200",
+      "name": "黄柏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/黄柏乡"
+    },
+    {
+      "code": "361181201",
+      "name": "万村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/万村乡"
+    },
+    {
+      "code": "361181202",
+      "name": "张村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/张村乡"
+    },
+    {
+      "code": "361181205",
+      "name": "昄大乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/昄大乡"
+    },
+    {
+      "code": "361181206",
+      "name": "李宅乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/李宅乡"
+    },
+    {
+      "code": "361181207",
+      "name": "龙头山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361181",
+      "year": 0,
+      "name_path": "江西省/上饶市/德兴市/龙头山乡"
+    }
+  ]
+}

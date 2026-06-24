@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "451202",
+      "name": "金城江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/金城江区"
+    },
+    {
+      "code": "451203",
+      "name": "宜州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/宜州区"
+    },
+    {
+      "code": "451221",
+      "name": "南丹县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/南丹县"
+    },
+    {
+      "code": "451222",
+      "name": "天峨县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/天峨县"
+    },
+    {
+      "code": "451223",
+      "name": "凤山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/凤山县"
+    },
+    {
+      "code": "451224",
+      "name": "东兰县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/东兰县"
+    },
+    {
+      "code": "451225",
+      "name": "罗城仫佬族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/罗城仫佬族自治县"
+    },
+    {
+      "code": "451226",
+      "name": "环江毛南族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/环江毛南族自治县"
+    },
+    {
+      "code": "451227",
+      "name": "巴马瑶族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/巴马瑶族自治县"
+    },
+    {
+      "code": "451228",
+      "name": "都安瑶族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/都安瑶族自治县"
+    },
+    {
+      "code": "451229",
+      "name": "大化瑶族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "451200",
+      "year": 0,
+      "name_path": "全国/广西壮族自治区/河池市/大化瑶族自治县"
+    }
+  ]
+}

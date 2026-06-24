@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "150825100",
+      "name": "巴音宝力格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150825",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/乌拉特后旗/巴音宝力格镇"
+    },
+    {
+      "code": "150825101",
+      "name": "呼和温都尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150825",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/乌拉特后旗/呼和温都尔镇"
+    },
+    {
+      "code": "150825103",
+      "name": "潮格温都尔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "150825",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/乌拉特后旗/潮格温都尔镇"
+    },
+    {
+      "code": "150825204",
+      "name": "获各琦苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150825",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/乌拉特后旗/获各琦苏木"
+    },
+    {
+      "code": "150825207",
+      "name": "巴音前达门苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150825",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/乌拉特后旗/巴音前达门苏木"
+    },
+    {
+      "code": "150825208",
+      "name": "乌盖苏木",
+      "level": 4,
+      "type": null,
+      "parent_code": "150825",
+      "year": 0,
+      "name_path": "内蒙古自治区/巴彦淖尔市/乌拉特后旗/乌盖苏木"
+    }
+  ]
+}

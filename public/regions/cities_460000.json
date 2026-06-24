@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "460100",
+      "name": "海口市",
+      "level": 2,
+      "type": null,
+      "parent_code": "460000",
+      "year": 0,
+      "name_path": "全国/海南省/海口市"
+    },
+    {
+      "code": "460200",
+      "name": "三亚市",
+      "level": 2,
+      "type": null,
+      "parent_code": "460000",
+      "year": 0,
+      "name_path": "全国/海南省/三亚市"
+    },
+    {
+      "code": "460300",
+      "name": "三沙市",
+      "level": 2,
+      "type": null,
+      "parent_code": "460000",
+      "year": 0,
+      "name_path": "全国/海南省/三沙市"
+    },
+    {
+      "code": "460400",
+      "name": "儋州市",
+      "level": 2,
+      "type": null,
+      "parent_code": "460000",
+      "year": 0,
+      "name_path": "全国/海南省/儋州市"
+    }
+  ]
+}

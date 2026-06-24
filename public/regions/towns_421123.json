@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "421123100",
+      "name": "凤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/凤山镇"
+    },
+    {
+      "code": "421123101",
+      "name": "骆驼坳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/骆驼坳镇"
+    },
+    {
+      "code": "421123103",
+      "name": "大河岸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/大河岸镇"
+    },
+    {
+      "code": "421123104",
+      "name": "九资河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/九资河镇"
+    },
+    {
+      "code": "421123105",
+      "name": "胜利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/胜利镇"
+    },
+    {
+      "code": "421123106",
+      "name": "河铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/河铺镇"
+    },
+    {
+      "code": "421123107",
+      "name": "三里畈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/三里畈镇"
+    },
+    {
+      "code": "421123108",
+      "name": "匡河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/匡河镇"
+    },
+    {
+      "code": "421123109",
+      "name": "白庙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/白庙河镇"
+    },
+    {
+      "code": "421123110",
+      "name": "大崎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/大崎镇"
+    },
+    {
+      "code": "421123201",
+      "name": "白莲河乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/白莲河乡"
+    },
+    {
+      "code": "421123209",
+      "name": "平湖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421123",
+      "year": 0,
+      "name_path": "湖北省/黄冈市/罗田县/平湖乡"
+    }
+  ]
+}

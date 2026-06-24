@@ -1,0 +1,193 @@
+{
+  "data": [
+    {
+      "code": "433130001",
+      "name": "民安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/民安街道"
+    },
+    {
+      "code": "433130002",
+      "name": "华塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/华塘街道"
+    },
+    {
+      "code": "433130004",
+      "name": "石羔街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/石羔街道"
+    },
+    {
+      "code": "433130005",
+      "name": "兴隆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/兴隆街道"
+    },
+    {
+      "code": "433130102",
+      "name": "茨岩塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/茨岩塘镇"
+    },
+    {
+      "code": "433130103",
+      "name": "红岩溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/红岩溪镇"
+    },
+    {
+      "code": "433130104",
+      "name": "洗车河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/洗车河镇"
+    },
+    {
+      "code": "433130105",
+      "name": "苗儿滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/苗儿滩镇"
+    },
+    {
+      "code": "433130107",
+      "name": "里耶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/里耶镇"
+    },
+    {
+      "code": "433130108",
+      "name": "召市镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/召市镇"
+    },
+    {
+      "code": "433130109",
+      "name": "桂塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/桂塘镇"
+    },
+    {
+      "code": "433130110",
+      "name": "石牌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/石牌镇"
+    },
+    {
+      "code": "433130111",
+      "name": "靛房镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/靛房镇"
+    },
+    {
+      "code": "433130112",
+      "name": "洗洛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/洗洛镇"
+    },
+    {
+      "code": "433130113",
+      "name": "水田坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/水田坝镇"
+    },
+    {
+      "code": "433130114",
+      "name": "农车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/农车镇"
+    },
+    {
+      "code": "433130200",
+      "name": "洛塔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/洛塔乡"
+    },
+    {
+      "code": "433130210",
+      "name": "大安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/大安乡"
+    },
+    {
+      "code": "433130215",
+      "name": "茅坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/茅坪乡"
+    },
+    {
+      "code": "433130222",
+      "name": "内溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/内溪乡"
+    },
+    {
+      "code": "433130236",
+      "name": "咱果乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "433130",
+      "year": 0,
+      "name_path": "湖南省/湘西土家族苗族自治州/龙山县/咱果乡"
+    }
+  ]
+}

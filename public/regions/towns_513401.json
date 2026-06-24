@@ -1,0 +1,229 @@
+{
+  "data": [
+    {
+      "code": "513401001",
+      "name": "西城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/西城街道"
+    },
+    {
+      "code": "513401002",
+      "name": "东城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/东城街道"
+    },
+    {
+      "code": "513401003",
+      "name": "北城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/北城街道"
+    },
+    {
+      "code": "513401004",
+      "name": "长安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/长安街道"
+    },
+    {
+      "code": "513401005",
+      "name": "新村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/新村街道"
+    },
+    {
+      "code": "513401007",
+      "name": "海南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/海南街道"
+    },
+    {
+      "code": "513401008",
+      "name": "马道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/马道街道"
+    },
+    {
+      "code": "513401101",
+      "name": "礼州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/礼州镇"
+    },
+    {
+      "code": "513401102",
+      "name": "安宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/安宁镇"
+    },
+    {
+      "code": "513401103",
+      "name": "川兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/川兴镇"
+    },
+    {
+      "code": "513401104",
+      "name": "黄联关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/黄联关镇"
+    },
+    {
+      "code": "513401105",
+      "name": "佑君镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/佑君镇"
+    },
+    {
+      "code": "513401106",
+      "name": "太和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/太和镇"
+    },
+    {
+      "code": "513401107",
+      "name": "安哈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/安哈镇"
+    },
+    {
+      "code": "513401108",
+      "name": "阿七镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/阿七镇"
+    },
+    {
+      "code": "513401109",
+      "name": "樟木箐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/樟木箐镇"
+    },
+    {
+      "code": "513401110",
+      "name": "琅环镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/琅环镇"
+    },
+    {
+      "code": "513401111",
+      "name": "巴汝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/巴汝镇"
+    },
+    {
+      "code": "513401203",
+      "name": "四合乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/四合乡"
+    },
+    {
+      "code": "513401211",
+      "name": "开元乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/开元乡"
+    },
+    {
+      "code": "513401212",
+      "name": "大兴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/大兴乡"
+    },
+    {
+      "code": "513401215",
+      "name": "经久乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/经久乡"
+    },
+    {
+      "code": "513401219",
+      "name": "裕隆回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/裕隆回族乡"
+    },
+    {
+      "code": "513401220",
+      "name": "高草回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/高草回族乡"
+    },
+    {
+      "code": "513401228",
+      "name": "马鞍山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513401",
+      "year": 0,
+      "name_path": "四川省/凉山彝族自治州/西昌市/马鞍山乡"
+    }
+  ]
+}

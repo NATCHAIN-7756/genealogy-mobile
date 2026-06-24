@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "350802",
+      "name": "新罗区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/新罗区"
+    },
+    {
+      "code": "350803",
+      "name": "永定区",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/永定区"
+    },
+    {
+      "code": "350821",
+      "name": "长汀县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/长汀县"
+    },
+    {
+      "code": "350823",
+      "name": "上杭县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/上杭县"
+    },
+    {
+      "code": "350824",
+      "name": "武平县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/武平县"
+    },
+    {
+      "code": "350825",
+      "name": "连城县",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/连城县"
+    },
+    {
+      "code": "350881",
+      "name": "漳平市",
+      "level": 3,
+      "type": null,
+      "parent_code": "350800",
+      "year": 0,
+      "name_path": "全国/福建省/龙岩市/漳平市"
+    }
+  ]
+}

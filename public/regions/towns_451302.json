@@ -1,0 +1,220 @@
+{
+  "data": [
+    {
+      "code": "451302001",
+      "name": "城北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/城北街道"
+    },
+    {
+      "code": "451302002",
+      "name": "城东街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/城东街道"
+    },
+    {
+      "code": "451302003",
+      "name": "河西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/河西街道"
+    },
+    {
+      "code": "451302004",
+      "name": "来华街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/来华街道"
+    },
+    {
+      "code": "451302101",
+      "name": "凤凰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/凤凰镇"
+    },
+    {
+      "code": "451302102",
+      "name": "良江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/良江镇"
+    },
+    {
+      "code": "451302103",
+      "name": "小平阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/小平阳镇"
+    },
+    {
+      "code": "451302104",
+      "name": "迁江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/迁江镇"
+    },
+    {
+      "code": "451302105",
+      "name": "石陵镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/石陵镇"
+    },
+    {
+      "code": "451302106",
+      "name": "平阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/平阳镇"
+    },
+    {
+      "code": "451302107",
+      "name": "蒙村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/蒙村镇"
+    },
+    {
+      "code": "451302108",
+      "name": "大湾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/大湾镇"
+    },
+    {
+      "code": "451302109",
+      "name": "桥巩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/桥巩镇"
+    },
+    {
+      "code": "451302110",
+      "name": "寺山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/寺山镇"
+    },
+    {
+      "code": "451302111",
+      "name": "城厢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/城厢镇"
+    },
+    {
+      "code": "451302112",
+      "name": "三五镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/三五镇"
+    },
+    {
+      "code": "451302113",
+      "name": "陶邓镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/陶邓镇"
+    },
+    {
+      "code": "451302114",
+      "name": "石牙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/石牙镇"
+    },
+    {
+      "code": "451302115",
+      "name": "五山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/五山镇"
+    },
+    {
+      "code": "451302116",
+      "name": "良塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/良塘镇"
+    },
+    {
+      "code": "451302206",
+      "name": "七洞乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/七洞乡"
+    },
+    {
+      "code": "451302213",
+      "name": "南泗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/南泗乡"
+    },
+    {
+      "code": "451302214",
+      "name": "高安乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/高安乡"
+    },
+    {
+      "code": "451302216",
+      "name": "正龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451302",
+      "year": 0,
+      "name_path": "广西壮族自治区/来宾市/兴宾区/正龙乡"
+    }
+  ]
+}

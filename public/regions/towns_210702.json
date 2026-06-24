@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "210702002",
+      "name": "石油街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210702",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/古塔区/石油街道"
+    },
+    {
+      "code": "210702004",
+      "name": "敬业街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210702",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/古塔区/敬业街道"
+    },
+    {
+      "code": "210702005",
+      "name": "保安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210702",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/古塔区/保安街道"
+    },
+    {
+      "code": "210702009",
+      "name": "士英街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210702",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/古塔区/士英街道"
+    },
+    {
+      "code": "210702011",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "210702",
+      "year": 0,
+      "name_path": "辽宁省/锦州市/古塔区/古城街道"
+    }
+  ]
+}

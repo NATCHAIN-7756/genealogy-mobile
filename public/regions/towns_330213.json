@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "330213001",
+      "name": "锦屏街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/锦屏街道"
+    },
+    {
+      "code": "330213002",
+      "name": "岳林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/岳林街道"
+    },
+    {
+      "code": "330213003",
+      "name": "江口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/江口街道"
+    },
+    {
+      "code": "330213004",
+      "name": "西坞街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/西坞街道"
+    },
+    {
+      "code": "330213005",
+      "name": "萧王庙街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/萧王庙街道"
+    },
+    {
+      "code": "330213006",
+      "name": "方桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/方桥街道"
+    },
+    {
+      "code": "330213007",
+      "name": "莼湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/莼湖街道"
+    },
+    {
+      "code": "330213008",
+      "name": "尚田街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/尚田街道"
+    },
+    {
+      "code": "330213100",
+      "name": "溪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/溪口镇"
+    },
+    {
+      "code": "330213103",
+      "name": "裘村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/裘村镇"
+    },
+    {
+      "code": "330213104",
+      "name": "大堰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/大堰镇"
+    },
+    {
+      "code": "330213105",
+      "name": "松岙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "330213",
+      "year": 0,
+      "name_path": "浙江省/宁波市/奉化区/松岙镇"
+    }
+  ]
+}

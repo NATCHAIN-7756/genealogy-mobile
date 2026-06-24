@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "610822100",
+      "name": "府谷镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/府谷镇"
+    },
+    {
+      "code": "610822101",
+      "name": "黄甫镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/黄甫镇"
+    },
+    {
+      "code": "610822103",
+      "name": "哈镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/哈镇"
+    },
+    {
+      "code": "610822104",
+      "name": "庙沟门镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/庙沟门镇"
+    },
+    {
+      "code": "610822105",
+      "name": "新民镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/新民镇"
+    },
+    {
+      "code": "610822106",
+      "name": "孤山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/孤山镇"
+    },
+    {
+      "code": "610822108",
+      "name": "清水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/清水镇"
+    },
+    {
+      "code": "610822109",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/古城镇"
+    },
+    {
+      "code": "610822110",
+      "name": "三道沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/三道沟镇"
+    },
+    {
+      "code": "610822112",
+      "name": "大昌汗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/大昌汗镇"
+    },
+    {
+      "code": "610822113",
+      "name": "老高川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/老高川镇"
+    },
+    {
+      "code": "610822114",
+      "name": "武家庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/武家庄镇"
+    },
+    {
+      "code": "610822115",
+      "name": "木瓜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/木瓜镇"
+    },
+    {
+      "code": "610822116",
+      "name": "田家寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "610822",
+      "year": 0,
+      "name_path": "陕西省/榆林市/府谷县/田家寨镇"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "431229100",
+      "name": "渠阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/渠阳镇"
+    },
+    {
+      "code": "431229101",
+      "name": "甘棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/甘棠镇"
+    },
+    {
+      "code": "431229102",
+      "name": "大堡子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/大堡子镇"
+    },
+    {
+      "code": "431229103",
+      "name": "坳上镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/坳上镇"
+    },
+    {
+      "code": "431229104",
+      "name": "新厂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/新厂镇"
+    },
+    {
+      "code": "431229105",
+      "name": "平茶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/平茶镇"
+    },
+    {
+      "code": "431229200",
+      "name": "太阳坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/太阳坪乡"
+    },
+    {
+      "code": "431229201",
+      "name": "三锹乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/三锹乡"
+    },
+    {
+      "code": "431229202",
+      "name": "文溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/文溪乡"
+    },
+    {
+      "code": "431229203",
+      "name": "寨牙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/寨牙乡"
+    },
+    {
+      "code": "431229206",
+      "name": "藕团乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "431229",
+      "year": 0,
+      "name_path": "湖南省/怀化市/靖州苗族侗族自治县/藕团乡"
+    }
+  ]
+}

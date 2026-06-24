@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "410621001",
+      "name": "黎阳街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/黎阳街道"
+    },
+    {
+      "code": "410621003",
+      "name": "卫溪街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/卫溪街道"
+    },
+    {
+      "code": "410621004",
+      "name": "浚州街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/浚州街道"
+    },
+    {
+      "code": "410621005",
+      "name": "伾山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/伾山街道"
+    },
+    {
+      "code": "410621101",
+      "name": "善堂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/善堂镇"
+    },
+    {
+      "code": "410621102",
+      "name": "屯子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/屯子镇"
+    },
+    {
+      "code": "410621103",
+      "name": "王庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/王庄镇"
+    },
+    {
+      "code": "410621104",
+      "name": "新镇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/新镇镇"
+    },
+    {
+      "code": "410621105",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/小河镇"
+    },
+    {
+      "code": "410621107",
+      "name": "卫贤镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/卫贤镇"
+    },
+    {
+      "code": "410621108",
+      "name": "白寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "410621",
+      "year": 0,
+      "name_path": "河南省/鹤壁市/浚县/白寺镇"
+    }
+  ]
+}

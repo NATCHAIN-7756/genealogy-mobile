@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "530304001",
+      "name": "通泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/通泉街道"
+    },
+    {
+      "code": "530304002",
+      "name": "鸡头村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/鸡头村街道"
+    },
+    {
+      "code": "530304003",
+      "name": "王家庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/王家庄街道"
+    },
+    {
+      "code": "530304004",
+      "name": "张安屯街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/张安屯街道"
+    },
+    {
+      "code": "530304005",
+      "name": "旧县街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/旧县街道"
+    },
+    {
+      "code": "530304100",
+      "name": "马过河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/马过河镇"
+    },
+    {
+      "code": "530304101",
+      "name": "纳章镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/纳章镇"
+    },
+    {
+      "code": "530304200",
+      "name": "马鸣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/马鸣乡"
+    },
+    {
+      "code": "530304201",
+      "name": "大庄乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/大庄乡"
+    },
+    {
+      "code": "530304202",
+      "name": "月望乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "530304",
+      "year": 0,
+      "name_path": "云南省/曲靖市/马龙区/月望乡"
+    }
+  ]
+}

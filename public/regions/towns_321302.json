@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "321302001",
+      "name": "幸福街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/幸福街道"
+    },
+    {
+      "code": "321302002",
+      "name": "项里街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/项里街道"
+    },
+    {
+      "code": "321302003",
+      "name": "河滨街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/河滨街道"
+    },
+    {
+      "code": "321302004",
+      "name": "古城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/古城街道"
+    },
+    {
+      "code": "321302005",
+      "name": "支口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/支口街道"
+    },
+    {
+      "code": "321302006",
+      "name": "双庄街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/双庄街道"
+    },
+    {
+      "code": "321302007",
+      "name": "三棵树街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/三棵树街道"
+    },
+    {
+      "code": "321302008",
+      "name": "黄河街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/黄河街道"
+    },
+    {
+      "code": "321302009",
+      "name": "洋北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/洋北街道"
+    },
+    {
+      "code": "321302010",
+      "name": "古楚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/古楚街道"
+    },
+    {
+      "code": "321302101",
+      "name": "耿车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/耿车镇"
+    },
+    {
+      "code": "321302102",
+      "name": "埠子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/埠子镇"
+    },
+    {
+      "code": "321302107",
+      "name": "中扬镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/中扬镇"
+    },
+    {
+      "code": "321302109",
+      "name": "陈集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/陈集镇"
+    },
+    {
+      "code": "321302110",
+      "name": "洋河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/洋河镇"
+    },
+    {
+      "code": "321302111",
+      "name": "蔡集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/蔡集镇"
+    },
+    {
+      "code": "321302112",
+      "name": "龙河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/龙河镇"
+    },
+    {
+      "code": "321302113",
+      "name": "屠园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/屠园镇"
+    },
+    {
+      "code": "321302202",
+      "name": "南蔡乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "321302",
+      "year": 0,
+      "name_path": "江苏省/宿迁市/宿城区/南蔡乡"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "652924100",
+      "name": "沙雅镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/沙雅镇"
+    },
+    {
+      "code": "652924101",
+      "name": "托依堡勒迪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/托依堡勒迪镇"
+    },
+    {
+      "code": "652924102",
+      "name": "红旗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/红旗镇"
+    },
+    {
+      "code": "652924103",
+      "name": "英买力镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/英买力镇"
+    },
+    {
+      "code": "652924104",
+      "name": "哈德墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/哈德墩镇"
+    },
+    {
+      "code": "652924105",
+      "name": "古勒巴格镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/古勒巴格镇"
+    },
+    {
+      "code": "652924106",
+      "name": "海楼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/海楼镇"
+    },
+    {
+      "code": "652924107",
+      "name": "塔兴镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/塔兴镇"
+    },
+    {
+      "code": "652924205",
+      "name": "努尔巴格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/努尔巴格乡"
+    },
+    {
+      "code": "652924206",
+      "name": "塔里木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/塔里木乡"
+    },
+    {
+      "code": "652924207",
+      "name": "盖孜库木乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/盖孜库木乡"
+    },
+    {
+      "code": "652924208",
+      "name": "央塔克协海尔乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652924",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/沙雅县/央塔克协海尔乡"
+    }
+  ]
+}

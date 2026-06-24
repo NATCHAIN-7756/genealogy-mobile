@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "540121100",
+      "name": "甘丹曲果镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/甘丹曲果镇"
+    },
+    {
+      "code": "540121101",
+      "name": "强嘎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/强嘎镇"
+    },
+    {
+      "code": "540121102",
+      "name": "边交林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/边交林镇"
+    },
+    {
+      "code": "540121103",
+      "name": "唐古镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/唐古镇"
+    },
+    {
+      "code": "540121200",
+      "name": "春堆乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/春堆乡"
+    },
+    {
+      "code": "540121201",
+      "name": "松盘乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/松盘乡"
+    },
+    {
+      "code": "540121204",
+      "name": "江热夏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/江热夏乡"
+    },
+    {
+      "code": "540121205",
+      "name": "卡孜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/卡孜乡"
+    },
+    {
+      "code": "540121206",
+      "name": "旁多乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/旁多乡"
+    },
+    {
+      "code": "540121208",
+      "name": "阿朗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540121",
+      "year": 0,
+      "name_path": "西藏自治区/拉萨市/林周县/阿朗乡"
+    }
+  ]
+}

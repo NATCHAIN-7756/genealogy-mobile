@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "152202001",
+      "name": "林海街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/林海街道"
+    },
+    {
+      "code": "152202002",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/新城街道"
+    },
+    {
+      "code": "152202003",
+      "name": "温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/温泉街道"
+    },
+    {
+      "code": "152202004",
+      "name": "伊尔施街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/伊尔施街道"
+    },
+    {
+      "code": "152202100",
+      "name": "天池镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/天池镇"
+    },
+    {
+      "code": "152202101",
+      "name": "白狼镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/白狼镇"
+    },
+    {
+      "code": "152202102",
+      "name": "五岔沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/五岔沟镇"
+    },
+    {
+      "code": "152202103",
+      "name": "明水河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "152202",
+      "year": 0,
+      "name_path": "内蒙古自治区/兴安盟/阿尔山市/明水河镇"
+    }
+  ]
+}

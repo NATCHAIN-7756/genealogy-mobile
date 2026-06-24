@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "652929100",
+      "name": "柯坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652929",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/柯坪县/柯坪镇"
+    },
+    {
+      "code": "652929101",
+      "name": "盖孜力克镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652929",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/柯坪县/盖孜力克镇"
+    },
+    {
+      "code": "652929102",
+      "name": "阿恰勒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "652929",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/柯坪县/阿恰勒镇"
+    },
+    {
+      "code": "652929201",
+      "name": "玉尔其乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652929",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/柯坪县/玉尔其乡"
+    },
+    {
+      "code": "652929203",
+      "name": "启浪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "652929",
+      "year": 0,
+      "name_path": "新疆维吾尔自治区/阿克苏地区/柯坪县/启浪乡"
+    }
+  ]
+}

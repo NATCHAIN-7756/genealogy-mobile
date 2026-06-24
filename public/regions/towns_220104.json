@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "220104001",
+      "name": "前进街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/前进街道"
+    },
+    {
+      "code": "220104002",
+      "name": "桂林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/桂林街道"
+    },
+    {
+      "code": "220104003",
+      "name": "南湖街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/南湖街道"
+    },
+    {
+      "code": "220104004",
+      "name": "永昌街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/永昌街道"
+    },
+    {
+      "code": "220104005",
+      "name": "重庆街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/重庆街道"
+    },
+    {
+      "code": "220104006",
+      "name": "清和街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/清和街道"
+    },
+    {
+      "code": "220104007",
+      "name": "红旗街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/红旗街道"
+    },
+    {
+      "code": "220104008",
+      "name": "湖西街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/湖西街道"
+    },
+    {
+      "code": "220104009",
+      "name": "富锋街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/富锋街道"
+    },
+    {
+      "code": "220104010",
+      "name": "硅谷街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/硅谷街道"
+    },
+    {
+      "code": "220104011",
+      "name": "双德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/双德街道"
+    },
+    {
+      "code": "220104012",
+      "name": "飞跃街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/飞跃街道"
+    },
+    {
+      "code": "220104013",
+      "name": "前程街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/前程街道"
+    },
+    {
+      "code": "220104014",
+      "name": "超越街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/超越街道"
+    },
+    {
+      "code": "220104101",
+      "name": "乐山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/乐山镇"
+    },
+    {
+      "code": "220104102",
+      "name": "永春镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "220104",
+      "year": 0,
+      "name_path": "吉林省/长春市/朝阳区/永春镇"
+    }
+  ]
+}

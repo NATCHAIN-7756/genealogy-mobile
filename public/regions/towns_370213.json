@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "370213001",
+      "name": "振华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/振华路街道"
+    },
+    {
+      "code": "370213003",
+      "name": "沧口街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/沧口街道"
+    },
+    {
+      "code": "370213004",
+      "name": "兴华路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/兴华路街道"
+    },
+    {
+      "code": "370213005",
+      "name": "兴城路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/兴城路街道"
+    },
+    {
+      "code": "370213006",
+      "name": "李村街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/李村街道"
+    },
+    {
+      "code": "370213007",
+      "name": "虎山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/虎山路街道"
+    },
+    {
+      "code": "370213008",
+      "name": "浮山路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/浮山路街道"
+    },
+    {
+      "code": "370213010",
+      "name": "湘潭路街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/湘潭路街道"
+    },
+    {
+      "code": "370213011",
+      "name": "楼山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/楼山街道"
+    },
+    {
+      "code": "370213012",
+      "name": "世园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/世园街道"
+    },
+    {
+      "code": "370213013",
+      "name": "九水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "370213",
+      "year": 0,
+      "name_path": "山东省/青岛市/李沧区/九水街道"
+    }
+  ]
+}

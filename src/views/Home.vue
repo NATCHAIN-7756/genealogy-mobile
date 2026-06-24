@@ -52,22 +52,19 @@
       </van-cell-group>
     </van-popup>
     
-    <van-tabbar v-model="activeTab">
-      <van-tabbar-item icon="home-o">首页</van-tabbar-item>
-      <van-tabbar-item icon="cluster-o" to="/family">家谱</van-tabbar-item>
-      <van-tabbar-item icon="bookmark-o" to="/books">传承</van-tabbar-item>
-      <van-tabbar-item icon="user-o" to="/profile">我的</van-tabbar-item>
-    </van-tabbar>
+    <AppTabbar />
   </div>
 </template>
 
 <script setup>
-import { ref } from 'vue'
-import { useRouter } from 'vue-router'
+import { ref, onMounted, watch } from "vue"
+import { useRouter, useRoute } from "vue-router"
 import { showToast } from 'vant'
 import { familyApi } from '../api'
+import AppTabbar from '../components/AppTabbar.vue'
 
 const router = useRouter()
+const route = useRoute()
 const activeTab = ref(0)
 const families = ref([])
 const loading = ref(false)
@@ -78,6 +75,7 @@ const showCreate = ref(false)
 const newFamily = ref({ name: '', surname: '', description: '' })
 
 async function loadData() {
+  loading.value = true
   try {
     const res = await familyApi.list()
     families.value = res.data
@@ -113,6 +111,14 @@ async function createFamily() {
     showToast('创建失败')
   }
 }
+onMounted(() => loadData())
+
+// 监听路由变化，返回首页时重新加载
+watch(() => route.path, (newPath, oldPath) => {
+  if (newPath === "/" && oldPath && oldPath !== "/") {
+    loadData()
+  }
+})
 </script>
 
 <style scoped>

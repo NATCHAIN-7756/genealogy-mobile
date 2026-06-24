@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "131025100",
+      "name": "平舒镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/平舒镇"
+    },
+    {
+      "code": "131025101",
+      "name": "旺村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/旺村镇"
+    },
+    {
+      "code": "131025102",
+      "name": "大尚屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/大尚屯镇"
+    },
+    {
+      "code": "131025103",
+      "name": "南赵扶镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/南赵扶镇"
+    },
+    {
+      "code": "131025104",
+      "name": "留各庄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/留各庄镇"
+    },
+    {
+      "code": "131025105",
+      "name": "权村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/权村镇"
+    },
+    {
+      "code": "131025106",
+      "name": "里坦镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/里坦镇"
+    },
+    {
+      "code": "131025107",
+      "name": "广安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/广安镇"
+    },
+    {
+      "code": "131025108",
+      "name": "北魏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/北魏镇"
+    },
+    {
+      "code": "131025109",
+      "name": "臧屯镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "131025",
+      "year": 0,
+      "name_path": "河北省/廊坊市/大城县/臧屯镇"
+    }
+  ]
+}

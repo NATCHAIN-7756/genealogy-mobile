@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "540529100",
+      "name": "隆子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/隆子镇"
+    },
+    {
+      "code": "540529101",
+      "name": "日当镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/日当镇"
+    },
+    {
+      "code": "540529200",
+      "name": "列麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/列麦乡"
+    },
+    {
+      "code": "540529201",
+      "name": "热荣乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/热荣乡"
+    },
+    {
+      "code": "540529202",
+      "name": "三安曲林乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/三安曲林乡"
+    },
+    {
+      "code": "540529203",
+      "name": "准巴乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/准巴乡"
+    },
+    {
+      "code": "540529204",
+      "name": "雪萨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/雪萨乡"
+    },
+    {
+      "code": "540529205",
+      "name": "扎日乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/扎日乡"
+    },
+    {
+      "code": "540529206",
+      "name": "玉麦乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/玉麦乡"
+    },
+    {
+      "code": "540529207",
+      "name": "加玉乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/加玉乡"
+    },
+    {
+      "code": "540529208",
+      "name": "斗玉珞巴民族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "540529",
+      "year": 0,
+      "name_path": "西藏自治区/山南市/隆子县/斗玉珞巴民族乡"
+    }
+  ]
+}

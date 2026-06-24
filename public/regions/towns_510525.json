@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "code": "510525001",
+      "name": "彰德街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/彰德街道"
+    },
+    {
+      "code": "510525002",
+      "name": "金兰街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/金兰街道"
+    },
+    {
+      "code": "510525003",
+      "name": "永乐街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/永乐街道"
+    },
+    {
+      "code": "510525101",
+      "name": "龙山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/龙山镇"
+    },
+    {
+      "code": "510525103",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/太平镇"
+    },
+    {
+      "code": "510525104",
+      "name": "二郎镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/二郎镇"
+    },
+    {
+      "code": "510525105",
+      "name": "大村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/大村镇"
+    },
+    {
+      "code": "510525106",
+      "name": "石宝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/石宝镇"
+    },
+    {
+      "code": "510525107",
+      "name": "丹桂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/丹桂镇"
+    },
+    {
+      "code": "510525108",
+      "name": "茅溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/茅溪镇"
+    },
+    {
+      "code": "510525109",
+      "name": "观文镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/观文镇"
+    },
+    {
+      "code": "510525110",
+      "name": "白沙场镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/白沙场镇"
+    },
+    {
+      "code": "510525111",
+      "name": "德耀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/德耀镇"
+    },
+    {
+      "code": "510525112",
+      "name": "石屏镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/石屏镇"
+    },
+    {
+      "code": "510525113",
+      "name": "皇华镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/皇华镇"
+    },
+    {
+      "code": "510525117",
+      "name": "东新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/东新镇"
+    },
+    {
+      "code": "510525118",
+      "name": "马蹄镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/马蹄镇"
+    },
+    {
+      "code": "510525119",
+      "name": "椒园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/椒园镇"
+    },
+    {
+      "code": "510525121",
+      "name": "黄荆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/黄荆镇"
+    },
+    {
+      "code": "510525122",
+      "name": "白泥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/白泥镇"
+    },
+    {
+      "code": "510525209",
+      "name": "马嘶苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/马嘶苗族乡"
+    },
+    {
+      "code": "510525212",
+      "name": "箭竹苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/箭竹苗族乡"
+    },
+    {
+      "code": "510525214",
+      "name": "大寨苗族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "510525",
+      "year": 0,
+      "name_path": "四川省/泸州市/古蔺县/大寨苗族乡"
+    }
+  ]
+}

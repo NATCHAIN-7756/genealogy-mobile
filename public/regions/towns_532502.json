@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "532502002",
+      "name": "灵泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/灵泉街道"
+    },
+    {
+      "code": "532502003",
+      "name": "乐白道街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/乐白道街道"
+    },
+    {
+      "code": "532502101",
+      "name": "小龙潭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/小龙潭镇"
+    },
+    {
+      "code": "532502103",
+      "name": "中和营镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/中和营镇"
+    },
+    {
+      "code": "532502200",
+      "name": "大庄回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/大庄回族乡"
+    },
+    {
+      "code": "532502201",
+      "name": "羊街乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/羊街乡"
+    },
+    {
+      "code": "532502204",
+      "name": "碑格乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "532502",
+      "year": 0,
+      "name_path": "云南省/红河哈尼族彝族自治州/开远市/碑格乡"
+    }
+  ]
+}

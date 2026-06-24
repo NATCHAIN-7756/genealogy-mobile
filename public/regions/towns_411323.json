@@ -1,0 +1,175 @@
+{
+  "data": [
+    {
+      "code": "411323001",
+      "name": "白羽街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/白羽街道"
+    },
+    {
+      "code": "411323002",
+      "name": "紫金街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/紫金街道"
+    },
+    {
+      "code": "411323003",
+      "name": "莲花街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/莲花街道"
+    },
+    {
+      "code": "411323101",
+      "name": "丹水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/丹水镇"
+    },
+    {
+      "code": "411323102",
+      "name": "西坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/西坪镇"
+    },
+    {
+      "code": "411323103",
+      "name": "双龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/双龙镇"
+    },
+    {
+      "code": "411323104",
+      "name": "回车镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/回车镇"
+    },
+    {
+      "code": "411323105",
+      "name": "丁河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/丁河镇"
+    },
+    {
+      "code": "411323106",
+      "name": "桑坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/桑坪镇"
+    },
+    {
+      "code": "411323107",
+      "name": "米坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/米坪镇"
+    },
+    {
+      "code": "411323108",
+      "name": "五里桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/五里桥镇"
+    },
+    {
+      "code": "411323109",
+      "name": "重阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/重阳镇"
+    },
+    {
+      "code": "411323110",
+      "name": "太平镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/太平镇"
+    },
+    {
+      "code": "411323111",
+      "name": "二郎坪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/二郎坪镇"
+    },
+    {
+      "code": "411323112",
+      "name": "阳城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/阳城镇"
+    },
+    {
+      "code": "411323113",
+      "name": "军马河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/军马河镇"
+    },
+    {
+      "code": "411323114",
+      "name": "石界河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/石界河镇"
+    },
+    {
+      "code": "411323115",
+      "name": "田关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/田关镇"
+    },
+    {
+      "code": "411323207",
+      "name": "寨根乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411323",
+      "year": 0,
+      "name_path": "河南省/南阳市/西峡县/寨根乡"
+    }
+  ]
+}

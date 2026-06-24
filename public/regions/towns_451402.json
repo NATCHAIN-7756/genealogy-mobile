@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "451402001",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/太平街道"
+    },
+    {
+      "code": "451402002",
+      "name": "江南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/江南街道"
+    },
+    {
+      "code": "451402003",
+      "name": "石景林街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/石景林街道"
+    },
+    {
+      "code": "451402101",
+      "name": "新和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/新和镇"
+    },
+    {
+      "code": "451402102",
+      "name": "濑湍镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/濑湍镇"
+    },
+    {
+      "code": "451402103",
+      "name": "江州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/江州镇"
+    },
+    {
+      "code": "451402104",
+      "name": "左州镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/左州镇"
+    },
+    {
+      "code": "451402105",
+      "name": "那隆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/那隆镇"
+    },
+    {
+      "code": "451402106",
+      "name": "驮卢镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/驮卢镇"
+    },
+    {
+      "code": "451402201",
+      "name": "罗白乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/罗白乡"
+    },
+    {
+      "code": "451402202",
+      "name": "板利乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451402",
+      "year": 0,
+      "name_path": "广西壮族自治区/崇左市/江州区/板利乡"
+    }
+  ]
+}

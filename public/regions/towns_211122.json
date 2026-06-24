@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "211122001",
+      "name": "太平街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/太平街道"
+    },
+    {
+      "code": "211122002",
+      "name": "高升街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/高升街道"
+    },
+    {
+      "code": "211122003",
+      "name": "得胜街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/得胜街道"
+    },
+    {
+      "code": "211122101",
+      "name": "沙岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/沙岭镇"
+    },
+    {
+      "code": "211122103",
+      "name": "胡家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/胡家镇"
+    },
+    {
+      "code": "211122107",
+      "name": "古城子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/古城子镇"
+    },
+    {
+      "code": "211122108",
+      "name": "坝墙子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/坝墙子镇"
+    },
+    {
+      "code": "211122110",
+      "name": "陈家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/陈家镇"
+    },
+    {
+      "code": "211122111",
+      "name": "甜水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/甜水镇"
+    },
+    {
+      "code": "211122112",
+      "name": "吴家镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/吴家镇"
+    },
+    {
+      "code": "211122114",
+      "name": "石新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/石新镇"
+    },
+    {
+      "code": "211122115",
+      "name": "羊圈子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "211122",
+      "year": 0,
+      "name_path": "辽宁省/盘锦市/盘山县/羊圈子镇"
+    }
+  ]
+}

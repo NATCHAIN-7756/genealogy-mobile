@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "320505002",
+      "name": "狮山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/狮山街道"
+    },
+    {
+      "code": "320505003",
+      "name": "横塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/横塘街道"
+    },
+    {
+      "code": "320505004",
+      "name": "枫桥街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/枫桥街道"
+    },
+    {
+      "code": "320505005",
+      "name": "东渚街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/东渚街道"
+    },
+    {
+      "code": "320505006",
+      "name": "斜塘街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/斜塘街道"
+    },
+    {
+      "code": "320505007",
+      "name": "娄葑街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/娄葑街道"
+    },
+    {
+      "code": "320505102",
+      "name": "浒墅关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/浒墅关镇"
+    },
+    {
+      "code": "320505105",
+      "name": "通安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320505",
+      "year": 0,
+      "name_path": "江苏省/苏州市/虎丘区/通安镇"
+    }
+  ]
+}

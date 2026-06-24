@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "code": "141123100",
+      "name": "蔚汾镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/蔚汾镇"
+    },
+    {
+      "code": "141123101",
+      "name": "魏家滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/魏家滩镇"
+    },
+    {
+      "code": "141123102",
+      "name": "瓦塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/瓦塘镇"
+    },
+    {
+      "code": "141123103",
+      "name": "康宁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/康宁镇"
+    },
+    {
+      "code": "141123104",
+      "name": "高家村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/高家村镇"
+    },
+    {
+      "code": "141123105",
+      "name": "罗峪口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/罗峪口镇"
+    },
+    {
+      "code": "141123106",
+      "name": "蔡家会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/蔡家会镇"
+    },
+    {
+      "code": "141123200",
+      "name": "交楼申乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/交楼申乡"
+    },
+    {
+      "code": "141123202",
+      "name": "东会乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/东会乡"
+    },
+    {
+      "code": "141123203",
+      "name": "固贤乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/固贤乡"
+    },
+    {
+      "code": "141123204",
+      "name": "奥家湾乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/奥家湾乡"
+    },
+    {
+      "code": "141123205",
+      "name": "蔡家崖乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/蔡家崖乡"
+    },
+    {
+      "code": "141123207",
+      "name": "孟家坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/孟家坪乡"
+    },
+    {
+      "code": "141123208",
+      "name": "赵家坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/赵家坪乡"
+    },
+    {
+      "code": "141123209",
+      "name": "圪垯上乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "141123",
+      "year": 0,
+      "name_path": "山西省/吕梁市/兴县/圪垯上乡"
+    }
+  ]
+}

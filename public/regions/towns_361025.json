@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "code": "361025100",
+      "name": "鳌溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/鳌溪镇"
+    },
+    {
+      "code": "361025101",
+      "name": "公溪镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/公溪镇"
+    },
+    {
+      "code": "361025102",
+      "name": "戴坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/戴坊镇"
+    },
+    {
+      "code": "361025103",
+      "name": "牛田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/牛田镇"
+    },
+    {
+      "code": "361025104",
+      "name": "招携镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/招携镇"
+    },
+    {
+      "code": "361025105",
+      "name": "龚坊镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/龚坊镇"
+    },
+    {
+      "code": "361025106",
+      "name": "山砀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/山砀镇"
+    },
+    {
+      "code": "361025107",
+      "name": "增田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/增田镇"
+    },
+    {
+      "code": "361025108",
+      "name": "万崇镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/万崇镇"
+    },
+    {
+      "code": "361025109",
+      "name": "流坑镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/流坑镇"
+    },
+    {
+      "code": "361025200",
+      "name": "湖溪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/湖溪乡"
+    },
+    {
+      "code": "361025201",
+      "name": "罗陂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/罗陂乡"
+    },
+    {
+      "code": "361025202",
+      "name": "湖坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/湖坪乡"
+    },
+    {
+      "code": "361025203",
+      "name": "金竹畲族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/金竹畲族乡"
+    },
+    {
+      "code": "361025204",
+      "name": "南村乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/南村乡"
+    },
+    {
+      "code": "361025205",
+      "name": "谷岗乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "361025",
+      "year": 0,
+      "name_path": "江西省/抚州市/乐安县/谷岗乡"
+    }
+  ]
+}

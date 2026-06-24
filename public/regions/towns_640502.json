@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "code": "640502100",
+      "name": "滨河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/滨河镇"
+    },
+    {
+      "code": "640502101",
+      "name": "文昌镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/文昌镇"
+    },
+    {
+      "code": "640502102",
+      "name": "东园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/东园镇"
+    },
+    {
+      "code": "640502103",
+      "name": "柔远镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/柔远镇"
+    },
+    {
+      "code": "640502104",
+      "name": "镇罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/镇罗镇"
+    },
+    {
+      "code": "640502105",
+      "name": "宣和镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/宣和镇"
+    },
+    {
+      "code": "640502106",
+      "name": "永康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/永康镇"
+    },
+    {
+      "code": "640502107",
+      "name": "常乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/常乐镇"
+    },
+    {
+      "code": "640502108",
+      "name": "迎水桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/迎水桥镇"
+    },
+    {
+      "code": "640502109",
+      "name": "兴仁镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/兴仁镇"
+    },
+    {
+      "code": "640502200",
+      "name": "香山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640502",
+      "year": 0,
+      "name_path": "宁夏回族自治区/中卫市/沙坡头区/香山乡"
+    }
+  ]
+}

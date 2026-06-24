@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "230726100",
+      "name": "南岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230726",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/南岔县/南岔镇"
+    },
+    {
+      "code": "230726101",
+      "name": "晨明镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230726",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/南岔县/晨明镇"
+    },
+    {
+      "code": "230726102",
+      "name": "浩良河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230726",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/南岔县/浩良河镇"
+    },
+    {
+      "code": "230726103",
+      "name": "梧桐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "230726",
+      "year": 0,
+      "name_path": "黑龙江省/伊春市/南岔县/梧桐镇"
+    }
+  ]
+}

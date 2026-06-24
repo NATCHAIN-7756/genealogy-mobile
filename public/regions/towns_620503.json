@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "620503001",
+      "name": "道北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/道北街道"
+    },
+    {
+      "code": "620503002",
+      "name": "北道埠街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/北道埠街道"
+    },
+    {
+      "code": "620503003",
+      "name": "桥南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/桥南街道"
+    },
+    {
+      "code": "620503100",
+      "name": "社棠镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/社棠镇"
+    },
+    {
+      "code": "620503101",
+      "name": "马跑泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/马跑泉镇"
+    },
+    {
+      "code": "620503102",
+      "name": "花牛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/花牛镇"
+    },
+    {
+      "code": "620503103",
+      "name": "渭南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/渭南镇"
+    },
+    {
+      "code": "620503104",
+      "name": "中滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/中滩镇"
+    },
+    {
+      "code": "620503105",
+      "name": "新阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/新阳镇"
+    },
+    {
+      "code": "620503106",
+      "name": "元龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/元龙镇"
+    },
+    {
+      "code": "620503107",
+      "name": "伯阳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/伯阳镇"
+    },
+    {
+      "code": "620503108",
+      "name": "甘泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/甘泉镇"
+    },
+    {
+      "code": "620503109",
+      "name": "麦积镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/麦积镇"
+    },
+    {
+      "code": "620503110",
+      "name": "东岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/东岔镇"
+    },
+    {
+      "code": "620503111",
+      "name": "石佛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/石佛镇"
+    },
+    {
+      "code": "620503112",
+      "name": "三岔镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/三岔镇"
+    },
+    {
+      "code": "620503113",
+      "name": "利桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/利桥镇"
+    },
+    {
+      "code": "620503114",
+      "name": "琥珀镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/琥珀镇"
+    },
+    {
+      "code": "620503115",
+      "name": "五龙镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/五龙镇"
+    },
+    {
+      "code": "620503116",
+      "name": "党川镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620503",
+      "year": 0,
+      "name_path": "甘肃省/天水市/麦积区/党川镇"
+    }
+  ]
+}

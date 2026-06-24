@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "520502",
+      "name": "七星关区",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/七星关区"
+    },
+    {
+      "code": "520521",
+      "name": "大方县",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/大方县"
+    },
+    {
+      "code": "520523",
+      "name": "金沙县",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/金沙县"
+    },
+    {
+      "code": "520524",
+      "name": "织金县",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/织金县"
+    },
+    {
+      "code": "520525",
+      "name": "纳雍县",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/纳雍县"
+    },
+    {
+      "code": "520526",
+      "name": "威宁彝族回族苗族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/威宁彝族回族苗族自治县"
+    },
+    {
+      "code": "520527",
+      "name": "赫章县",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/赫章县"
+    },
+    {
+      "code": "520581",
+      "name": "黔西市",
+      "level": 3,
+      "type": null,
+      "parent_code": "520500",
+      "year": 0,
+      "name_path": "全国/贵州省/毕节市/黔西市"
+    }
+  ]
+}

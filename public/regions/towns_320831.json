@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "code": "320831001",
+      "name": "黎城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/黎城街道"
+    },
+    {
+      "code": "320831002",
+      "name": "戴楼街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/戴楼街道"
+    },
+    {
+      "code": "320831003",
+      "name": "金北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/金北街道"
+    },
+    {
+      "code": "320831101",
+      "name": "金南镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/金南镇"
+    },
+    {
+      "code": "320831103",
+      "name": "塔集镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/塔集镇"
+    },
+    {
+      "code": "320831106",
+      "name": "前锋镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/前锋镇"
+    },
+    {
+      "code": "320831107",
+      "name": "吕良镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/吕良镇"
+    },
+    {
+      "code": "320831111",
+      "name": "银涂镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "320831",
+      "year": 0,
+      "name_path": "江苏省/淮安市/金湖县/银涂镇"
+    }
+  ]
+}

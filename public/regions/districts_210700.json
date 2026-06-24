@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "210702",
+      "name": "古塔区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/古塔区"
+    },
+    {
+      "code": "210703",
+      "name": "凌河区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/凌河区"
+    },
+    {
+      "code": "210711",
+      "name": "太和区",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/太和区"
+    },
+    {
+      "code": "210726",
+      "name": "黑山县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/黑山县"
+    },
+    {
+      "code": "210727",
+      "name": "义县",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/义县"
+    },
+    {
+      "code": "210781",
+      "name": "凌海市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/凌海市"
+    },
+    {
+      "code": "210782",
+      "name": "北镇市",
+      "level": 3,
+      "type": null,
+      "parent_code": "210700",
+      "year": 0,
+      "name_path": "全国/辽宁省/锦州市/北镇市"
+    }
+  ]
+}

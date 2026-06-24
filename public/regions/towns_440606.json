@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "440606001",
+      "name": "容桂街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/容桂街道"
+    },
+    {
+      "code": "440606002",
+      "name": "伦教街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/伦教街道"
+    },
+    {
+      "code": "440606003",
+      "name": "勒流街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/勒流街道"
+    },
+    {
+      "code": "440606004",
+      "name": "大良街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/大良街道"
+    },
+    {
+      "code": "440606100",
+      "name": "陈村镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/陈村镇"
+    },
+    {
+      "code": "440606101",
+      "name": "北滘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/北滘镇"
+    },
+    {
+      "code": "440606102",
+      "name": "乐从镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/乐从镇"
+    },
+    {
+      "code": "440606103",
+      "name": "龙江镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/龙江镇"
+    },
+    {
+      "code": "440606104",
+      "name": "杏坛镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/杏坛镇"
+    },
+    {
+      "code": "440606105",
+      "name": "均安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "440606",
+      "year": 0,
+      "name_path": "广东省/佛山市/顺德区/均安镇"
+    }
+  ]
+}

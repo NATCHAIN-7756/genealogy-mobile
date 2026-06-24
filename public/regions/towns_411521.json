@@ -1,0 +1,184 @@
+{
+  "data": [
+    {
+      "code": "411521001",
+      "name": "宝城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/宝城街道"
+    },
+    {
+      "code": "411521002",
+      "name": "龙山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/龙山街道"
+    },
+    {
+      "code": "411521003",
+      "name": "丽水街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/丽水街道"
+    },
+    {
+      "code": "411521101",
+      "name": "周党镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/周党镇"
+    },
+    {
+      "code": "411521102",
+      "name": "竹竿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/竹竿镇"
+    },
+    {
+      "code": "411521103",
+      "name": "灵山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/灵山镇"
+    },
+    {
+      "code": "411521104",
+      "name": "子路镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/子路镇"
+    },
+    {
+      "code": "411521105",
+      "name": "楠杆镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/楠杆镇"
+    },
+    {
+      "code": "411521106",
+      "name": "青山镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/青山镇"
+    },
+    {
+      "code": "411521107",
+      "name": "潘新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/潘新镇"
+    },
+    {
+      "code": "411521108",
+      "name": "彭新镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/彭新镇"
+    },
+    {
+      "code": "411521109",
+      "name": "莽张镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/莽张镇"
+    },
+    {
+      "code": "411521110",
+      "name": "东铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/东铺镇"
+    },
+    {
+      "code": "411521111",
+      "name": "铁铺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/铁铺镇"
+    },
+    {
+      "code": "411521112",
+      "name": "高店镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/高店镇"
+    },
+    {
+      "code": "411521202",
+      "name": "庙仙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/庙仙乡"
+    },
+    {
+      "code": "411521204",
+      "name": "定远乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/定远乡"
+    },
+    {
+      "code": "411521205",
+      "name": "山店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/山店乡"
+    },
+    {
+      "code": "411521207",
+      "name": "朱堂乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/朱堂乡"
+    },
+    {
+      "code": "411521208",
+      "name": "尤店乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "411521",
+      "year": 0,
+      "name_path": "河南省/信阳市/罗山县/尤店乡"
+    }
+  ]
+}

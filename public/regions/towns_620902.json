@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "code": "620902001",
+      "name": "东北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/东北街道"
+    },
+    {
+      "code": "620902002",
+      "name": "东南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/东南街道"
+    },
+    {
+      "code": "620902003",
+      "name": "工业园街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/工业园街道"
+    },
+    {
+      "code": "620902004",
+      "name": "西北街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/西北街道"
+    },
+    {
+      "code": "620902005",
+      "name": "西南街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/西南街道"
+    },
+    {
+      "code": "620902006",
+      "name": "新城街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/新城街道"
+    },
+    {
+      "code": "620902007",
+      "name": "玉门油田生活基地街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/玉门油田生活基地街道"
+    },
+    {
+      "code": "620902100",
+      "name": "西洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/西洞镇"
+    },
+    {
+      "code": "620902102",
+      "name": "总寨镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/总寨镇"
+    },
+    {
+      "code": "620902103",
+      "name": "金佛寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/金佛寺镇"
+    },
+    {
+      "code": "620902105",
+      "name": "三墩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/三墩镇"
+    },
+    {
+      "code": "620902106",
+      "name": "上坝镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/上坝镇"
+    },
+    {
+      "code": "620902107",
+      "name": "清水镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/清水镇"
+    },
+    {
+      "code": "620902108",
+      "name": "银达镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/银达镇"
+    },
+    {
+      "code": "620902109",
+      "name": "泉湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/泉湖镇"
+    },
+    {
+      "code": "620902110",
+      "name": "果园镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/果园镇"
+    },
+    {
+      "code": "620902111",
+      "name": "西峰镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/西峰镇"
+    },
+    {
+      "code": "620902112",
+      "name": "铧尖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/铧尖镇"
+    },
+    {
+      "code": "620902113",
+      "name": "东洞镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/东洞镇"
+    },
+    {
+      "code": "620902114",
+      "name": "丰乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/丰乐镇"
+    },
+    {
+      "code": "620902115",
+      "name": "下河清镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/下河清镇"
+    },
+    {
+      "code": "620902207",
+      "name": "黄泥堡裕固族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "620902",
+      "year": 0,
+      "name_path": "甘肃省/酒泉市/肃州区/黄泥堡裕固族乡"
+    }
+  ]
+}

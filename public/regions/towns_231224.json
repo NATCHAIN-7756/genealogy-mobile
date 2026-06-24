@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "code": "231224101",
+      "name": "民乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/民乐镇"
+    },
+    {
+      "code": "231224102",
+      "name": "大罗镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/大罗镇"
+    },
+    {
+      "code": "231224103",
+      "name": "平安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/平安镇"
+    },
+    {
+      "code": "231224104",
+      "name": "勤劳镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/勤劳镇"
+    },
+    {
+      "code": "231224105",
+      "name": "久胜镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/久胜镇"
+    },
+    {
+      "code": "231224106",
+      "name": "庆安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/庆安镇"
+    },
+    {
+      "code": "231224107",
+      "name": "同乐镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/同乐镇"
+    },
+    {
+      "code": "231224108",
+      "name": "柳河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/柳河镇"
+    },
+    {
+      "code": "231224201",
+      "name": "建民乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/建民乡"
+    },
+    {
+      "code": "231224202",
+      "name": "巨宝山乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/巨宝山乡"
+    },
+    {
+      "code": "231224206",
+      "name": "丰收乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/丰收乡"
+    },
+    {
+      "code": "231224208",
+      "name": "发展乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/发展乡"
+    },
+    {
+      "code": "231224210",
+      "name": "致富乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/致富乡"
+    },
+    {
+      "code": "231224211",
+      "name": "欢胜乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "231224",
+      "year": 0,
+      "name_path": "黑龙江省/绥化市/庆安县/欢胜乡"
+    }
+  ]
+}

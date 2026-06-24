@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "code": "360483100",
+      "name": "南康镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/南康镇"
+    },
+    {
+      "code": "360483101",
+      "name": "蛟塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/蛟塘镇"
+    },
+    {
+      "code": "360483102",
+      "name": "白鹿镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/白鹿镇"
+    },
+    {
+      "code": "360483103",
+      "name": "星子镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/星子镇"
+    },
+    {
+      "code": "360483104",
+      "name": "温泉镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/温泉镇"
+    },
+    {
+      "code": "360483105",
+      "name": "华林镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/华林镇"
+    },
+    {
+      "code": "360483106",
+      "name": "横塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/横塘镇"
+    },
+    {
+      "code": "360483107",
+      "name": "牯岭镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/牯岭镇"
+    },
+    {
+      "code": "360483108",
+      "name": "海会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/海会镇"
+    },
+    {
+      "code": "360483200",
+      "name": "蓼南乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "360483",
+      "year": 0,
+      "name_path": "江西省/九江市/庐山市/蓼南乡"
+    }
+  ]
+}

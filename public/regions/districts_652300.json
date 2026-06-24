@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "code": "652301",
+      "name": "昌吉市",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/昌吉市"
+    },
+    {
+      "code": "652302",
+      "name": "阜康市",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/阜康市"
+    },
+    {
+      "code": "652323",
+      "name": "呼图壁县",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/呼图壁县"
+    },
+    {
+      "code": "652324",
+      "name": "玛纳斯县",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/玛纳斯县"
+    },
+    {
+      "code": "652325",
+      "name": "奇台县",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/奇台县"
+    },
+    {
+      "code": "652327",
+      "name": "吉木萨尔县",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/吉木萨尔县"
+    },
+    {
+      "code": "652328",
+      "name": "木垒哈萨克自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "652300",
+      "year": 0,
+      "name_path": "全国/新疆维吾尔自治区/昌吉回族自治州/木垒哈萨克自治县"
+    }
+  ]
+}

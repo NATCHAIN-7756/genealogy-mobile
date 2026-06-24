@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "220602",
+      "name": "浑江区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220600",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市/浑江区"
+    },
+    {
+      "code": "220605",
+      "name": "江源区",
+      "level": 3,
+      "type": null,
+      "parent_code": "220600",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市/江源区"
+    },
+    {
+      "code": "220621",
+      "name": "抚松县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220600",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市/抚松县"
+    },
+    {
+      "code": "220622",
+      "name": "靖宇县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220600",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市/靖宇县"
+    },
+    {
+      "code": "220623",
+      "name": "长白朝鲜族自治县",
+      "level": 3,
+      "type": null,
+      "parent_code": "220600",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市/长白朝鲜族自治县"
+    },
+    {
+      "code": "220681",
+      "name": "临江市",
+      "level": 3,
+      "type": null,
+      "parent_code": "220600",
+      "year": 0,
+      "name_path": "全国/吉林省/白山市/临江市"
+    }
+  ]
+}

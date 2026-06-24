@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "code": "640302100",
+      "name": "金积镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/金积镇"
+    },
+    {
+      "code": "640302101",
+      "name": "金银滩镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/金银滩镇"
+    },
+    {
+      "code": "640302102",
+      "name": "高闸镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/高闸镇"
+    },
+    {
+      "code": "640302103",
+      "name": "扁担沟镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/扁担沟镇"
+    },
+    {
+      "code": "640302104",
+      "name": "上桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/上桥镇"
+    },
+    {
+      "code": "640302105",
+      "name": "古城镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/古城镇"
+    },
+    {
+      "code": "640302106",
+      "name": "金星镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/金星镇"
+    },
+    {
+      "code": "640302107",
+      "name": "胜利镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/胜利镇"
+    },
+    {
+      "code": "640302200",
+      "name": "东塔寺乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/东塔寺乡"
+    },
+    {
+      "code": "640302201",
+      "name": "板桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/板桥乡"
+    },
+    {
+      "code": "640302202",
+      "name": "马莲渠乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/马莲渠乡"
+    },
+    {
+      "code": "640302203",
+      "name": "郭家桥乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "640302",
+      "year": 0,
+      "name_path": "宁夏回族自治区/吴忠市/利通区/郭家桥乡"
+    }
+  ]
+}

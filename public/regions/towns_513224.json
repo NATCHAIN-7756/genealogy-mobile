@@ -1,0 +1,157 @@
+{
+  "data": [
+    {
+      "code": "513224100",
+      "name": "进安镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/进安镇"
+    },
+    {
+      "code": "513224101",
+      "name": "川主寺镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/川主寺镇"
+    },
+    {
+      "code": "513224102",
+      "name": "青云镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/青云镇"
+    },
+    {
+      "code": "513224103",
+      "name": "毛儿盖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/毛儿盖镇"
+    },
+    {
+      "code": "513224104",
+      "name": "镇江关镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/镇江关镇"
+    },
+    {
+      "code": "513224105",
+      "name": "红土镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/红土镇"
+    },
+    {
+      "code": "513224106",
+      "name": "小河镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/小河镇"
+    },
+    {
+      "code": "513224201",
+      "name": "十里回族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/十里回族乡"
+    },
+    {
+      "code": "513224203",
+      "name": "安宏乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/安宏乡"
+    },
+    {
+      "code": "513224207",
+      "name": "镇坪乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/镇坪乡"
+    },
+    {
+      "code": "513224208",
+      "name": "岷江乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/岷江乡"
+    },
+    {
+      "code": "513224209",
+      "name": "大姓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/大姓乡"
+    },
+    {
+      "code": "513224210",
+      "name": "白羊乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/白羊乡"
+    },
+    {
+      "code": "513224213",
+      "name": "小姓乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/小姓乡"
+    },
+    {
+      "code": "513224214",
+      "name": "燕云乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/燕云乡"
+    },
+    {
+      "code": "513224219",
+      "name": "黄龙乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/黄龙乡"
+    },
+    {
+      "code": "513224221",
+      "name": "下八寨乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "513224",
+      "year": 0,
+      "name_path": "四川省/阿坝藏族羌族自治州/松潘县/下八寨乡"
+    }
+  ]
+}

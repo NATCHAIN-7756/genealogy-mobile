@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "321102",
+      "name": "京口区",
+      "level": 3,
+      "type": null,
+      "parent_code": "321100",
+      "year": 0,
+      "name_path": "全国/江苏省/镇江市/京口区"
+    },
+    {
+      "code": "321111",
+      "name": "润州区",
+      "level": 3,
+      "type": null,
+      "parent_code": "321100",
+      "year": 0,
+      "name_path": "全国/江苏省/镇江市/润州区"
+    },
+    {
+      "code": "321112",
+      "name": "丹徒区",
+      "level": 3,
+      "type": null,
+      "parent_code": "321100",
+      "year": 0,
+      "name_path": "全国/江苏省/镇江市/丹徒区"
+    },
+    {
+      "code": "321181",
+      "name": "丹阳市",
+      "level": 3,
+      "type": null,
+      "parent_code": "321100",
+      "year": 0,
+      "name_path": "全国/江苏省/镇江市/丹阳市"
+    },
+    {
+      "code": "321182",
+      "name": "扬中市",
+      "level": 3,
+      "type": null,
+      "parent_code": "321100",
+      "year": 0,
+      "name_path": "全国/江苏省/镇江市/扬中市"
+    },
+    {
+      "code": "321183",
+      "name": "句容市",
+      "level": 3,
+      "type": null,
+      "parent_code": "321100",
+      "year": 0,
+      "name_path": "全国/江苏省/镇江市/句容市"
+    }
+  ]
+}

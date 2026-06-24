@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "code": "451103001",
+      "name": "西湾街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/西湾街道"
+    },
+    {
+      "code": "451103100",
+      "name": "黄田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/黄田镇"
+    },
+    {
+      "code": "451103101",
+      "name": "鹅塘镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/鹅塘镇"
+    },
+    {
+      "code": "451103102",
+      "name": "沙田镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/沙田镇"
+    },
+    {
+      "code": "451103103",
+      "name": "公会镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/公会镇"
+    },
+    {
+      "code": "451103104",
+      "name": "水口镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/水口镇"
+    },
+    {
+      "code": "451103105",
+      "name": "望高镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/望高镇"
+    },
+    {
+      "code": "451103106",
+      "name": "羊头镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/羊头镇"
+    },
+    {
+      "code": "451103200",
+      "name": "大平瑶族乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "451103",
+      "year": 0,
+      "name_path": "广西壮族自治区/贺州市/平桂区/大平瑶族乡"
+    }
+  ]
+}

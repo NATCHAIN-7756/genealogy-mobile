@@ -1,0 +1,121 @@
+{
+  "data": [
+    {
+      "code": "421202001",
+      "name": "温泉街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/温泉街道"
+    },
+    {
+      "code": "421202002",
+      "name": "浮山街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/浮山街道"
+    },
+    {
+      "code": "421202003",
+      "name": "永安街道",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/永安街道"
+    },
+    {
+      "code": "421202100",
+      "name": "汀泗桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/汀泗桥镇"
+    },
+    {
+      "code": "421202101",
+      "name": "向阳湖镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/向阳湖镇"
+    },
+    {
+      "code": "421202102",
+      "name": "官埠桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/官埠桥镇"
+    },
+    {
+      "code": "421202103",
+      "name": "横沟桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/横沟桥镇"
+    },
+    {
+      "code": "421202104",
+      "name": "贺胜桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/贺胜桥镇"
+    },
+    {
+      "code": "421202105",
+      "name": "双溪桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/双溪桥镇"
+    },
+    {
+      "code": "421202106",
+      "name": "马桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/马桥镇"
+    },
+    {
+      "code": "421202107",
+      "name": "桂花镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/桂花镇"
+    },
+    {
+      "code": "421202108",
+      "name": "高桥镇",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/高桥镇"
+    },
+    {
+      "code": "421202200",
+      "name": "大幕乡",
+      "level": 4,
+      "type": null,
+      "parent_code": "421202",
+      "year": 0,
+      "name_path": "湖北省/咸宁市/咸安区/大幕乡"
+    }
+  ]
+}
